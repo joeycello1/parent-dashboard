@@ -1,0 +1,1 @@
+import{X as e}from"./3SyxIl7C.js";e();
