@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-06-22T00:27:45.329Z",
+  "generatedAt": "2026-06-23T00:33:18.914Z",
   "videos": [
+    {
+      "timestamp": "2026-06-22",
+      "firstSeen": "2026-06-22",
+      "title": "Captain Man and Kid Danger Battle the Sneaky Towel Thief! ? | Henry Danger | Nickelodeon UK",
+      "videoUrl": "https://www.youtube.com/watch?v=v5_z00i6YqI",
+      "videoId": "v5_z00i6YqI",
+      "thumbnail": "https://i3.ytimg.com/vi/v5_z00i6YqI/hqdefault.jpg",
+      "channelID": "UCHiceVclOIFCgAcveITRLLw",
+      "channelName": "Nickelodeon UK",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "henry danger",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-22",
+      "firstSeen": "2026-06-22",
+      "title": "Bean Gets STUCK on a DESERTED Island! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=ZGIvUpXtshk",
+      "videoId": "ZGIvUpXtshk",
+      "thumbnail": "https://i3.ytimg.com/vi/ZGIvUpXtshk/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-22",
+      "firstSeen": "2026-06-22",
+      "title": "Best of CHAD ?? ? The Chillest Dude Ever! | Clarence | Cartoon Network UK",
+      "videoUrl": "https://www.youtube.com/watch?v=V7HD5uvVqMg",
+      "videoId": "V7HD5uvVqMg",
+      "thumbnail": "https://i3.ytimg.com/vi/V7HD5uvVqMg/hqdefault.jpg",
+      "channelID": "UCGydrkfIhUDNCotYQI8TJhA",
+      "channelName": "Cartoon Network UK",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "cartoon network",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-22",
+      "firstSeen": "2026-06-22",
+      "title": "Heads or Tails? | The Fixies | Learning Cartoons For Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=izO6AArEFRU",
+      "videoId": "izO6AArEFRU",
+      "thumbnail": "https://i2.ytimg.com/vi/izO6AArEFRU/hqdefault.jpg",
+      "channelID": "UCnRuuiSVqDF2EmoYS7yE6ZA",
+      "channelName": "The Fixies",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "fixies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-22",
+      "firstSeen": "2026-06-22",
+      "title": "Mr Bean's FAILS at His Dancing Class | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=u6-B5kDsMyM",
+      "videoId": "u6-B5kDsMyM",
+      "thumbnail": "https://i2.ytimg.com/vi/u6-B5kDsMyM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-22",
+      "firstSeen": "2026-06-22",
+      "title": "How Your Brain is Being TRICKED! ? | Brain Games Full Episode Compilation | 1 Hour | @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=b8EiJp7rmI0",
+      "videoId": "b8EiJp7rmI0",
+      "thumbnail": "https://i3.ytimg.com/vi/b8EiJp7rmI0/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-22",
+      "firstSeen": "2026-06-22",
+      "title": "Exercise & Sports Science | Full Episodes | The Magic School Bus | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=c7Qfiq4peK0",
+      "videoId": "c7Qfiq4peK0",
+      "thumbnail": "https://i4.ytimg.com/vi/c7Qfiq4peK0/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-22",
+      "firstSeen": "2026-06-22",
+      "title": "How To Draw The World Cup Trophy",
+      "videoUrl": "https://www.youtube.com/watch?v=ll4qNMUzcr0",
+      "videoId": "ll4qNMUzcr0",
+      "thumbnail": "https://i1.ytimg.com/vi/ll4qNMUzcr0/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-22",
+      "firstSeen": "2026-06-22",
+      "title": "?? Xavier Riddle Celebrates American Heroes: ATHLETES ? 55+ MIN Special! ?? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=onde8IWgKeQ",
+      "videoId": "onde8IWgKeQ",
+      "thumbnail": "https://i4.ytimg.com/vi/onde8IWgKeQ/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-06-21",
       "firstSeen": "2026-06-21",
