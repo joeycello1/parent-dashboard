@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "generatedAt": "2026-06-23T20:47:01.759Z",
   "videos": [
     {
@@ -74,6 +75,17 @@
       "videoUrl": "https://www.youtube.com/watch?v=muH1KY7dS4M",
       "videoId": "muH1KY7dS4M",
       "thumbnail": "https://i2.ytimg.com/vi/muH1KY7dS4M/hqdefault.jpg",
+=======
+  "generatedAt": "2026-06-24T16:47:02.559Z",
+  "videos": [
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "Bean Messes With a MOB BOSS! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=_s3AMCCFeds",
+      "videoId": "_s3AMCCFeds",
+      "thumbnail": "https://i4.ytimg.com/vi/_s3AMCCFeds/hqdefault.jpg",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
       "channelName": "Cartoons for Kids - Mr Bean",
       "category": "Mr Bean",
@@ -90,6 +102,7 @@
       }
     },
     {
+<<<<<<< HEAD
       "timestamp": "2026-06-19",
       "firstSeen": "2026-06-26",
       "title": "Ms Wicket Makes Bean's Life IMPOSSIBLE | Mr Bean - Cartoons for Kids",
@@ -143,6 +156,17 @@
       "channelID": "UCGydrkfIhUDNCotYQI8TJhA",
       "channelName": "Cartoon Network UK",
       "category": "Cartoons",
+=======
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "Benson Lore Explained: Hidden History & Meaning | Regular Show | Cartoon Network UK",
+      "videoUrl": "https://www.youtube.com/watch?v=3JGV6GF8DjU",
+      "videoId": "3JGV6GF8DjU",
+      "thumbnail": "https://i4.ytimg.com/vi/3JGV6GF8DjU/hqdefault.jpg",
+      "channelID": "UCGydrkfIhUDNCotYQI8TJhA",
+      "channelName": "Cartoon Network UK",
+      "category": "Both",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "cartoon network",
@@ -156,6 +180,7 @@
       }
     },
     {
+<<<<<<< HEAD
       "timestamp": "2026-06-16",
       "firstSeen": "2026-06-26",
       "title": "Go Go Mr Bean's Gadgets! | Cartoons for Kids - Mr Bean",
@@ -165,6 +190,61 @@
       "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
       "channelName": "Cartoons for Kids - Mr Bean",
       "category": "Mr Bean",
+=======
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "SpongeBob Characters Getting Hurt for 90 Minutes Straight ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=xEHdNLE-FS4",
+      "videoId": "xEHdNLE-FS4",
+      "thumbnail": "https://i1.ytimg.com/vi/xEHdNLE-FS4/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "Have The Fixies Been Caught? | The Fixies | Learning Made Fun",
+      "videoUrl": "https://www.youtube.com/watch?v=mzouyHSgyok",
+      "videoId": "mzouyHSgyok",
+      "thumbnail": "https://i2.ytimg.com/vi/mzouyHSgyok/hqdefault.jpg",
+      "channelID": "UCnRuuiSVqDF2EmoYS7yE6ZA",
+      "channelName": "The Fixies",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "fixies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "Mr Bean Becomes a SPY to Save Teddy | Mr Bean - Cartoons For Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=x8FHXhjqktc",
+      "videoId": "x8FHXhjqktc",
+      "thumbnail": "https://i1.ytimg.com/vi/x8FHXhjqktc/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Both",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
@@ -178,6 +258,7 @@
       }
     },
     {
+<<<<<<< HEAD
       "timestamp": "2026-06-19",
       "firstSeen": "2026-06-25",
       "title": "ASL Dinos A to Z: Triceratops",
@@ -187,6 +268,39 @@
       "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
       "channelName": "Learn Bright",
       "category": "Science",
+=======
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "Bears in the Wild: Power, Speed & Survival | MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=8AYhCUI-428",
+      "videoId": "8AYhCUI-428",
+      "thumbnail": "https://i1.ytimg.com/vi/8AYhCUI-428/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "How to Potty Train Your Dragon | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=yl8jvTsmMqg",
+      "videoId": "yl8jvTsmMqg",
+      "thumbnail": "https://i2.ytimg.com/vi/yl8jvTsmMqg/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Both",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
@@ -200,6 +314,7 @@
       }
     },
     {
+<<<<<<< HEAD
       "timestamp": "2026-06-15",
       "firstSeen": "2026-06-25",
       "title": "Adventure Time: Side Quests ?? NEW OPENING TITLES ?? 5th October 2026 | Cartoon Network UK",
@@ -300,6 +415,20 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
+=======
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "How To Draw A Cotton Candy Machine",
+      "videoUrl": "https://www.youtube.com/watch?v=dk4h84TuFPo",
+      "videoId": "dk4h84TuFPo",
+      "thumbnail": "https://i1.ytimg.com/vi/dk4h84TuFPo/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "watched": {
         "jonah": false,
         "kieran": false
@@ -334,7 +463,11 @@
     {
       "timestamp": "2026-06-23",
       "firstSeen": "2026-06-23",
+<<<<<<< HEAD
       "title": "SAILING Together! ?? Lana?s Most Heart-Warming Adventures! | Lana Longbeard | Cartoon Network",
+=======
+      "title": "SAILING Together! Lana's Most Heart-Warming Adventures! | Lana Longbeard | Cartoon Network",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "videoUrl": "https://www.youtube.com/watch?v=jotTaJCiUzk",
       "videoId": "jotTaJCiUzk",
       "thumbnail": "https://i3.ytimg.com/vi/jotTaJCiUzk/hqdefault.jpg",
@@ -342,7 +475,11 @@
       "channelName": "Cartoon Network UK",
       "category": "Cartoons",
       "profile": "Both",
+<<<<<<< HEAD
       "retentionDays": 30,
+=======
+      "retentionDays": 15,
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "keyword": "cartoon network",
       "watched": {
         "jonah": false,
@@ -408,7 +545,11 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
+<<<<<<< HEAD
       "retentionDays": 30,
+=======
+      "retentionDays": 15,
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -684,6 +825,7 @@
       }
     },
     {
+<<<<<<< HEAD
       "timestamp": "2026-06-19",
       "firstSeen": "2026-06-23",
       "title": "ASL Dinos A to Z: Pterodactylus",
@@ -750,6 +892,8 @@
       }
     },
     {
+=======
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "timestamp": "2026-06-22",
       "firstSeen": "2026-06-22",
       "title": "Captain Man and Kid Danger Battle the Sneaky Towel Thief! ? | Henry Danger | Nickelodeon UK",
@@ -904,6 +1048,7 @@
       }
     },
     {
+<<<<<<< HEAD
       "timestamp": "2026-06-19",
       "firstSeen": "2026-06-22",
       "title": "ASL Dinos A to Z: Spinosaurus",
@@ -992,6 +1137,8 @@
       }
     },
     {
+=======
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "timestamp": "2026-06-21",
       "firstSeen": "2026-06-21",
       "title": "Cyborg & Starfire?s CRAZY Trap Challenge! ? | Teen Titans Go! | Cartoon Network UK",
@@ -1398,7 +1545,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -1444,28 +1591,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-20",
-      "firstSeen": "2026-06-20",
-      "title": "Mr Bean Fights a KAIJU Ms Wicket! | Mr Bean - Cartoons for Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=N3bcpwZml5s",
-      "videoId": "N3bcpwZml5s",
-      "thumbnail": "https://i3.ytimg.com/vi/N3bcpwZml5s/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1587,6 +1712,7 @@
     },
     {
       "timestamp": "2026-06-19",
+<<<<<<< HEAD
       "firstSeen": "2026-06-20",
       "title": "POOR vs RICH : McDonalds House Survival Battle in Minecraft",
       "videoUrl": "https://www.youtube.com/watch?v=fGlHae0H-8U",
@@ -1595,6 +1721,60 @@
       "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
       "channelName": "Milo and Chip",
       "category": "Minecraft",
+=======
+      "firstSeen": "2026-07-01",
+      "title": "Ms Wicket Makes Bean's Life IMPOSSIBLE | Mr Bean - Cartoons for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=tyEVpXbC23Q",
+      "videoId": "tyEVpXbC23Q",
+      "thumbnail": "https://i1.ytimg.com/vi/tyEVpXbC23Q/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-29",
+      "title": "Monster Jam & Hot Wheels Monster Trucks Racing ?? WORLD CUP SOCCER",
+      "videoUrl": "https://www.youtube.com/watch?v=eTOUZjTxVf4",
+      "videoId": "eTOUZjTxVf4",
+      "thumbnail": "https://i2.ytimg.com/vi/eTOUZjTxVf4/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-28",
+      "title": "ASL Who Was Mansa Musa?",
+      "videoUrl": "https://www.youtube.com/watch?v=I-_yoLmEVYs",
+      "videoId": "I-_yoLmEVYs",
+      "thumbnail": "https://i2.ytimg.com/vi/I-_yoLmEVYs/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
@@ -1630,6 +1810,7 @@
       }
     },
     {
+<<<<<<< HEAD
       "timestamp": "2026-06-13",
       "firstSeen": "2026-06-20",
       "title": "Cartoon Network ALL?STAR Football! ?? Teen Titans, Bugs Bunny, Gumball & More! | World Cup Special",
@@ -1642,6 +1823,20 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "cartoon network",
+=======
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-26",
+      "title": "ASL Natural Disasters: Droughts",
+      "videoUrl": "https://www.youtube.com/watch?v=elSXmhWLkD8",
+      "videoId": "elSXmhWLkD8",
+      "thumbnail": "https://i2.ytimg.com/vi/elSXmhWLkD8/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, science",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1652,6 +1847,7 @@
       }
     },
     {
+<<<<<<< HEAD
       "timestamp": "2026-06-13",
       "firstSeen": "2026-06-20",
       "title": "Mr Bean Gets In WAY OVER His Head | Mr Bean - Cartoons For Kids",
@@ -1664,6 +1860,20 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
+=======
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-25",
+      "title": "ASL Dinos A to Z: Triceratops",
+      "videoUrl": "https://www.youtube.com/watch?v=a-vZm8PPDcM",
+      "videoId": "a-vZm8PPDcM",
+      "thumbnail": "https://i2.ytimg.com/vi/a-vZm8PPDcM/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1674,7 +1884,77 @@
       }
     },
     {
+<<<<<<< HEAD
       "timestamp": "2026-06-06",
+=======
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-24",
+      "title": "ASL Dinos A to Z: Stegosaurus",
+      "videoUrl": "https://www.youtube.com/watch?v=SSC-qIdjwhE",
+      "videoId": "SSC-qIdjwhE",
+      "thumbnail": "https://i4.ytimg.com/vi/SSC-qIdjwhE/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-23",
+      "title": "ASL Dinos A to Z: Pterodactylus",
+      "videoUrl": "https://www.youtube.com/watch?v=xarGfpiEvaU",
+      "videoId": "xarGfpiEvaU",
+      "thumbnail": "https://i1.ytimg.com/vi/xarGfpiEvaU/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-22",
+      "title": "ASL Dinos A to Z: Spinosaurus",
+      "videoUrl": "https://www.youtube.com/watch?v=eqDc7sYQ3II",
+      "videoId": "eqDc7sYQ3II",
+      "thumbnail": "https://i2.ytimg.com/vi/eqDc7sYQ3II/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "firstSeen": "2026-06-20",
       "title": "The Brave Little Donkey | English Moral Stories | Bedtime Stories",
       "videoUrl": "https://www.youtube.com/watch?v=CxMJ3m-NyW8",
@@ -2608,7 +2888,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -2732,28 +3012,6 @@
     {
       "timestamp": "2026-06-18",
       "firstSeen": "2026-06-18",
-      "title": "? LIVE | Magnetic Storms & Space Science for Kids! ? Animated Physics Adventure",
-      "videoUrl": "https://www.youtube.com/watch?v=D8F3-rNl9kk",
-      "videoId": "D8F3-rNl9kk",
-      "thumbnail": "https://i1.ytimg.com/vi/D8F3-rNl9kk/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-18",
-      "firstSeen": "2026-06-18",
       "title": "How Fast Can a LEGO Technic Car Go Down Goodwood Hill? | LEGO Technic",
       "videoUrl": "https://www.youtube.com/watch?v=iYnxf_iDxtE",
       "videoId": "iYnxf_iDxtE",
@@ -2784,7 +3042,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -3928,7 +4186,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -4249,6 +4507,88 @@
     },
     {
       "timestamp": "2026-06-12",
+<<<<<<< HEAD
+      "firstSeen": "2026-06-16",
+      "title": "Mr Bean's Prank Goes TOO FAR | Mr Bean - Cartoons For Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=UDnq8OFXMac",
+      "videoId": "UDnq8OFXMac",
+      "thumbnail": "https://i2.ytimg.com/vi/UDnq8OFXMac/hqdefault.jpg",
+=======
+      "firstSeen": "2026-06-19",
+      "title": "Food War of the Gods! ?  | NEW Regular Show: The Lost Tapes | Cartoon Network UK",
+      "videoUrl": "https://www.youtube.com/watch?v=lPBAUbDFNOw",
+      "videoId": "lPBAUbDFNOw",
+      "thumbnail": "https://i1.ytimg.com/vi/lPBAUbDFNOw/hqdefault.jpg",
+      "channelID": "UCGydrkfIhUDNCotYQI8TJhA",
+      "channelName": "Cartoon Network UK",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "cartoon network",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-12",
+      "firstSeen": "2026-06-19",
+      "title": "Mr Bean Gets the CUTEST Little New Friend! | Mr Bean - Cartoons For Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=ygBTQAN08-8",
+      "videoId": "ygBTQAN08-8",
+      "thumbnail": "https://i2.ytimg.com/vi/ygBTQAN08-8/hqdefault.jpg",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+<<<<<<< HEAD
+        "jonah": true,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "up",
+=======
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-12",
+      "firstSeen": "2026-06-18",
+      "title": "Minecraft, But We Can Talk to Animals!",
+      "videoUrl": "https://www.youtube.com/watch?v=bYxlZpGhrEc",
+      "videoId": "bYxlZpGhrEc",
+      "thumbnail": "https://i3.ytimg.com/vi/bYxlZpGhrEc/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-12",
       "firstSeen": "2026-06-16",
       "title": "Mr Bean's Prank Goes TOO FAR | Mr Bean - Cartoons For Kids",
       "videoUrl": "https://www.youtube.com/watch?v=UDnq8OFXMac",
@@ -4266,28 +4606,6 @@
       },
       "rating": {
         "jonah": "up",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-12",
-      "firstSeen": "2026-06-16",
-      "title": "Heracles Holds Up the SKY?! ? | Greeking Out Podcast | S3 E2 FULL EP Part 2 | ?@natgeokids",
-      "videoUrl": "https://www.youtube.com/watch?v=6LCSXFZa5Ew",
-      "videoId": "6LCSXFZa5Ew",
-      "thumbnail": "https://i3.ytimg.com/vi/6LCSXFZa5Ew/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "national geographic",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
         "kieran": ""
       }
     },
@@ -4368,7 +4686,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -4500,7 +4818,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -4588,7 +4906,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -4984,7 +5302,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -5129,6 +5447,97 @@
     },
     {
       "timestamp": "2026-06-06",
+<<<<<<< HEAD
+=======
+      "firstSeen": "2026-06-20",
+      "title": "The Brave Little Donkey | English Moral Stories | Bedtime Stories",
+      "videoUrl": "https://www.youtube.com/watch?v=CxMJ3m-NyW8",
+      "videoId": "CxMJ3m-NyW8",
+      "thumbnail": "https://i4.ytimg.com/vi/CxMJ3m-NyW8/hqdefault.jpg",
+      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
+      "channelName": "Mr Book and Me",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 200,
+      "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-06",
+      "firstSeen": "2026-06-18",
+      "title": "Tom and Jerry Tales Saturday Morning MARATHON ? | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=CKLpJpVqpJo",
+      "videoId": "CKLpJpVqpJo",
+      "thumbnail": "https://i4.ytimg.com/vi/CKLpJpVqpJo/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": true,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "up",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-06",
+      "firstSeen": "2026-06-18",
+      "title": "TINY vs GIANT Minecraft Death Run",
+      "videoUrl": "https://www.youtube.com/watch?v=fI04nIfeem8",
+      "videoId": "fI04nIfeem8",
+      "thumbnail": "https://i3.ytimg.com/vi/fI04nIfeem8/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-06",
+      "firstSeen": "2026-06-18",
+      "title": "A Planet Made of Hot Ice?!?",
+      "videoUrl": "https://www.youtube.com/watch?v=DzqZz98Dx2c",
+      "videoId": "DzqZz98Dx2c",
+      "thumbnail": "https://i1.ytimg.com/vi/DzqZz98Dx2c/hqdefault.jpg",
+      "channelID": "UCwyVRKfytvjSF6q5s7noKZQ",
+      "channelName": "Mr. DeMaio",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 300,
+      "keyword": "demaio",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-06",
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "firstSeen": "2026-06-16",
       "title": "SpongeBob & Patrick's Biggest Food Disasters! ? | SpongeBob SquarePants | Nickelodeon UK",
       "videoUrl": "https://www.youtube.com/watch?v=69s5AdqLcmc",
@@ -5160,7 +5569,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -5314,7 +5723,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -6096,6 +6505,75 @@
       }
     },
     {
+<<<<<<< HEAD
+=======
+      "timestamp": "2026-05-02",
+      "firstSeen": "2026-06-20",
+      "title": "The Wolf in Sheep?s Clothing Story ?? | English Moral Stories | Bedtime Stories",
+      "videoUrl": "https://www.youtube.com/watch?v=zo_ZYM1QqaU",
+      "videoId": "zo_ZYM1QqaU",
+      "thumbnail": "https://i3.ytimg.com/vi/zo_ZYM1QqaU/hqdefault.jpg",
+      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
+      "channelName": "Mr Book and Me",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 200,
+      "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-05-02",
+      "firstSeen": "2026-06-18",
+      "title": "Narwhals Explained: The REAL Unicorns of the Sea!",
+      "videoUrl": "https://www.youtube.com/watch?v=LjT_0Zw5yNw",
+      "videoId": "LjT_0Zw5yNw",
+      "thumbnail": "https://i1.ytimg.com/vi/LjT_0Zw5yNw/hqdefault.jpg",
+      "channelID": "UCwyVRKfytvjSF6q5s7noKZQ",
+      "channelName": "Mr. DeMaio",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 300,
+      "keyword": "demaio",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-05-02",
+      "firstSeen": "2026-06-17",
+      "title": "Looney Tunes | Tweety and Sylvester Mega Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=gMROhJXSsMk",
+      "videoId": "gMROhJXSsMk",
+      "thumbnail": "https://i4.ytimg.com/vi/gMROhJXSsMk/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "sylvester, tweety",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+>>>>>>> eee60f03dd0ccad2d44a0a054b114aa6df5a2391
       "timestamp": "2026-05-01",
       "firstSeen": "2026-06-16",
       "title": "Could BIGFOOT Be Real? ? Sasquatch Mystery Solved | Bigfoot Encounters | The Dr. Binocs Show",
@@ -7506,13 +7984,6 @@
   ],
   "channels": [
     {
-      "channelID": "UCbKWv2x9t6u8yZoB3KcPtnw",
-      "channelName": "Alan Becker",
-      "retentionDays": 200,
-      "category": "Cartoons",
-      "profile": "Both"
-    },
-    {
       "channelID": "UCGydrkfIhUDNCotYQI8TJhA",
       "channelName": "Cartoon Network UK",
       "retentionDays": 30,
@@ -7529,8 +8000,8 @@
     {
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "retentionDays": 30,
-      "category": "Cartoons",
+      "retentionDays": 15,
+      "category": "Spongebob",
       "profile": "Both"
     },
     {
@@ -7707,9 +8178,17 @@
       "retentionDays": 60,
       "category": "Looney Tunes",
       "profile": "Both"
+    },
+    {
+      "channelID": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelName": "Alan Becker",
+      "retentionDays": 200,
+      "category": "Cartoons",
+      "profile": "Both"
     }
   ],
   "categories": [
+    "Both",
     "Cartoons",
     "LEGO",
     "Looney Tunes",
