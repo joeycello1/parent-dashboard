@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T14:47:03.232Z",
+  "generatedAt": "2026-06-24T16:47:02.559Z",
   "videos": [
     {
       "timestamp": "2026-06-24",
@@ -14,6 +14,160 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "Benson Lore Explained: Hidden History & Meaning | Regular Show | Cartoon Network UK",
+      "videoUrl": "https://www.youtube.com/watch?v=3JGV6GF8DjU",
+      "videoId": "3JGV6GF8DjU",
+      "thumbnail": "https://i4.ytimg.com/vi/3JGV6GF8DjU/hqdefault.jpg",
+      "channelID": "UCGydrkfIhUDNCotYQI8TJhA",
+      "channelName": "Cartoon Network UK",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "cartoon network",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "SpongeBob Characters Getting Hurt for 90 Minutes Straight ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=xEHdNLE-FS4",
+      "videoId": "xEHdNLE-FS4",
+      "thumbnail": "https://i1.ytimg.com/vi/xEHdNLE-FS4/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "Have The Fixies Been Caught? | The Fixies | Learning Made Fun",
+      "videoUrl": "https://www.youtube.com/watch?v=mzouyHSgyok",
+      "videoId": "mzouyHSgyok",
+      "thumbnail": "https://i2.ytimg.com/vi/mzouyHSgyok/hqdefault.jpg",
+      "channelID": "UCnRuuiSVqDF2EmoYS7yE6ZA",
+      "channelName": "The Fixies",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "fixies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "Mr Bean Becomes a SPY to Save Teddy | Mr Bean - Cartoons For Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=x8FHXhjqktc",
+      "videoId": "x8FHXhjqktc",
+      "thumbnail": "https://i1.ytimg.com/vi/x8FHXhjqktc/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "Bears in the Wild: Power, Speed & Survival | MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=8AYhCUI-428",
+      "videoId": "8AYhCUI-428",
+      "thumbnail": "https://i1.ytimg.com/vi/8AYhCUI-428/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "How to Potty Train Your Dragon | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=yl8jvTsmMqg",
+      "videoId": "yl8jvTsmMqg",
+      "thumbnail": "https://i2.ytimg.com/vi/yl8jvTsmMqg/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "How To Draw A Cotton Candy Machine",
+      "videoUrl": "https://www.youtube.com/watch?v=dk4h84TuFPo",
+      "videoId": "dk4h84TuFPo",
+      "thumbnail": "https://i1.ytimg.com/vi/dk4h84TuFPo/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -122,7 +276,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -804,7 +958,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -1530,7 +1684,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -1640,7 +1794,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -1970,7 +2124,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -2784,7 +2938,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -2982,7 +3136,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -3092,7 +3246,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -3532,7 +3686,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -3840,7 +3994,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -4016,7 +4170,7 @@
       "channelName": "SpongeBob Official",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "spongebob",
       "watched": {
         "jonah": false,
@@ -7440,13 +7594,6 @@
   ],
   "channels": [
     {
-      "channelID": "UCbKWv2x9t6u8yZoB3KcPtnw",
-      "channelName": "Alan Becker",
-      "retentionDays": 200,
-      "category": "Cartoons",
-      "profile": "Both"
-    },
-    {
       "channelID": "UCGydrkfIhUDNCotYQI8TJhA",
       "channelName": "Cartoon Network UK",
       "retentionDays": 30,
@@ -7463,8 +7610,8 @@
     {
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "retentionDays": 30,
-      "category": "Cartoons",
+      "retentionDays": 15,
+      "category": "Spongebob",
       "profile": "Both"
     },
     {
@@ -7641,9 +7788,17 @@
       "retentionDays": 60,
       "category": "Looney Tunes",
       "profile": "Both"
+    },
+    {
+      "channelID": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelName": "Alan Becker",
+      "retentionDays": 200,
+      "category": "Cartoons",
+      "profile": "Both"
     }
   ],
   "categories": [
+    "Both",
     "Cartoons",
     "LEGO",
     "Looney Tunes",
