@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T10:47:02.055Z",
+  "generatedAt": "2026-06-24T12:47:04.872Z",
   "videos": [
     {
       "timestamp": "2026-06-24",
@@ -48,7 +48,7 @@
     {
       "timestamp": "2026-06-23",
       "firstSeen": "2026-06-23",
-      "title": "SAILING Together! ?? Lana?s Most Heart-Warming Adventures! | Lana Longbeard | Cartoon Network",
+      "title": "SAILING Together! Lana's Most Heart-Warming Adventures! | Lana Longbeard | Cartoon Network",
       "videoUrl": "https://www.youtube.com/watch?v=jotTaJCiUzk",
       "videoId": "jotTaJCiUzk",
       "thumbnail": "https://i3.ytimg.com/vi/jotTaJCiUzk/hqdefault.jpg",
@@ -56,7 +56,7 @@
       "channelName": "Cartoon Network UK",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": 15,
       "keyword": "cartoon network",
       "watched": {
         "jonah": false,
@@ -971,6 +971,28 @@
     },
     {
       "timestamp": "2026-06-19",
+      "firstSeen": "2026-07-01",
+      "title": "Ms Wicket Makes Bean's Life IMPOSSIBLE | Mr Bean - Cartoons for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=tyEVpXbC23Q",
+      "videoId": "tyEVpXbC23Q",
+      "thumbnail": "https://i1.ytimg.com/vi/tyEVpXbC23Q/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
       "firstSeen": "2026-06-29",
       "title": "Monster Jam & Hot Wheels Monster Trucks Racing ?? WORLD CUP SOCCER",
       "videoUrl": "https://www.youtube.com/watch?v=eTOUZjTxVf4",
@@ -1026,28 +1048,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "social studies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-26",
-      "title": "Ms Wicket Makes Bean's Life IMPOSSIBLE | Mr Bean - Cartoons for Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=tyEVpXbC23Q",
-      "videoId": "tyEVpXbC23Q",
-      "thumbnail": "https://i1.ytimg.com/vi/tyEVpXbC23Q/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1565,28 +1565,6 @@
     },
     {
       "timestamp": "2026-06-18",
-      "firstSeen": "2026-06-21",
-      "title": "Lion-O and the Sword of Omens! ???? | ThunderCats (2011) | @wbkids",
-      "videoUrl": "https://www.youtube.com/watch?v=vtlPbx9W5nE",
-      "videoId": "vtlPbx9W5nE",
-      "thumbnail": "https://i3.ytimg.com/vi/vtlPbx9W5nE/hqdefault.jpg",
-      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
-      "channelName": "WB Kids",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": "down"
-      }
-    },
-    {
-      "timestamp": "2026-06-18",
       "firstSeen": "2026-06-19",
       "title": "Who will WIN the LEGO Star Wars Challenge?! | Full Episode | LEGO Brick Click",
       "videoUrl": "https://www.youtube.com/watch?v=sDSmy1GBkZY",
@@ -1620,28 +1598,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "art",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-18",
-      "firstSeen": "2026-06-18",
-      "title": "? LIVE | Magnetic Storms & Space Science for Kids! ? Animated Physics Adventure",
-      "videoUrl": "https://www.youtube.com/watch?v=D8F3-rNl9kk",
-      "videoId": "D8F3-rNl9kk",
-      "thumbnail": "https://i1.ytimg.com/vi/D8F3-rNl9kk/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2748,28 +2704,6 @@
       },
       "rating": {
         "jonah": "up",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-12",
-      "firstSeen": "2026-06-16",
-      "title": "Heracles Holds Up the SKY?! ? | Greeking Out Podcast | S3 E2 FULL EP Part 2 | ?@natgeokids",
-      "videoUrl": "https://www.youtube.com/watch?v=6LCSXFZa5Ew",
-      "videoId": "6LCSXFZa5Ew",
-      "thumbnail": "https://i3.ytimg.com/vi/6LCSXFZa5Ew/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "national geographic",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
         "kieran": ""
       }
     },
