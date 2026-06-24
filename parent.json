@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T18:12:57.643Z",
+  "generatedAt": "2026-06-24T18:47:03.028Z",
   "videos": [
     {
       "timestamp": "2026-06-24",
@@ -2214,28 +2214,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-15",
-      "firstSeen": "2026-06-24",
-      "title": "Best of SUMO ?? ? The Craziest Kid Around! | Clarence | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=gbqLJ6_W4YQ",
-      "videoId": "gbqLJ6_W4YQ",
-      "thumbnail": "https://i4.ytimg.com/vi/gbqLJ6_W4YQ/hqdefault.jpg",
-      "channelID": "UCGydrkfIhUDNCotYQI8TJhA",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "cartoon network",
       "watched": {
         "jonah": false,
         "kieran": false
