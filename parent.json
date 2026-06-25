@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T16:23:15.215Z",
+  "generatedAt": "2026-06-25T16:32:13.171Z",
   "videos": [
     {
       "timestamp": "2026-06-19",
@@ -266,28 +266,6 @@
       }
     },
     {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "Best BFF Quizzes Part 1 ? Who?s Most Likely To? | LEGO Friends: The Next Chapter Characters",
-      "videoUrl": "https://www.youtube.com/watch?v=QgXUqU3hDno",
-      "videoId": "QgXUqU3hDno",
-      "thumbnail": "https://i2.ytimg.com/vi/QgXUqU3hDno/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "LEGO",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego, minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
       "timestamp": "2026-06-23",
       "firstSeen": "2026-06-25",
       "title": "? LIVE LEGO? Channel's All-Time Top Videos! ??Most-Watched Mini Movies & Iconic Moments!",
@@ -312,28 +290,6 @@
     {
       "timestamp": "2026-06-25",
       "firstSeen": "2026-06-25",
-      "title": "Escape To Victory | Americans Beat The Nazis In Football | Warner Classics",
-      "videoUrl": "https://www.youtube.com/watch?v=GBNx6jCcc9o",
-      "videoId": "GBNx6jCcc9o",
-      "thumbnail": "https://i4.ytimg.com/vi/GBNx6jCcc9o/hqdefault.jpg",
-      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
-      "channelName": "Warner Bros Classics",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "sylvester",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
       "title": "Scooby-Doo! Mystery Incorporated MARATHON ? | MEGA COMP | #KidsCartoons @wbkids",
       "videoUrl": "https://www.youtube.com/watch?v=Vqlco7_yhCM",
       "videoId": "Vqlco7_yhCM",
@@ -344,72 +300,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "Mr Bean LOSES IT in Traffic! | Mr Bean - Cartoons for Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=NokNEMaD3ik",
-      "videoId": "NokNEMaD3ik",
-      "thumbnail": "https://i3.ytimg.com/vi/NokNEMaD3ik/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-15",
-      "firstSeen": "2026-06-25",
-      "title": "Mr Bean FINDS an Actual Dinosaur! | Cartoons for Kids - Mr Bean",
-      "videoUrl": "https://www.youtube.com/watch?v=hzHKlHpZ_o8",
-      "videoId": "hzHKlHpZ_o8",
-      "thumbnail": "https://i1.ytimg.com/vi/hzHKlHpZ_o8/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "Bugs Rule! ??? | Weird But True Full Episode | @natgeokids",
-      "videoUrl": "https://www.youtube.com/watch?v=XGoA36YPAdg",
-      "videoId": "XGoA36YPAdg",
-      "thumbnail": "https://i1.ytimg.com/vi/XGoA36YPAdg/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, bugs, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -454,28 +344,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "SpongeBob Steppin' On the Beach for 30 Minutes Straight ?? | SpongeBob",
-      "videoUrl": "https://www.youtube.com/watch?v=vJ-BRUO9RJ0",
-      "videoId": "vJ-BRUO9RJ0",
-      "thumbnail": "https://i3.ytimg.com/vi/vJ-BRUO9RJ0/hqdefault.jpg",
-      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
-      "channelName": "SpongeBob Official",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
