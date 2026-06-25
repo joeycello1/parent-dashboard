@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T16:32:13.171Z",
+  "generatedAt": "2026-06-25T16:44:22.807Z",
   "videos": [
     {
       "timestamp": "2026-06-19",
@@ -178,72 +178,6 @@
       }
     },
     {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "Mr Bean's Mistake Turned Him... Green! | Mr Bean Adventures",
-      "videoUrl": "https://www.youtube.com/watch?v=NfH5UenPyys",
-      "videoId": "NfH5UenPyys",
-      "thumbnail": "https://i3.ytimg.com/vi/NfH5UenPyys/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-24",
-      "firstSeen": "2026-06-25",
-      "title": "Minecraft, But You Can Combine Anything!",
-      "videoUrl": "https://www.youtube.com/watch?v=z05kEB51Aa4",
-      "videoId": "z05kEB51Aa4",
-      "thumbnail": "https://i3.ytimg.com/vi/z05kEB51Aa4/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "Squidward Can't Handle Babysitting Pearl! ? | SpongeBob SquarePants | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=rluPKihJ0D8",
-      "videoId": "rluPKihJ0D8",
-      "thumbnail": "https://i3.ytimg.com/vi/rluPKihJ0D8/hqdefault.jpg",
-      "channelID": "UCHiceVclOIFCgAcveITRLLw",
-      "channelName": "Nickelodeon UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
       "timestamp": "2026-06-15",
       "firstSeen": "2026-06-25",
       "title": "Adventure Time: Side Quests ?? NEW OPENING TITLES ?? 5th October 2026 | Cartoon Network UK",
@@ -310,6 +244,50 @@
       }
     },
     {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-25",
+      "title": "Minecraft, But You Can Combine Anything!",
+      "videoUrl": "https://www.youtube.com/watch?v=z05kEB51Aa4",
+      "videoId": "z05kEB51Aa4",
+      "thumbnail": "https://i3.ytimg.com/vi/z05kEB51Aa4/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-25",
+      "firstSeen": "2026-06-25",
+      "title": "Mr Bean's Mistake Turned Him... Green! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=NfH5UenPyys",
+      "videoId": "NfH5UenPyys",
+      "thumbnail": "https://i3.ytimg.com/vi/NfH5UenPyys/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-06-25",
       "firstSeen": "2026-06-25",
       "title": "Labor Day for Kids | Learn all about this well-known holiday",
@@ -344,6 +322,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-25",
+      "firstSeen": "2026-06-25",
+      "title": "Squidward Can't Handle Babysitting Pearl! ? | SpongeBob SquarePants | Nickelodeon UK",
+      "videoUrl": "https://www.youtube.com/watch?v=rluPKihJ0D8",
+      "videoId": "rluPKihJ0D8",
+      "thumbnail": "https://i3.ytimg.com/vi/rluPKihJ0D8/hqdefault.jpg",
+      "channelID": "UCHiceVclOIFCgAcveITRLLw",
+      "channelName": "Nickelodeon UK",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -422,16 +422,16 @@
     {
       "timestamp": "2026-06-24",
       "firstSeen": "2026-06-24",
-      "title": "SpongeBob Characters Getting Hurt for 90 Minutes Straight ? | SpongeBob",
-      "videoUrl": "https://www.youtube.com/watch?v=xEHdNLE-FS4",
-      "videoId": "xEHdNLE-FS4",
-      "thumbnail": "https://i1.ytimg.com/vi/xEHdNLE-FS4/hqdefault.jpg",
-      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
-      "channelName": "SpongeBob Official",
-      "category": "Spongebob",
+      "title": "Have The Fixies Been Caught? | The Fixies | Learning Made Fun",
+      "videoUrl": "https://www.youtube.com/watch?v=mzouyHSgyok",
+      "videoId": "mzouyHSgyok",
+      "thumbnail": "https://i2.ytimg.com/vi/mzouyHSgyok/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "The Fixies",
+      "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "spongebob",
+      "retentionDays": 2,
+      "keyword": "fixies",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -448,6 +448,28 @@
       "videoUrl": "https://www.youtube.com/watch?v=x8FHXhjqktc",
       "videoId": "x8FHXhjqktc",
       "thumbnail": "https://i1.ytimg.com/vi/x8FHXhjqktc/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "Bean Messes With a MOB BOSS! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=_s3AMCCFeds",
+      "videoId": "_s3AMCCFeds",
+      "thumbnail": "https://i4.ytimg.com/vi/_s3AMCCFeds/hqdefault.jpg",
       "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
       "channelName": "Cartoons for Kids - Mr Bean",
       "category": "Mr Bean",
@@ -508,72 +530,6 @@
       }
     },
     {
-      "timestamp": "2026-06-24",
-      "firstSeen": "2026-06-24",
-      "title": "How To Draw A Cotton Candy Machine",
-      "videoUrl": "https://www.youtube.com/watch?v=dk4h84TuFPo",
-      "videoId": "dk4h84TuFPo",
-      "thumbnail": "https://i1.ytimg.com/vi/dk4h84TuFPo/hqdefault.jpg",
-      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "channelName": "Art for Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "art",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-24",
-      "firstSeen": "2026-06-24",
-      "title": "Have The Fixies Been Caught? | The Fixies | Learning Made Fun",
-      "videoUrl": "https://www.youtube.com/watch?v=mzouyHSgyok",
-      "videoId": "mzouyHSgyok",
-      "thumbnail": "https://i2.ytimg.com/vi/mzouyHSgyok/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 2,
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-24",
-      "firstSeen": "2026-06-24",
-      "title": "Bean Messes With a MOB BOSS! | Mr Bean Adventures",
-      "videoUrl": "https://www.youtube.com/watch?v=_s3AMCCFeds",
-      "videoId": "_s3AMCCFeds",
-      "thumbnail": "https://i4.ytimg.com/vi/_s3AMCCFeds/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
       "timestamp": "2026-06-19",
       "firstSeen": "2026-06-24",
       "title": "ASL Dinos A to Z: Stegosaurus",
@@ -586,6 +542,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "SpongeBob Characters Getting Hurt for 90 Minutes Straight ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=xEHdNLE-FS4",
+      "videoId": "xEHdNLE-FS4",
+      "thumbnail": "https://i1.ytimg.com/vi/xEHdNLE-FS4/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "How To Draw A Cotton Candy Machine",
+      "videoUrl": "https://www.youtube.com/watch?v=dk4h84TuFPo",
+      "videoId": "dk4h84TuFPo",
+      "thumbnail": "https://i1.ytimg.com/vi/dk4h84TuFPo/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -642,35 +642,13 @@
     {
       "timestamp": "2026-06-23",
       "firstSeen": "2026-06-23",
-      "title": "SpongeBob is Portrayed on the Big Screen ??| SpongeBob SquarePants | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=7F-yx-rsW0E",
-      "videoId": "7F-yx-rsW0E",
-      "thumbnail": "https://i4.ytimg.com/vi/7F-yx-rsW0E/hqdefault.jpg",
-      "channelID": "UCHiceVclOIFCgAcveITRLLw",
-      "channelName": "Nickelodeon UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-23",
       "title": "The Krusty Krab Becomes an Ice Rink ???? | Full Scene | SpongeBob",
       "videoUrl": "https://www.youtube.com/watch?v=W4HTrgOFmgs",
       "videoId": "W4HTrgOFmgs",
       "thumbnail": "https://i4.ytimg.com/vi/W4HTrgOFmgs/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
@@ -960,6 +938,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-23",
+      "firstSeen": "2026-06-23",
+      "title": "SpongeBob is Portrayed on the Big Screen ??| SpongeBob SquarePants | Nickelodeon UK",
+      "videoUrl": "https://www.youtube.com/watch?v=7F-yx-rsW0E",
+      "videoId": "7F-yx-rsW0E",
+      "thumbnail": "https://i4.ytimg.com/vi/7F-yx-rsW0E/hqdefault.jpg",
+      "channelID": "UCHiceVclOIFCgAcveITRLLw",
+      "channelName": "Nickelodeon UK",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2518,7 +2518,7 @@
       "thumbnail": "https://i3.ytimg.com/vi/fvgERElu_z8/hqdefault.jpg",
       "channelID": "UCHiceVclOIFCgAcveITRLLw",
       "channelName": "Nickelodeon UK",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "spongebob",
@@ -2540,7 +2540,7 @@
       "thumbnail": "https://i1.ytimg.com/vi/pG2Ietnjfqg/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
@@ -2936,7 +2936,7 @@
       "thumbnail": "https://i4.ytimg.com/vi/W3iiz24qqHc/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
@@ -4058,7 +4058,7 @@
       "thumbnail": "https://i2.ytimg.com/vi/qyKgnfneR14/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
@@ -4256,7 +4256,7 @@
       "thumbnail": "https://i4.ytimg.com/vi/Cfii-m_OA7Q/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
@@ -4300,7 +4300,7 @@
       "thumbnail": "https://i2.ytimg.com/vi/9Ij_oPL2DlQ/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
@@ -4366,7 +4366,7 @@
       "thumbnail": "https://i1.ytimg.com/vi/pny5tFUw0Ww/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
@@ -4410,7 +4410,7 @@
       "thumbnail": "https://i1.ytimg.com/vi/DLy7wMUlPAk/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
@@ -4520,29 +4520,7 @@
       "thumbnail": "https://i3.ytimg.com/vi/V4XRbOXKbOc/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-05",
-      "firstSeen": "2026-06-16",
-      "title": "SpongeBob's Most Magical & Colorful Moments in Bikini Bottom ? | 30 Minutes | SpongeBob",
-      "videoUrl": "https://www.youtube.com/watch?v=35mUItQHYEI",
-      "videoId": "35mUItQHYEI",
-      "thumbnail": "https://i4.ytimg.com/vi/35mUItQHYEI/hqdefault.jpg",
-      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
-      "channelName": "SpongeBob Official",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
@@ -4568,28 +4546,6 @@
       "profile": "Both",
       "retentionDays": "",
       "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-04",
-      "firstSeen": "2026-06-16",
-      "title": "SpongeBob Leads the Ultimate Pirate Adventure! ???? | Kamp Koral | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=kNoLjFGh4_M",
-      "videoId": "kNoLjFGh4_M",
-      "thumbnail": "https://i4.ytimg.com/vi/kNoLjFGh4_M/hqdefault.jpg",
-      "channelID": "UCHiceVclOIFCgAcveITRLLw",
-      "channelName": "Nickelodeon UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -6526,6 +6482,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "binocs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-05",
+      "firstSeen": "2026-06-16",
+      "title": "SpongeBob's Most Magical & Colorful Moments in Bikini Bottom ? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=35mUItQHYEI",
+      "videoId": "35mUItQHYEI",
+      "thumbnail": "https://i4.ytimg.com/vi/35mUItQHYEI/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-04",
+      "firstSeen": "2026-06-16",
+      "title": "SpongeBob Leads the Ultimate Pirate Adventure! ???? | Kamp Koral | Nickelodeon UK",
+      "videoUrl": "https://www.youtube.com/watch?v=kNoLjFGh4_M",
+      "videoId": "kNoLjFGh4_M",
+      "thumbnail": "https://i4.ytimg.com/vi/kNoLjFGh4_M/hqdefault.jpg",
+      "channelID": "UCHiceVclOIFCgAcveITRLLw",
+      "channelName": "Nickelodeon UK",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
