@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-25T08:47:02.877Z",
+  "generatedAt": "2026-06-25T10:47:04.581Z",
   "videos": [
+    {
+      "timestamp": "2026-06-25",
+      "firstSeen": "2026-06-25",
+      "title": "Mr Bean's Mistake Turned Him... Green! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=NfH5UenPyys",
+      "videoId": "NfH5UenPyys",
+      "thumbnail": "https://i3.ytimg.com/vi/NfH5UenPyys/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-06-24",
       "firstSeen": "2026-06-24",
@@ -168,6 +190,28 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-25",
+      "title": "Minecraft, But You Can Combine Anything!",
+      "videoUrl": "https://www.youtube.com/watch?v=z05kEB51Aa4",
+      "videoId": "z05kEB51Aa4",
+      "thumbnail": "https://i3.ytimg.com/vi/z05kEB51Aa4/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Both",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
