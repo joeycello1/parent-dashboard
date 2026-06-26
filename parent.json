@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T12:47:03.885Z",
+  "generatedAt": "2026-06-26T14:47:05.939Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -202,16 +202,16 @@
     {
       "timestamp": "2026-06-26",
       "firstSeen": "2026-06-26",
-      "title": "NAPO",
-      "videoUrl": "https://www.youtube.com/watch?v=-p1P4fdhaF8",
-      "videoId": "-p1P4fdhaF8",
-      "thumbnail": "https://i.ytimg.com/vi/-p1P4fdhaF8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Miralumo Films",
-      "category": "Films",
+      "title": "Mr Bean Gets Caught at the WORST Moment! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=ZTmTl-77iUk",
+      "videoId": "ZTmTl-77iUk",
+      "thumbnail": "https://i3.ytimg.com/vi/ZTmTl-77iUk/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
       "profile": "Both",
       "retentionDays": 30,
-      "keyword": "",
+      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -224,16 +224,16 @@
     {
       "timestamp": "2026-06-26",
       "firstSeen": "2026-06-26",
-      "title": "Mr Bean Gets Caught at the WORST Moment! | Mr Bean Adventures",
-      "videoUrl": "https://www.youtube.com/watch?v=ZTmTl-77iUk",
-      "videoId": "ZTmTl-77iUk",
-      "thumbnail": "https://i3.ytimg.com/vi/ZTmTl-77iUk/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
+      "title": "NAPO",
+      "videoUrl": "https://www.youtube.com/watch?v=-p1P4fdhaF8",
+      "videoId": "-p1P4fdhaF8",
+      "thumbnail": "https://i.ytimg.com/vi/-p1P4fdhaF8/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "Miralumo Films",
+      "category": "Films",
       "profile": "Both",
       "retentionDays": 30,
-      "keyword": "mr bean",
+      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -312,6 +312,50 @@
     {
       "timestamp": "2026-06-25",
       "firstSeen": "2026-06-25",
+      "title": "How To Draw A Cute Picnic Basket",
+      "videoUrl": "https://www.youtube.com/watch?v=jF0ZwP-DifM",
+      "videoId": "jF0ZwP-DifM",
+      "thumbnail": "https://i3.ytimg.com/vi/jF0ZwP-DifM/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-25",
+      "firstSeen": "2026-06-25",
+      "title": "Mr Bean's Mistake Turned Him... Green! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=NfH5UenPyys",
+      "videoId": "NfH5UenPyys",
+      "thumbnail": "https://i3.ytimg.com/vi/NfH5UenPyys/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-25",
+      "firstSeen": "2026-06-25",
       "title": "Three Fools",
       "videoUrl": "https://www.youtube.com/watch?v=kSjT_6-a3uA",
       "videoId": "kSjT_6-a3uA",
@@ -356,16 +400,16 @@
     {
       "timestamp": "2026-06-25",
       "firstSeen": "2026-06-25",
-      "title": "Mr Bean's Mistake Turned Him... Green! | Mr Bean Adventures",
-      "videoUrl": "https://www.youtube.com/watch?v=NfH5UenPyys",
-      "videoId": "NfH5UenPyys",
-      "thumbnail": "https://i3.ytimg.com/vi/NfH5UenPyys/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
+      "title": "Squidward Can't Handle Babysitting Pearl! ? | SpongeBob SquarePants | Nickelodeon UK",
+      "videoUrl": "https://www.youtube.com/watch?v=rluPKihJ0D8",
+      "videoId": "rluPKihJ0D8",
+      "thumbnail": "https://i3.ytimg.com/vi/rluPKihJ0D8/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "Nickelodeon UK",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 30,
-      "keyword": "mr bean",
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -400,6 +444,28 @@
     {
       "timestamp": "2026-06-25",
       "firstSeen": "2026-06-25",
+      "title": "How a broken heart affects your body - Roni Shanoada",
+      "videoUrl": "https://www.youtube.com/watch?v=DbEZmLoGDbk",
+      "videoId": "DbEZmLoGDbk",
+      "thumbnail": "https://i1.ytimg.com/vi/DbEZmLoGDbk/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-25",
+      "firstSeen": "2026-06-25",
       "title": "Scooby-Doo! Mystery Incorporated MARATHON ? | MEGA COMP | #KidsCartoons @wbkids",
       "videoUrl": "https://www.youtube.com/watch?v=Vqlco7_yhCM",
       "videoId": "Vqlco7_yhCM",
@@ -420,62 +486,18 @@
       }
     },
     {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "Squidward Can't Handle Babysitting Pearl! ? | SpongeBob SquarePants | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=rluPKihJ0D8",
-      "videoId": "rluPKihJ0D8",
-      "thumbnail": "https://i3.ytimg.com/vi/rluPKihJ0D8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "How To Draw A Cute Picnic Basket",
-      "videoUrl": "https://www.youtube.com/watch?v=jF0ZwP-DifM",
-      "videoId": "jF0ZwP-DifM",
-      "thumbnail": "https://i3.ytimg.com/vi/jF0ZwP-DifM/hqdefault.jpg",
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "How To Draw A Cotton Candy Machine",
+      "videoUrl": "https://www.youtube.com/watch?v=dk4h84TuFPo",
+      "videoId": "dk4h84TuFPo",
+      "thumbnail": "https://i1.ytimg.com/vi/dk4h84TuFPo/hqdefault.jpg",
       "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "channelName": "Art for Kids",
       "category": "Stuff to Know",
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "art",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "How a broken heart affects your body - Roni Shanoada",
-      "videoUrl": "https://www.youtube.com/watch?v=DbEZmLoGDbk",
-      "videoId": "DbEZmLoGDbk",
-      "thumbnail": "https://i1.ytimg.com/vi/DbEZmLoGDbk/hqdefault.jpg",
-      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
-      "channelName": "TED-Ed",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "ted-ed",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -498,72 +520,6 @@
       "profile": "",
       "retentionDays": "",
       "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-24",
-      "firstSeen": "2026-06-24",
-      "title": "How to Potty Train Your Dragon | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
-      "videoUrl": "https://www.youtube.com/watch?v=yl8jvTsmMqg",
-      "videoId": "yl8jvTsmMqg",
-      "thumbnail": "https://i2.ytimg.com/vi/yl8jvTsmMqg/hqdefault.jpg",
-      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
-      "channelName": "Scholastic After School",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-24",
-      "firstSeen": "2026-06-24",
-      "title": "Have The Fixies Been Caught? | The Fixies | Learning Made Fun",
-      "videoUrl": "https://www.youtube.com/watch?v=mzouyHSgyok",
-      "videoId": "mzouyHSgyok",
-      "thumbnail": "https://i2.ytimg.com/vi/mzouyHSgyok/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 2,
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-24",
-      "firstSeen": "2026-06-25",
-      "title": "Minecraft, But You Can Combine Anything!",
-      "videoUrl": "https://www.youtube.com/watch?v=z05kEB51Aa4",
-      "videoId": "z05kEB51Aa4",
-      "thumbnail": "https://i3.ytimg.com/vi/z05kEB51Aa4/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -619,6 +575,28 @@
     },
     {
       "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-25",
+      "title": "Minecraft, But You Can Combine Anything!",
+      "videoUrl": "https://www.youtube.com/watch?v=z05kEB51Aa4",
+      "videoId": "z05kEB51Aa4",
+      "thumbnail": "https://i3.ytimg.com/vi/z05kEB51Aa4/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
       "firstSeen": "2026-06-24",
       "title": "Bears in the Wild: Power, Speed & Survival | MEGA Episode | Nat Geo Animals",
       "videoUrl": "https://www.youtube.com/watch?v=8AYhCUI-428",
@@ -630,6 +608,28 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-24",
+      "firstSeen": "2026-06-24",
+      "title": "How to Potty Train Your Dragon | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=yl8jvTsmMqg",
+      "videoId": "yl8jvTsmMqg",
+      "thumbnail": "https://i2.ytimg.com/vi/yl8jvTsmMqg/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -662,12 +662,12 @@
       }
     },
     {
-      "timestamp": "2026-06-24",
-      "firstSeen": "2026-06-24",
-      "title": "How To Draw A Cotton Candy Machine",
-      "videoUrl": "https://www.youtube.com/watch?v=dk4h84TuFPo",
-      "videoId": "dk4h84TuFPo",
-      "thumbnail": "https://i1.ytimg.com/vi/dk4h84TuFPo/hqdefault.jpg",
+      "timestamp": "2026-06-23",
+      "firstSeen": "2026-06-23",
+      "title": "How To Draw A Sushi Boat With Buddies",
+      "videoUrl": "https://www.youtube.com/watch?v=dm958wqxQVg",
+      "videoId": "dm958wqxQVg",
+      "thumbnail": "https://i1.ytimg.com/vi/dm958wqxQVg/hqdefault.jpg",
       "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "channelName": "Art for Kids",
       "category": "Stuff to Know",
@@ -730,82 +730,16 @@
     {
       "timestamp": "2026-06-23",
       "firstSeen": "2026-06-23",
-      "title": "Weenie's Big Clean-Up Adventure! ?? | Educational Cartoon for Kids | Open Season: Call of Nature",
-      "videoUrl": "https://www.youtube.com/watch?v=Q8uwHaHLEnY",
-      "videoId": "Q8uwHaHLEnY",
-      "thumbnail": "https://i2.ytimg.com/vi/Q8uwHaHLEnY/hqdefault.jpg",
-      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
-      "channelName": "Scholastic After School",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-23",
-      "title": "Great Growl-Mom | Funny Cartoons for Kids | Let's Go Bananas | Scholastic After School",
-      "videoUrl": "https://www.youtube.com/watch?v=RCOJ-KpLJVs",
-      "videoId": "RCOJ-KpLJVs",
-      "thumbnail": "https://i3.ytimg.com/vi/RCOJ-KpLJVs/hqdefault.jpg",
-      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
-      "channelName": "Scholastic After School",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-23",
-      "title": "Chewsocka Learns a New Trick | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=xeAj5zuw_yA",
-      "videoId": "xeAj5zuw_yA",
-      "thumbnail": "https://i1.ytimg.com/vi/xeAj5zuw_yA/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-25",
-      "title": "? LIVE LEGO? Channel's All-Time Top Videos! ??Most-Watched Mini Movies & Iconic Moments!",
-      "videoUrl": "https://www.youtube.com/watch?v=NUvE5ZsXxlc",
-      "videoId": "NUvE5ZsXxlc",
-      "thumbnail": "https://i3.ytimg.com/vi/NUvE5ZsXxlc/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
+      "title": "Mr Bean Gets Caught... STEALING?!? | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=kwxZwAwp7iA",
+      "videoId": "kwxZwAwp7iA",
+      "thumbnail": "https://i4.ytimg.com/vi/kwxZwAwp7iA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
       "profile": "Both",
       "retentionDays": 30,
-      "keyword": "lego",
+      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -818,16 +752,16 @@
     {
       "timestamp": "2026-06-23",
       "firstSeen": "2026-06-23",
-      "title": "An Armored Dinosaur - Ankylosaurus | What if Anklyosaurus Never Went Extinct? | Dr. Binocs Show",
-      "videoUrl": "https://www.youtube.com/watch?v=zHGx58mV1DI",
-      "videoId": "zHGx58mV1DI",
-      "thumbnail": "https://i3.ytimg.com/vi/zHGx58mV1DI/hqdefault.jpg",
-      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
-      "channelName": "Peekaboo Kidz",
-      "category": "Dinos",
+      "title": "Mr Bean Finds His Doppelganger! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=q3Xxelxb1qg",
+      "videoId": "q3Xxelxb1qg",
+      "thumbnail": "https://i2.ytimg.com/vi/q3Xxelxb1qg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
       "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "binocs",
+      "retentionDays": 30,
+      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -861,61 +795,17 @@
     },
     {
       "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-23",
-      "title": "How Many Hot Dogs Can Daffy Eat?! ?? | The Looney Tunes Show | @wbkids",
-      "videoUrl": "https://www.youtube.com/watch?v=-Bq2czsIc5o",
-      "videoId": "-Bq2czsIc5o",
-      "thumbnail": "https://i2.ytimg.com/vi/-Bq2czsIc5o/hqdefault.jpg",
-      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
-      "channelName": "WB Kids",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "daffy, scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-23",
-      "title": "Mr Bean Gets Caught... STEALING?!? | Mr Bean Adventures",
-      "videoUrl": "https://www.youtube.com/watch?v=kwxZwAwp7iA",
-      "videoId": "kwxZwAwp7iA",
-      "thumbnail": "https://i4.ytimg.com/vi/kwxZwAwp7iA/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
+      "firstSeen": "2026-06-25",
+      "title": "? LIVE LEGO? Channel's All-Time Top Videos! ??Most-Watched Mini Movies & Iconic Moments!",
+      "videoUrl": "https://www.youtube.com/watch?v=NUvE5ZsXxlc",
+      "videoId": "NUvE5ZsXxlc",
+      "thumbnail": "https://i3.ytimg.com/vi/NUvE5ZsXxlc/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
       "profile": "Both",
       "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-23",
-      "title": "Mr Bean Finds His Doppelganger! | Mr Bean Adventures",
-      "videoUrl": "https://www.youtube.com/watch?v=q3Xxelxb1qg",
-      "videoId": "q3Xxelxb1qg",
-      "thumbnail": "https://i2.ytimg.com/vi/q3Xxelxb1qg/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
+      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -994,16 +884,16 @@
     {
       "timestamp": "2026-06-23",
       "firstSeen": "2026-06-23",
-      "title": "The Krusty Krab Becomes an Ice Rink ???? | Full Scene | SpongeBob",
-      "videoUrl": "https://www.youtube.com/watch?v=W4HTrgOFmgs",
-      "videoId": "W4HTrgOFmgs",
-      "thumbnail": "https://i4.ytimg.com/vi/W4HTrgOFmgs/hqdefault.jpg",
-      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
-      "channelName": "SpongeBob Official",
-      "category": "Spongebob",
+      "title": "An Armored Dinosaur - Ankylosaurus | What if Anklyosaurus Never Went Extinct? | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=zHGx58mV1DI",
+      "videoId": "zHGx58mV1DI",
+      "thumbnail": "https://i3.ytimg.com/vi/zHGx58mV1DI/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Dinos",
       "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "spongebob",
+      "retentionDays": 60,
+      "keyword": "binocs",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1016,16 +906,60 @@
     {
       "timestamp": "2026-06-23",
       "firstSeen": "2026-06-23",
-      "title": "How To Draw A Sushi Boat With Buddies",
-      "videoUrl": "https://www.youtube.com/watch?v=dm958wqxQVg",
-      "videoId": "dm958wqxQVg",
-      "thumbnail": "https://i1.ytimg.com/vi/dm958wqxQVg/hqdefault.jpg",
-      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "channelName": "Art for Kids",
-      "category": "Stuff to Know",
+      "title": "Weenie's Big Clean-Up Adventure! ?? | Educational Cartoon for Kids | Open Season: Call of Nature",
+      "videoUrl": "https://www.youtube.com/watch?v=Q8uwHaHLEnY",
+      "videoId": "Q8uwHaHLEnY",
+      "thumbnail": "https://i2.ytimg.com/vi/Q8uwHaHLEnY/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "art",
+      "retentionDays": 60,
+      "keyword": "educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-23",
+      "firstSeen": "2026-06-23",
+      "title": "Great Growl-Mom | Funny Cartoons for Kids | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=RCOJ-KpLJVs",
+      "videoId": "RCOJ-KpLJVs",
+      "thumbnail": "https://i3.ytimg.com/vi/RCOJ-KpLJVs/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-23",
+      "firstSeen": "2026-06-23",
+      "title": "The Krusty Krab Becomes an Ice Rink ???? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=W4HTrgOFmgs",
+      "videoId": "W4HTrgOFmgs",
+      "thumbnail": "https://i4.ytimg.com/vi/W4HTrgOFmgs/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1058,6 +992,50 @@
       }
     },
     {
+      "timestamp": "2026-06-23",
+      "firstSeen": "2026-06-23",
+      "title": "How Many Hot Dogs Can Daffy Eat?! ?? | The Looney Tunes Show | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=-Bq2czsIc5o",
+      "videoId": "-Bq2czsIc5o",
+      "thumbnail": "https://i2.ytimg.com/vi/-Bq2czsIc5o/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "daffy, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-22",
+      "firstSeen": "2026-06-22",
+      "title": "How To Draw The World Cup Trophy",
+      "videoUrl": "https://www.youtube.com/watch?v=ll4qNMUzcr0",
+      "videoId": "ll4qNMUzcr0",
+      "thumbnail": "https://i1.ytimg.com/vi/ll4qNMUzcr0/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-06-22",
       "firstSeen": "2026-06-22",
       "title": "Best of CHAD ?? ? The Chillest Dude Ever! | Clarence | Cartoon Network UK",
@@ -1070,50 +1048,6 @@
       "profile": "Both",
       "retentionDays": "",
       "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-22",
-      "firstSeen": "2026-06-22",
-      "title": "Heads or Tails? | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=izO6AArEFRU",
-      "videoId": "izO6AArEFRU",
-      "thumbnail": "https://i2.ytimg.com/vi/izO6AArEFRU/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-22",
-      "firstSeen": "2026-06-23",
-      "title": "Chip and Milo Are NOT Friends?",
-      "videoUrl": "https://www.youtube.com/watch?v=UYxzxC_dpLY",
-      "videoId": "UYxzxC_dpLY",
-      "thumbnail": "https://i2.ytimg.com/vi/UYxzxC_dpLY/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1169,45 +1103,23 @@
     },
     {
       "timestamp": "2026-06-22",
-      "firstSeen": "2026-06-22",
-      "title": "How To Draw The World Cup Trophy",
-      "videoUrl": "https://www.youtube.com/watch?v=ll4qNMUzcr0",
-      "videoId": "ll4qNMUzcr0",
-      "thumbnail": "https://i1.ytimg.com/vi/ll4qNMUzcr0/hqdefault.jpg",
-      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "channelName": "Art for Kids",
-      "category": "Stuff to Know",
+      "firstSeen": "2026-06-23",
+      "title": "Chip and Milo Are NOT Friends?",
+      "videoUrl": "https://www.youtube.com/watch?v=UYxzxC_dpLY",
+      "videoId": "UYxzxC_dpLY",
+      "thumbnail": "https://i2.ytimg.com/vi/UYxzxC_dpLY/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
       "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "art",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
       },
       "rating": {
         "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-21",
-      "firstSeen": "2026-06-21",
-      "title": "Can the LEGO City POLICE Catch EVERYONE?? | Best Police Chases Compilation!?| LEGO City",
-      "videoUrl": "https://www.youtube.com/watch?v=FnUcqSP8Jbw",
-      "videoId": "FnUcqSP8Jbw",
-      "thumbnail": "https://i3.ytimg.com/vi/FnUcqSP8Jbw/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "up",
         "kieran": ""
       }
     },
@@ -1246,6 +1158,28 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "up",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-21",
+      "firstSeen": "2026-06-21",
+      "title": "Can the LEGO City POLICE Catch EVERYONE?? | Best Police Chases Compilation!?| LEGO City",
+      "videoUrl": "https://www.youtube.com/watch?v=FnUcqSP8Jbw",
+      "videoId": "FnUcqSP8Jbw",
+      "thumbnail": "https://i3.ytimg.com/vi/FnUcqSP8Jbw/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1302,6 +1236,138 @@
     {
       "timestamp": "2026-06-20",
       "firstSeen": "2026-06-20",
+      "title": "Mr Bean Becomes a WARRIOR | Mr Bean - Cartoons for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=1IQVtkwOMhI",
+      "videoId": "1IQVtkwOMhI",
+      "thumbnail": "https://i2.ytimg.com/vi/1IQVtkwOMhI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-20",
+      "firstSeen": "2026-06-21",
+      "title": "I Made My Friend?s World More TINY Until He Notices",
+      "videoUrl": "https://www.youtube.com/watch?v=4k3yx8vpyGs",
+      "videoId": "4k3yx8vpyGs",
+      "thumbnail": "https://i1.ytimg.com/vi/4k3yx8vpyGs/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": true
+      },
+      "rating": {
+        "jonah": "up",
+        "kieran": "up"
+      }
+    },
+    {
+      "timestamp": "2026-06-20",
+      "firstSeen": "2026-06-20",
+      "title": "The Proud Monkey's Lesson ?? | English Moral Stories | Bedtime Stories",
+      "videoUrl": "https://www.youtube.com/watch?v=EW0t4rwhGOQ",
+      "videoId": "EW0t4rwhGOQ",
+      "thumbnail": "https://i2.ytimg.com/vi/EW0t4rwhGOQ/hqdefault.jpg",
+      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
+      "channelName": "Mr Book and Me",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 200,
+      "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-20",
+      "firstSeen": "2026-06-20",
+      "title": "Could You Survive a Waterspout?",
+      "videoUrl": "https://www.youtube.com/watch?v=2Q7EmYdTWFU",
+      "videoId": "2Q7EmYdTWFU",
+      "thumbnail": "https://i3.ytimg.com/vi/2Q7EmYdTWFU/hqdefault.jpg",
+      "channelID": "UCwyVRKfytvjSF6q5s7noKZQ",
+      "channelName": "Mr. DeMaio",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 300,
+      "keyword": "demaio",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-20",
+      "firstSeen": "2026-06-20",
+      "title": "The Fastest Animals on the Savanna... Who Wins the Race?! ? |  @natgeokids ?",
+      "videoUrl": "https://www.youtube.com/watch?v=M40LqBZ63g8",
+      "videoId": "M40LqBZ63g8",
+      "thumbnail": "https://i2.ytimg.com/vi/M40LqBZ63g8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-20",
+      "firstSeen": "2026-06-20",
+      "title": "Water Tricks That Will Blow Your Mind! Amazing Science Experiments with Water | Science Max",
+      "videoUrl": "https://www.youtube.com/watch?v=sTtnjvzV-nM",
+      "videoId": "sTtnjvzV-nM",
+      "thumbnail": "https://i4.ytimg.com/vi/sTtnjvzV-nM/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-20",
+      "firstSeen": "2026-06-20",
       "title": "Non-Stop Fry Cooking with SpongeBob! ? | 45 Minutes | SpongeBob",
       "videoUrl": "https://www.youtube.com/watch?v=h28EPxIz0xA",
       "videoId": "h28EPxIz0xA",
@@ -1319,50 +1385,6 @@
       "rating": {
         "jonah": "",
         "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-20",
-      "firstSeen": "2026-06-20",
-      "title": "The Fixies Go To School | The Fixies Movie Night | All The Best Fixie School Episodes",
-      "videoUrl": "https://www.youtube.com/watch?v=60PkVM6eyZc",
-      "videoId": "60PkVM6eyZc",
-      "thumbnail": "https://i3.ytimg.com/vi/60PkVM6eyZc/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-20",
-      "firstSeen": "2026-06-21",
-      "title": "Tom and Jerry Trickshot Challenge! ?? | Tom & Jerry | @wbkids",
-      "videoUrl": "https://www.youtube.com/watch?v=ldu3q3sFwL0",
-      "videoId": "ldu3q3sFwL0",
-      "thumbnail": "https://i1.ytimg.com/vi/ldu3q3sFwL0/hqdefault.jpg",
-      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
-      "channelName": "WB Kids",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "up",
-        "kieran": "up"
       }
     },
     {
@@ -1412,19 +1434,19 @@
     {
       "timestamp": "2026-06-20",
       "firstSeen": "2026-06-21",
-      "title": "I Made My Friend?s World More TINY Until He Notices",
-      "videoUrl": "https://www.youtube.com/watch?v=4k3yx8vpyGs",
-      "videoId": "4k3yx8vpyGs",
-      "thumbnail": "https://i1.ytimg.com/vi/4k3yx8vpyGs/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
+      "title": "Tom and Jerry Trickshot Challenge! ?? | Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=ldu3q3sFwL0",
+      "videoId": "ldu3q3sFwL0",
+      "thumbnail": "https://i1.ytimg.com/vi/ldu3q3sFwL0/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
       "profile": "Both",
       "retentionDays": 60,
-      "keyword": "minecraft",
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
-        "kieran": true
+        "kieran": false
       },
       "rating": {
         "jonah": "up",
@@ -1432,106 +1454,18 @@
       }
     },
     {
-      "timestamp": "2026-06-20",
-      "firstSeen": "2026-06-20",
-      "title": "Mr Bean Becomes a WARRIOR | Mr Bean - Cartoons for Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=1IQVtkwOMhI",
-      "videoId": "1IQVtkwOMhI",
-      "thumbnail": "https://i2.ytimg.com/vi/1IQVtkwOMhI/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-19",
+      "title": "How To Draw A Cowgirl and Cowboy Crab",
+      "videoUrl": "https://www.youtube.com/watch?v=O9iotlHmt2k",
+      "videoId": "O9iotlHmt2k",
+      "thumbnail": "https://i4.ytimg.com/vi/O9iotlHmt2k/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
       "profile": "Both",
       "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-20",
-      "firstSeen": "2026-06-20",
-      "title": "The Fastest Animals on the Savanna... Who Wins the Race?! ? |  @natgeokids ?",
-      "videoUrl": "https://www.youtube.com/watch?v=M40LqBZ63g8",
-      "videoId": "M40LqBZ63g8",
-      "thumbnail": "https://i2.ytimg.com/vi/M40LqBZ63g8/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-20",
-      "firstSeen": "2026-06-20",
-      "title": "Could You Survive a Waterspout?",
-      "videoUrl": "https://www.youtube.com/watch?v=2Q7EmYdTWFU",
-      "videoId": "2Q7EmYdTWFU",
-      "thumbnail": "https://i3.ytimg.com/vi/2Q7EmYdTWFU/hqdefault.jpg",
-      "channelID": "UCwyVRKfytvjSF6q5s7noKZQ",
-      "channelName": "Mr. DeMaio",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": 300,
-      "keyword": "demaio",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-20",
-      "firstSeen": "2026-06-20",
-      "title": "Water Tricks That Will Blow Your Mind! Amazing Science Experiments with Water | Science Max",
-      "videoUrl": "https://www.youtube.com/watch?v=sTtnjvzV-nM",
-      "videoId": "sTtnjvzV-nM",
-      "thumbnail": "https://i4.ytimg.com/vi/sTtnjvzV-nM/hqdefault.jpg",
-      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
-      "channelName": "Scholastic After School",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-20",
-      "firstSeen": "2026-06-20",
-      "title": "The Proud Monkey's Lesson ?? | English Moral Stories | Bedtime Stories",
-      "videoUrl": "https://www.youtube.com/watch?v=EW0t4rwhGOQ",
-      "videoId": "EW0t4rwhGOQ",
-      "thumbnail": "https://i2.ytimg.com/vi/EW0t4rwhGOQ/hqdefault.jpg",
-      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
-      "channelName": "Mr Book and Me",
-      "category": "Stories",
-      "profile": "Both",
-      "retentionDays": 200,
-      "keyword": "stories, educational",
+      "keyword": "art",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1565,17 +1499,17 @@
     },
     {
       "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-19",
-      "title": "What's Inside The Can? | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=osPnXKNe0b0",
-      "videoId": "osPnXKNe0b0",
-      "thumbnail": "https://i4.ytimg.com/vi/osPnXKNe0b0/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
+      "firstSeen": "2026-07-01",
+      "title": "Ms Wicket Makes Bean's Life IMPOSSIBLE | Mr Bean - Cartoons for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=tyEVpXbC23Q",
+      "videoId": "tyEVpXbC23Q",
+      "thumbnail": "https://i1.ytimg.com/vi/tyEVpXbC23Q/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
       "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
+      "retentionDays": 30,
+      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1588,16 +1522,104 @@
     {
       "timestamp": "2026-06-19",
       "firstSeen": "2026-06-19",
-      "title": "? LEGO Minecraft Chicken Chaos! ?? Epic Gaming Challenge ? | LEGO Games Live!",
-      "videoUrl": "https://www.youtube.com/watch?v=in79k1ZZJL4",
-      "videoId": "in79k1ZZJL4",
-      "thumbnail": "https://i2.ytimg.com/vi/in79k1ZZJL4/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
+      "title": "Mr Bean's Landlady Is a ZOMBIE?!?! | Mr Bean - Cartoons for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=ajrS3Ww_yG8",
+      "videoId": "ajrS3Ww_yG8",
+      "thumbnail": "https://i2.ytimg.com/vi/ajrS3Ww_yG8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
       "profile": "Both",
       "retentionDays": 30,
-      "keyword": "lego, minecraft",
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-29",
+      "title": "Monster Jam & Hot Wheels Monster Trucks Racing ?? WORLD CUP SOCCER",
+      "videoUrl": "https://www.youtube.com/watch?v=eTOUZjTxVf4",
+      "videoId": "eTOUZjTxVf4",
+      "thumbnail": "https://i2.ytimg.com/vi/eTOUZjTxVf4/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-28",
+      "title": "ASL Who Was Mansa Musa?",
+      "videoUrl": "https://www.youtube.com/watch?v=I-_yoLmEVYs",
+      "videoId": "I-_yoLmEVYs",
+      "thumbnail": "https://i2.ytimg.com/vi/I-_yoLmEVYs/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "History",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-27",
+      "title": "ASL The Great Wall of China",
+      "videoUrl": "https://www.youtube.com/watch?v=WS5MSdija0U",
+      "videoId": "WS5MSdija0U",
+      "thumbnail": "https://i4.ytimg.com/vi/WS5MSdija0U/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "History",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-26",
+      "title": "ASL Natural Disasters: Droughts",
+      "videoUrl": "https://www.youtube.com/watch?v=elSXmhWLkD8",
+      "videoId": "elSXmhWLkD8",
+      "thumbnail": "https://i2.ytimg.com/vi/elSXmhWLkD8/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1719,39 +1741,17 @@
     },
     {
       "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-28",
-      "title": "ASL Who Was Mansa Musa?",
-      "videoUrl": "https://www.youtube.com/watch?v=I-_yoLmEVYs",
-      "videoId": "I-_yoLmEVYs",
-      "thumbnail": "https://i2.ytimg.com/vi/I-_yoLmEVYs/hqdefault.jpg",
+      "firstSeen": "2026-06-19",
+      "title": "ASL Greek Mythology: Nike",
+      "videoUrl": "https://www.youtube.com/watch?v=w2ISqPem39E",
+      "videoId": "w2ISqPem39E",
+      "thumbnail": "https://i4.ytimg.com/vi/w2ISqPem39E/hqdefault.jpg",
       "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
       "channelName": "Learn Bright",
       "category": "History",
       "profile": "Both",
       "retentionDays": 60,
-      "keyword": "social studies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-27",
-      "title": "ASL The Great Wall of China",
-      "videoUrl": "https://www.youtube.com/watch?v=WS5MSdija0U",
-      "videoId": "WS5MSdija0U",
-      "thumbnail": "https://i4.ytimg.com/vi/WS5MSdija0U/hqdefault.jpg",
-      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "channelName": "Learn Bright",
-      "category": "History",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "social studies",
+      "keyword": "reading",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1764,16 +1764,60 @@
     {
       "timestamp": "2026-06-19",
       "firstSeen": "2026-06-19",
-      "title": "ASL Greek Mythology: Nike",
-      "videoUrl": "https://www.youtube.com/watch?v=w2ISqPem39E",
-      "videoId": "w2ISqPem39E",
-      "thumbnail": "https://i4.ytimg.com/vi/w2ISqPem39E/hqdefault.jpg",
+      "title": "ASL Flamingos for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=KolxaguPd0w",
+      "videoId": "KolxaguPd0w",
+      "thumbnail": "https://i4.ytimg.com/vi/KolxaguPd0w/hqdefault.jpg",
       "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
       "channelName": "Learn Bright",
-      "category": "History",
+      "category": "Nature",
       "profile": "Both",
       "retentionDays": 60,
-      "keyword": "reading",
+      "keyword": "educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-19",
+      "title": "? LEGO Minecraft Chicken Chaos! ?? Epic Gaming Challenge ? | LEGO Games Live!",
+      "videoUrl": "https://www.youtube.com/watch?v=in79k1ZZJL4",
+      "videoId": "in79k1ZZJL4",
+      "thumbnail": "https://i2.ytimg.com/vi/in79k1ZZJL4/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-20",
+      "title": "POOR vs RICH : McDonalds House Survival Battle in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=fGlHae0H-8U",
+      "videoId": "fGlHae0H-8U",
+      "thumbnail": "https://i3.ytimg.com/vi/fGlHae0H-8U/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1829,105 +1873,17 @@
     },
     {
       "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-20",
-      "title": "POOR vs RICH : McDonalds House Survival Battle in Minecraft",
-      "videoUrl": "https://www.youtube.com/watch?v=fGlHae0H-8U",
-      "videoId": "fGlHae0H-8U",
-      "thumbnail": "https://i3.ytimg.com/vi/fGlHae0H-8U/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-07-01",
-      "title": "Ms Wicket Makes Bean's Life IMPOSSIBLE | Mr Bean - Cartoons for Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=tyEVpXbC23Q",
-      "videoId": "tyEVpXbC23Q",
-      "thumbnail": "https://i1.ytimg.com/vi/tyEVpXbC23Q/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
       "firstSeen": "2026-06-19",
-      "title": "Mr Bean's Landlady Is a ZOMBIE?!?! | Mr Bean - Cartoons for Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=ajrS3Ww_yG8",
-      "videoId": "ajrS3Ww_yG8",
-      "thumbnail": "https://i2.ytimg.com/vi/ajrS3Ww_yG8/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
+      "title": "SpongeBob's BEST & Worst Krusty Krab Dining Moments! ? | SpongeBob SquarePants | Nickelodeon UK",
+      "videoUrl": "https://www.youtube.com/watch?v=fvgERElu_z8",
+      "videoId": "fvgERElu_z8",
+      "thumbnail": "https://i3.ytimg.com/vi/fvgERElu_z8/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "Nickelodeon UK",
+      "category": "Spongebob",
       "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-19",
-      "title": "ASL Flamingos for Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=KolxaguPd0w",
-      "videoId": "KolxaguPd0w",
-      "thumbnail": "https://i4.ytimg.com/vi/KolxaguPd0w/hqdefault.jpg",
-      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "channelName": "Learn Bright",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-26",
-      "title": "ASL Natural Disasters: Droughts",
-      "videoUrl": "https://www.youtube.com/watch?v=elSXmhWLkD8",
-      "videoId": "elSXmhWLkD8",
-      "thumbnail": "https://i2.ytimg.com/vi/elSXmhWLkD8/hqdefault.jpg",
-      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "channelName": "Learn Bright",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "educational, science",
+      "retentionDays": "",
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1962,120 +1918,10 @@
     {
       "timestamp": "2026-06-19",
       "firstSeen": "2026-06-19",
-      "title": "SpongeBob's BEST & Worst Krusty Krab Dining Moments! ? | SpongeBob SquarePants | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=fvgERElu_z8",
-      "videoId": "fvgERElu_z8",
-      "thumbnail": "https://i3.ytimg.com/vi/fvgERElu_z8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-19",
       "title": "Mr. Krabs Being the Best Dad Ever ?? | 45 Minutes | SpongeBob",
       "videoUrl": "https://www.youtube.com/watch?v=pG2Ietnjfqg",
       "videoId": "pG2Ietnjfqg",
       "thumbnail": "https://i1.ytimg.com/vi/pG2Ietnjfqg/hqdefault.jpg",
-      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
-      "channelName": "SpongeBob Official",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-19",
-      "title": "How To Draw A Cowgirl and Cowboy Crab",
-      "videoUrl": "https://www.youtube.com/watch?v=O9iotlHmt2k",
-      "videoId": "O9iotlHmt2k",
-      "thumbnail": "https://i4.ytimg.com/vi/O9iotlHmt2k/hqdefault.jpg",
-      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "channelName": "Art for Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "art",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-29",
-      "title": "Monster Jam & Hot Wheels Monster Trucks Racing ?? WORLD CUP SOCCER",
-      "videoUrl": "https://www.youtube.com/watch?v=eTOUZjTxVf4",
-      "videoId": "eTOUZjTxVf4",
-      "thumbnail": "https://i2.ytimg.com/vi/eTOUZjTxVf4/hqdefault.jpg",
-      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
-      "channelName": "Kids2Kids",
-      "category": "Vids by Kids",
-      "profile": "Both",
-      "retentionDays": 50,
-      "keyword": "kids2kids",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-18",
-      "firstSeen": "2026-06-18",
-      "title": "Tom Thomas Staples His Pants Back Together | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=guvjA8tDFOU",
-      "videoId": "guvjA8tDFOU",
-      "thumbnail": "https://i4.ytimg.com/vi/guvjA8tDFOU/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-18",
-      "firstSeen": "2026-06-18",
-      "title": "Krusty Krab Dining Experience ? | 10 Minutes | SpongeBob",
-      "videoUrl": "https://www.youtube.com/watch?v=W3iiz24qqHc",
-      "videoId": "W3iiz24qqHc",
-      "thumbnail": "https://i4.ytimg.com/vi/W3iiz24qqHc/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
       "category": "Spongebob",
@@ -2116,6 +1962,28 @@
     {
       "timestamp": "2026-06-18",
       "firstSeen": "2026-06-18",
+      "title": "Krusty Krab Dining Experience ? | 10 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=W3iiz24qqHc",
+      "videoId": "W3iiz24qqHc",
+      "thumbnail": "https://i4.ytimg.com/vi/W3iiz24qqHc/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-18",
+      "firstSeen": "2026-06-18",
       "title": "What?s happening inside a dishwasher? - Rachel Yang",
       "videoUrl": "https://www.youtube.com/watch?v=FBpBUwlDId0",
       "videoId": "FBpBUwlDId0",
@@ -2126,6 +1994,28 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-17",
+      "firstSeen": "2026-06-17",
+      "title": "The Upside-Down Planet! | #aumsum #kids #science",
+      "videoUrl": "https://www.youtube.com/watch?v=789DphMaD2U",
+      "videoId": "789DphMaD2U",
+      "thumbnail": "https://i4.ytimg.com/vi/789DphMaD2U/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "AumSum",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": "",
+      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2159,17 +2049,17 @@
     },
     {
       "timestamp": "2026-06-17",
-      "firstSeen": "2026-06-17",
-      "title": "Learning About Space | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=qomNigEQdFw",
-      "videoId": "qomNigEQdFw",
-      "thumbnail": "https://i2.ytimg.com/vi/qomNigEQdFw/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
+      "firstSeen": "2026-06-18",
+      "title": "Minecraft, But Everything is RAINBOW?",
+      "videoUrl": "https://www.youtube.com/watch?v=yHTEqTUFZT0",
+      "videoId": "yHTEqTUFZT0",
+      "thumbnail": "https://i2.ytimg.com/vi/yHTEqTUFZT0/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
       "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2202,40 +2092,18 @@
       }
     },
     {
-      "timestamp": "2026-06-17",
+      "timestamp": "2026-06-16",
       "firstSeen": "2026-06-18",
-      "title": "Minecraft, But Everything is RAINBOW?",
-      "videoUrl": "https://www.youtube.com/watch?v=yHTEqTUFZT0",
-      "videoId": "yHTEqTUFZT0",
-      "thumbnail": "https://i2.ytimg.com/vi/yHTEqTUFZT0/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
+      "title": "How To Draw A Soccer Ball Folding Surprise",
+      "videoUrl": "https://www.youtube.com/watch?v=mzE5nYM_zSI",
+      "videoId": "mzE5nYM_zSI",
+      "thumbnail": "https://i2.ytimg.com/vi/mzE5nYM_zSI/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
       "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-17",
-      "firstSeen": "2026-06-17",
-      "title": "The Upside-Down Planet! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=789DphMaD2U",
-      "videoId": "789DphMaD2U",
-      "thumbnail": "https://i4.ytimg.com/vi/789DphMaD2U/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
+      "retentionDays": 30,
+      "keyword": "art",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2265,72 +2133,6 @@
       "rating": {
         "jonah": "",
         "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-16",
-      "firstSeen": "2026-06-16",
-      "title": "Nolik Wants To Travel The World | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=JEyEgLY7sfM",
-      "videoId": "JEyEgLY7sfM",
-      "thumbnail": "https://i3.ytimg.com/vi/JEyEgLY7sfM/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-16",
-      "firstSeen": "2026-06-16",
-      "title": "How to attack (and defend) a medieval castle - Connor C. Wilson",
-      "videoUrl": "https://www.youtube.com/watch?v=eR5blcjll8o",
-      "videoId": "eR5blcjll8o",
-      "thumbnail": "https://i2.ytimg.com/vi/eR5blcjll8o/hqdefault.jpg",
-      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
-      "channelName": "TED-Ed",
-      "category": "History",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "ted-ed",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-16",
-      "firstSeen": "2026-06-21",
-      "title": "Coyote vs. Roadrunner ACME Challenge! ? | Looney Tuesdays | @wbkids?",
-      "videoUrl": "https://www.youtube.com/watch?v=x1Esbe00JiY",
-      "videoId": "x1Esbe00JiY",
-      "thumbnail": "https://i1.ytimg.com/vi/x1Esbe00JiY/hqdefault.jpg",
-      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
-      "channelName": "WB Kids",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "roadrunner, bugs, daffy, road runner, scooby, sylvester, tweety",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": "up"
       }
     },
     {
@@ -2423,11 +2225,55 @@
     },
     {
       "timestamp": "2026-06-16",
+      "firstSeen": "2026-06-16",
+      "title": "How to attack (and defend) a medieval castle - Connor C. Wilson",
+      "videoUrl": "https://www.youtube.com/watch?v=eR5blcjll8o",
+      "videoId": "eR5blcjll8o",
+      "thumbnail": "https://i2.ytimg.com/vi/eR5blcjll8o/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "History",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-16",
+      "firstSeen": "2026-06-21",
+      "title": "Coyote vs. Roadrunner ACME Challenge! ? | Looney Tuesdays | @wbkids?",
+      "videoUrl": "https://www.youtube.com/watch?v=x1Esbe00JiY",
+      "videoId": "x1Esbe00JiY",
+      "thumbnail": "https://i1.ytimg.com/vi/x1Esbe00JiY/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "roadrunner, bugs, daffy, road runner, scooby, sylvester, tweety",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": "up"
+      }
+    },
+    {
+      "timestamp": "2026-06-15",
       "firstSeen": "2026-06-18",
-      "title": "How To Draw A Soccer Ball Folding Surprise",
-      "videoUrl": "https://www.youtube.com/watch?v=mzE5nYM_zSI",
-      "videoId": "mzE5nYM_zSI",
-      "thumbnail": "https://i2.ytimg.com/vi/mzE5nYM_zSI/hqdefault.jpg",
+      "title": "How To Draw A Soccer Player Doing A Bicycle Kick",
+      "videoUrl": "https://www.youtube.com/watch?v=yNecLHlsY4c",
+      "videoId": "yNecLHlsY4c",
+      "thumbnail": "https://i2.ytimg.com/vi/yNecLHlsY4c/hqdefault.jpg",
       "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "channelName": "Art for Kids",
       "category": "Stuff to Know",
@@ -2485,50 +2331,6 @@
       "rating": {
         "jonah": "",
         "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-15",
-      "firstSeen": "2026-06-16",
-      "title": "Nolik Wishes He Was Taller | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=LhPsh6CdIvo",
-      "videoId": "LhPsh6CdIvo",
-      "thumbnail": "https://i1.ytimg.com/vi/LhPsh6CdIvo/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-15",
-      "firstSeen": "2026-06-21",
-      "title": "Who Drew It Better? ?? Elephant Art Challenge ? | Learning with Tom & Jerry | @wbkids",
-      "videoUrl": "https://www.youtube.com/watch?v=I70Es62wYDU",
-      "videoId": "I70Es62wYDU",
-      "thumbnail": "https://i2.ytimg.com/vi/I70Es62wYDU/hqdefault.jpg",
-      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
-      "channelName": "WB Kids",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "art, scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": "up"
       }
     },
     {
@@ -2599,24 +2401,24 @@
     },
     {
       "timestamp": "2026-06-15",
-      "firstSeen": "2026-06-18",
-      "title": "How To Draw A Soccer Player Doing A Bicycle Kick",
-      "videoUrl": "https://www.youtube.com/watch?v=yNecLHlsY4c",
-      "videoId": "yNecLHlsY4c",
-      "thumbnail": "https://i2.ytimg.com/vi/yNecLHlsY4c/hqdefault.jpg",
-      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "channelName": "Art for Kids",
-      "category": "Stuff to Know",
+      "firstSeen": "2026-06-21",
+      "title": "Who Drew It Better? ?? Elephant Art Challenge ? | Learning with Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=I70Es62wYDU",
+      "videoId": "I70Es62wYDU",
+      "thumbnail": "https://i2.ytimg.com/vi/I70Es62wYDU/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
       "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "art",
+      "retentionDays": 60,
+      "keyword": "art, scooby",
       "watched": {
         "jonah": false,
         "kieran": false
       },
       "rating": {
         "jonah": "",
-        "kieran": ""
+        "kieran": "up"
       }
     },
     {
@@ -2643,17 +2445,17 @@
     },
     {
       "timestamp": "2026-06-14",
-      "firstSeen": "2026-06-16",
-      "title": "Tom Thomas Shows Off His New Sneakers | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=thHeIvQ-Q0c",
-      "videoId": "thHeIvQ-Q0c",
-      "thumbnail": "https://i1.ytimg.com/vi/thHeIvQ-Q0c/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
+      "firstSeen": "2026-06-22",
+      "title": "Why's This Cat Attacking Mr Bean?!? | Mr Bean - Cartoons For Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=U3__G0GS2T0",
+      "videoId": "U3__G0GS2T0",
+      "thumbnail": "https://i2.ytimg.com/vi/U3__G0GS2T0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
       "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
+      "retentionDays": 30,
+      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2709,28 +2511,6 @@
     },
     {
       "timestamp": "2026-06-14",
-      "firstSeen": "2026-06-22",
-      "title": "Why's This Cat Attacking Mr Bean?!? | Mr Bean - Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=U3__G0GS2T0",
-      "videoId": "U3__G0GS2T0",
-      "thumbnail": "https://i2.ytimg.com/vi/U3__G0GS2T0/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-14",
       "firstSeen": "2026-06-16",
       "title": "Squidward & SpongeBob's Five-Star Plan Goes CHAOTIC! ? | SpongeBob SquarePants | Nickelodeon UK",
       "videoUrl": "https://www.youtube.com/watch?v=f7ixTJyB2pw",
@@ -2764,116 +2544,6 @@
       "profile": "Both",
       "retentionDays": "",
       "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-13",
-      "firstSeen": "2026-06-16",
-      "title": "Young Dylan FULL EPISODE: Sharing is Caring | Brand New | Tyler Perry's Young Dylan | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=wP-2JQGM9fI",
-      "videoId": "wP-2JQGM9fI",
-      "thumbnail": "https://i4.ytimg.com/vi/wP-2JQGM9fI/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "dylan",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-13",
-      "firstSeen": "2026-06-16",
-      "title": "Simka Takes Funny Photos | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=WZc-NEgSsDk",
-      "videoId": "WZc-NEgSsDk",
-      "thumbnail": "https://i4.ytimg.com/vi/WZc-NEgSsDk/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-13",
-      "firstSeen": "2026-06-21",
-      "title": "Tom & Jerry Shorts MARATHON! Vol.2 ?? | Classic Tom & Jerry MEGA COMP ? | #KidsCartoons @wbkids",
-      "videoUrl": "https://www.youtube.com/watch?v=_2OBV4ODxx4",
-      "videoId": "_2OBV4ODxx4",
-      "thumbnail": "https://i4.ytimg.com/vi/_2OBV4ODxx4/hqdefault.jpg",
-      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
-      "channelName": "WB Kids",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "up",
-        "kieran": "up"
-      }
-    },
-    {
-      "timestamp": "2026-06-13",
-      "firstSeen": "2026-06-18",
-      "title": "The Jetsons scenes that made us scientifically smarter ?? | @GenerationWB",
-      "videoUrl": "https://www.youtube.com/watch?v=jIYOol_r62Q",
-      "videoId": "jIYOol_r62Q",
-      "thumbnail": "https://i3.ytimg.com/vi/jIYOol_r62Q/hqdefault.jpg",
-      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
-      "channelName": "WB",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "jetsons, scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-13",
-      "firstSeen": "2026-06-16",
-      "title": "Looney Tunes | Classic Daffy Duck Mega Compilation | Warner Classics",
-      "videoUrl": "https://www.youtube.com/watch?v=rfvq3CzrJls",
-      "videoId": "rfvq3CzrJls",
-      "thumbnail": "https://i3.ytimg.com/vi/rfvq3CzrJls/hqdefault.jpg",
-      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
-      "channelName": "Warner Bros Classics",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "bugs bunny, sylvester",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2930,6 +2600,28 @@
     {
       "timestamp": "2026-06-13",
       "firstSeen": "2026-06-16",
+      "title": "Young Dylan FULL EPISODE: Sharing is Caring | Brand New | Tyler Perry's Young Dylan | Nickelodeon UK",
+      "videoUrl": "https://www.youtube.com/watch?v=wP-2JQGM9fI",
+      "videoId": "wP-2JQGM9fI",
+      "thumbnail": "https://i4.ytimg.com/vi/wP-2JQGM9fI/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "Nickelodeon UK",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": "",
+      "keyword": "dylan",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-13",
+      "firstSeen": "2026-06-16",
       "title": "SpongeBob & Patrick: Kamp Koral's BIGGEST Troublemakers! ? | Kamp Koral | Nickelodeon UK",
       "videoUrl": "https://www.youtube.com/watch?v=RbHP3TXN14o",
       "videoId": "RbHP3TXN14o",
@@ -2950,6 +2642,72 @@
       }
     },
     {
+      "timestamp": "2026-06-13",
+      "firstSeen": "2026-06-16",
+      "title": "Looney Tunes | Classic Daffy Duck Mega Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=rfvq3CzrJls",
+      "videoId": "rfvq3CzrJls",
+      "thumbnail": "https://i3.ytimg.com/vi/rfvq3CzrJls/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs bunny, sylvester",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-13",
+      "firstSeen": "2026-06-18",
+      "title": "The Jetsons scenes that made us scientifically smarter ?? | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=jIYOol_r62Q",
+      "videoId": "jIYOol_r62Q",
+      "thumbnail": "https://i3.ytimg.com/vi/jIYOol_r62Q/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "jetsons, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-13",
+      "firstSeen": "2026-06-21",
+      "title": "Tom & Jerry Shorts MARATHON! Vol.2 ?? | Classic Tom & Jerry MEGA COMP ? | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=_2OBV4ODxx4",
+      "videoId": "_2OBV4ODxx4",
+      "thumbnail": "https://i4.ytimg.com/vi/_2OBV4ODxx4/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "up",
+        "kieran": "up"
+      }
+    },
+    {
       "timestamp": "2026-06-12",
       "firstSeen": "2026-06-19",
       "title": "Food War of the Gods! ?  | NEW Regular Show: The Lost Tapes | Cartoon Network UK",
@@ -2962,50 +2720,6 @@
       "profile": "Both",
       "retentionDays": "",
       "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-12",
-      "firstSeen": "2026-06-16",
-      "title": "What is Tom Thomas Making? | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=LlTrrgbYRpw",
-      "videoId": "LlTrrgbYRpw",
-      "thumbnail": "https://i1.ytimg.com/vi/LlTrrgbYRpw/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-12",
-      "firstSeen": "2026-06-18",
-      "title": "Minecraft, But We Can Talk to Animals!",
-      "videoUrl": "https://www.youtube.com/watch?v=bYxlZpGhrEc",
-      "videoId": "bYxlZpGhrEc",
-      "thumbnail": "https://i3.ytimg.com/vi/bYxlZpGhrEc/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -3061,6 +2775,28 @@
     },
     {
       "timestamp": "2026-06-12",
+      "firstSeen": "2026-06-18",
+      "title": "Minecraft, But We Can Talk to Animals!",
+      "videoUrl": "https://www.youtube.com/watch?v=bYxlZpGhrEc",
+      "videoId": "bYxlZpGhrEc",
+      "thumbnail": "https://i3.ytimg.com/vi/bYxlZpGhrEc/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-12",
       "firstSeen": "2026-06-16",
       "title": "Why Do We Burp? | How Burping Occurs? | Is Belching Just Bad Manners? | The Dr. Binocs Show",
       "videoUrl": "https://www.youtube.com/watch?v=_42FCZl3q5w",
@@ -3094,6 +2830,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-11",
+      "firstSeen": "2026-06-16",
+      "title": "The Hungry Darkness! | #aumsum #kids #science",
+      "videoUrl": "https://www.youtube.com/watch?v=5bXVjcFxCI0",
+      "videoId": "5bXVjcFxCI0",
+      "thumbnail": "https://i2.ytimg.com/vi/5bXVjcFxCI0/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "AumSum",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": "",
+      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -3150,50 +2908,6 @@
     {
       "timestamp": "2026-06-11",
       "firstSeen": "2026-06-16",
-      "title": "Tom Thomas Sends A Secret Message | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=LKUT0Sj-tBE",
-      "videoId": "LKUT0Sj-tBE",
-      "thumbnail": "https://i1.ytimg.com/vi/LKUT0Sj-tBE/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-11",
-      "firstSeen": "2026-06-21",
-      "title": "Weird Science! ? | Scooby-Doo | #KidsCartoons @wbkids ?",
-      "videoUrl": "https://www.youtube.com/watch?v=mjTkC0ZTkUY",
-      "videoId": "mjTkC0ZTkUY",
-      "thumbnail": "https://i2.ytimg.com/vi/mjTkC0ZTkUY/hqdefault.jpg",
-      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
-      "channelName": "WB Kids",
-      "category": "Scooby Doo",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "science, scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "up",
-        "kieran": "up"
-      }
-    },
-    {
-      "timestamp": "2026-06-11",
-      "firstSeen": "2026-06-16",
       "title": "Why's Bean Chasing This Robot? | Mr Bean - Cartoons For Kids",
       "videoUrl": "https://www.youtube.com/watch?v=vWNLyRiu4os",
       "videoId": "vWNLyRiu4os",
@@ -3238,6 +2952,28 @@
     {
       "timestamp": "2026-06-11",
       "firstSeen": "2026-06-16",
+      "title": "Squidward TRYING to Vibe for 30 Minutes Straight ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=9Ij_oPL2DlQ",
+      "videoId": "9Ij_oPL2DlQ",
+      "thumbnail": "https://i2.ytimg.com/vi/9Ij_oPL2DlQ/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-11",
+      "firstSeen": "2026-06-16",
       "title": "Meet the slow loris, the only venomous primate in existence - Stephanie A. Poindexter",
       "videoUrl": "https://www.youtube.com/watch?v=JDqpcHGfJ2I",
       "videoId": "JDqpcHGfJ2I",
@@ -3259,46 +2995,24 @@
     },
     {
       "timestamp": "2026-06-11",
-      "firstSeen": "2026-06-16",
-      "title": "The Hungry Darkness! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=5bXVjcFxCI0",
-      "videoId": "5bXVjcFxCI0",
-      "thumbnail": "https://i2.ytimg.com/vi/5bXVjcFxCI0/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
+      "firstSeen": "2026-06-21",
+      "title": "Weird Science! ? | Scooby-Doo | #KidsCartoons @wbkids ?",
+      "videoUrl": "https://www.youtube.com/watch?v=mjTkC0ZTkUY",
+      "videoId": "mjTkC0ZTkUY",
+      "thumbnail": "https://i2.ytimg.com/vi/mjTkC0ZTkUY/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Scooby Doo",
       "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
+      "retentionDays": 60,
+      "keyword": "science, scooby",
       "watched": {
         "jonah": false,
         "kieran": false
       },
       "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-11",
-      "firstSeen": "2026-06-16",
-      "title": "Squidward TRYING to Vibe for 30 Minutes Straight ? | SpongeBob",
-      "videoUrl": "https://www.youtube.com/watch?v=9Ij_oPL2DlQ",
-      "videoId": "9Ij_oPL2DlQ",
-      "thumbnail": "https://i2.ytimg.com/vi/9Ij_oPL2DlQ/hqdefault.jpg",
-      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
-      "channelName": "SpongeBob Official",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
+        "jonah": "up",
+        "kieran": "up"
       }
     },
     {
@@ -3314,28 +3028,6 @@
       "profile": "Both",
       "retentionDays": "",
       "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-10",
-      "firstSeen": "2026-06-16",
-      "title": "Verda Wants To Photograph The Butterfly | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=OfeCTW0mszI",
-      "videoId": "OfeCTW0mszI",
-      "thumbnail": "https://i4.ytimg.com/vi/OfeCTW0mszI/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -3391,17 +3083,39 @@
     },
     {
       "timestamp": "2026-06-09",
+      "firstSeen": "2026-06-18",
+      "title": "How To Draw A Cartoon Soccer Ball",
+      "videoUrl": "https://www.youtube.com/watch?v=PueR2Wzrr5o",
+      "videoId": "PueR2Wzrr5o",
+      "thumbnail": "https://i1.ytimg.com/vi/PueR2Wzrr5o/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-09",
       "firstSeen": "2026-06-16",
-      "title": "How Do Kettles Work? | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=dHhS52YRur0",
-      "videoId": "dHhS52YRur0",
-      "thumbnail": "https://i1.ytimg.com/vi/dHhS52YRur0/hqdefault.jpg",
+      "title": "The Invisible Color Planet! | #aumsum #kids #science",
+      "videoUrl": "https://www.youtube.com/watch?v=qYg3eCxPWjU",
+      "videoId": "qYg3eCxPWjU",
+      "thumbnail": "https://i2.ytimg.com/vi/qYg3eCxPWjU/hqdefault.jpg",
       "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
+      "channelName": "AumSum",
+      "category": "Science",
       "profile": "Both",
       "retentionDays": "",
-      "keyword": "fixies",
+      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -3480,28 +3194,6 @@
     {
       "timestamp": "2026-06-09",
       "firstSeen": "2026-06-16",
-      "title": "Just how ancient is sumo? - Lee Thompson",
-      "videoUrl": "https://www.youtube.com/watch?v=Q9Vt6NGBVBc",
-      "videoId": "Q9Vt6NGBVBc",
-      "thumbnail": "https://i2.ytimg.com/vi/Q9Vt6NGBVBc/hqdefault.jpg",
-      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
-      "channelName": "TED-Ed",
-      "category": "History",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "ted-ed",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-09",
-      "firstSeen": "2026-06-16",
       "title": "ASL Wild Facts about Marsupials",
       "videoUrl": "https://www.youtube.com/watch?v=H61SRlWxGz4",
       "videoId": "H61SRlWxGz4",
@@ -3534,28 +3226,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "reading, social studies, educational",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-09",
-      "firstSeen": "2026-06-16",
-      "title": "The Invisible Color Planet! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=qYg3eCxPWjU",
-      "videoId": "qYg3eCxPWjU",
-      "thumbnail": "https://i2.ytimg.com/vi/qYg3eCxPWjU/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -3809,63 +3479,19 @@
     },
     {
       "timestamp": "2026-06-09",
-      "firstSeen": "2026-06-18",
-      "title": "How To Draw A Cartoon Soccer Ball",
-      "videoUrl": "https://www.youtube.com/watch?v=PueR2Wzrr5o",
-      "videoId": "PueR2Wzrr5o",
-      "thumbnail": "https://i1.ytimg.com/vi/PueR2Wzrr5o/hqdefault.jpg",
-      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "channelName": "Art for Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "art",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-08",
       "firstSeen": "2026-06-16",
-      "title": "They Wont Stop Looking At Their Phones! | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=srPOU8cxk_I",
-      "videoId": "srPOU8cxk_I",
-      "thumbnail": "https://i4.ytimg.com/vi/srPOU8cxk_I/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
+      "title": "Just how ancient is sumo? - Lee Thompson",
+      "videoUrl": "https://www.youtube.com/watch?v=Q9Vt6NGBVBc",
+      "videoId": "Q9Vt6NGBVBc",
+      "thumbnail": "https://i2.ytimg.com/vi/Q9Vt6NGBVBc/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "History",
       "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
       "watched": {
         "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-08",
-      "firstSeen": "2026-06-18",
-      "title": "HOT vs COLD Survival Challenge in Minecraft!",
-      "videoUrl": "https://www.youtube.com/watch?v=j_DuLxJCdMo",
-      "videoId": "j_DuLxJCdMo",
-      "thumbnail": "https://i3.ytimg.com/vi/j_DuLxJCdMo/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
-      "watched": {
-        "jonah": true,
         "kieran": false
       },
       "rating": {
@@ -3918,20 +3544,20 @@
       }
     },
     {
-      "timestamp": "2026-06-07",
-      "firstSeen": "2026-06-16",
-      "title": "The Fixies Learn About Perpetual Motion | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=quP3UmGNYh8",
-      "videoId": "quP3UmGNYh8",
-      "thumbnail": "https://i2.ytimg.com/vi/quP3UmGNYh8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
+      "timestamp": "2026-06-08",
+      "firstSeen": "2026-06-18",
+      "title": "HOT vs COLD Survival Challenge in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=j_DuLxJCdMo",
+      "videoId": "j_DuLxJCdMo",
+      "thumbnail": "https://i3.ytimg.com/vi/j_DuLxJCdMo/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
       "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
-        "jonah": false,
+        "jonah": true,
         "kieran": false
       },
       "rating": {
@@ -3964,38 +3590,16 @@
     {
       "timestamp": "2026-06-06",
       "firstSeen": "2026-06-18",
-      "title": "Tom and Jerry Tales Saturday Morning MARATHON ? | @GenerationWB",
-      "videoUrl": "https://www.youtube.com/watch?v=CKLpJpVqpJo",
-      "videoId": "CKLpJpVqpJo",
-      "thumbnail": "https://i4.ytimg.com/vi/CKLpJpVqpJo/hqdefault.jpg",
-      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
-      "channelName": "WB",
-      "category": "Looney Tunes",
+      "title": "TINY vs GIANT Minecraft Death Run",
+      "videoUrl": "https://www.youtube.com/watch?v=fI04nIfeem8",
+      "videoId": "fI04nIfeem8",
+      "thumbnail": "https://i3.ytimg.com/vi/fI04nIfeem8/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
       "profile": "Both",
       "retentionDays": 60,
-      "keyword": "scooby",
-      "watched": {
-        "jonah": true,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "up",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-06",
-      "firstSeen": "2026-06-16",
-      "title": "Looney Tunes | Classic Bugs Bunny & Elmer Fudd Compilation | Warner Classics",
-      "videoUrl": "https://www.youtube.com/watch?v=7sL__iyyQj8",
-      "videoId": "7sL__iyyQj8",
-      "thumbnail": "https://i4.ytimg.com/vi/7sL__iyyQj8/hqdefault.jpg",
-      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
-      "channelName": "Warner Bros Classics",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "bugs bunny",
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4007,17 +3611,17 @@
     },
     {
       "timestamp": "2026-06-06",
-      "firstSeen": "2026-06-18",
-      "title": "TINY vs GIANT Minecraft Death Run",
-      "videoUrl": "https://www.youtube.com/watch?v=fI04nIfeem8",
-      "videoId": "fI04nIfeem8",
-      "thumbnail": "https://i3.ytimg.com/vi/fI04nIfeem8/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
+      "firstSeen": "2026-06-20",
+      "title": "The Brave Little Donkey | English Moral Stories | Bedtime Stories",
+      "videoUrl": "https://www.youtube.com/watch?v=CxMJ3m-NyW8",
+      "videoId": "CxMJ3m-NyW8",
+      "thumbnail": "https://i4.ytimg.com/vi/CxMJ3m-NyW8/hqdefault.jpg",
+      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
+      "channelName": "Mr Book and Me",
+      "category": "Stories",
       "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
+      "retentionDays": 200,
+      "keyword": "stories, educational",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4095,17 +3699,17 @@
     },
     {
       "timestamp": "2026-06-06",
-      "firstSeen": "2026-06-20",
-      "title": "The Brave Little Donkey | English Moral Stories | Bedtime Stories",
-      "videoUrl": "https://www.youtube.com/watch?v=CxMJ3m-NyW8",
-      "videoId": "CxMJ3m-NyW8",
-      "thumbnail": "https://i4.ytimg.com/vi/CxMJ3m-NyW8/hqdefault.jpg",
-      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
-      "channelName": "Mr Book and Me",
-      "category": "Stories",
+      "firstSeen": "2026-06-16",
+      "title": "Looney Tunes | Classic Bugs Bunny & Elmer Fudd Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=7sL__iyyQj8",
+      "videoId": "7sL__iyyQj8",
+      "thumbnail": "https://i4.ytimg.com/vi/7sL__iyyQj8/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
       "profile": "Both",
-      "retentionDays": 200,
-      "keyword": "stories, educational",
+      "retentionDays": 60,
+      "keyword": "bugs bunny",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4116,18 +3720,40 @@
       }
     },
     {
-      "timestamp": "2026-06-05",
-      "firstSeen": "2026-06-16",
-      "title": "Tom Thomas is Pretending to Be Sick | The Fixies | Learning Cartoons For Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=jpTtWZ-Xb54",
-      "videoId": "jpTtWZ-Xb54",
-      "thumbnail": "https://i3.ytimg.com/vi/jpTtWZ-Xb54/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Fixies",
-      "category": "Cartoons",
+      "timestamp": "2026-06-06",
+      "firstSeen": "2026-06-18",
+      "title": "Tom and Jerry Tales Saturday Morning MARATHON ? | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=CKLpJpVqpJo",
+      "videoId": "CKLpJpVqpJo",
+      "thumbnail": "https://i4.ytimg.com/vi/CKLpJpVqpJo/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
       "profile": "Both",
-      "retentionDays": "",
-      "keyword": "fixies",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": true,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "up",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-05",
+      "firstSeen": "2026-06-18",
+      "title": "How To Draw Dottie The Birthday Donut",
+      "videoUrl": "https://www.youtube.com/watch?v=EvWSWpHsPSI",
+      "videoId": "EvWSWpHsPSI",
+      "thumbnail": "https://i2.ytimg.com/vi/EvWSWpHsPSI/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4162,38 +3788,16 @@
     {
       "timestamp": "2026-06-05",
       "firstSeen": "2026-06-16",
-      "title": "SpongeBob's Most Magical & Colorful Moments in Bikini Bottom ? | 30 Minutes | SpongeBob",
-      "videoUrl": "https://www.youtube.com/watch?v=35mUItQHYEI",
-      "videoId": "35mUItQHYEI",
-      "thumbnail": "https://i4.ytimg.com/vi/35mUItQHYEI/hqdefault.jpg",
-      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
-      "channelName": "SpongeBob Official",
-      "category": "Spongebob",
+      "title": "? Caleb, Isabel, Mary & Charlene's BUG SCAVENGER HUNT (My Dad Swallowed a Mosquito!)",
+      "videoUrl": "https://www.youtube.com/watch?v=1W8Li7FUE-A",
+      "videoId": "1W8Li7FUE-A",
+      "thumbnail": "https://i2.ytimg.com/vi/1W8Li7FUE-A/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
       "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-05",
-      "firstSeen": "2026-06-18",
-      "title": "How To Draw Dottie The Birthday Donut",
-      "videoUrl": "https://www.youtube.com/watch?v=EvWSWpHsPSI",
-      "videoId": "EvWSWpHsPSI",
-      "thumbnail": "https://i2.ytimg.com/vi/EvWSWpHsPSI/hqdefault.jpg",
-      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "channelName": "Art for Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "art",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4228,38 +3832,16 @@
     {
       "timestamp": "2026-06-05",
       "firstSeen": "2026-06-16",
-      "title": "? Caleb, Isabel, Mary & Charlene's BUG SCAVENGER HUNT (My Dad Swallowed a Mosquito!)",
-      "videoUrl": "https://www.youtube.com/watch?v=1W8Li7FUE-A",
-      "videoId": "1W8Li7FUE-A",
-      "thumbnail": "https://i2.ytimg.com/vi/1W8Li7FUE-A/hqdefault.jpg",
-      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
-      "channelName": "Kids2Kids",
-      "category": "Vids by Kids",
+      "title": "SpongeBob's Most Magical & Colorful Moments in Bikini Bottom ? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=35mUItQHYEI",
+      "videoId": "35mUItQHYEI",
+      "thumbnail": "https://i4.ytimg.com/vi/35mUItQHYEI/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
       "profile": "Both",
-      "retentionDays": 50,
-      "keyword": "kids2kids",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-04",
-      "firstSeen": "2026-06-16",
-      "title": "Why does catnip make cats go crazy? - Jaap de Roode",
-      "videoUrl": "https://www.youtube.com/watch?v=HDt_rTPPh70",
-      "videoId": "HDt_rTPPh70",
-      "thumbnail": "https://i1.ytimg.com/vi/HDt_rTPPh70/hqdefault.jpg",
-      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
-      "channelName": "TED-Ed",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "ted-ed",
+      "retentionDays": 15,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4292,18 +3874,40 @@
       }
     },
     {
+      "timestamp": "2026-06-04",
+      "firstSeen": "2026-06-16",
+      "title": "Why does catnip make cats go crazy? - Jaap de Roode",
+      "videoUrl": "https://www.youtube.com/watch?v=HDt_rTPPh70",
+      "videoId": "HDt_rTPPh70",
+      "thumbnail": "https://i1.ytimg.com/vi/HDt_rTPPh70/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-06-03",
       "firstSeen": "2026-06-18",
-      "title": "The DAY Milo Couldn't WAKE UP!",
-      "videoUrl": "https://www.youtube.com/watch?v=nlDDtZXqZPY",
-      "videoId": "nlDDtZXqZPY",
-      "thumbnail": "https://i3.ytimg.com/vi/nlDDtZXqZPY/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
+      "title": "How To Draw A Cool Electric Bike (E-Bike)",
+      "videoUrl": "https://www.youtube.com/watch?v=3-45pSoa3dc",
+      "videoId": "3-45pSoa3dc",
+      "thumbnail": "https://i4.ytimg.com/vi/3-45pSoa3dc/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
       "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
+      "retentionDays": 30,
+      "keyword": "art",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4338,16 +3942,16 @@
     {
       "timestamp": "2026-06-03",
       "firstSeen": "2026-06-18",
-      "title": "How To Draw A Cool Electric Bike (E-Bike)",
-      "videoUrl": "https://www.youtube.com/watch?v=3-45pSoa3dc",
-      "videoId": "3-45pSoa3dc",
-      "thumbnail": "https://i4.ytimg.com/vi/3-45pSoa3dc/hqdefault.jpg",
-      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "channelName": "Art for Kids",
-      "category": "Stuff to Know",
+      "title": "The DAY Milo Couldn't WAKE UP!",
+      "videoUrl": "https://www.youtube.com/watch?v=nlDDtZXqZPY",
+      "videoId": "nlDDtZXqZPY",
+      "thumbnail": "https://i3.ytimg.com/vi/nlDDtZXqZPY/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
       "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "art",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4370,28 +3974,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "art",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-01",
-      "firstSeen": "2026-06-18",
-      "title": "NOOB vs PRO: GUGU GAGA Safest Security House Build Challenge to Protect My Family",
-      "videoUrl": "https://www.youtube.com/watch?v=HlTfxG007JI",
-      "videoId": "HlTfxG007JI",
-      "thumbnail": "https://i1.ytimg.com/vi/HlTfxG007JI/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4446,6 +4028,28 @@
       }
     },
     {
+      "timestamp": "2026-06-01",
+      "firstSeen": "2026-06-18",
+      "title": "NOOB vs PRO: GUGU GAGA Safest Security House Build Challenge to Protect My Family",
+      "videoUrl": "https://www.youtube.com/watch?v=HlTfxG007JI",
+      "videoId": "HlTfxG007JI",
+      "thumbnail": "https://i1.ytimg.com/vi/HlTfxG007JI/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-05-30",
       "firstSeen": "2026-06-16",
       "title": "The Machine - Animator vs. Animation 13",
@@ -4458,50 +4062,6 @@
       "profile": "Both",
       "retentionDays": 200,
       "keyword": "alan becker",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-30",
-      "firstSeen": "2026-06-18",
-      "title": "Scooby-Doo! moments to watch with your dog ?  | @GenerationWB?",
-      "videoUrl": "https://www.youtube.com/watch?v=O1FerrcRe_c",
-      "videoId": "O1FerrcRe_c",
-      "thumbnail": "https://i4.ytimg.com/vi/O1FerrcRe_c/hqdefault.jpg",
-      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
-      "channelName": "WB",
-      "category": "Scooby Doo",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-30",
-      "firstSeen": "2026-06-16",
-      "title": "Looney Tunes | Classic Wile E. Coyote vs Road Runner Compilation | Vol. 9 | Warner Classics",
-      "videoUrl": "https://www.youtube.com/watch?v=axn1X-Kbs5g",
-      "videoId": "axn1X-Kbs5g",
-      "thumbnail": "https://i2.ytimg.com/vi/axn1X-Kbs5g/hqdefault.jpg",
-      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
-      "channelName": "Warner Bros Classics",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "road runner",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4546,6 +4106,50 @@
       "profile": "Both",
       "retentionDays": 200,
       "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-05-30",
+      "firstSeen": "2026-06-16",
+      "title": "Looney Tunes | Classic Wile E. Coyote vs Road Runner Compilation | Vol. 9 | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=axn1X-Kbs5g",
+      "videoId": "axn1X-Kbs5g",
+      "thumbnail": "https://i2.ytimg.com/vi/axn1X-Kbs5g/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "road runner",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-05-30",
+      "firstSeen": "2026-06-18",
+      "title": "Scooby-Doo! moments to watch with your dog ?  | @GenerationWB?",
+      "videoUrl": "https://www.youtube.com/watch?v=O1FerrcRe_c",
+      "videoId": "O1FerrcRe_c",
+      "thumbnail": "https://i4.ytimg.com/vi/O1FerrcRe_c/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Scooby Doo",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4668,16 +4272,16 @@
     {
       "timestamp": "2026-05-26",
       "firstSeen": "2026-06-16",
-      "title": "What toys have kids played with throughout history?",
-      "videoUrl": "https://www.youtube.com/watch?v=aob7rM5PV5A",
-      "videoId": "aob7rM5PV5A",
-      "thumbnail": "https://i2.ytimg.com/vi/aob7rM5PV5A/hqdefault.jpg",
-      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
-      "channelName": "TED-Ed",
-      "category": "History",
+      "title": "Deadliest Plants & Trees | Most Dangerous Plants & Trees | Poison Ivy, Manchineel Tree & More",
+      "videoUrl": "https://www.youtube.com/watch?v=Gjogqf64oKU",
+      "videoId": "Gjogqf64oKU",
+      "thumbnail": "https://i4.ytimg.com/vi/Gjogqf64oKU/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Nature",
       "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "ted-ed, lego",
+      "retentionDays": 60,
+      "keyword": "binocs, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4690,16 +4294,16 @@
     {
       "timestamp": "2026-05-26",
       "firstSeen": "2026-06-16",
-      "title": "Deadliest Plants & Trees | Most Dangerous Plants & Trees | Poison Ivy, Manchineel Tree & More",
-      "videoUrl": "https://www.youtube.com/watch?v=Gjogqf64oKU",
-      "videoId": "Gjogqf64oKU",
-      "thumbnail": "https://i4.ytimg.com/vi/Gjogqf64oKU/hqdefault.jpg",
-      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
-      "channelName": "Peekaboo Kidz",
-      "category": "Nature",
+      "title": "What toys have kids played with throughout history?",
+      "videoUrl": "https://www.youtube.com/watch?v=aob7rM5PV5A",
+      "videoId": "aob7rM5PV5A",
+      "thumbnail": "https://i2.ytimg.com/vi/aob7rM5PV5A/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "History",
       "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "binocs, science",
+      "retentionDays": 80,
+      "keyword": "ted-ed, lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4756,50 +4360,6 @@
     {
       "timestamp": "2026-05-22",
       "firstSeen": "2026-06-16",
-      "title": "World's First Car | Who invented the Car? | History of the Automobile Invention | Dr. Binocs Show",
-      "videoUrl": "https://www.youtube.com/watch?v=wxxEV19sgjQ",
-      "videoId": "wxxEV19sgjQ",
-      "thumbnail": "https://i4.ytimg.com/vi/wxxEV19sgjQ/hqdefault.jpg",
-      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
-      "channelName": "Peekaboo Kidz",
-      "category": "History",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "binocs",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-22",
-      "firstSeen": "2026-06-18",
-      "title": "BIRTH to DEATH of YOU in Minecraft",
-      "videoUrl": "https://www.youtube.com/watch?v=VRn3KpKOB-Q",
-      "videoId": "VRn3KpKOB-Q",
-      "thumbnail": "https://i3.ytimg.com/vi/VRn3KpKOB-Q/hqdefault.jpg",
-      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
-      "channelName": "Milo and Chip",
-      "category": "Minecraft",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-22",
-      "firstSeen": "2026-06-16",
       "title": "The Electric Storm! | #aumsum #kids #science",
       "videoUrl": "https://www.youtube.com/watch?v=_HhksFgLcj0",
       "videoId": "_HhksFgLcj0",
@@ -4842,18 +4402,40 @@
       }
     },
     {
-      "timestamp": "2026-05-21",
+      "timestamp": "2026-05-22",
+      "firstSeen": "2026-06-18",
+      "title": "BIRTH to DEATH of YOU in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=VRn3KpKOB-Q",
+      "videoId": "VRn3KpKOB-Q",
+      "thumbnail": "https://i3.ytimg.com/vi/VRn3KpKOB-Q/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-05-22",
       "firstSeen": "2026-06-16",
-      "title": "The incredible engineering of Venice - Stephanie H. Smith",
-      "videoUrl": "https://www.youtube.com/watch?v=uBwkMc1llmM",
-      "videoId": "uBwkMc1llmM",
-      "thumbnail": "https://i2.ytimg.com/vi/uBwkMc1llmM/hqdefault.jpg",
-      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
-      "channelName": "TED-Ed",
+      "title": "World's First Car | Who invented the Car? | History of the Automobile Invention | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=wxxEV19sgjQ",
+      "videoId": "wxxEV19sgjQ",
+      "thumbnail": "https://i4.ytimg.com/vi/wxxEV19sgjQ/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
       "category": "History",
       "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "ted-ed",
+      "retentionDays": 60,
+      "keyword": "binocs",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4876,6 +4458,28 @@
       "profile": "Both",
       "retentionDays": "",
       "keyword": "aumsum, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-05-21",
+      "firstSeen": "2026-06-16",
+      "title": "The incredible engineering of Venice - Stephanie H. Smith",
+      "videoUrl": "https://www.youtube.com/watch?v=uBwkMc1llmM",
+      "videoId": "uBwkMc1llmM",
+      "thumbnail": "https://i2.ytimg.com/vi/uBwkMc1llmM/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "History",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4975,17 +4579,17 @@
     },
     {
       "timestamp": "2026-05-16",
-      "firstSeen": "2026-06-17",
-      "title": "Looney Tunes | Bugs Bunny & Daffy Duck Mega Compilation | Warner Classics",
-      "videoUrl": "https://www.youtube.com/watch?v=_aX2y1Qc5_U",
-      "videoId": "_aX2y1Qc5_U",
-      "thumbnail": "https://i4.ytimg.com/vi/_aX2y1Qc5_U/hqdefault.jpg",
-      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
-      "channelName": "Warner Bros Classics",
-      "category": "Looney Tunes",
+      "firstSeen": "2026-06-20",
+      "title": "The Princess and the Magic Dove ??? | English Moral Stories | Bedtime Stories",
+      "videoUrl": "https://www.youtube.com/watch?v=VHgQg-pCBd4",
+      "videoId": "VHgQg-pCBd4",
+      "thumbnail": "https://i3.ytimg.com/vi/VHgQg-pCBd4/hqdefault.jpg",
+      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
+      "channelName": "Mr Book and Me",
+      "category": "Stories",
       "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "bugs, daffy, yosemite",
+      "retentionDays": 200,
+      "keyword": "stories, educational",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -5019,17 +4623,17 @@
     },
     {
       "timestamp": "2026-05-16",
-      "firstSeen": "2026-06-20",
-      "title": "The Princess and the Magic Dove ??? | English Moral Stories | Bedtime Stories",
-      "videoUrl": "https://www.youtube.com/watch?v=VHgQg-pCBd4",
-      "videoId": "VHgQg-pCBd4",
-      "thumbnail": "https://i3.ytimg.com/vi/VHgQg-pCBd4/hqdefault.jpg",
-      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
-      "channelName": "Mr Book and Me",
-      "category": "Stories",
+      "firstSeen": "2026-06-17",
+      "title": "Looney Tunes | Bugs Bunny & Daffy Duck Mega Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=_aX2y1Qc5_U",
+      "videoId": "_aX2y1Qc5_U",
+      "thumbnail": "https://i4.ytimg.com/vi/_aX2y1Qc5_U/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
       "profile": "Both",
-      "retentionDays": 200,
-      "keyword": "stories, educational",
+      "retentionDays": 60,
+      "keyword": "bugs, daffy, yosemite",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -5108,6 +4712,28 @@
     {
       "timestamp": "2026-05-12",
       "firstSeen": "2026-06-16",
+      "title": "Jupiter?s Stormy Trouble! | #aumsum #kids #science",
+      "videoUrl": "https://www.youtube.com/watch?v=fX57qf5EQb4",
+      "videoId": "fX57qf5EQb4",
+      "thumbnail": "https://i3.ytimg.com/vi/fX57qf5EQb4/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "AumSum",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": "",
+      "keyword": "aumsum, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-05-12",
+      "firstSeen": "2026-06-16",
       "title": "The Tree of Death | What Happens if You Touch Manchineel Tree? | Most Dangerous Trees | Dr. Binocs",
       "videoUrl": "https://www.youtube.com/watch?v=x1sx4ReIDJM",
       "videoId": "x1sx4ReIDJM",
@@ -5128,12 +4754,12 @@
       }
     },
     {
-      "timestamp": "2026-05-12",
+      "timestamp": "2026-05-09",
       "firstSeen": "2026-06-16",
-      "title": "Jupiter?s Stormy Trouble! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=fX57qf5EQb4",
-      "videoId": "fX57qf5EQb4",
-      "thumbnail": "https://i3.ytimg.com/vi/fX57qf5EQb4/hqdefault.jpg",
+      "title": "The Day the Sun was Pulled Away! | #aumsum #kids #science",
+      "videoUrl": "https://www.youtube.com/watch?v=UYmAds56fEw",
+      "videoId": "UYmAds56fEw",
+      "thumbnail": "https://i2.ytimg.com/vi/UYmAds56fEw/hqdefault.jpg",
       "channelID": "",
       "channelName": "AumSum",
       "category": "Science",
@@ -5184,28 +4810,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "yosemite, bugs, daffy",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-09",
-      "firstSeen": "2026-06-16",
-      "title": "The Day the Sun was Pulled Away! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=UYmAds56fEw",
-      "videoId": "UYmAds56fEw",
-      "thumbnail": "https://i2.ytimg.com/vi/UYmAds56fEw/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -5305,17 +4909,17 @@
     },
     {
       "timestamp": "2026-05-02",
-      "firstSeen": "2026-06-17",
-      "title": "Looney Tunes | Tweety and Sylvester Mega Compilation | Warner Classics",
-      "videoUrl": "https://www.youtube.com/watch?v=gMROhJXSsMk",
-      "videoId": "gMROhJXSsMk",
-      "thumbnail": "https://i4.ytimg.com/vi/gMROhJXSsMk/hqdefault.jpg",
-      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
-      "channelName": "Warner Bros Classics",
-      "category": "Looney Tunes",
+      "firstSeen": "2026-06-20",
+      "title": "The Wolf in Sheep?s Clothing Story ?? | English Moral Stories | Bedtime Stories",
+      "videoUrl": "https://www.youtube.com/watch?v=zo_ZYM1QqaU",
+      "videoId": "zo_ZYM1QqaU",
+      "thumbnail": "https://i3.ytimg.com/vi/zo_ZYM1QqaU/hqdefault.jpg",
+      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
+      "channelName": "Mr Book and Me",
+      "category": "Stories",
       "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "sylvester, tweety",
+      "retentionDays": 200,
+      "keyword": "stories, educational",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -5349,17 +4953,17 @@
     },
     {
       "timestamp": "2026-05-02",
-      "firstSeen": "2026-06-20",
-      "title": "The Wolf in Sheep?s Clothing Story ?? | English Moral Stories | Bedtime Stories",
-      "videoUrl": "https://www.youtube.com/watch?v=zo_ZYM1QqaU",
-      "videoId": "zo_ZYM1QqaU",
-      "thumbnail": "https://i3.ytimg.com/vi/zo_ZYM1QqaU/hqdefault.jpg",
-      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
-      "channelName": "Mr Book and Me",
-      "category": "Stories",
+      "firstSeen": "2026-06-17",
+      "title": "Looney Tunes | Tweety and Sylvester Mega Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=gMROhJXSsMk",
+      "videoId": "gMROhJXSsMk",
+      "thumbnail": "https://i4.ytimg.com/vi/gMROhJXSsMk/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
       "profile": "Both",
-      "retentionDays": 200,
-      "keyword": "stories, educational",
+      "retentionDays": 60,
+      "keyword": "sylvester, tweety",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -6229,28 +5833,6 @@
     },
     {
       "timestamp": "2025-10-31",
-      "firstSeen": "2026-06-20",
-      "title": "CREEPY LEGO BUILDS...",
-      "videoUrl": "https://www.youtube.com/watch?v=LlAKEhqjdEM",
-      "videoId": "LlAKEhqjdEM",
-      "thumbnail": "https://i1.ytimg.com/vi/LlAKEhqjdEM/hqdefault.jpg",
-      "channelID": "UCUU3GdGuQshZFRGnxAPBf_w",
-      "channelName": "TD Bricks",
-      "category": "LEGO",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2025-10-31",
       "firstSeen": "2026-06-16",
       "title": "Adorable Piglets Show Off Their Problem-Solving Skills ? | BBC Earth Kids",
       "videoUrl": "https://www.youtube.com/watch?v=3scgDv4FlPI",
@@ -6262,6 +5844,28 @@
       "profile": "Both",
       "retentionDays": 800,
       "keyword": "bbc earth kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-31",
+      "firstSeen": "2026-06-20",
+      "title": "CREEPY LEGO BUILDS...",
+      "videoUrl": "https://www.youtube.com/watch?v=LlAKEhqjdEM",
+      "videoId": "LlAKEhqjdEM",
+      "thumbnail": "https://i1.ytimg.com/vi/LlAKEhqjdEM/hqdefault.jpg",
+      "channelID": "UCUU3GdGuQshZFRGnxAPBf_w",
+      "channelName": "TD Bricks",
+      "category": "LEGO",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -6339,28 +5943,6 @@
     },
     {
       "timestamp": "2025-09-10",
-      "firstSeen": "2026-06-18",
-      "title": "Calvin Can't Fly' read by Jonathan Pryce",
-      "videoUrl": "https://www.youtube.com/watch?v=rBAyKweZ2MI",
-      "videoId": "rBAyKweZ2MI",
-      "thumbnail": "https://i3.ytimg.com/vi/rBAyKweZ2MI/hqdefault.jpg",
-      "channelID": "UCnBdzaRy-Ky9Vh54XJlFz1Q",
-      "channelName": "StoryLineOnline",
-      "category": "Stories",
-      "profile": "Both",
-      "retentionDays": 600,
-      "keyword": "storylineonline, reading",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2025-09-10",
       "firstSeen": "2026-06-16",
       "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6",
       "videoUrl": "https://www.youtube.com/watch?v=PkWU-lMdnJg",
@@ -6372,6 +5954,28 @@
       "profile": "Both",
       "retentionDays": 9999,
       "keyword": "crash course",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2025-09-10",
+      "firstSeen": "2026-06-18",
+      "title": "Calvin Can't Fly' read by Jonathan Pryce",
+      "videoUrl": "https://www.youtube.com/watch?v=rBAyKweZ2MI",
+      "videoId": "rBAyKweZ2MI",
+      "thumbnail": "https://i3.ytimg.com/vi/rBAyKweZ2MI/hqdefault.jpg",
+      "channelID": "UCnBdzaRy-Ky9Vh54XJlFz1Q",
+      "channelName": "StoryLineOnline",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 600,
+      "keyword": "storylineonline, reading",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -7766,7 +7370,6 @@
     "demaio",
     "dylan",
     "educational",
-    "fixies",
     "foghorn",
     "jetsons",
     "kids2kids",
