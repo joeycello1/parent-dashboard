@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T16:21:16.202Z",
+  "generatedAt": "2026-06-26T18:21:11.366Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -200,6 +200,72 @@
       }
     },
     {
+      "timestamp": "2026-06-26T16:06:51.173Z",
+      "firstSeen": "2026-06-26T16:06:51.173Z",
+      "title": "Cenote (2022)",
+      "videoUrl": "https://www.youtube.com/watch?v=pAUF04-xWl8",
+      "videoId": "pAUF04-xWl8",
+      "thumbnail": "https://i.ytimg.com/vi/pAUF04-xWl8/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "BYU's Center for Animation - Student Films",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26T15:59:51.284Z",
+      "firstSeen": "2026-06-26T15:59:51.284Z",
+      "title": "The Wrong Rock | A mushroom follows his dreams",
+      "videoUrl": "https://www.youtube.com/watch?v=eDaNejmf-1A",
+      "videoId": "eDaNejmf-1A",
+      "thumbnail": "https://i.ytimg.com/vi/eDaNejmf-1A/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "HEROmation",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26T15:39:05.285Z",
+      "firstSeen": "2026-06-26T15:39:05.285Z",
+      "title": "The Egyptian Pyramids",
+      "videoUrl": "https://www.youtube.com/watch?v=j6PbonHsqW0",
+      "videoId": "j6PbonHsqW0",
+      "thumbnail": "https://i.ytimg.com/vi/j6PbonHsqW0/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "Les Pyramides d'?gypte",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-06-26",
       "firstSeen": "2026-06-26",
       "title": "Mr Bean Gets Caught at the WORST Moment! | Mr Bean Adventures",
@@ -234,6 +300,182 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "How To Draw A Sun Folding Surprise For Summer",
+      "videoUrl": "https://www.youtube.com/watch?v=y3_YFmdY1ts",
+      "videoId": "y3_YFmdY1ts",
+      "thumbnail": "https://i2.ytimg.com/vi/y3_YFmdY1ts/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "Mr Bean Takes on BANK ROBBERS?!? | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Krr0BW-r6ig",
+      "videoId": "Krr0BW-r6ig",
+      "thumbnail": "https://i4.ytimg.com/vi/Krr0BW-r6ig/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "Monster Truck Slide Race ? Monster Jam Vs Hot Wheels 5 SLIDES CHALLENGE",
+      "videoUrl": "https://www.youtube.com/watch?v=h1HPXAScH-U",
+      "videoId": "h1HPXAScH-U",
+      "thumbnail": "https://i1.ytimg.com/vi/h1HPXAScH-U/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "Leopards at the Door (Full Episode) | Mission Critical | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=U8eJmXHjNsc",
+      "videoId": "U8eJmXHjNsc",
+      "thumbnail": "https://i2.ytimg.com/vi/U8eJmXHjNsc/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "Big Words for Little Paleontologists Book Read-Along? | Dinosaurs, Fossils, & More!??| @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=5wPHwH-rTcA",
+      "videoId": "5wPHwH-rTcA",
+      "thumbnail": "https://i2.ytimg.com/vi/5wPHwH-rTcA/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "Eros (AKA Cupid) Loves Psyche?| Greeking Out Podcast | S3 E4 FULL EP Part 1 | @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=Za1tHzMZgl8",
+      "videoId": "Za1tHzMZgl8",
+      "thumbnail": "https://i3.ytimg.com/vi/Za1tHzMZgl8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "Why all We Knew About Our Solar System is Wrong? | Which Planet is the Closest to the Earth?",
+      "videoUrl": "https://www.youtube.com/watch?v=czxWd2B2iP0",
+      "videoId": "czxWd2B2iP0",
+      "thumbnail": "https://i4.ytimg.com/vi/czxWd2B2iP0/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "Mr. Krabs and Plankton Best Frenemy Moments from Seasons 12?13 ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=AwA9ZqDs260",
+      "videoId": "AwA9ZqDs260",
+      "thumbnail": "https://i2.ytimg.com/vi/AwA9ZqDs260/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -476,6 +718,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-25",
+      "firstSeen": "2026-06-26",
+      "title": "Jump, Jump, Jump | Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=40oehujQqwg",
+      "videoId": "40oehujQqwg",
+      "thumbnail": "https://i1.ytimg.com/vi/40oehujQqwg/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1454,6 +1718,28 @@
       }
     },
     {
+      "timestamp": "2026-06-20",
+      "firstSeen": "2026-06-26",
+      "title": "The Caterpillar Who Wanted To See The Ocean | Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=0L7gvjLrJGc",
+      "videoId": "0L7gvjLrJGc",
+      "thumbnail": "https://i1.ytimg.com/vi/0L7gvjLrJGc/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-06-19",
       "firstSeen": "2026-06-19",
       "title": "How To Draw A Cowgirl and Cowboy Crab",
@@ -1994,6 +2280,28 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-18",
+      "firstSeen": "2026-06-26",
+      "title": "On Your Marks, get set, go ! | Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=6YpbI6PFOFw",
+      "videoId": "6YpbI6PFOFw",
+      "thumbnail": "https://i3.ytimg.com/vi/6YpbI6PFOFw/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2686,6 +2994,28 @@
       }
     },
     {
+      "timestamp": "2026-06-13",
+      "firstSeen": "2026-06-26",
+      "title": "Quiet! | Minuscule ? 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=UQxxwATT8PY",
+      "videoId": "UQxxwATT8PY",
+      "thumbnail": "https://i2.ytimg.com/vi/UQxxwATT8PY/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-06-12",
       "firstSeen": "2026-06-19",
       "title": "Food War of the Gods! ?  | NEW Regular Show: The Lost Tapes | Cartoon Network UK",
@@ -2991,6 +3321,28 @@
       "rating": {
         "jonah": "up",
         "kieran": "up"
+      }
+    },
+    {
+      "timestamp": "2026-06-11",
+      "firstSeen": "2026-06-26",
+      "title": "Catapult | Minuscule | 25' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=L0MJO8-bWKU",
+      "videoId": "L0MJO8-bWKU",
+      "thumbnail": "https://i1.ytimg.com/vi/L0MJO8-bWKU/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
       }
     },
     {
@@ -3720,6 +4072,28 @@
       }
     },
     {
+      "timestamp": "2026-06-06",
+      "firstSeen": "2026-06-26",
+      "title": "Convoy | Minuscule ? 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=fyNnyoFRNDo",
+      "videoId": "fyNnyoFRNDo",
+      "thumbnail": "https://i3.ytimg.com/vi/fyNnyoFRNDo/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-06-05",
       "firstSeen": "2026-06-18",
       "title": "How To Draw Dottie The Birthday Donut",
@@ -3864,6 +4238,28 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-04",
+      "firstSeen": "2026-06-26",
+      "title": "To The Port Now! | Minuscule | 20' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=D1htE2pzxEs",
+      "videoId": "D1htE2pzxEs",
+      "thumbnail": "https://i1.ytimg.com/vi/D1htE2pzxEs/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4138,6 +4534,28 @@
       }
     },
     {
+      "timestamp": "2026-05-30",
+      "firstSeen": "2026-06-26",
+      "title": "Dragonflies | Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=BvFTxm7e6ow",
+      "videoId": "BvFTxm7e6ow",
+      "thumbnail": "https://i3.ytimg.com/vi/BvFTxm7e6ow/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-05-29",
       "firstSeen": "2026-06-18",
       "title": "Milo & Chip Turn Into Blocks in Hide and Seek in Minecraft",
@@ -4216,6 +4634,28 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-05-28",
+      "firstSeen": "2026-06-26",
+      "title": "Turbo speed | Minuscule | 20' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=x66stUwCcg0",
+      "videoId": "x66stUwCcg0",
+      "thumbnail": "https://i1.ytimg.com/vi/x66stUwCcg0/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4326,6 +4766,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "foghorn",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-05-23",
+      "firstSeen": "2026-06-26",
+      "title": "Insect High Velocity | Minuscule | 25' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=PA7eY5rqIZM",
+      "videoId": "PA7eY5rqIZM",
+      "thumbnail": "https://i1.ytimg.com/vi/PA7eY5rqIZM/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -7128,72 +7590,6 @@
         "jonah": "",
         "kieran": ""
       }
-    },
-    {
-      "timestamp": "2026-06-26T15:39:05.285Z",
-      "firstSeen": "2026-06-26T15:39:05.285Z",
-      "title": "The Egyptian Pyramids",
-      "videoUrl": "https://www.youtube.com/watch?v=j6PbonHsqW0",
-      "videoId": "j6PbonHsqW0",
-      "thumbnail": "https://i.ytimg.com/vi/j6PbonHsqW0/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Les Pyramides d'?gypte",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-26T15:59:51.284Z",
-      "firstSeen": "2026-06-26T15:59:51.284Z",
-      "title": "The Wrong Rock | A mushroom follows his dreams",
-      "videoUrl": "https://www.youtube.com/watch?v=eDaNejmf-1A",
-      "videoId": "eDaNejmf-1A",
-      "thumbnail": "https://i.ytimg.com/vi/eDaNejmf-1A/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "HEROmation",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-26T16:06:51.173Z",
-      "firstSeen": "2026-06-26T16:06:51.173Z",
-      "title": "Cenote (2022)",
-      "videoUrl": "https://www.youtube.com/watch?v=pAUF04-xWl8",
-      "videoId": "pAUF04-xWl8",
-      "thumbnail": "https://i.ytimg.com/vi/pAUF04-xWl8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "BYU's Center for Animation - Student Films",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 50,
-      "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
     }
   ],
   "channels": [
@@ -7426,6 +7822,7 @@
     "kids2kids",
     "lego",
     "minecraft",
+    "minuscule",
     "mr bean",
     "nat geo",
     "national geographic",
