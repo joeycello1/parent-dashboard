@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T18:25:17.507Z",
+  "generatedAt": "2026-06-26T20:21:14.362Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -428,9 +428,9 @@
       "thumbnail": "https://i3.ytimg.com/vi/Za1tHzMZgl8/hqdefault.jpg",
       "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
       "channelName": "Nat Geo Kids",
-      "category": "Nature",
+      "category": "History",
       "profile": "Both",
-      "retentionDays": 80,
+      "retentionDays": 30,
       "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
@@ -670,7 +670,7 @@
       "thumbnail": "https://i3.ytimg.com/vi/jNNrMp53hc0/hqdefault.jpg",
       "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
       "channelName": "Scholastic After School",
-      "category": "Science",
+      "category": "Cartoons",
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
