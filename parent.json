@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T14:47:05.939Z",
+  "generatedAt": "2026-06-26T16:21:16.202Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -2142,28 +2142,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=muH1KY7dS4M",
       "videoId": "muH1KY7dS4M",
       "thumbnail": "https://i2.ytimg.com/vi/muH1KY7dS4M/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-16",
-      "firstSeen": "2026-06-26",
-      "title": "Go Go Mr Bean's Gadgets! | Cartoons for Kids - Mr Bean",
-      "videoUrl": "https://www.youtube.com/watch?v=XUP9XvPdw_8",
-      "videoId": "XUP9XvPdw_8",
-      "thumbnail": "https://i1.ytimg.com/vi/XUP9XvPdw_8/hqdefault.jpg",
       "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
       "channelName": "Cartoons for Kids - Mr Bean",
       "category": "Mr Bean",
@@ -7150,6 +7128,72 @@
         "jonah": "",
         "kieran": ""
       }
+    },
+    {
+      "timestamp": "2026-06-26T15:39:05.285Z",
+      "firstSeen": "2026-06-26T15:39:05.285Z",
+      "title": "The Egyptian Pyramids",
+      "videoUrl": "https://www.youtube.com/watch?v=j6PbonHsqW0",
+      "videoId": "j6PbonHsqW0",
+      "thumbnail": "https://i.ytimg.com/vi/j6PbonHsqW0/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "Les Pyramides d'?gypte",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26T15:59:51.284Z",
+      "firstSeen": "2026-06-26T15:59:51.284Z",
+      "title": "The Wrong Rock | A mushroom follows his dreams",
+      "videoUrl": "https://www.youtube.com/watch?v=eDaNejmf-1A",
+      "videoId": "eDaNejmf-1A",
+      "thumbnail": "https://i.ytimg.com/vi/eDaNejmf-1A/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "HEROmation",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26T16:06:51.173Z",
+      "firstSeen": "2026-06-26T16:06:51.173Z",
+      "title": "Cenote (2022)",
+      "videoUrl": "https://www.youtube.com/watch?v=pAUF04-xWl8",
+      "videoId": "pAUF04-xWl8",
+      "thumbnail": "https://i.ytimg.com/vi/pAUF04-xWl8/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "BYU's Center for Animation - Student Films",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
     }
   ],
   "channels": [
@@ -7333,6 +7377,13 @@
       "channelName": "WB Kids",
       "retentionDays": 60,
       "category": "Looney Tunes",
+      "profile": "Both"
+    },
+    {
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "retentionDays": 60,
+      "category": "Films",
       "profile": "Both"
     }
   ],
