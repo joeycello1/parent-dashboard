@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T22:47:11.695Z",
+  "generatedAt": "2026-06-26T00:47:04.727Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -312,6 +312,28 @@
     {
       "timestamp": "2026-06-25",
       "firstSeen": "2026-06-25",
+      "title": "I Am Groot S01E01",
+      "videoUrl": "https://www.youtube.com/watch?v=5Q5gOjdZUlU",
+      "videoId": "5Q5gOjdZUlU",
+      "thumbnail": "https://i.ytimg.com/vi/5Q5gOjdZUlU/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "Marvel Webseries",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-25",
+      "firstSeen": "2026-06-25",
       "title": "Mr Bean's Mistake Turned Him... Green! | Mr Bean Adventures",
       "videoUrl": "https://www.youtube.com/watch?v=NfH5UenPyys",
       "videoId": "NfH5UenPyys",
@@ -322,6 +344,28 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-25",
+      "firstSeen": "2026-06-25",
+      "title": "? Karma's Saves the Record Shop! Saving the Sounds of the City | Full Episodes | Karma's World",
+      "videoUrl": "https://www.youtube.com/watch?v=jNNrMp53hc0",
+      "videoId": "jNNrMp53hc0",
+      "thumbnail": "https://i3.ytimg.com/vi/jNNrMp53hc0/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -410,138 +454,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "I Am Groot S01E01",
-      "videoUrl": "https://www.youtube.com/watch?v=5Q5gOjdZUlU",
-      "videoId": "5Q5gOjdZUlU",
-      "thumbnail": "https://i.ytimg.com/vi/5Q5gOjdZUlU/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Marvel Webseries",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "[2026? ???] ?? ???_71870 ?? ??? ??_????",
-      "videoUrl": "https://www.youtube.com/watch?v=4uLZ9WxxYVQ",
-      "videoId": "4uLZ9WxxYVQ",
-      "thumbnail": "https://i1.ytimg.com/vi/4uLZ9WxxYVQ/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "[2026? ???] ?? ???_71868 ??????? ?? ??? ??_????",
-      "videoUrl": "https://www.youtube.com/watch?v=LEzqjt75EAU",
-      "videoId": "LEzqjt75EAU",
-      "thumbnail": "https://i1.ytimg.com/vi/LEzqjt75EAU/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "Das gro?e Verh?r ?? | S4 F7 | Ganze Folge | LEGO NINJAGO: Aufstieg der Drachen",
-      "videoUrl": "https://www.youtube.com/watch?v=MfXnjX3MMUs",
-      "videoId": "MfXnjX3MMUs",
-      "thumbnail": "https://i2.ytimg.com/vi/MfXnjX3MMUs/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "PBS KIDS Read | Ra?l the Third Reads \"?Vamos! Let's Go Read\" ?",
-      "videoUrl": "https://www.youtube.com/watch?v=Db20-6hI4DY",
-      "videoId": "Db20-6hI4DY",
-      "thumbnail": "https://i1.ytimg.com/vi/Db20-6hI4DY/hqdefault.jpg",
-      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
-      "channelName": "PBS Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": 50,
-      "keyword": "pbs, art, reading",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "? Karma's Saves the Record Shop! Saving the Sounds of the City | Full Episodes | Karma's World",
-      "videoUrl": "https://www.youtube.com/watch?v=jNNrMp53hc0",
-      "videoId": "jNNrMp53hc0",
-      "thumbnail": "https://i3.ytimg.com/vi/jNNrMp53hc0/hqdefault.jpg",
-      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
-      "channelName": "Scholastic After School",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -861,6 +773,28 @@
     },
     {
       "timestamp": "2026-06-23",
+      "firstSeen": "2026-06-25",
+      "title": "? LIVE LEGO? Channel's All-Time Top Videos! ??Most-Watched Mini Movies & Iconic Moments!",
+      "videoUrl": "https://www.youtube.com/watch?v=NUvE5ZsXxlc",
+      "videoId": "NUvE5ZsXxlc",
+      "thumbnail": "https://i3.ytimg.com/vi/NUvE5ZsXxlc/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-23",
       "firstSeen": "2026-06-23",
       "title": "An Armored Dinosaur - Ankylosaurus | What if Anklyosaurus Never Went Extinct? | Dr. Binocs Show",
       "videoUrl": "https://www.youtube.com/watch?v=zHGx58mV1DI",
@@ -894,28 +828,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "reading",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-25",
-      "title": "? LIVE LEGO? Channel's All-Time Top Videos! ??Most-Watched Mini Movies & Iconic Moments!",
-      "videoUrl": "https://www.youtube.com/watch?v=NUvE5ZsXxlc",
-      "videoId": "NUvE5ZsXxlc",
-      "thumbnail": "https://i3.ytimg.com/vi/NUvE5ZsXxlc/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1136,28 +1048,6 @@
       "profile": "Both",
       "retentionDays": "",
       "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-22",
-      "firstSeen": "2026-06-22",
-      "title": "Captain Man and Kid Danger Battle the Sneaky Towel Thief! ? | Henry Danger | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=v5_z00i6YqI",
-      "videoId": "v5_z00i6YqI",
-      "thumbnail": "https://i3.ytimg.com/vi/v5_z00i6YqI/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "henry danger",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1396,7 +1286,7 @@
       "thumbnail": "https://i1.ytimg.com/vi/h28EPxIz0xA/hqdefault.jpg",
       "channelID": "UCx27Pkk8plpiosF14qXq-VA",
       "channelName": "SpongeBob Official",
-      "category": "Cartoons",
+      "category": "Spongebob",
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
@@ -1675,6 +1565,28 @@
     },
     {
       "timestamp": "2026-06-19",
+      "firstSeen": "2026-06-19",
+      "title": "? LEGO Minecraft Chicken Chaos! ?? Epic Gaming Challenge ? | LEGO Games Live!",
+      "videoUrl": "https://www.youtube.com/watch?v=in79k1ZZJL4",
+      "videoId": "in79k1ZZJL4",
+      "thumbnail": "https://i2.ytimg.com/vi/in79k1ZZJL4/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-19",
       "firstSeen": "2026-06-25",
       "title": "ASL Dinos A to Z: Triceratops",
       "videoUrl": "https://www.youtube.com/watch?v=a-vZm8PPDcM",
@@ -1884,28 +1796,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-19",
-      "title": "? LEGO Minecraft Chicken Chaos! ?? Epic Gaming Challenge ? | LEGO Games Live!",
-      "videoUrl": "https://www.youtube.com/watch?v=in79k1ZZJL4",
-      "videoId": "in79k1ZZJL4",
-      "thumbnail": "https://i2.ytimg.com/vi/in79k1ZZJL4/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2148,28 +2038,6 @@
       "profile": "Both",
       "retentionDays": "",
       "keyword": "fixies",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-18",
-      "firstSeen": "2026-06-19",
-      "title": "Who will WIN the LEGO Star Wars Challenge?! | Full Episode | LEGO Brick Click",
-      "videoUrl": "https://www.youtube.com/watch?v=sDSmy1GBkZY",
-      "videoId": "sDSmy1GBkZY",
-      "thumbnail": "https://i4.ytimg.com/vi/sDSmy1GBkZY/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -3084,28 +2952,6 @@
     {
       "timestamp": "2026-06-12",
       "firstSeen": "2026-06-16",
-      "title": "Henry Hart's POWERLESS Moments with Captain Man! ? | Henry Danger | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=Ih46ieAWkzE",
-      "videoId": "Ih46ieAWkzE",
-      "thumbnail": "https://i2.ytimg.com/vi/Ih46ieAWkzE/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "henry danger",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-12",
-      "firstSeen": "2026-06-16",
       "title": "What is Tom Thomas Making? | The Fixies | Learning Cartoons For Kids",
       "videoUrl": "https://www.youtube.com/watch?v=LlTrrgbYRpw",
       "videoId": "LlTrrgbYRpw",
@@ -3310,7 +3156,7 @@
       "thumbnail": "https://i2.ytimg.com/vi/mjTkC0ZTkUY/hqdefault.jpg",
       "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
       "channelName": "WB Kids",
-      "category": "Looney Tunes",
+      "category": "Scooby Doo",
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science, scooby",
@@ -4608,7 +4454,7 @@
       "thumbnail": "https://i4.ytimg.com/vi/O1FerrcRe_c/hqdefault.jpg",
       "channelID": "UCzWxR7srCLRQLTr1CaLStig",
       "channelName": "WB",
-      "category": "Looney Tunes",
+      "category": "Scooby Doo",
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
@@ -7900,7 +7746,6 @@
     "educational",
     "fixies",
     "foghorn",
-    "henry danger",
     "jetsons",
     "kids2kids",
     "lego",
@@ -7908,7 +7753,6 @@
     "mr bean",
     "nat geo",
     "national geographic",
-    "pbs",
     "reading",
     "road runner",
     "roadrunner",
