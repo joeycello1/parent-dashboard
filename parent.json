@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T20:21:14.362Z",
+  "generatedAt": "2026-06-26T22:21:09.747Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -201,7 +201,7 @@
     },
     {
       "timestamp": "2026-06-26T16:06:51.173Z",
-      "firstSeen": "2026-06-26T16:06:51.173Z",
+      "firstSeen": "2026-06-29T04:00:00.000Z",
       "title": "Cenote (2022)",
       "videoUrl": "https://www.youtube.com/watch?v=pAUF04-xWl8",
       "videoId": "pAUF04-xWl8",
@@ -223,7 +223,7 @@
     },
     {
       "timestamp": "2026-06-26T15:59:51.284Z",
-      "firstSeen": "2026-06-26T15:59:51.284Z",
+      "firstSeen": "2026-06-28T04:00:00.000Z",
       "title": "The Wrong Rock | A mushroom follows his dreams",
       "videoUrl": "https://www.youtube.com/watch?v=eDaNejmf-1A",
       "videoId": "eDaNejmf-1A",
@@ -7362,6 +7362,28 @@
       "profile": "Both",
       "retentionDays": 9999,
       "keyword": "crash course",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26T21:44:57.869Z",
+      "firstSeen": "2026-06-26T21:44:57.869Z",
+      "title": "CGI Animated Short Film \"Sweet Cocoon\" by ESMA | CGMeetup",
+      "videoUrl": "https://www.youtube.com/watch?v=BnlQ7bVUDjc",
+      "videoId": "BnlQ7bVUDjc",
+      "thumbnail": "https://i.ytimg.com/vi/BnlQ7bVUDjc/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "CGMeetup",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
