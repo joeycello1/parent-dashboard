@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T10:21:23.489Z",
+  "generatedAt": "2026-06-27T12:21:48.178Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -190,6 +190,72 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Mr Bean's Vacation Gets RUINED | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=bz6yIiYdmTU",
+      "videoId": "bz6yIiYdmTU",
+      "thumbnail": "https://i3.ytimg.com/vi/bz6yIiYdmTU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Villains vs Cops and More! ?? | Season 3 Full Episode Marathon ? | LEGO City: No Limits",
+      "videoUrl": "https://www.youtube.com/watch?v=fUlVaZsd0Jc",
+      "videoId": "fUlVaZsd0Jc",
+      "thumbnail": "https://i3.ytimg.com/vi/fUlVaZsd0Jc/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "The Princess and the Pea ?? | English Moral Stories | Bedtime Stories",
+      "videoUrl": "https://www.youtube.com/watch?v=sEWjz2h7GDw",
+      "videoId": "sEWjz2h7GDw",
+      "thumbnail": "https://i4.ytimg.com/vi/sEWjz2h7GDw/hqdefault.jpg",
+      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
+      "channelName": "Mr Book and Me",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 200,
+      "keyword": "stories, educational",
       "watched": {
         "jonah": false,
         "kieran": false
