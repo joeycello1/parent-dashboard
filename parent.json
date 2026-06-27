@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T16:21:22.202Z",
+  "generatedAt": "2026-06-27T18:21:11.649Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -256,6 +256,270 @@
       "profile": "Both",
       "retentionDays": 200,
       "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Let's Learn About Wolves! ? | Learn About Nature ? | BBC Earth Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=rUKpU1TaFeE",
+      "videoId": "rUKpU1TaFeE",
+      "thumbnail": "https://i3.ytimg.com/vi/rUKpU1TaFeE/hqdefault.jpg",
+      "channelID": "UCO_DaPp4ifhMAmiyybSLx9w",
+      "channelName": "BBC Earth - Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 800,
+      "keyword": "bbc earth kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Mr Bean is Naked & Afraid! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=N_4j7SMBLf0",
+      "videoId": "N_4j7SMBLf0",
+      "thumbnail": "https://i3.ytimg.com/vi/N_4j7SMBLf0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Sterben, um zu leben ? | S4 F8 | Ganze Folge | LEGO NINJAGO: Aufstieg der Drachen",
+      "videoUrl": "https://www.youtube.com/watch?v=ZB0Hir0UbFY",
+      "videoId": "ZB0Hir0UbFY",
+      "thumbnail": "https://i3.ytimg.com/vi/ZB0Hir0UbFY/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Why do Americans celebrate the 4th of July?",
+      "videoUrl": "https://www.youtube.com/watch?v=dlX6kb46DwM",
+      "videoId": "dlX6kb46DwM",
+      "thumbnail": "https://i1.ytimg.com/vi/dlX6kb46DwM/hqdefault.jpg",
+      "channelID": "UCwyVRKfytvjSF6q5s7noKZQ",
+      "channelName": "Mr. DeMaio",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 300,
+      "keyword": "demaio",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Secrets of the Killer Mega Shark (Full Episode) | Lost Beasts Unearthed | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=D3QNqp4y8Sc",
+      "videoId": "D3QNqp4y8Sc",
+      "thumbnail": "https://i1.ytimg.com/vi/D3QNqp4y8Sc/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "AD | Toy Story 5: Slime, Science & History of Toys! ??| @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=4_I_EcTsSg4",
+      "videoId": "4_I_EcTsSg4",
+      "thumbnail": "https://i1.ytimg.com/vi/4_I_EcTsSg4/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, science, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "America's Funniest Animal Videos! ? | Eagles, Octopuses, & More! | Full Episode | @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=qnLPCBLEGMY",
+      "videoId": "qnLPCBLEGMY",
+      "thumbnail": "https://i2.ytimg.com/vi/qnLPCBLEGMY/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Can an Orange Peel POP a Balloon? ? ? Science Experiment | Science Max | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=zZGuI1jD6-s",
+      "videoId": "zZGuI1jD6-s",
+      "thumbnail": "https://i3.ytimg.com/vi/zZGuI1jD6-s/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "1 Hour of SpongeBob and Patrick Being Best Friend Goals ?? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=0KDz8qMAFlo",
+      "videoId": "0KDz8qMAFlo",
+      "thumbnail": "https://i1.ytimg.com/vi/0KDz8qMAFlo/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Looney Tunes | Wile E. Coyote vs Road Runner Full Episodes | Vol. 10 | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=5PwzUjgQBpc",
+      "videoId": "5PwzUjgQBpc",
+      "thumbnail": "https://i2.ytimg.com/vi/5PwzUjgQBpc/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "road runner",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Vacation Mode: Activated with Scooby-Doo | Scooby-Doo | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=ZfOKZPYtFKQ",
+      "videoId": "ZfOKZPYtFKQ",
+      "thumbnail": "https://i3.ytimg.com/vi/ZfOKZPYtFKQ/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-06-27",
+      "title": "Summer Vacation Marathon! ???? | Tom & Jerry Tales MEGA COMP | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=9dSnoF3QfT8",
+      "videoId": "9dSnoF3QfT8",
+      "thumbnail": "https://i2.ytimg.com/vi/9dSnoF3QfT8/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
