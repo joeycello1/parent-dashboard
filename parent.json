@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T04:21:12.023Z",
+  "generatedAt": "2026-06-27T06:21:12.508Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -586,6 +586,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-27",
+      "title": "Using ONE WAY Glass to Find My Friend?s SECRETS in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=_nTqqpP13Jg",
+      "videoId": "_nTqqpP13Jg",
+      "thumbnail": "https://i4.ytimg.com/vi/_nTqqpP13Jg/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
