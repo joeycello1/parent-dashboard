@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T22:21:09.747Z",
+  "generatedAt": "2026-06-27T00:21:12.427Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -186,6 +186,28 @@
       "thumbnail": "https://i.ytimg.com/vi/B4EPW7JUMTM/hqdefault.jpg",
       "channelID": "",
       "channelName": "Forevergreen Film",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26T21:44:57.869Z",
+      "firstSeen": "2026-06-26T21:44:57.869Z",
+      "title": "CGI Animated Short Film \"Sweet Cocoon\" by ESMA | CGMeetup",
+      "videoUrl": "https://www.youtube.com/watch?v=BnlQ7bVUDjc",
+      "videoId": "BnlQ7bVUDjc",
+      "thumbnail": "https://i.ytimg.com/vi/BnlQ7bVUDjc/hqdefault.jpg",
+      "channelID": "",
+      "channelName": "CGMeetup",
       "category": "Films",
       "profile": "Both",
       "retentionDays": 30,
@@ -476,6 +498,94 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "? Xavier Riddle Celebrates American Heroes: ARTISTS ??? 55+ MIN Special! ?? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=X9mF0J71Zeg",
+      "videoId": "X9mF0J71Zeg",
+      "thumbnail": "https://i1.ytimg.com/vi/X9mF0J71Zeg/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs, art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "Alien Invasion Takes Over | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=TekdEOSA4h0",
+      "videoId": "TekdEOSA4h0",
+      "thumbnail": "https://i1.ytimg.com/vi/TekdEOSA4h0/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "Goosebumps | You Can't Scare Me | A Scary Adventure Kids Will Love | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=Vjyl9NaY2vE",
+      "videoId": "Vjyl9NaY2vE",
+      "thumbnail": "https://i3.ytimg.com/vi/Vjyl9NaY2vE/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-26",
+      "firstSeen": "2026-06-26",
+      "title": "Adorable Puppies Summer Fun | FULL EPISODES | Paris & Pups | @ScholasticAfterSchool",
+      "videoUrl": "https://www.youtube.com/watch?v=jH3XMHUtXGI",
+      "videoId": "jH3XMHUtXGI",
+      "thumbnail": "https://i3.ytimg.com/vi/jH3XMHUtXGI/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -7370,28 +7480,6 @@
         "jonah": "",
         "kieran": ""
       }
-    },
-    {
-      "timestamp": "2026-06-26T21:44:57.869Z",
-      "firstSeen": "2026-06-26T21:44:57.869Z",
-      "title": "CGI Animated Short Film \"Sweet Cocoon\" by ESMA | CGMeetup",
-      "videoUrl": "https://www.youtube.com/watch?v=BnlQ7bVUDjc",
-      "videoId": "BnlQ7bVUDjc",
-      "thumbnail": "https://i.ytimg.com/vi/BnlQ7bVUDjc/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "CGMeetup",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
     }
   ],
   "channels": [
@@ -7620,6 +7708,7 @@
     "mr bean",
     "nat geo",
     "national geographic",
+    "pbs",
     "reading",
     "road runner",
     "roadrunner",
