@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T10:21:13.787Z",
+  "generatedAt": "2026-06-28T12:21:09.981Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -168,6 +168,50 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-06-28",
+      "title": "Mr Bean's NOT Amused at the Amusement Park... | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=ru-mjhVlMUY",
+      "videoId": "ru-mjhVlMUY",
+      "thumbnail": "https://i3.ytimg.com/vi/ru-mjhVlMUY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-06-28",
+      "title": "BFF Quiz ? Who's Most Likely To? | Aliya and Paisley ?? | LEGO Friends: The Next Chapter",
+      "videoUrl": "https://www.youtube.com/watch?v=vHLjHynCP2g",
+      "videoId": "vHLjHynCP2g",
+      "thumbnail": "https://i3.ytimg.com/vi/vHLjHynCP2g/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
