@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T16:21:14.181Z",
+  "generatedAt": "2026-06-28T18:21:12.825Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -190,6 +190,116 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-06-28",
+      "title": "Walrus! | Learn With Steve Backshall | BBC Earth Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=gRy0oDDdXDQ",
+      "videoId": "gRy0oDDdXDQ",
+      "thumbnail": "https://i4.ytimg.com/vi/gRy0oDDdXDQ/hqdefault.jpg",
+      "channelID": "UCO_DaPp4ifhMAmiyybSLx9w",
+      "channelName": "BBC Earth - Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 800,
+      "keyword": "bbc earth kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-06-28",
+      "title": "Why's Mr Bean RUINING the Entire House!?! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=g9wmeDnnMcE",
+      "videoId": "g9wmeDnnMcE",
+      "thumbnail": "https://i4.ytimg.com/vi/g9wmeDnnMcE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-06-28",
+      "title": "Fighting for Total Rule of the Kingdom | Savage Kingdom MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=Wi1WJKOLERU",
+      "videoId": "Wi1WJKOLERU",
+      "thumbnail": "https://i4.ytimg.com/vi/Wi1WJKOLERU/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-06-28",
+      "title": "Playing Soccer Can Create Electricity?! ??| Positive Energy Full Episode | @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=_fCa2cntJ2M",
+      "videoId": "_fCa2cntJ2M",
+      "thumbnail": "https://i4.ytimg.com/vi/_fCa2cntJ2M/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-06-28",
+      "title": "3 Hours of SpongeBob & Squidward Being a Dynamic Duo ?? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=rGIUCcQDoog",
+      "videoId": "rGIUCcQDoog",
+      "thumbnail": "https://i3.ytimg.com/vi/rGIUCcQDoog/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
