@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T16:21:17.338Z",
+  "generatedAt": "2026-06-29T18:21:11.246Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -146,6 +146,116 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-29",
+      "firstSeen": "2026-06-29",
+      "title": "How To Draw A Happy Birthday Cake For America 250 Years!",
+      "videoUrl": "https://www.youtube.com/watch?v=22FnaUaSVsY",
+      "videoId": "22FnaUaSVsY",
+      "thumbnail": "https://i3.ytimg.com/vi/22FnaUaSVsY/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-29",
+      "firstSeen": "2026-06-29",
+      "title": "Mr Bean Makes a NEW Friend | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=qnf0wxLoi-k",
+      "videoId": "qnf0wxLoi-k",
+      "thumbnail": "https://i2.ytimg.com/vi/qnf0wxLoi-k/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-29",
+      "firstSeen": "2026-06-29",
+      "title": "Mr Bean Has the WORST Day of His Life | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=iFySoxNgqHs",
+      "videoId": "iFySoxNgqHs",
+      "thumbnail": "https://i2.ytimg.com/vi/iFySoxNgqHs/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-29",
+      "firstSeen": "2026-06-29",
+      "title": "SUPER Monster Truck Toys MUD COMPILATION - Treadmill Racing, DIY Freestyle Arena & Play at Park",
+      "videoUrl": "https://www.youtube.com/watch?v=h88SSqoVgfg",
+      "videoId": "h88SSqoVgfg",
+      "thumbnail": "https://i1.ytimg.com/vi/h88SSqoVgfg/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-29",
+      "firstSeen": "2026-06-29",
+      "title": "Best of Tom & Jerry Time! ?? | Learning with Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=kJaARRtyeHA",
+      "videoId": "kJaARRtyeHA",
+      "thumbnail": "https://i4.ytimg.com/vi/kJaARRtyeHA/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -466,50 +576,6 @@
     {
       "timestamp": "2026-06-27",
       "firstSeen": "2026-06-27",
-      "title": "Sterben, um zu leben ? | S4 F8 | Ganze Folge | LEGO NINJAGO: Aufstieg der Drachen",
-      "videoUrl": "https://www.youtube.com/watch?v=ZB0Hir0UbFY",
-      "videoId": "ZB0Hir0UbFY",
-      "thumbnail": "https://i3.ytimg.com/vi/ZB0Hir0UbFY/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-27",
-      "firstSeen": "2026-06-27",
-      "title": "Why do Americans celebrate the 4th of July?",
-      "videoUrl": "https://www.youtube.com/watch?v=dlX6kb46DwM",
-      "videoId": "dlX6kb46DwM",
-      "thumbnail": "https://i1.ytimg.com/vi/dlX6kb46DwM/hqdefault.jpg",
-      "channelID": "UCwyVRKfytvjSF6q5s7noKZQ",
-      "channelName": "Mr. DeMaio",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": 300,
-      "keyword": "demaio",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-27",
-      "firstSeen": "2026-06-27",
       "title": "Secrets of the Killer Mega Shark (Full Episode) | Lost Beasts Unearthed | Nat Geo Animals",
       "videoUrl": "https://www.youtube.com/watch?v=D3QNqp4y8Sc",
       "videoId": "D3QNqp4y8Sc",
@@ -648,7 +714,7 @@
       "thumbnail": "https://i3.ytimg.com/vi/ZfOKZPYtFKQ/hqdefault.jpg",
       "channelID": "UCzWxR7srCLRQLTr1CaLStig",
       "channelName": "WB",
-      "category": "Looney Tunes",
+      "category": "Scooby Doo",
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
@@ -1022,51 +1088,7 @@
       "thumbnail": "https://i1.ytimg.com/vi/TekdEOSA4h0/hqdefault.jpg",
       "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
       "channelName": "Scholastic After School",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-26",
-      "firstSeen": "2026-06-26",
-      "title": "Goosebumps | You Can't Scare Me | A Scary Adventure Kids Will Love | Scholastic After School",
-      "videoUrl": "https://www.youtube.com/watch?v=Vjyl9NaY2vE",
-      "videoId": "Vjyl9NaY2vE",
-      "thumbnail": "https://i3.ytimg.com/vi/Vjyl9NaY2vE/hqdefault.jpg",
-      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
-      "channelName": "Scholastic After School",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-26",
-      "firstSeen": "2026-06-26",
-      "title": "Adorable Puppies Summer Fun | FULL EPISODES | Paris & Pups | @ScholasticAfterSchool",
-      "videoUrl": "https://www.youtube.com/watch?v=jH3XMHUtXGI",
-      "videoId": "jH3XMHUtXGI",
-      "thumbnail": "https://i3.ytimg.com/vi/jH3XMHUtXGI/hqdefault.jpg",
-      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
-      "channelName": "Scholastic After School",
-      "category": "Science",
+      "category": "Cartoons",
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
@@ -1268,28 +1290,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "? Karma's Saves the Record Shop! Saving the Sounds of the City | Full Episodes | Karma's World",
-      "videoUrl": "https://www.youtube.com/watch?v=jNNrMp53hc0",
-      "videoId": "jNNrMp53hc0",
-      "thumbnail": "https://i3.ytimg.com/vi/jNNrMp53hc0/hqdefault.jpg",
-      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
-      "channelName": "Scholastic After School",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
