@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T16:21:11.265Z",
+  "generatedAt": "2026-06-30T18:21:13.355Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -146,6 +146,204 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "How To Draw A Rocket Pop For The 4th Of July",
+      "videoUrl": "https://www.youtube.com/watch?v=VIFKgX4RSAY",
+      "videoId": "VIFKgX4RSAY",
+      "thumbnail": "https://i3.ytimg.com/vi/VIFKgX4RSAY/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "Ants for Kids | Learn all about these irritating but important insects",
+      "videoUrl": "https://www.youtube.com/watch?v=jQa086jvpU0",
+      "videoId": "jQa086jvpU0",
+      "thumbnail": "https://i3.ytimg.com/vi/jQa086jvpU0/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "Messi vs Ronaldo | Who is Greatest Footballer of All Time? | Fifa World Cup 2026 Special | Dr Binocs",
+      "videoUrl": "https://www.youtube.com/watch?v=zbnS2bgBTsQ",
+      "videoId": "zbnS2bgBTsQ",
+      "thumbnail": "https://i3.ytimg.com/vi/zbnS2bgBTsQ/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "Who's Calling the Wild? Funny Cartoons for Kids | Open Season: Call of Nature",
+      "videoUrl": "https://www.youtube.com/watch?v=Zvl_JLc7NTM",
+      "videoId": "Zvl_JLc7NTM",
+      "thumbnail": "https://i3.ytimg.com/vi/Zvl_JLc7NTM/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "Bananas Meet Dinosaurs! What Could Go Wrong | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=hV-gR9lO8gs",
+      "videoId": "hV-gR9lO8gs",
+      "thumbnail": "https://i1.ytimg.com/vi/hV-gR9lO8gs/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "Released a Monster!? Craziest Day at Blue Zoo | Weird Waters Season 2 Clips| Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=IdQRIFnAtUs",
+      "videoId": "IdQRIFnAtUs",
+      "thumbnail": "https://i2.ytimg.com/vi/IdQRIFnAtUs/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "Mr. Krabs' Millionth Dollar Disaster ?? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=HDTyCXSVxsU",
+      "videoId": "HDTyCXSVxsU",
+      "thumbnail": "https://i1.ytimg.com/vi/HDTyCXSVxsU/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "Psychedelics, mind control, radiation-eating: The secret superpowers of fungi - Max G. Levy",
+      "videoUrl": "https://www.youtube.com/watch?v=QIqKGMM8ivM",
+      "videoId": "QIqKGMM8ivM",
+      "thumbnail": "https://i2.ytimg.com/vi/QIqKGMM8ivM/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "The Looney Tunes Show MARATHON ? | Looney Tuesday MEGA COMP | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=oJ-_QPV1GCs",
+      "videoId": "oJ-_QPV1GCs",
+      "thumbnail": "https://i4.ytimg.com/vi/oJ-_QPV1GCs/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, daffy, scooby",
       "watched": {
         "jonah": false,
         "kieran": false
