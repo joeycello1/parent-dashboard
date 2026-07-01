@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T22:21:10.968Z",
+  "generatedAt": "2026-07-01T00:21:11.202Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -344,6 +344,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "bugs, daffy, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "Mr Bean Tried to Rescue Scrapper! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=JDD_iugoJCM",
+      "videoId": "JDD_iugoJCM",
+      "thumbnail": "https://i3.ytimg.com/vi/JDD_iugoJCM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-30",
+      "firstSeen": "2026-06-30",
+      "title": "Mr Bean Breaks Billy Out! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=3Wq4yjesrgU",
+      "videoId": "3Wq4yjesrgU",
+      "thumbnail": "https://i4.ytimg.com/vi/3Wq4yjesrgU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
