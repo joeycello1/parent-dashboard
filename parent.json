@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T18:21:18.235Z",
+  "generatedAt": "2026-07-02T20:21:14.046Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -102,28 +102,6 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-02",
-      "firstSeen": "2026-07-02",
-      "title": "Der Herzschlag aller Welten ???? | S4 F9 | Ganze Folge | LEGO NINJAGO: Aufstieg der Drachen",
-      "videoUrl": "https://www.youtube.com/watch?v=FC-PAtIsGsc",
-      "videoId": "FC-PAtIsGsc",
-      "thumbnail": "https://i3.ytimg.com/vi/FC-PAtIsGsc/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -872,116 +850,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-28",
-      "firstSeen": "2026-07-02",
-      "title": "? LIVE LEGO NINJAGO: Aufstieg der Drachen STAFFEL 3! Ganze Folgen??",
-      "videoUrl": "https://www.youtube.com/watch?v=UKIq7hsdCDI",
-      "videoId": "UKIq7hsdCDI",
-      "thumbnail": "https://i2.ytimg.com/vi/UKIq7hsdCDI/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-28",
-      "firstSeen": "2026-07-02",
-      "title": "? LIVE LEGO NINJAGO : Le soul?vement des dragons SAISON 3! ?pisodes Complets??",
-      "videoUrl": "https://www.youtube.com/watch?v=TcYLbQc4yEo",
-      "videoId": "TcYLbQc4yEo",
-      "thumbnail": "https://i1.ytimg.com/vi/TcYLbQc4yEo/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-28",
-      "firstSeen": "2026-07-02",
-      "title": "? LIVE LEGO NINJAGO: Ascens?o dos Drag?es TEMPORADA 3! | Epis?dios Completos ??",
-      "videoUrl": "https://www.youtube.com/watch?v=5kOt3PkNmKg",
-      "videoId": "5kOt3PkNmKg",
-      "thumbnail": "https://i2.ytimg.com/vi/5kOt3PkNmKg/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-28",
-      "firstSeen": "2026-07-02",
-      "title": "? LIVE LEGO NINJAGO Dragons Rising - ?????? 3! ????? ????? ??",
-      "videoUrl": "https://www.youtube.com/watch?v=SAITlm0Ec6s",
-      "videoId": "SAITlm0Ec6s",
-      "thumbnail": "https://i4.ytimg.com/vi/SAITlm0Ec6s/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-28",
-      "firstSeen": "2026-07-02",
-      "title": "? LIVE LEGO NINJAGO: Powstanie Smok?w SEZON 3! | Pe?ne Odcinki ??",
-      "videoUrl": "https://www.youtube.com/watch?v=3WFcsV2_-Vo",
-      "videoId": "3WFcsV2_-Vo",
-      "thumbnail": "https://i4.ytimg.com/vi/3WFcsV2_-Vo/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -8243,11 +8111,11 @@
       "retentionDays": 4000,
       "keyword": "minecraft",
       "watched": {
-        "jonah": false,
+        "jonah": true,
         "kieran": false
       },
       "rating": {
-        "jonah": "",
+        "jonah": "up",
         "kieran": ""
       }
     },
@@ -8265,11 +8133,11 @@
       "retentionDays": 4000,
       "keyword": "minecraft",
       "watched": {
-        "jonah": false,
+        "jonah": true,
         "kieran": false
       },
       "rating": {
-        "jonah": "",
+        "jonah": "up",
         "kieran": ""
       }
     },
@@ -8287,11 +8155,11 @@
       "retentionDays": 4000,
       "keyword": "minecraft",
       "watched": {
-        "jonah": false,
+        "jonah": true,
         "kieran": false
       },
       "rating": {
-        "jonah": "",
+        "jonah": "up",
         "kieran": ""
       }
     },
