@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:21:19.546Z",
+  "generatedAt": "2026-07-02T00:21:18.269Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -124,6 +124,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-01",
+      "firstSeen": "2026-07-01",
+      "title": "Phoebe & Jay FULL EPISODE | Vote Vote Vote! ?? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=GHvYoKHmtGU",
+      "videoId": "GHvYoKHmtGU",
+      "thumbnail": "https://i4.ytimg.com/vi/GHvYoKHmtGU/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
