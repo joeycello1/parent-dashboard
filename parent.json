@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T16:21:13.818Z",
+  "generatedAt": "2026-07-02T18:21:18.235Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -102,6 +102,116 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-02",
+      "firstSeen": "2026-07-02",
+      "title": "Der Herzschlag aller Welten ???? | S4 F9 | Ganze Folge | LEGO NINJAGO: Aufstieg der Drachen",
+      "videoUrl": "https://www.youtube.com/watch?v=FC-PAtIsGsc",
+      "videoId": "FC-PAtIsGsc",
+      "thumbnail": "https://i3.ytimg.com/vi/FC-PAtIsGsc/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-02",
+      "firstSeen": "2026-07-02",
+      "title": "Big Words for Little Astronauts & Paleontologists!?????| Book Read Along Compilation?| @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=QdQqxoPNsCo",
+      "videoId": "QdQqxoPNsCo",
+      "thumbnail": "https://i2.ytimg.com/vi/QdQqxoPNsCo/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-02",
+      "firstSeen": "2026-07-02",
+      "title": "Karma Goes To Work | Cartoons for Kids | Karma's World | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=TPrRTT319xM",
+      "videoId": "TPrRTT319xM",
+      "thumbnail": "https://i1.ytimg.com/vi/TPrRTT319xM/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-02",
+      "firstSeen": "2026-07-02",
+      "title": "SpongeBob's Best Summer Snacks in Bikini Bottom ?? | 10 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=cN99THd_EoI",
+      "videoId": "cN99THd_EoI",
+      "thumbnail": "https://i4.ytimg.com/vi/cN99THd_EoI/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-02",
+      "firstSeen": "2026-07-02",
+      "title": "Shaggy & Scooby Meet the Aliens! ?? | Scooby-Doo and the Alien Invaders | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=e7uCXnlySQQ",
+      "videoId": "e7uCXnlySQQ",
+      "thumbnail": "https://i2.ytimg.com/vi/e7uCXnlySQQ/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -762,6 +872,116 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-07-02",
+      "title": "? LIVE LEGO NINJAGO: Aufstieg der Drachen STAFFEL 3! Ganze Folgen??",
+      "videoUrl": "https://www.youtube.com/watch?v=UKIq7hsdCDI",
+      "videoId": "UKIq7hsdCDI",
+      "thumbnail": "https://i2.ytimg.com/vi/UKIq7hsdCDI/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-07-02",
+      "title": "? LIVE LEGO NINJAGO : Le soul?vement des dragons SAISON 3! ?pisodes Complets??",
+      "videoUrl": "https://www.youtube.com/watch?v=TcYLbQc4yEo",
+      "videoId": "TcYLbQc4yEo",
+      "thumbnail": "https://i1.ytimg.com/vi/TcYLbQc4yEo/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-07-02",
+      "title": "? LIVE LEGO NINJAGO: Ascens?o dos Drag?es TEMPORADA 3! | Epis?dios Completos ??",
+      "videoUrl": "https://www.youtube.com/watch?v=5kOt3PkNmKg",
+      "videoId": "5kOt3PkNmKg",
+      "thumbnail": "https://i2.ytimg.com/vi/5kOt3PkNmKg/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-07-02",
+      "title": "? LIVE LEGO NINJAGO Dragons Rising - ?????? 3! ????? ????? ??",
+      "videoUrl": "https://www.youtube.com/watch?v=SAITlm0Ec6s",
+      "videoId": "SAITlm0Ec6s",
+      "thumbnail": "https://i4.ytimg.com/vi/SAITlm0Ec6s/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-28",
+      "firstSeen": "2026-07-02",
+      "title": "? LIVE LEGO NINJAGO: Powstanie Smok?w SEZON 3! | Pe?ne Odcinki ??",
+      "videoUrl": "https://www.youtube.com/watch?v=3WFcsV2_-Vo",
+      "videoId": "3WFcsV2_-Vo",
+      "thumbnail": "https://i4.ytimg.com/vi/3WFcsV2_-Vo/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
