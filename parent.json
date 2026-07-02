@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T10:21:11.790Z",
+  "generatedAt": "2026-07-02T12:21:15.220Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -146,6 +146,28 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-01",
+      "firstSeen": "2026-07-02",
+      "title": "Milo?s LAST Message Before He VANISHED",
+      "videoUrl": "https://www.youtube.com/watch?v=IMeOFw9OwWo",
+      "videoId": "IMeOFw9OwWo",
+      "thumbnail": "https://i2.ytimg.com/vi/IMeOFw9OwWo/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
