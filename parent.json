@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T22:21:12.780Z",
+  "generatedAt": "2026-07-03T00:21:22.813Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -190,6 +190,94 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-02",
+      "firstSeen": "2026-07-02",
+      "title": "How To Draw Fireworks For The 4th Of July",
+      "videoUrl": "https://www.youtube.com/watch?v=blExf97JnqQ",
+      "videoId": "blExf97JnqQ",
+      "thumbnail": "https://i3.ytimg.com/vi/blExf97JnqQ/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-02",
+      "firstSeen": "2026-07-02",
+      "title": "Mr Bean's Sheep Costume Disaster! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=6rIHL0rWpSw",
+      "videoId": "6rIHL0rWpSw",
+      "thumbnail": "https://i3.ytimg.com/vi/6rIHL0rWpSw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-02",
+      "firstSeen": "2026-07-02",
+      "title": "Mr Bean's Wild Chase for the Lost Ring! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=SrXUBt8XsTM",
+      "videoId": "SrXUBt8XsTM",
+      "thumbnail": "https://i4.ytimg.com/vi/SrXUBt8XsTM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-02",
+      "firstSeen": "2026-07-02",
+      "title": "PBS KIDS Read | Jorge Cham Reads \"Elinor Wonders Why: The Seed of an Idea\" ??",
+      "videoUrl": "https://www.youtube.com/watch?v=iDhxJSpAD-8",
+      "videoId": "iDhxJSpAD-8",
+      "thumbnail": "https://i2.ytimg.com/vi/iDhxJSpAD-8/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
