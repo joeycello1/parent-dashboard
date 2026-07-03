@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T10:21:11.720Z",
+  "generatedAt": "2026-07-03T12:21:14.398Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -1256,6 +1256,94 @@
       }
     },
     {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-07-03",
+      "title": "? EN VIVO LEGO NINJAGO: El Ascenso de los Dragones TEMPORADA 3! Episodios Completos ??",
+      "videoUrl": "https://www.youtube.com/watch?v=xOSAq3uKQWk",
+      "videoId": "xOSAq3uKQWk",
+      "thumbnail": "https://i1.ytimg.com/vi/xOSAq3uKQWk/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-07-03",
+      "title": "? Canl? Yay?n | LEGO NINJAGO: Ejderhalar?n Y?kseli?i SEZON 3! T?m B?l?mler??",
+      "videoUrl": "https://www.youtube.com/watch?v=Vl-jcnnTEZo",
+      "videoId": "Vl-jcnnTEZo",
+      "thumbnail": "https://i3.ytimg.com/vi/Vl-jcnnTEZo/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-07-03",
+      "title": "? ????? ?? ???????????????? ????3 ??????? ??",
+      "videoUrl": "https://www.youtube.com/watch?v=k_yOYjinshk",
+      "videoId": "k_yOYjinshk",
+      "thumbnail": "https://i4.ytimg.com/vi/k_yOYjinshk/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-07-03",
+      "title": "? LIVE ?? ??? ??? ??? ?? 3! ?? ???? ??",
+      "videoUrl": "https://www.youtube.com/watch?v=XEY6eEC8nbw",
+      "videoId": "XEY6eEC8nbw",
+      "thumbnail": "https://i1.ytimg.com/vi/XEY6eEC8nbw/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-06-26T21:44:57.869Z",
       "firstSeen": "2026-06-26T21:44:57.869Z",
       "title": "CGI Animated Short Film \"Sweet Cocoon\" by ESMA | CGMeetup",
@@ -1840,6 +1928,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-25",
+      "firstSeen": "2026-07-03",
+      "title": "? LIVE LEGO NINJAGO: Dragons Rising SEASON 4! ? NEW SEASON | FULL Episodes! ?",
+      "videoUrl": "https://www.youtube.com/watch?v=eIuEXoj9oqM",
+      "videoId": "eIuEXoj9oqM",
+      "thumbnail": "https://i2.ytimg.com/vi/eIuEXoj9oqM/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
