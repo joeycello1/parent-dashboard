@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T04:21:10.481Z",
+  "generatedAt": "2026-07-04T06:21:11.446Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -344,6 +344,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-03",
+      "firstSeen": "2026-07-04",
+      "title": "We Found Rarest SQUISHY DUMPLINGS in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=B7uAQ7hkPK0",
+      "videoId": "B7uAQ7hkPK0",
+      "thumbnail": "https://i3.ytimg.com/vi/B7uAQ7hkPK0/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
