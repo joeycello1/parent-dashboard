@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T22:21:10.518Z",
+  "generatedAt": "2026-07-04T00:21:10.640Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -234,6 +234,116 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-03",
+      "firstSeen": "2026-07-03",
+      "title": "How To Draw A Star Folding Surprise For America 250 Years!",
+      "videoUrl": "https://www.youtube.com/watch?v=nzH4i-B7MJE",
+      "videoId": "nzH4i-B7MJE",
+      "thumbnail": "https://i3.ytimg.com/vi/nzH4i-B7MJE/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-03",
+      "firstSeen": "2026-07-03",
+      "title": "NINJAGO: Meister des Spinjitzu STAFFEL?8 SAMMLUNG! ?? | Action-Cartoons f?r Kinder ? LEGO? NINJAGO?",
+      "videoUrl": "https://www.youtube.com/watch?v=8fh0NUU-xf4",
+      "videoId": "8fh0NUU-xf4",
+      "thumbnail": "https://i1.ytimg.com/vi/8fh0NUU-xf4/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-03",
+      "firstSeen": "2026-07-03",
+      "title": "KOMPILACJA 8.?SEZONU NINJAGO: Mistrzowie Spinjitzu! ?? | Kresk?wki akcji dla dzieci ? LEGO? NINJAGO?",
+      "videoUrl": "https://www.youtube.com/watch?v=7uK1F634mBk",
+      "videoId": "7uK1F634mBk",
+      "thumbnail": "https://i4.ytimg.com/vi/7uK1F634mBk/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-03",
+      "firstSeen": "2026-07-03",
+      "title": "?? Xavier Riddle Celebrates American Heroes: INNOVATORS ? 55+ MIN Special! ? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=b8H6KQzkxAo",
+      "videoId": "b8H6KQzkxAo",
+      "thumbnail": "https://i3.ytimg.com/vi/b8H6KQzkxAo/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-03",
+      "firstSeen": "2026-07-03",
+      "title": "Trapped in the Pyramid | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=qHHR82dfMSQ",
+      "videoId": "qHHR82dfMSQ",
+      "thumbnail": "https://i2.ytimg.com/vi/qHHR82dfMSQ/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
