@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T10:21:10.925Z",
+  "generatedAt": "2026-07-04T12:21:11.796Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -58,6 +58,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-04",
+      "firstSeen": "2026-07-04",
+      "title": "?? NEW ?? Season 4 Official Trailer | LEGO City: No Limits",
+      "videoUrl": "https://www.youtube.com/watch?v=S_SSuDNrdwc",
+      "videoId": "S_SSuDNrdwc",
+      "thumbnail": "https://i4.ytimg.com/vi/S_SSuDNrdwc/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
