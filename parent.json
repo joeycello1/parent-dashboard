@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T22:21:11.765Z",
+  "generatedAt": "2026-07-05T00:21:12.217Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -80,6 +80,182 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-04",
+      "firstSeen": "2026-07-04",
+      "title": "Documenting America's National Parks | America 250 Special | MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=Wugmq31BJqs",
+      "videoId": "Wugmq31BJqs",
+      "thumbnail": "https://i4.ytimg.com/vi/Wugmq31BJqs/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-04",
+      "firstSeen": "2026-07-04",
+      "title": "Explore Hawai'i Volcanoes National Park? | America 250 | @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=OYw5i3J7BS8",
+      "videoId": "OYw5i3J7BS8",
+      "thumbnail": "https://i4.ytimg.com/vi/OYw5i3J7BS8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-04",
+      "firstSeen": "2026-07-04",
+      "title": "?? America's Awesome Kids COMPILATION! ?? | Travel & Spend the Fourth with Kids Like You! | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=tpV-PirQ76E",
+      "videoId": "tpV-PirQ76E",
+      "thumbnail": "https://i1.ytimg.com/vi/tpV-PirQ76E/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs, lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-04",
+      "firstSeen": "2026-07-04",
+      "title": "Easy Fun Science Experiments You Can Do At Home | Science Max | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=aRgiY-H0Pnw",
+      "videoId": "aRgiY-H0Pnw",
+      "thumbnail": "https://i2.ytimg.com/vi/aRgiY-H0Pnw/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-04",
+      "firstSeen": "2026-07-04",
+      "title": "Plankton?s Evil Plans & Schemes ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=rAlILwXDO20",
+      "videoId": "rAlILwXDO20",
+      "thumbnail": "https://i3.ytimg.com/vi/rAlILwXDO20/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-04",
+      "firstSeen": "2026-07-04",
+      "title": "Looney Tunes | Bugs Bunny Full Episode Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=equDXjlJZd0",
+      "videoId": "equDXjlJZd0",
+      "thumbnail": "https://i2.ytimg.com/vi/equDXjlJZd0/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, daffy, road runner, yosemite",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-04",
+      "firstSeen": "2026-07-04",
+      "title": "Summer Break Cartoon MARATHON ??? | Tom & Jerry, The Flintstones, + MORE | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=johK5YPuVNA",
+      "videoId": "johK5YPuVNA",
+      "thumbnail": "https://i3.ytimg.com/vi/johK5YPuVNA/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "flintstones, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-04",
+      "firstSeen": "2026-07-04",
+      "title": "Fourth of July Fun! ??? | Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=TtqnuEjPBAs",
+      "videoId": "TtqnuEjPBAs",
+      "thumbnail": "https://i1.ytimg.com/vi/TtqnuEjPBAs/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -9130,6 +9306,7 @@
     "demaio",
     "dylan",
     "educational",
+    "flintstones",
     "foghorn",
     "jetsons",
     "kids2kids",
