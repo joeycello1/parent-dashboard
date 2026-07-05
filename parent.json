@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T10:21:13.969Z",
+  "generatedAt": "2026-07-05T12:21:14.635Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -36,6 +36,72 @@
       "profile": "Both",
       "retentionDays": 40,
       "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Master Wu: Legacy of the Spinjitzu Master | Best Moments | 15th Anniversary Special ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=WpNPrJl6Zds",
+      "videoId": "WpNPrJl6Zds",
+      "thumbnail": "https://i4.ytimg.com/vi/WpNPrJl6Zds/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, art, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Game ? Can You Find the 3 Statues of POPCORNity? ? | LEGO Friends: The Next Chapter",
+      "videoUrl": "https://www.youtube.com/watch?v=YTktyJAEmg0",
+      "videoId": "YTktyJAEmg0",
+      "thumbnail": "https://i2.ytimg.com/vi/YTktyJAEmg0/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Best BFF Quizzes Part 2 ? Who?s Most Likely To? | LEGO Friends: The Next Chapter Characters",
+      "videoUrl": "https://www.youtube.com/watch?v=2mc0uB4g9Fs",
+      "videoId": "2mc0uB4g9Fs",
+      "thumbnail": "https://i3.ytimg.com/vi/2mc0uB4g9Fs/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
