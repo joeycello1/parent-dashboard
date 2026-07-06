@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T04:21:10.477Z",
+  "generatedAt": "2026-07-06T06:21:14.213Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -388,6 +388,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-06",
+      "title": "Becoming a SHAPESHIFTER to Find My Friend?s Secrets in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=Kd4tdn1A3P8",
+      "videoId": "Kd4tdn1A3P8",
+      "thumbnail": "https://i4.ytimg.com/vi/Kd4tdn1A3P8/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
