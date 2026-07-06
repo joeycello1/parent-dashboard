@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T22:21:11.014Z",
+  "generatedAt": "2026-07-06T00:21:11.841Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -102,6 +102,292 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Mistr Wu: Odkaz mistra Spinjitzu | Nejlep?? momenty | Speci?l k 15. v?ro?? ?| LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=Cp2qS7ycYmI",
+      "videoId": "Cp2qS7ycYmI",
+      "thumbnail": "https://i4.ytimg.com/vi/Cp2qS7ycYmI/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Maestrul Wu: Mo?tenirea Maestrului Spinjitzu | Momente de top | Special de 15 ani ?| LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=J9yAe7VIzoU",
+      "videoId": "J9yAe7VIzoU",
+      "thumbnail": "https://i3.ytimg.com/vi/J9yAe7VIzoU/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "El legado del Maestro Wu | Mejores momentos | Especial 15 aniversario ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=9GUc1ly6ms0",
+      "videoId": "9GUc1ly6ms0",
+      "thumbnail": "https://i2.ytimg.com/vi/9GUc1ly6ms0/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Usta Wu: Spinjitzu Ustas?n?n Miras? | En ?yi Anlar | 15. Y?l D?n?m? ?zel B?l?m? ?| LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=1Qu5NE59H2k",
+      "videoId": "1Qu5NE59H2k",
+      "thumbnail": "https://i2.ytimg.com/vi/1Qu5NE59H2k/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Ma?tre Wu : L?h?ritage du Ma?tre du Spinjitzu | Meilleurs moments | 15e anniversaire?| LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=9U50Ms5L65Q",
+      "videoId": "9U50Ms5L65Q",
+      "thumbnail": "https://i2.ytimg.com/vi/9U50Ms5L65Q/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "?????? ??: ??? ??? ??????????? | ???? ??????? | ???? ???? ??????? ?????? ??????? 15 ?| ???? NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=wvYEjkMFAtI",
+      "videoId": "wvYEjkMFAtI",
+      "thumbnail": "https://i4.ytimg.com/vi/wvYEjkMFAtI/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "?????????????????? | ?????? | 15????????? ?| ?? ??????",
+      "videoUrl": "https://www.youtube.com/watch?v=8oeYW8xgQP8",
+      "videoId": "8oeYW8xgQP8",
+      "thumbnail": "https://i1.ytimg.com/vi/8oeYW8xgQP8/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "?????????????? | ???? | 15????? ? | ??????",
+      "videoUrl": "https://www.youtube.com/watch?v=SUstfYw6H48",
+      "videoId": "SUstfYw6H48",
+      "thumbnail": "https://i4.ytimg.com/vi/SUstfYw6H48/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Cannibal Sharks: Shark vs. Shark (Full Episode) | SPECIAL | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=vayZ_0uYOTU",
+      "videoId": "vayZ_0uYOTU",
+      "thumbnail": "https://i3.ytimg.com/vi/vayZ_0uYOTU/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Explore the Grand Canyon, Redwoods & Niagara Falls ?| America 250 | @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=1WBcKryn_B8",
+      "videoId": "1WBcKryn_B8",
+      "thumbnail": "https://i2.ytimg.com/vi/1WBcKryn_B8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Relax with Super Chill Sharks | 2 Hours | Compilation | SHARKFEST ? | @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=keyhwn_ICEE",
+      "videoId": "keyhwn_ICEE",
+      "thumbnail": "https://i4.ytimg.com/vi/keyhwn_ICEE/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "Amazing Habitat Facts for Kids! ? | Dolphins, Worms & Nature Questions Answered | Finding Stuff Out",
+      "videoUrl": "https://www.youtube.com/watch?v=7UCuddbrFik",
+      "videoId": "7UCuddbrFik",
+      "thumbnail": "https://i4.ytimg.com/vi/7UCuddbrFik/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-05",
+      "firstSeen": "2026-07-05",
+      "title": "4 Hours of SpongeBob Working at the Krusty Krab ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=eoeLuNjjyaI",
+      "videoId": "eoeLuNjjyaI",
+      "thumbnail": "https://i2.ytimg.com/vi/eoeLuNjjyaI/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
