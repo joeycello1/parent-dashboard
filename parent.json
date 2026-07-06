@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T16:21:11.517Z",
+  "generatedAt": "2026-07-06T18:21:17.098Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -14,6 +14,94 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-06",
+      "firstSeen": "2026-07-06",
+      "title": "Mr Bean Started a Pet Grooming Business! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=bM7WOALJfA4",
+      "videoId": "bM7WOALJfA4",
+      "thumbnail": "https://i3.ytimg.com/vi/bM7WOALJfA4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-06",
+      "firstSeen": "2026-07-06",
+      "title": "Our Favorite Monster Jam Pit Party & Freestyle Show COMPILATION",
+      "videoUrl": "https://www.youtube.com/watch?v=jjdILN52ltc",
+      "videoId": "jjdILN52ltc",
+      "thumbnail": "https://i3.ytimg.com/vi/jjdILN52ltc/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-06",
+      "firstSeen": "2026-07-06",
+      "title": "Meet the Ocean's Wildest Animals! ? | Super Animals Full Episode | 20 Minutes | @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=qXYbLIEspqE",
+      "videoId": "qXYbLIEspqE",
+      "thumbnail": "https://i2.ytimg.com/vi/qXYbLIEspqE/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-06",
+      "firstSeen": "2026-07-06",
+      "title": "Engineering & Physics | Full Episodes | The Magic School Bus | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=EAnUQCCBA6Y",
+      "videoId": "EAnUQCCBA6Y",
+      "thumbnail": "https://i2.ytimg.com/vi/EAnUQCCBA6Y/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
