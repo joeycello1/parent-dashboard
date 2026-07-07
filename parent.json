@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T10:21:14.776Z",
+  "generatedAt": "2026-07-07T12:21:12.631Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -146,6 +146,28 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-06",
+      "firstSeen": "2026-07-07",
+      "title": "Using ONE COLOR CAMOUFLAGE to Find My Friend?s SECRETS in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=T9urA_jtxx4",
+      "videoId": "T9urA_jtxx4",
+      "thumbnail": "https://i1.ytimg.com/vi/T9urA_jtxx4/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
