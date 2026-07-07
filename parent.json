@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T22:21:10.869Z",
+  "generatedAt": "2026-07-07T00:21:11.350Z",
   "videos": [
     {
       "timestamp": "2026-07-06",
@@ -102,6 +102,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-06",
+      "firstSeen": "2026-07-06",
+      "title": "Mr Bean Taught Mrs Wicket to Drive! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=L7d3bk5C3jw",
+      "videoId": "L7d3bk5C3jw",
+      "thumbnail": "https://i1.ytimg.com/vi/L7d3bk5C3jw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-06",
+      "firstSeen": "2026-07-06",
+      "title": "Weather Hunters FULL EPISODE | Properly Prepared ?? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=NhOb6Zvj98Y",
+      "videoId": "NhOb6Zvj98Y",
+      "thumbnail": "https://i3.ytimg.com/vi/NhOb6Zvj98Y/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
