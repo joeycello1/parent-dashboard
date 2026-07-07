@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-07-07T16:21:15.780Z",
+  "generatedAt": "2026-07-07T18:21:13.590Z",
   "videos": [
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "How To Draw A Baby Dragon Egg Folding Surprise",
+      "videoUrl": "https://www.youtube.com/watch?v=7LihscA4B9Q",
+      "videoId": "7LihscA4B9Q",
+      "thumbnail": "https://i4.ytimg.com/vi/7LihscA4B9Q/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "Mr Bean vs Bank Robbers | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=JdmSSxgWnRM",
+      "videoId": "JdmSSxgWnRM",
+      "thumbnail": "https://i3.ytimg.com/vi/JdmSSxgWnRM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "Mr Bean Ruined the Flowers! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=6Mt1xCL6qHE",
+      "videoId": "6Mt1xCL6qHE",
+      "thumbnail": "https://i3.ytimg.com/vi/6Mt1xCL6qHE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "September 11 | Learn about the tragic 9/11 attacks",
+      "videoUrl": "https://www.youtube.com/watch?v=Q8u8X8GiDsc",
+      "videoId": "Q8u8X8GiDsc",
+      "thumbnail": "https://i2.ytimg.com/vi/Q8u8X8GiDsc/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "LEGO? Disney Princess Moana Kakamora Diamond Disaster",
+      "videoUrl": "https://www.youtube.com/watch?v=o6hvvrubOJI",
+      "videoId": "o6hvvrubOJI",
+      "thumbnail": "https://i4.ytimg.com/vi/o6hvvrubOJI/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "Explore Yellowstone, the Appalachians & The Everglades ??| America 250 | @natgeokids",
+      "videoUrl": "https://www.youtube.com/watch?v=KII69Mw1DPY",
+      "videoId": "KII69Mw1DPY",
+      "thumbnail": "https://i4.ytimg.com/vi/KII69Mw1DPY/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "The Ebola Virus Explained | What Happens if You Get Ebola? | Symptoms, Spread And Risks | Dr. Binocs",
+      "videoUrl": "https://www.youtube.com/watch?v=XaE3L0wBYmI",
+      "videoId": "XaE3L0wBYmI",
+      "thumbnail": "https://i1.ytimg.com/vi/XaE3L0wBYmI/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "Mr. Krabs & Plankton Start a Business Together?! ? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=IaQQ3Jwuj6I",
+      "videoId": "IaQQ3Jwuj6I",
+      "thumbnail": "https://i2.ytimg.com/vi/IaQQ3Jwuj6I/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "How does the space station never run out of oxygen? - Alvaro Romero-Calvo and Theo St Francis",
+      "videoUrl": "https://www.youtube.com/watch?v=5ljV0Vxu00M",
+      "videoId": "5ljV0Vxu00M",
+      "thumbnail": "https://i2.ytimg.com/vi/5ljV0Vxu00M/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "Bugs Bunny's BIG Bike Race! ?? | New Looney Tunes | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=oICoTpnTwJc",
+      "videoId": "oICoTpnTwJc",
+      "thumbnail": "https://i4.ytimg.com/vi/oICoTpnTwJc/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-06",
       "firstSeen": "2026-07-06",
