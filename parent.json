@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T22:21:14.250Z",
+  "generatedAt": "2026-07-08T00:21:16.821Z",
   "videos": [
     {
       "timestamp": "2026-07-07",
@@ -212,6 +212,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "Where Did Dinkelman Go?! ? Funny Cartoons for Kids | Open Season: Call of Nature",
+      "videoUrl": "https://www.youtube.com/watch?v=hdrAdFxaCDk",
+      "videoId": "hdrAdFxaCDk",
+      "thumbnail": "https://i1.ytimg.com/vi/hdrAdFxaCDk/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-07",
+      "firstSeen": "2026-07-07",
+      "title": "Fancy Dinner Disaster | Funny Cartoons for Kids | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=hpTFDeb6ai8",
+      "videoId": "hpTFDeb6ai8",
+      "thumbnail": "https://i1.ytimg.com/vi/hpTFDeb6ai8/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
