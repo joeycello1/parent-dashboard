@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-07-08T16:21:14.186Z",
+  "generatedAt": "2026-07-08T18:22:06.957Z",
   "videos": [
+    {
+      "timestamp": "2026-07-08",
+      "firstSeen": "2026-07-08",
+      "title": "Mr Bean Was Arrested for a Necklace! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=CB2I9RIp4bQ",
+      "videoId": "CB2I9RIp4bQ",
+      "thumbnail": "https://i4.ytimg.com/vi/CB2I9RIp4bQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-08",
+      "firstSeen": "2026-07-08",
+      "title": "Nobody Messes with Teddy! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=9cDyWu6F3Ko",
+      "videoId": "9cDyWu6F3Ko",
+      "thumbnail": "https://i2.ytimg.com/vi/9cDyWu6F3Ko/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-08",
+      "firstSeen": "2026-07-08",
+      "title": "Who?s Most Likely To? ? BFF Quiz With PETS: Churro ? and Popcorn? | LEGO Friends: The Next Chapter",
+      "videoUrl": "https://www.youtube.com/watch?v=0JURleH0yl8",
+      "videoId": "0JURleH0yl8",
+      "thumbnail": "https://i1.ytimg.com/vi/0JURleH0yl8/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-08",
+      "firstSeen": "2026-07-08",
+      "title": "Brickbeat: All Access | Episode 1 | LEGO FORTNITE Balloon Challenge, Lewis Hamilton & builds ?| LEGO",
+      "videoUrl": "https://www.youtube.com/watch?v=PrxFt_eZPss",
+      "videoId": "PrxFt_eZPss",
+      "thumbnail": "https://i1.ytimg.com/vi/PrxFt_eZPss/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-08",
+      "firstSeen": "2026-07-08",
+      "title": "The Natural Wonder of India (Full Episode) | India from Above | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=m1lTclSK5AE",
+      "videoId": "m1lTclSK5AE",
+      "thumbnail": "https://i2.ytimg.com/vi/m1lTclSK5AE/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-08",
+      "firstSeen": "2026-07-08",
+      "title": "SpongeBob's Best Moments from Seasons 12?14 ? | 90 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=agD_z4I7lkI",
+      "videoId": "agD_z4I7lkI",
+      "thumbnail": "https://i2.ytimg.com/vi/agD_z4I7lkI/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-07",
       "firstSeen": "2026-07-07",
