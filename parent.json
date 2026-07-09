@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T22:21:13.775Z",
+  "generatedAt": "2026-07-09T00:21:11.481Z",
   "videos": [
     {
       "timestamp": "2026-07-08",
@@ -124,6 +124,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-08",
+      "firstSeen": "2026-07-08",
+      "title": "How To Draw A Cute Hawaiian Shave Ice",
+      "videoUrl": "https://www.youtube.com/watch?v=ucJIxgr7pkg",
+      "videoId": "ucJIxgr7pkg",
+      "thumbnail": "https://i2.ytimg.com/vi/ucJIxgr7pkg/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-08",
+      "firstSeen": "2026-07-08",
+      "title": "McGee and Booger | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=J_3-q4TfqA0",
+      "videoId": "J_3-q4TfqA0",
+      "thumbnail": "https://i3.ytimg.com/vi/J_3-q4TfqA0/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
