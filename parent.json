@@ -1,6 +1,468 @@
 {
-  "generatedAt": "2026-07-09T14:21:16.444Z",
+  "generatedAt": "2026-07-09T15:57:25.078Z",
   "videos": [
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Mr Bean Replaced Teddy! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=l9HkN30kIGE",
+      "videoId": "l9HkN30kIGE",
+      "thumbnail": "https://i1.ytimg.com/vi/l9HkN30kIGE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Dinos A to Z: Velociraptor | Learn fun facts about this popular dinosaur!",
+      "videoUrl": "https://www.youtube.com/watch?v=v5RjueE-l6g",
+      "videoId": "v5RjueE-l6g",
+      "thumbnail": "https://i3.ytimg.com/vi/v5RjueE-l6g/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science, speedy",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "El legado de P.I.X.A.L. ? ? | Mejores momentos | Especial 15 aniversario ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=k4kB-nvtlQk",
+      "videoId": "k4kB-nvtlQk",
+      "thumbnail": "https://i4.ytimg.com/vi/k4kB-nvtlQk/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "??? P.I.X.A.L. ??| ???? ??????? | ???? ???? ??????? ?????? ??????? 15 ?| ???? NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=Y_XXKhBpEj0",
+      "videoId": "Y_XXKhBpEj0",
+      "thumbnail": "https://i2.ytimg.com/vi/Y_XXKhBpEj0/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Die Legende von P.I.X.A.L. ??| Die besten Momente | 15. Jubil?um ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=AjnNhpil2nY",
+      "videoId": "AjnNhpil2nY",
+      "thumbnail": "https://i2.ytimg.com/vi/AjnNhpil2nY/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? ??? ??| ??? ??? | 15?? ?? ??? ? | ?? ???",
+      "videoUrl": "https://www.youtube.com/watch?v=k6rVGUmbP9Y",
+      "videoId": "k6rVGUmbP9Y",
+      "thumbnail": "https://i4.ytimg.com/vi/k6rVGUmbP9Y/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "P.I.X.A.L.'?n Miras? ??| En ?yi Anlar | 15. Y?l D?n?m? ?zel ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=kiNf93ARW_0",
+      "videoId": "kiNf93ARW_0",
+      "thumbnail": "https://i4.ytimg.com/vi/kiNf93ARW_0/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Odkaz P.I.X.A.L. ??| Nejlep?? momenty | Speci?l k 15. v?ro??? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=FAysbCGn8Qk",
+      "videoId": "FAysbCGn8Qk",
+      "thumbnail": "https://i3.ytimg.com/vi/FAysbCGn8Qk/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "L?h?ritage de P.I.X.A.L. ?? | Meilleurs moments | 15e anniversaire ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=VQvdkWMZLW0",
+      "videoId": "VQvdkWMZLW0",
+      "thumbnail": "https://i3.ytimg.com/vi/VQvdkWMZLW0/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Di S?n P.I.X.A.L. ??| Kho?nh Kh?c N?i B?t Nh?t | B?n ??c Bi?t K? Ni?m 15 N?m ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=9zF1wSG36HU",
+      "videoId": "9zF1wSG36HU",
+      "thumbnail": "https://i2.ytimg.com/vi/9zF1wSG36HU/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "???????? ?? | ?????? | 15????????? ? | ?? ??????",
+      "videoUrl": "https://www.youtube.com/watch?v=WLAfqIvZf2k",
+      "videoId": "WLAfqIvZf2k",
+      "thumbnail": "https://i4.ytimg.com/vi/WLAfqIvZf2k/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Dziedzictwo P.I.X.A.L. ??| Top sceny | Specjalny odcinek na 15-lecie ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=zVmGeDltudo",
+      "videoId": "zVmGeDltudo",
+      "thumbnail": "https://i3.ytimg.com/vi/zVmGeDltudo/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "L?eredit? di P.I.X.A.L. ??| I migliori momenti | Speciale 15? anniversario ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=u-BhQDR_55Y",
+      "videoId": "u-BhQDR_55Y",
+      "thumbnail": "https://i2.ytimg.com/vi/u-BhQDR_55Y/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?????? ?? | ???? | 15????? ? | ??????",
+      "videoUrl": "https://www.youtube.com/watch?v=Kk_iuznNaig",
+      "videoId": "Kk_iuznNaig",
+      "thumbnail": "https://i4.ytimg.com/vi/Kk_iuznNaig/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "P.I.X.A.L. hagyat?ka ??| Legjobb pillanatok | 15. ?vfordul?s k?l?nkiad?s ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=MCh9hLME3i8",
+      "videoId": "MCh9hLME3i8",
+      "thumbnail": "https://i2.ytimg.com/vi/MCh9hLME3i8/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Mo?tenirea P.I.X.A.L. ??| Momente de top | Special pentru aniversarea de 15 ani ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=UaXfs8-vns4",
+      "videoId": "UaXfs8-vns4",
+      "thumbnail": "https://i2.ytimg.com/vi/UaXfs8-vns4/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Legacy of P.I.X.A.L. ??| Best Moments | 15th Anniversary Special ? | LEGO NINJAGO",
+      "videoUrl": "https://www.youtube.com/watch?v=H_nVYToR4vQ",
+      "videoId": "H_nVYToR4vQ",
+      "thumbnail": "https://i1.ytimg.com/vi/H_nVYToR4vQ/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "World's Largest Sharks! ? | Full Episode Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=OXJVTrLzLjY",
+      "videoId": "OXJVTrLzLjY",
+      "thumbnail": "https://i4.ytimg.com/vi/OXJVTrLzLjY/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Every Time SpongeBob Characters Hurt Their Legs ?? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=2KqyZZbUtSc",
+      "videoId": "2KqyZZbUtSc",
+      "thumbnail": "https://i3.ytimg.com/vi/2KqyZZbUtSc/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "100 WAYS to DESTROY LEGO...",
+      "videoUrl": "https://www.youtube.com/watch?v=chydtGIxygQ",
+      "videoId": "chydtGIxygQ",
+      "thumbnail": "https://i4.ytimg.com/vi/chydtGIxygQ/hqdefault.jpg",
+      "channelID": "UCUU3GdGuQshZFRGnxAPBf_w",
+      "channelName": "TD Bricks",
+      "category": "LEGO",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Summer Road Trip! ? ? | Scooby-Doo! | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=fkgsvKSJzds",
+      "videoId": "fkgsvKSJzds",
+      "thumbnail": "https://i3.ytimg.com/vi/fkgsvKSJzds/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-08",
       "firstSeen": "2026-07-08",
@@ -10247,6 +10709,7 @@
     "scishow",
     "scooby",
     "social studies",
+    "speedy",
     "spongebob",
     "stories",
     "storylineonline",
