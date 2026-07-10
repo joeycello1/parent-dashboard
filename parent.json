@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T16:21:22.160Z",
+  "generatedAt": "2026-07-10T18:21:12.129Z",
   "videos": [
     {
       "timestamp": "2026-07-10",
@@ -36,6 +36,490 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "Mr Bean's Once-in-200-Year Mission | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=7uItMOZyuAE",
+      "videoId": "7uItMOZyuAE",
+      "thumbnail": "https://i4.ytimg.com/vi/7uItMOZyuAE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "KIDS PRETEND ?? Caleb, Mary & Charlene Fly First Class To WORST Class",
+      "videoUrl": "https://www.youtube.com/watch?v=9z7-WS9LTrM",
+      "videoId": "9z7-WS9LTrM",
+      "thumbnail": "https://i2.ytimg.com/vi/9z7-WS9LTrM/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "ALLA fordon uppl?sta?! ? ?? | S?song 4 avsnitt 1 | Hela avsnittet | LEGO City: Inga gr?nser",
+      "videoUrl": "https://www.youtube.com/watch?v=1hjGblfq67s",
+      "videoId": "1hjGblfq67s",
+      "thumbnail": "https://i2.ytimg.com/vi/1hjGblfq67s/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "?? ?? ??? ???? ?????????! ? ?? | ?????? 4 ?????? 1 | ???? ????? | ???? ?????: ??? ????",
+      "videoUrl": "https://www.youtube.com/watch?v=rrW4BS9u_kU",
+      "videoId": "rrW4BS9u_kU",
+      "thumbnail": "https://i3.ytimg.com/vi/rrW4BS9u_kU/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "????????? ? ?? | ? 4 ?? 1 ? | ???? | ????????",
+      "videoUrl": "https://www.youtube.com/watch?v=7KrB5x02vN0",
+      "videoId": "7KrB5x02vN0",
+      "thumbnail": "https://i4.ytimg.com/vi/7KrB5x02vN0/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "P??stup ke V?EM vozidl?m?! ? ?? | 4. ?ada, 1. d?l | Cel? d?l | LEGO City: M?sto bez hranic",
+      "videoUrl": "https://www.youtube.com/watch?v=CfTYd5c2i7U",
+      "videoId": "CfTYd5c2i7U",
+      "thumbnail": "https://i4.ytimg.com/vi/CfTYd5c2i7U/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "KAIKKI kulkuv?lineet karkuteill??! ? ?? | Kausi 4, jakso 1 | Koko jakso | LEGO City: Ei rajoja",
+      "videoUrl": "https://www.youtube.com/watch?v=6uQC1PiO7VQ",
+      "videoId": "6uQC1PiO7VQ",
+      "thumbnail": "https://i3.ytimg.com/vi/6uQC1PiO7VQ/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "TOUS les v?hicules d?bloqu?s??! ? ?? | S4 ?p.?1 | ?pisode complet | LEGO City?: Sans Limite",
+      "videoUrl": "https://www.youtube.com/watch?v=EWz8wqoT7TQ",
+      "videoId": "EWz8wqoT7TQ",
+      "thumbnail": "https://i2.ytimg.com/vi/EWz8wqoT7TQ/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "???? ????????? ? ????????? ????????! ???| ??????4, ??????1 | LEGO City: ????? ??? ??????",
+      "videoUrl": "https://www.youtube.com/watch?v=L2StnLC4olQ",
+      "videoId": "L2StnLC4olQ",
+      "thumbnail": "https://i1.ytimg.com/vi/L2StnLC4olQ/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "?????????? ???? 4 ?? 1 ???????????????",
+      "videoUrl": "https://www.youtube.com/watch?v=nXM9AIUTDys",
+      "videoId": "nXM9AIUTDys",
+      "thumbnail": "https://i3.ytimg.com/vi/nXM9AIUTDys/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "?? ??! ???? ??? ? ?? | ?? 4 ???? 1 | ??? | ?? ??: ? ???",
+      "videoUrl": "https://www.youtube.com/watch?v=Yv1e-oQwMQA",
+      "videoId": "Yv1e-oQwMQA",
+      "thumbnail": "https://i2.ytimg.com/vi/Yv1e-oQwMQA/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "??TODOS los veh?culos sin cerrar?! ? ?? | T4, E1 | Completo | LEGO City: Ciudad sin L?mites",
+      "videoUrl": "https://www.youtube.com/watch?v=zJCyAHVL_rc",
+      "videoId": "zJCyAHVL_rc",
+      "thumbnail": "https://i3.ytimg.com/vi/zJCyAHVL_rc/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "Fuld adgang til ALLE fart?jer?! ? ?? | S?son 4, afsnit 1 | Hele afsnittet | LEGO City: No Limits",
+      "videoUrl": "https://www.youtube.com/watch?v=PlVdfrnZexc",
+      "videoId": "PlVdfrnZexc",
+      "thumbnail": "https://i1.ytimg.com/vi/PlVdfrnZexc/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "??TODOS los veh?culos sin cerrar?! ? ?? | T4, E1 | Episodio completo | LEGO City: Sin L?mites",
+      "videoUrl": "https://www.youtube.com/watch?v=dX5mh6-M_44",
+      "videoId": "dX5mh6-M_44",
+      "thumbnail": "https://i1.ytimg.com/vi/dX5mh6-M_44/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "Zijn ALLE voertuigen ontgrendeld?! ? | Seizoen 4 Afl. 1 | Hele aflevering | LEGO City: Geen Grenzen",
+      "videoUrl": "https://www.youtube.com/watch?v=QSANuMFcmG0",
+      "videoId": "QSANuMFcmG0",
+      "thumbnail": "https://i2.ytimg.com/vi/QSANuMFcmG0/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "JEDES Fahrzeug freigeschaltet?! ? ?? | Staffel 4 Folge 1 | Ganze Folge | LEGO City: No Limits",
+      "videoUrl": "https://www.youtube.com/watch?v=irUJMxHYQnA",
+      "videoId": "irUJMxHYQnA",
+      "thumbnail": "https://i2.ytimg.com/vi/irUJMxHYQnA/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "Great Shark Chomp Down and More! | Sharkfest 2026 MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=gEoJc_yTLYE",
+      "videoId": "gEoJc_yTLYE",
+      "thumbnail": "https://i4.ytimg.com/vi/gEoJc_yTLYE/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "Kids React to Baby Seahorses, Polar Bears and More!",
+      "videoUrl": "https://www.youtube.com/watch?v=xzS857HdSxQ",
+      "videoId": "xzS857HdSxQ",
+      "thumbnail": "https://i1.ytimg.com/vi/xzS857HdSxQ/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "All Greeking Out S3 Full Episodes?| Season Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=Xo2KgHjfdb4",
+      "videoId": "Xo2KgHjfdb4",
+      "thumbnail": "https://i1.ytimg.com/vi/Xo2KgHjfdb4/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "Broken Bone Healing Process | How Plaster Helps in Fracture? | Bone Fractures | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=51rdY8554SU",
+      "videoId": "51rdY8554SU",
+      "thumbnail": "https://i2.ytimg.com/vi/51rdY8554SU/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "SpongeBob's Best Friend Moments from Classic Episodes ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=6AsGS-5nGcc",
+      "videoId": "6AsGS-5nGcc",
+      "thumbnail": "https://i3.ytimg.com/vi/6AsGS-5nGcc/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "? LIVE: SpongeBob's Most Iconic Moments from Classic Episodes ?? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=bwZ3uBYot60",
+      "videoId": "bwZ3uBYot60",
+      "thumbnail": "https://i3.ytimg.com/vi/bwZ3uBYot60/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
