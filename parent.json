@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-07-10T10:21:11.612Z",
+  "generatedAt": "2026-07-10T12:21:16.978Z",
   "videos": [
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "? LIVE: SUMMER IS HERE! LEGO Summer Vacation Stories! ??? Fun Adventures for Kids ?? | LEGO",
+      "videoUrl": "https://www.youtube.com/watch?v=XZoL8n5zDaM",
+      "videoId": "XZoL8n5zDaM",
+      "thumbnail": "https://i1.ytimg.com/vi/XZoL8n5zDaM/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "? LIVE LEGO NINJAGO: Aufstieg der Drachen STAFFEL 3! Ganze Folgen??",
+      "videoUrl": "https://www.youtube.com/watch?v=ET1ShH6CY8k",
+      "videoId": "ET1ShH6CY8k",
+      "thumbnail": "https://i2.ytimg.com/vi/ET1ShH6CY8k/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-09",
       "firstSeen": "2026-07-09",
