@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T22:21:15.891Z",
+  "generatedAt": "2026-07-10T00:21:11.610Z",
   "videos": [
     {
       "timestamp": "2026-07-09",
@@ -58,6 +58,402 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Who will win the ULTIMATE Soccer Challenge?! Ft @BrittanyWilson  | Full Episode | LEGO Brick Click",
+      "videoUrl": "https://www.youtube.com/watch?v=dtO76ZlDSGQ",
+      "videoId": "dtO76ZlDSGQ",
+      "thumbnail": "https://i1.ytimg.com/vi/dtO76ZlDSGQ/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? ?? ????4 ??????? ?? | ????????????",
+      "videoUrl": "https://www.youtube.com/watch?v=-_VzNQlJZgc",
+      "videoId": "-_VzNQlJZgc",
+      "thumbnail": "https://i2.ytimg.com/vi/-_VzNQlJZgc/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? NUEVO ?? Tr?iler oficial de la temporada 4 | LEGO City: Sin L?mites",
+      "videoUrl": "https://www.youtube.com/watch?v=Gk5Ky0fh-mI",
+      "videoId": "Gk5Ky0fh-mI",
+      "thumbnail": "https://i4.ytimg.com/vi/Gk5Ky0fh-mI/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? YEN? ?? 4. Sezon Resmi Fragman? | LEGO City: S?n?rs?z ?ehir",
+      "videoUrl": "https://www.youtube.com/watch?v=Lg8AAE9xO6E",
+      "videoId": "Lg8AAE9xO6E",
+      "thumbnail": "https://i1.ytimg.com/vi/Lg8AAE9xO6E/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? NUOVO ?? trailer ufficiale della stagione 4 | LEGO City: Senza Limiti",
+      "videoUrl": "https://www.youtube.com/watch?v=Pc1nQ2reOmc",
+      "videoId": "Pc1nQ2reOmc",
+      "thumbnail": "https://i1.ytimg.com/vi/Pc1nQ2reOmc/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? NEW ?? ?? 4 ?? ???? | ?? ??: ? ???",
+      "videoUrl": "https://www.youtube.com/watch?v=eFZ_JOMVqtY",
+      "videoId": "eFZ_JOMVqtY",
+      "thumbnail": "https://i2.ytimg.com/vi/eFZ_JOMVqtY/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? ?? ?? ?4?????? | ????????",
+      "videoUrl": "https://www.youtube.com/watch?v=EPKcmtTTAjc",
+      "videoId": "EPKcmtTTAjc",
+      "thumbnail": "https://i2.ytimg.com/vi/EPKcmtTTAjc/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? ?? ?? ? 4 ???????????????",
+      "videoUrl": "https://www.youtube.com/watch?v=05GL3zRnT3M",
+      "videoId": "05GL3zRnT3M",
+      "thumbnail": "https://i1.ytimg.com/vi/05GL3zRnT3M/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? NUEVO ?? Tr?iler oficial de la temporada 4 | LEGO City: Ciudad sin L?mites",
+      "videoUrl": "https://www.youtube.com/watch?v=OAeYxrikZak",
+      "videoId": "OAeYxrikZak",
+      "thumbnail": "https://i4.ytimg.com/vi/OAeYxrikZak/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? BARU ?? Trailer Resmi Musim 4 | LEGO City: No Limits",
+      "videoUrl": "https://www.youtube.com/watch?v=xpRXYxljgFA",
+      "videoId": "xpRXYxljgFA",
+      "thumbnail": "https://i1.ytimg.com/vi/xpRXYxljgFA/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? NIEUW ?? Offici?le trailer van seizoen 4 | LEGO City: Geen Grenzen",
+      "videoUrl": "https://www.youtube.com/watch?v=MZJ1yZ6tx4k",
+      "videoId": "MZJ1yZ6tx4k",
+      "thumbnail": "https://i2.ytimg.com/vi/MZJ1yZ6tx4k/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? NOVO ?? Trailer Oficial da Temporada 4 | LEGO City: Sem Limites",
+      "videoUrl": "https://www.youtube.com/watch?v=VblHPOKdNTA",
+      "videoId": "VblHPOKdNTA",
+      "thumbnail": "https://i3.ytimg.com/vi/VblHPOKdNTA/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? NOWO?? ?? Oficjalny zwiastun 4. sezonu | LEGO City: Po bandzie",
+      "videoUrl": "https://www.youtube.com/watch?v=xirbm6GQC2o",
+      "videoId": "xirbm6GQC2o",
+      "thumbnail": "https://i1.ytimg.com/vi/xirbm6GQC2o/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? ??????????? ??????? ?????? 4-?? ?????? ?? | LEGO City: ????? ??? ??????",
+      "videoUrl": "https://www.youtube.com/watch?v=RfFcQlLUQmQ",
+      "videoId": "RfFcQlLUQmQ",
+      "thumbnail": "https://i3.ytimg.com/vi/RfFcQlLUQmQ/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "?? NOU ?? Trailer oficial Sezonul 4 | LEGO City: F?R? LIMITE",
+      "videoUrl": "https://www.youtube.com/watch?v=7kp7B-zT-sU",
+      "videoId": "7kp7B-zT-sU",
+      "thumbnail": "https://i4.ytimg.com/vi/7kp7B-zT-sU/hqdefault.jpg",
+      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelName": "LEGO",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "PBS KIDS Read | Christy Mandin Reads \"Millie Fleur Saves the Night\" ??",
+      "videoUrl": "https://www.youtube.com/watch?v=KcZJ3qB2HLE",
+      "videoId": "KcZJ3qB2HLE",
+      "thumbnail": "https://i4.ytimg.com/vi/KcZJ3qB2HLE/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Dance Battles | Amazing Dance Moments | Karma's World | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=PVm1YguBE5o",
+      "videoId": "PVm1YguBE5o",
+      "thumbnail": "https://i1.ytimg.com/vi/PVm1YguBE5o/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-09",
+      "title": "Ride or Die | ? Full Episodes | Season 1 | Ride | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=CMz74hQfcdU",
+      "videoId": "CMz74hQfcdU",
+      "thumbnail": "https://i4.ytimg.com/vi/CMz74hQfcdU/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
