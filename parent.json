@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T18:21:12.129Z",
+  "generatedAt": "2026-07-10T20:21:14.106Z",
   "videos": [
     {
       "timestamp": "2026-07-10",
@@ -8,34 +8,12 @@
       "videoUrl": "https://www.youtube.com/watch?v=XZoL8n5zDaM",
       "videoId": "XZoL8n5zDaM",
       "thumbnail": "https://i1.ytimg.com/vi/XZoL8n5zDaM/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego, stories",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "? LIVE LEGO NINJAGO: Aufstieg der Drachen STAFFEL 3! Ganze Folgen??",
-      "videoUrl": "https://www.youtube.com/watch?v=ET1ShH6CY8k",
-      "videoId": "ET1ShH6CY8k",
-      "thumbnail": "https://i2.ytimg.com/vi/ET1ShH6CY8k/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -80,314 +58,6 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "kids2kids",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "ALLA fordon uppl?sta?! ? ?? | S?song 4 avsnitt 1 | Hela avsnittet | LEGO City: Inga gr?nser",
-      "videoUrl": "https://www.youtube.com/watch?v=1hjGblfq67s",
-      "videoId": "1hjGblfq67s",
-      "thumbnail": "https://i2.ytimg.com/vi/1hjGblfq67s/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "?? ?? ??? ???? ?????????! ? ?? | ?????? 4 ?????? 1 | ???? ????? | ???? ?????: ??? ????",
-      "videoUrl": "https://www.youtube.com/watch?v=rrW4BS9u_kU",
-      "videoId": "rrW4BS9u_kU",
-      "thumbnail": "https://i3.ytimg.com/vi/rrW4BS9u_kU/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "????????? ? ?? | ? 4 ?? 1 ? | ???? | ????????",
-      "videoUrl": "https://www.youtube.com/watch?v=7KrB5x02vN0",
-      "videoId": "7KrB5x02vN0",
-      "thumbnail": "https://i4.ytimg.com/vi/7KrB5x02vN0/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "P??stup ke V?EM vozidl?m?! ? ?? | 4. ?ada, 1. d?l | Cel? d?l | LEGO City: M?sto bez hranic",
-      "videoUrl": "https://www.youtube.com/watch?v=CfTYd5c2i7U",
-      "videoId": "CfTYd5c2i7U",
-      "thumbnail": "https://i4.ytimg.com/vi/CfTYd5c2i7U/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "KAIKKI kulkuv?lineet karkuteill??! ? ?? | Kausi 4, jakso 1 | Koko jakso | LEGO City: Ei rajoja",
-      "videoUrl": "https://www.youtube.com/watch?v=6uQC1PiO7VQ",
-      "videoId": "6uQC1PiO7VQ",
-      "thumbnail": "https://i3.ytimg.com/vi/6uQC1PiO7VQ/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "TOUS les v?hicules d?bloqu?s??! ? ?? | S4 ?p.?1 | ?pisode complet | LEGO City?: Sans Limite",
-      "videoUrl": "https://www.youtube.com/watch?v=EWz8wqoT7TQ",
-      "videoId": "EWz8wqoT7TQ",
-      "thumbnail": "https://i2.ytimg.com/vi/EWz8wqoT7TQ/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "???? ????????? ? ????????? ????????! ???| ??????4, ??????1 | LEGO City: ????? ??? ??????",
-      "videoUrl": "https://www.youtube.com/watch?v=L2StnLC4olQ",
-      "videoId": "L2StnLC4olQ",
-      "thumbnail": "https://i1.ytimg.com/vi/L2StnLC4olQ/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "?????????? ???? 4 ?? 1 ???????????????",
-      "videoUrl": "https://www.youtube.com/watch?v=nXM9AIUTDys",
-      "videoId": "nXM9AIUTDys",
-      "thumbnail": "https://i3.ytimg.com/vi/nXM9AIUTDys/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "?? ??! ???? ??? ? ?? | ?? 4 ???? 1 | ??? | ?? ??: ? ???",
-      "videoUrl": "https://www.youtube.com/watch?v=Yv1e-oQwMQA",
-      "videoId": "Yv1e-oQwMQA",
-      "thumbnail": "https://i2.ytimg.com/vi/Yv1e-oQwMQA/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "??TODOS los veh?culos sin cerrar?! ? ?? | T4, E1 | Completo | LEGO City: Ciudad sin L?mites",
-      "videoUrl": "https://www.youtube.com/watch?v=zJCyAHVL_rc",
-      "videoId": "zJCyAHVL_rc",
-      "thumbnail": "https://i3.ytimg.com/vi/zJCyAHVL_rc/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "Fuld adgang til ALLE fart?jer?! ? ?? | S?son 4, afsnit 1 | Hele afsnittet | LEGO City: No Limits",
-      "videoUrl": "https://www.youtube.com/watch?v=PlVdfrnZexc",
-      "videoId": "PlVdfrnZexc",
-      "thumbnail": "https://i1.ytimg.com/vi/PlVdfrnZexc/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "??TODOS los veh?culos sin cerrar?! ? ?? | T4, E1 | Episodio completo | LEGO City: Sin L?mites",
-      "videoUrl": "https://www.youtube.com/watch?v=dX5mh6-M_44",
-      "videoId": "dX5mh6-M_44",
-      "thumbnail": "https://i1.ytimg.com/vi/dX5mh6-M_44/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "Zijn ALLE voertuigen ontgrendeld?! ? | Seizoen 4 Afl. 1 | Hele aflevering | LEGO City: Geen Grenzen",
-      "videoUrl": "https://www.youtube.com/watch?v=QSANuMFcmG0",
-      "videoId": "QSANuMFcmG0",
-      "thumbnail": "https://i2.ytimg.com/vi/QSANuMFcmG0/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "JEDES Fahrzeug freigeschaltet?! ? ?? | Staffel 4 Folge 1 | Ganze Folge | LEGO City: No Limits",
-      "videoUrl": "https://www.youtube.com/watch?v=irUJMxHYQnA",
-      "videoId": "irUJMxHYQnA",
-      "thumbnail": "https://i2.ytimg.com/vi/irUJMxHYQnA/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -602,320 +272,12 @@
       "videoUrl": "https://www.youtube.com/watch?v=dtO76ZlDSGQ",
       "videoId": "dtO76ZlDSGQ",
       "thumbnail": "https://i1.ytimg.com/vi/dtO76ZlDSGQ/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego, minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? ?? ????4 ??????? ?? | ????????????",
-      "videoUrl": "https://www.youtube.com/watch?v=-_VzNQlJZgc",
-      "videoId": "-_VzNQlJZgc",
-      "thumbnail": "https://i2.ytimg.com/vi/-_VzNQlJZgc/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? NUEVO ?? Tr?iler oficial de la temporada 4 | LEGO City: Sin L?mites",
-      "videoUrl": "https://www.youtube.com/watch?v=Gk5Ky0fh-mI",
-      "videoId": "Gk5Ky0fh-mI",
-      "thumbnail": "https://i4.ytimg.com/vi/Gk5Ky0fh-mI/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? YEN? ?? 4. Sezon Resmi Fragman? | LEGO City: S?n?rs?z ?ehir",
-      "videoUrl": "https://www.youtube.com/watch?v=Lg8AAE9xO6E",
-      "videoId": "Lg8AAE9xO6E",
-      "thumbnail": "https://i1.ytimg.com/vi/Lg8AAE9xO6E/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? NUOVO ?? trailer ufficiale della stagione 4 | LEGO City: Senza Limiti",
-      "videoUrl": "https://www.youtube.com/watch?v=Pc1nQ2reOmc",
-      "videoId": "Pc1nQ2reOmc",
-      "thumbnail": "https://i1.ytimg.com/vi/Pc1nQ2reOmc/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? NEW ?? ?? 4 ?? ???? | ?? ??: ? ???",
-      "videoUrl": "https://www.youtube.com/watch?v=eFZ_JOMVqtY",
-      "videoId": "eFZ_JOMVqtY",
-      "thumbnail": "https://i2.ytimg.com/vi/eFZ_JOMVqtY/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? ?? ?? ?4?????? | ????????",
-      "videoUrl": "https://www.youtube.com/watch?v=EPKcmtTTAjc",
-      "videoId": "EPKcmtTTAjc",
-      "thumbnail": "https://i2.ytimg.com/vi/EPKcmtTTAjc/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? ?? ?? ? 4 ???????????????",
-      "videoUrl": "https://www.youtube.com/watch?v=05GL3zRnT3M",
-      "videoId": "05GL3zRnT3M",
-      "thumbnail": "https://i1.ytimg.com/vi/05GL3zRnT3M/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? NUEVO ?? Tr?iler oficial de la temporada 4 | LEGO City: Ciudad sin L?mites",
-      "videoUrl": "https://www.youtube.com/watch?v=OAeYxrikZak",
-      "videoId": "OAeYxrikZak",
-      "thumbnail": "https://i4.ytimg.com/vi/OAeYxrikZak/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? BARU ?? Trailer Resmi Musim 4 | LEGO City: No Limits",
-      "videoUrl": "https://www.youtube.com/watch?v=xpRXYxljgFA",
-      "videoId": "xpRXYxljgFA",
-      "thumbnail": "https://i1.ytimg.com/vi/xpRXYxljgFA/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? NIEUW ?? Offici?le trailer van seizoen 4 | LEGO City: Geen Grenzen",
-      "videoUrl": "https://www.youtube.com/watch?v=MZJ1yZ6tx4k",
-      "videoId": "MZJ1yZ6tx4k",
-      "thumbnail": "https://i2.ytimg.com/vi/MZJ1yZ6tx4k/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? NOVO ?? Trailer Oficial da Temporada 4 | LEGO City: Sem Limites",
-      "videoUrl": "https://www.youtube.com/watch?v=VblHPOKdNTA",
-      "videoId": "VblHPOKdNTA",
-      "thumbnail": "https://i3.ytimg.com/vi/VblHPOKdNTA/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? NOWO?? ?? Oficjalny zwiastun 4. sezonu | LEGO City: Po bandzie",
-      "videoUrl": "https://www.youtube.com/watch?v=xirbm6GQC2o",
-      "videoId": "xirbm6GQC2o",
-      "thumbnail": "https://i1.ytimg.com/vi/xirbm6GQC2o/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? ??????????? ??????? ?????? 4-?? ?????? ?? | LEGO City: ????? ??? ??????",
-      "videoUrl": "https://www.youtube.com/watch?v=RfFcQlLUQmQ",
-      "videoId": "RfFcQlLUQmQ",
-      "thumbnail": "https://i3.ytimg.com/vi/RfFcQlLUQmQ/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-09",
-      "title": "?? NOU ?? Trailer oficial Sezonul 4 | LEGO City: F?R? LIMITE",
-      "videoUrl": "https://www.youtube.com/watch?v=7kp7B-zT-sU",
-      "videoId": "7kp7B-zT-sU",
-      "thumbnail": "https://i4.ytimg.com/vi/7kp7B-zT-sU/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -998,11 +360,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=o6hvvrubOJI",
       "videoId": "o6hvvrubOJI",
       "thumbnail": "https://i4.ytimg.com/vi/o6hvvrubOJI/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
@@ -1350,11 +712,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=WpNPrJl6Zds",
       "videoId": "WpNPrJl6Zds",
       "thumbnail": "https://i4.ytimg.com/vi/WpNPrJl6Zds/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego, art, minecraft",
       "watched": {
         "jonah": false,
@@ -1372,11 +734,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=YTktyJAEmg0",
       "videoId": "YTktyJAEmg0",
       "thumbnail": "https://i2.ytimg.com/vi/YTktyJAEmg0/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
@@ -1394,11 +756,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=2mc0uB4g9Fs",
       "videoId": "2mc0uB4g9Fs",
       "thumbnail": "https://i3.ytimg.com/vi/2mc0uB4g9Fs/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
@@ -1416,11 +778,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=1Qu5NE59H2k",
       "videoId": "1Qu5NE59H2k",
       "thumbnail": "https://i2.ytimg.com/vi/1Qu5NE59H2k/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego",
       "watched": {
         "jonah": false,
@@ -1592,11 +954,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=S_SSuDNrdwc",
       "videoId": "S_SSuDNrdwc",
       "thumbnail": "https://i4.ytimg.com/vi/S_SSuDNrdwc/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
@@ -2934,11 +2296,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=fUlVaZsd0Jc",
       "videoId": "fUlVaZsd0Jc",
       "thumbnail": "https://i3.ytimg.com/vi/fUlVaZsd0Jc/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
@@ -3682,11 +3044,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=eIuEXoj9oqM",
       "videoId": "eIuEXoj9oqM",
       "thumbnail": "https://i2.ytimg.com/vi/eIuEXoj9oqM/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego",
       "watched": {
         "jonah": false,
@@ -4474,11 +3836,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=FnUcqSP8Jbw",
       "videoId": "FnUcqSP8Jbw",
       "thumbnail": "https://i3.ytimg.com/vi/FnUcqSP8Jbw/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego",
       "watched": {
         "jonah": false,
@@ -4826,11 +4188,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=in79k1ZZJL4",
       "videoId": "in79k1ZZJL4",
       "thumbnail": "https://i2.ytimg.com/vi/in79k1ZZJL4/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
@@ -5772,11 +5134,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=hRqWtYPotGs",
       "videoId": "hRqWtYPotGs",
       "thumbnail": "https://i1.ytimg.com/vi/hRqWtYPotGs/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego",
       "watched": {
         "jonah": false,
@@ -5794,11 +5156,11 @@
       "videoUrl": "https://www.youtube.com/watch?v=XVYJ2lIzAuo",
       "videoId": "XVYJ2lIzAuo",
       "thumbnail": "https://i1.ytimg.com/vi/XVYJ2lIzAuo/hqdefault.jpg",
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+      "channelID": "",
       "channelName": "LEGO",
       "category": "Cartoons",
       "profile": "Both",
-      "retentionDays": 30,
+      "retentionDays": "",
       "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
@@ -10466,13 +9828,6 @@
       "profile": "Both"
     },
     {
-      "channelID": "UCP-Ng5SXUEt0VE-TXqRdL6g",
-      "channelName": "LEGO",
-      "retentionDays": 30,
-      "category": "Cartoons",
-      "profile": "Both"
-    },
-    {
       "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
       "channelName": "Milo and Chip",
       "retentionDays": 60,
@@ -10589,6 +9944,13 @@
       "channelName": "WB Kids",
       "retentionDays": 60,
       "category": "Looney Tunes",
+      "profile": "Both"
+    },
+    {
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "retentionDays": 60,
+      "category": "Films",
       "profile": "Both"
     }
   ],
