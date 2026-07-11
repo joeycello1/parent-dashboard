@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T16:21:12.682Z",
+  "generatedAt": "2026-07-11T18:21:16.114Z",
   "videos": [
     {
       "timestamp": "2026-07-11",
@@ -14,6 +14,160 @@
       "profile": "Both",
       "retentionDays": 200,
       "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-11",
+      "firstSeen": "2026-07-11",
+      "title": "Learn About Dinosaurs! ? ? | Dinosaur Facts | BBC Earth Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=3UqTN9Pw5NA",
+      "videoId": "3UqTN9Pw5NA",
+      "thumbnail": "https://i4.ytimg.com/vi/3UqTN9Pw5NA/hqdefault.jpg",
+      "channelID": "UCO_DaPp4ifhMAmiyybSLx9w",
+      "channelName": "BBC Earth - Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 800,
+      "keyword": "bbc earth kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-11",
+      "firstSeen": "2026-07-11",
+      "title": "The Squirrels Wouldn't Leave Mr Bean Alone! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=c-tkywINXLs",
+      "videoId": "c-tkywINXLs",
+      "thumbnail": "https://i4.ytimg.com/vi/c-tkywINXLs/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-11",
+      "firstSeen": "2026-07-11",
+      "title": "Mr Bean Accepted the Climbing Challenge! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Alks2wYyQvc",
+      "videoId": "Alks2wYyQvc",
+      "thumbnail": "https://i2.ytimg.com/vi/Alks2wYyQvc/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-11",
+      "firstSeen": "2026-07-11",
+      "title": "The Flood that Transforms the Okavango (Full Episode) | The Flood | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=1mBc8VjDa1s",
+      "videoId": "1mBc8VjDa1s",
+      "thumbnail": "https://i2.ytimg.com/vi/1mBc8VjDa1s/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-11",
+      "firstSeen": "2026-07-11",
+      "title": "1 Hour of SpongeBob's CUTEST Moments Ever ??? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=eC_FZO3m7Ow",
+      "videoId": "eC_FZO3m7Ow",
+      "thumbnail": "https://i2.ytimg.com/vi/eC_FZO3m7Ow/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-11",
+      "firstSeen": "2026-07-11",
+      "title": "Captain Planet scenes to watch on a sunny day ??? | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=46u7TWx5C78",
+      "videoId": "46u7TWx5C78",
+      "thumbnail": "https://i1.ytimg.com/vi/46u7TWx5C78/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-11",
+      "firstSeen": "2026-07-11",
+      "title": "Classic Cartoon MARATHON Vol. 3 ? | Tom & Jerry, Looney Tunes, Scooby-Doo! MEGA COMP ?? @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=SjDCf8btNXM",
+      "videoId": "SjDCf8btNXM",
+      "thumbnail": "https://i4.ytimg.com/vi/SjDCf8btNXM/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
