@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T04:21:12.193Z",
+  "generatedAt": "2026-07-11T06:21:11.679Z",
   "videos": [
     {
       "timestamp": "2026-07-10",
@@ -256,6 +256,28 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-11",
+      "title": "We Become HAMSTERS Trapped in a MAZE in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=RT9EpgKUx2M",
+      "videoId": "RT9EpgKUx2M",
+      "thumbnail": "https://i3.ytimg.com/vi/RT9EpgKUx2M/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -7516,28 +7538,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "binocs, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-12",
-      "firstSeen": "2026-06-16",
-      "title": "Jupiter?s Stormy Trouble! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=fX57qf5EQb4",
-      "videoId": "fX57qf5EQb4",
-      "thumbnail": "https://i3.ytimg.com/vi/fX57qf5EQb4/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
