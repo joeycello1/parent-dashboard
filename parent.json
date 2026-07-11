@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T22:21:12.430Z",
+  "generatedAt": "2026-07-11T00:21:12.439Z",
   "videos": [
     {
       "timestamp": "2026-07-10",
@@ -200,6 +200,72 @@
       }
     },
     {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "How To Draw A Funny Summer Gnome",
+      "videoUrl": "https://www.youtube.com/watch?v=6X2LUMqbo8U",
+      "videoId": "6X2LUMqbo8U",
+      "thumbnail": "https://i3.ytimg.com/vi/6X2LUMqbo8U/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "Bath Time with Scrapper! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=jZ3yI5CQDjU",
+      "videoId": "jZ3yI5CQDjU",
+      "thumbnail": "https://i3.ytimg.com/vi/jZ3yI5CQDjU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-10",
+      "firstSeen": "2026-07-10",
+      "title": "Work It Out Wombats! FULL EPISODE | Backwards Day | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=VV5eZWlgBBg",
+      "videoId": "VV5eZWlgBBg",
+      "thumbnail": "https://i3.ytimg.com/vi/VV5eZWlgBBg/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-07-09",
       "firstSeen": "2026-07-09",
       "title": "Mr Bean Replaced Teddy! | Mr Bean Adventures",
@@ -344,6 +410,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-09",
+      "firstSeen": "2026-07-10",
+      "title": "Go Blue Go! | Minuscule | 25' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=I94Z3BbN_lA",
+      "videoId": "I94Z3BbN_lA",
+      "thumbnail": "https://i2.ytimg.com/vi/I94Z3BbN_lA/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1630,6 +1718,28 @@
       }
     },
     {
+      "timestamp": "2026-07-02",
+      "firstSeen": "2026-07-10",
+      "title": "Acrobatics | Minuscule | 25' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=-1zmi7vTls0",
+      "videoId": "-1zmi7vTls0",
+      "thumbnail": "https://i2.ytimg.com/vi/-1zmi7vTls0/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
       "timestamp": "2026-07-01",
       "firstSeen": "2026-07-01",
       "title": "The Robot and the Whale",
@@ -2588,6 +2698,28 @@
       "profile": "Both",
       "retentionDays": 200,
       "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-06-27",
+      "firstSeen": "2026-07-10",
+      "title": "Zzzeplin | Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=8eakXXglgqk",
+      "videoId": "8eakXXglgqk",
+      "thumbnail": "https://i1.ytimg.com/vi/8eakXXglgqk/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -9993,6 +10125,7 @@
     "kids2kids",
     "lego",
     "minecraft",
+    "minuscule",
     "mr bean",
     "nat geo",
     "national geographic",
