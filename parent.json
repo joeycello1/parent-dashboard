@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T22:21:13.964Z",
+  "generatedAt": "2026-07-12T00:21:11.252Z",
   "videos": [
     {
       "timestamp": "2026-07-11",
@@ -168,6 +168,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-11",
+      "firstSeen": "2026-07-11",
+      "title": "Nature's Ultimate Hide & Seek Masters! ? Can You Spot Them All? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=DqbpVejaqO8",
+      "videoId": "DqbpVejaqO8",
+      "thumbnail": "https://i1.ytimg.com/vi/DqbpVejaqO8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-11",
+      "firstSeen": "2026-07-11",
+      "title": "Ghosts, Mummies & Haunted Masks! | Spooky Cartoons for Kids | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=5F2eZhMvf5Q",
+      "videoId": "5F2eZhMvf5Q",
+      "thumbnail": "https://i2.ytimg.com/vi/5F2eZhMvf5Q/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
