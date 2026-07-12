@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T04:21:11.602Z",
+  "generatedAt": "2026-07-12T06:21:11.846Z",
   "videos": [
     {
       "timestamp": "2026-07-11",
@@ -212,6 +212,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-11",
+      "firstSeen": "2026-07-12",
+      "title": "The DAY Milo Lost HIS VOICE!",
+      "videoUrl": "https://www.youtube.com/watch?v=yguX_eKK3uQ",
+      "videoId": "yguX_eKK3uQ",
+      "thumbnail": "https://i2.ytimg.com/vi/yguX_eKK3uQ/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -7714,28 +7736,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-13",
-      "firstSeen": "2026-06-16",
-      "title": "The Magnetic Storm! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=7TZUw_5blHk",
-      "videoId": "7TZUw_5blHk",
-      "thumbnail": "https://i4.ytimg.com/vi/7TZUw_5blHk/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
