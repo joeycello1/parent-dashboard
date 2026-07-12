@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-07-12T16:21:10.203Z",
+  "generatedAt": "2026-07-12T18:21:10.429Z",
   "videos": [
+    {
+      "timestamp": "2026-07-12",
+      "firstSeen": "2026-07-12",
+      "title": "Learn About Bison! | Learn With Steve Backshall | BBC Earth Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=DPCDpSLha6Q",
+      "videoId": "DPCDpSLha6Q",
+      "thumbnail": "https://i1.ytimg.com/vi/DPCDpSLha6Q/hqdefault.jpg",
+      "channelID": "UCO_DaPp4ifhMAmiyybSLx9w",
+      "channelName": "BBC Earth - Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 800,
+      "keyword": "bbc earth kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-12",
+      "firstSeen": "2026-07-12",
+      "title": "Mr Bean Couldn't Put This Book Down! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=27GFBcooHqY",
+      "videoId": "27GFBcooHqY",
+      "thumbnail": "https://i3.ytimg.com/vi/27GFBcooHqY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-12",
+      "firstSeen": "2026-07-12",
+      "title": "Mr Bean Turned His Flat Into a Hotel | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=SZE0bDZPklE",
+      "videoId": "SZE0bDZPklE",
+      "thumbnail": "https://i4.ytimg.com/vi/SZE0bDZPklE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-12",
+      "firstSeen": "2026-07-12",
+      "title": "Attack of the Red Sea Sharks (Full Episode) | SHARKFEST SPECIAL | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=NPOiT-kmV4g",
+      "videoId": "NPOiT-kmV4g",
+      "thumbnail": "https://i3.ytimg.com/vi/NPOiT-kmV4g/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-12",
+      "firstSeen": "2026-07-12",
+      "title": "Mega Green Machine ?? | World's Toughest Fixes Full Episode | 40 Minutes",
+      "videoUrl": "https://www.youtube.com/watch?v=msim2WydY3k",
+      "videoId": "msim2WydY3k",
+      "thumbnail": "https://i2.ytimg.com/vi/msim2WydY3k/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-12",
+      "firstSeen": "2026-07-12",
+      "title": "This Simple Pasta Experiment Blew My Mind! | Science Max",
+      "videoUrl": "https://www.youtube.com/watch?v=v10IuP7JJ6s",
+      "videoId": "v10IuP7JJ6s",
+      "thumbnail": "https://i3.ytimg.com/vi/v10IuP7JJ6s/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-12",
+      "firstSeen": "2026-07-12",
+      "title": "3 Hours of One Krabby Patty Moment From EVERY SpongeBob Episode ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=M5OGid_u_c0",
+      "videoId": "M5OGid_u_c0",
+      "thumbnail": "https://i2.ytimg.com/vi/M5OGid_u_c0/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-11",
       "firstSeen": "2026-07-11",
