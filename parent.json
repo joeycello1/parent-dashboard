@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-07-13T16:21:21.273Z",
+  "generatedAt": "2026-07-13T18:21:17.383Z",
   "videos": [
+    {
+      "timestamp": "2026-07-13",
+      "firstSeen": "2026-07-13",
+      "title": "How To Draw Funny Loaded French Fries",
+      "videoUrl": "https://www.youtube.com/watch?v=sbHzJMbTo64",
+      "videoId": "sbHzJMbTo64",
+      "thumbnail": "https://i4.ytimg.com/vi/sbHzJMbTo64/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-13",
+      "firstSeen": "2026-07-13",
+      "title": "Mr Bean's Sheep Costume Backfired! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=XWHVhZ0nHT4",
+      "videoId": "XWHVhZ0nHT4",
+      "thumbnail": "https://i1.ytimg.com/vi/XWHVhZ0nHT4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-13",
+      "firstSeen": "2026-07-13",
+      "title": "Mr Bean's Secret Flower Mission | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=enY8QPVS1oo",
+      "videoId": "enY8QPVS1oo",
+      "thumbnail": "https://i2.ytimg.com/vi/enY8QPVS1oo/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-13",
+      "firstSeen": "2026-07-13",
+      "title": "Race Cars, Rollercoasters & Planes! | Weird But True Full Episode Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=oidb4LU77EQ",
+      "videoId": "oidb4LU77EQ",
+      "thumbnail": "https://i4.ytimg.com/vi/oidb4LU77EQ/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-13",
+      "firstSeen": "2026-07-13",
+      "title": "Can Tom & Jerry find the PERFECT Apple? ? | Learning with Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=tFWTCrsreEU",
+      "videoId": "tFWTCrsreEU",
+      "thumbnail": "https://i1.ytimg.com/vi/tFWTCrsreEU/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-12",
       "firstSeen": "2026-07-12",
