@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-07-14T16:21:13.191Z",
+  "generatedAt": "2026-07-14T18:21:15.902Z",
   "videos": [
+    {
+      "timestamp": "2026-07-14",
+      "firstSeen": "2026-07-14",
+      "title": "How To Draw Pompompurin Squishmallows",
+      "videoUrl": "https://www.youtube.com/watch?v=HdfjAgTfWhs",
+      "videoId": "HdfjAgTfWhs",
+      "thumbnail": "https://i1.ytimg.com/vi/HdfjAgTfWhs/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-14",
+      "firstSeen": "2026-07-14",
+      "title": "Mr Bean Got Stuck in a Kids' Ride! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=mY1mp3NoN28",
+      "videoId": "mY1mp3NoN28",
+      "thumbnail": "https://i2.ytimg.com/vi/mY1mp3NoN28/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-14",
+      "firstSeen": "2026-07-14",
+      "title": "Adolf Hitler | History of one of the most infamous dictators in world history",
+      "videoUrl": "https://www.youtube.com/watch?v=-7WTmdDA__8",
+      "videoId": "-7WTmdDA__8",
+      "thumbnail": "https://i2.ytimg.com/vi/-7WTmdDA__8/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "art, educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-14",
+      "firstSeen": "2026-07-14",
+      "title": "What If a Porcupine Pricks You? ? Porcupine Quills Explained | Prickly Porcupine Facts | Dr. Binocs",
+      "videoUrl": "https://www.youtube.com/watch?v=cvjaeQ7mV6M",
+      "videoId": "cvjaeQ7mV6M",
+      "thumbnail": "https://i4.ytimg.com/vi/cvjaeQ7mV6M/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-14",
+      "firstSeen": "2026-07-14",
+      "title": "SpongeBob Does EVERYTHING But His Essay ?? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=qR2Vt3bOvfw",
+      "videoId": "qR2Vt3bOvfw",
+      "thumbnail": "https://i2.ytimg.com/vi/qR2Vt3bOvfw/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-14",
+      "firstSeen": "2026-07-14",
+      "title": "When did we start using passports? - Kristin Surak",
+      "videoUrl": "https://www.youtube.com/watch?v=JhxuP0AuRPA",
+      "videoId": "JhxuP0AuRPA",
+      "thumbnail": "https://i3.ytimg.com/vi/JhxuP0AuRPA/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-14",
+      "firstSeen": "2026-07-14",
+      "title": "The Shark is right behind me, isn't he? ?? | Tom & Jerry | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=iKfsNKyztP8",
+      "videoId": "iKfsNKyztP8",
+      "thumbnail": "https://i2.ytimg.com/vi/iKfsNKyztP8/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-14",
+      "firstSeen": "2026-07-14",
+      "title": "Baseball All-Stars! ?? | Looney Tuesdays | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=Nx8mmoHWNXo",
+      "videoId": "Nx8mmoHWNXo",
+      "thumbnail": "https://i3.ytimg.com/vi/Nx8mmoHWNXo/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-13",
       "firstSeen": "2026-07-13",
