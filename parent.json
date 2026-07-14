@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T22:21:12.192Z",
+  "generatedAt": "2026-07-14T00:21:11.825Z",
   "videos": [
     {
       "timestamp": "2026-07-13",
@@ -102,6 +102,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-13",
+      "firstSeen": "2026-07-13",
+      "title": "Alma's Way FULL MOVIE | Alma in Oz: The Musical ?? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=RgMuzqgxuQY",
+      "videoId": "RgMuzqgxuQY",
+      "thumbnail": "https://i3.ytimg.com/vi/RgMuzqgxuQY/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-13",
+      "firstSeen": "2026-07-13",
+      "title": "From Seed to Flower! ? NEW | Amazing Nature Adventure for Kids | The Magic School Bus",
+      "videoUrl": "https://www.youtube.com/watch?v=XAqpTrVI2j4",
+      "videoId": "XAqpTrVI2j4",
+      "thumbnail": "https://i1.ytimg.com/vi/XAqpTrVI2j4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
