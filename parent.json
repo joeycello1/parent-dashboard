@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T10:21:12.567Z",
+  "generatedAt": "2026-07-14T12:21:18.183Z",
   "videos": [
     {
       "timestamp": "2026-07-13",
@@ -146,6 +146,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-13",
+      "firstSeen": "2026-07-14",
+      "title": "Shapeshifting into TOYS to Prank My Friends in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=DRnelrbNCD8",
+      "videoId": "DRnelrbNCD8",
+      "thumbnail": "https://i1.ytimg.com/vi/DRnelrbNCD8/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
