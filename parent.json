@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-07-15T16:21:15.032Z",
+  "generatedAt": "2026-07-15T18:21:14.614Z",
   "videos": [
+    {
+      "timestamp": "2026-07-15",
+      "firstSeen": "2026-07-15",
+      "title": "How To Draw A Funny Summer Hotdog",
+      "videoUrl": "https://www.youtube.com/watch?v=pYKskGwQOx4",
+      "videoId": "pYKskGwQOx4",
+      "thumbnail": "https://i1.ytimg.com/vi/pYKskGwQOx4/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-15",
+      "firstSeen": "2026-07-15",
+      "title": "Mr Bean's Funniest Photo Ever! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=wmhSnA_v9-E",
+      "videoId": "wmhSnA_v9-E",
+      "thumbnail": "https://i4.ytimg.com/vi/wmhSnA_v9-E/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-15",
+      "firstSeen": "2026-07-15",
+      "title": "Animals With Deadly Superpowers (Full Episode) | Africa?s Deadliest: Botswana | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=ru_b6al87fo",
+      "videoId": "ru_b6al87fo",
+      "thumbnail": "https://i3.ytimg.com/vi/ru_b6al87fo/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-15",
+      "firstSeen": "2026-07-15",
+      "title": "1 Hour of Classic SpongeBob Moments Everyone Remembers ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=u2IuQprRtDU",
+      "videoId": "u2IuQprRtDU",
+      "thumbnail": "https://i2.ytimg.com/vi/u2IuQprRtDU/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-14",
       "firstSeen": "2026-07-14",
