@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-16T10:21:13.895Z",
+  "generatedAt": "2026-07-16T12:21:13.651Z",
   "videos": [
+    {
+      "timestamp": "2026-07-16",
+      "firstSeen": "2026-07-16",
+      "title": "The Persevering One | Minuscule | 35' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=Z-akhcUnziU",
+      "videoId": "Z-akhcUnziU",
+      "thumbnail": "https://i3.ytimg.com/vi/Z-akhcUnziU/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-15",
       "firstSeen": "2026-07-15",
@@ -124,6 +146,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-15",
+      "firstSeen": "2026-07-16",
+      "title": "How to Build Spidey and His Amazing Friends Web-Quarters",
+      "videoUrl": "https://www.youtube.com/watch?v=qY3uZbmtX1Q",
+      "videoId": "qY3uZbmtX1Q",
+      "thumbnail": "https://i2.ytimg.com/vi/qY3uZbmtX1Q/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
