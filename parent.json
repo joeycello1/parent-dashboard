@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T16:21:12.722Z",
+  "generatedAt": "2026-07-16T18:21:12.037Z",
   "videos": [
     {
       "timestamp": "2026-07-16",
@@ -14,6 +14,138 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-16",
+      "firstSeen": "2026-07-16",
+      "title": "How To Draw Hello Kitty Squishmallow",
+      "videoUrl": "https://www.youtube.com/watch?v=UZvc12UKMyI",
+      "videoId": "UZvc12UKMyI",
+      "thumbnail": "https://i2.ytimg.com/vi/UZvc12UKMyI/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-16",
+      "firstSeen": "2026-07-16",
+      "title": "Mr Bean Painted a Suit on Himself! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=7z9fPYOc914",
+      "videoId": "7z9fPYOc914",
+      "thumbnail": "https://i4.ytimg.com/vi/7z9fPYOc914/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-16",
+      "firstSeen": "2026-07-16",
+      "title": "Mr Bean Tried to Bathe Scrapper! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Ji-eBwc-u8Y",
+      "videoId": "Ji-eBwc-u8Y",
+      "thumbnail": "https://i3.ytimg.com/vi/Ji-eBwc-u8Y/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-16",
+      "firstSeen": "2026-07-16",
+      "title": "Dinos A to Z: Hadrosaurus | Learn fun facts about this interesting dinosaur",
+      "videoUrl": "https://www.youtube.com/watch?v=CburCnkIaPg",
+      "videoId": "CburCnkIaPg",
+      "thumbnail": "https://i4.ytimg.com/vi/CburCnkIaPg/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-16",
+      "firstSeen": "2026-07-16",
+      "title": "Search for a Lost City (Made of Gold!) ? | Lost Cities with Albert Lin Full Episode",
+      "videoUrl": "https://www.youtube.com/watch?v=mWdiiVimiVg",
+      "videoId": "mWdiiVimiVg",
+      "thumbnail": "https://i2.ytimg.com/vi/mWdiiVimiVg/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-16",
+      "firstSeen": "2026-07-16",
+      "title": "An Island of Sharks?! ? | Scooby-Doo! | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=W9VCG-frg_E",
+      "videoId": "W9VCG-frg_E",
+      "thumbnail": "https://i4.ytimg.com/vi/W9VCG-frg_E/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
