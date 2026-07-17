@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:21:15.029Z",
+  "generatedAt": "2026-07-17T00:21:12.533Z",
   "videos": [
     {
       "timestamp": "2026-07-16",
@@ -146,6 +146,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-16",
+      "firstSeen": "2026-07-16",
+      "title": "Classroom Scenes | Cartoons for Kids | Karma's World | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=pcTVqebkj7U",
+      "videoId": "pcTVqebkj7U",
+      "thumbnail": "https://i1.ytimg.com/vi/pcTVqebkj7U/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-16",
+      "firstSeen": "2026-07-16",
+      "title": "SpongeBob Cooking Everything EXCEPT Krabby Patties ? | 10 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=k_9AhW5mN5k",
+      "videoId": "k_9AhW5mN5k",
+      "thumbnail": "https://i4.ytimg.com/vi/k_9AhW5mN5k/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
