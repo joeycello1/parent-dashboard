@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-07-17T16:21:12.851Z",
+  "generatedAt": "2026-07-17T18:21:19.767Z",
   "videos": [
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-17",
+      "title": "How To Draw A Cute Baby Seahorse",
+      "videoUrl": "https://www.youtube.com/watch?v=LgocsDWUjaM",
+      "videoId": "LgocsDWUjaM",
+      "thumbnail": "https://i1.ytimg.com/vi/LgocsDWUjaM/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-17",
+      "title": "Mr Bean vs. The Grandfather Clock | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=3OWBdH0bm6g",
+      "videoId": "3OWBdH0bm6g",
+      "thumbnail": "https://i4.ytimg.com/vi/3OWBdH0bm6g/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-17",
+      "title": "Romance or Zombies? Mr Bean Decides! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=DL3j3cr3azE",
+      "videoId": "DL3j3cr3azE",
+      "thumbnail": "https://i1.ytimg.com/vi/DL3j3cr3azE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-17",
+      "title": "Monster Jam & Hot Wheels Monster Trucks ? TURTLE RACING COMPILATION",
+      "videoUrl": "https://www.youtube.com/watch?v=ijnvit7ioOM",
+      "videoId": "ijnvit7ioOM",
+      "thumbnail": "https://i2.ytimg.com/vi/ijnvit7ioOM/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-17",
+      "title": "Inside the Ocean Predator Behind Jaws | Sharkfest MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=avIcm2RoKYc",
+      "videoId": "avIcm2RoKYc",
+      "thumbnail": "https://i2.ytimg.com/vi/avIcm2RoKYc/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-17",
+      "title": "The Odyssey: Explained by Greeking Out ? | Podcast Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=btG6YkKXENo",
+      "videoId": "btG6YkKXENo",
+      "thumbnail": "https://i3.ytimg.com/vi/btG6YkKXENo/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-17",
+      "title": "Who Invented Donuts? | History of Doughnuts | Why Do Donuts Have Holes? | The Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=9YUIbyPR_ZQ",
+      "videoId": "9YUIbyPR_ZQ",
+      "thumbnail": "https://i2.ytimg.com/vi/9YUIbyPR_ZQ/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, science, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-17",
+      "title": "SpongeBob's Funniest Driving Fails ?? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=JWv6S3sVA3U",
+      "videoId": "JWv6S3sVA3U",
+      "thumbnail": "https://i3.ytimg.com/vi/JWv6S3sVA3U/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-16",
       "firstSeen": "2026-07-16",
@@ -190,6 +366,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-16",
+      "firstSeen": "2026-07-17",
+      "title": "? LIVE! Classic Cartoons 24/7 MARATHON ?? | Tom & Jerry, Looney Tunes, Scooby-Doo!",
+      "videoUrl": "https://www.youtube.com/watch?v=W0Rb3v7J1ZQ",
+      "videoId": "W0Rb3v7J1ZQ",
+      "thumbnail": "https://i4.ytimg.com/vi/W0Rb3v7J1ZQ/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
