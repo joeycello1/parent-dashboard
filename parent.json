@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T04:21:17.543Z",
+  "generatedAt": "2026-07-18T06:21:18.562Z",
   "videos": [
     {
       "timestamp": "2026-07-17",
@@ -168,6 +168,116 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-18",
+      "title": "Painting Myself to HIDE in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=l8hrM4aeJRA",
+      "videoId": "l8hrM4aeJRA",
+      "thumbnail": "https://i1.ytimg.com/vi/l8hrM4aeJRA/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-18",
+      "title": "Super Why's Comic Book Adventures NEW SHOW | New Series Coming Soon! ?? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=8ItGSO4X3DY",
+      "videoId": "8ItGSO4X3DY",
+      "thumbnail": "https://i1.ytimg.com/vi/8ItGSO4X3DY/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs, reading",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-18",
+      "title": "Ants Vs Campers | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=TgKz6mzo-88",
+      "videoId": "TgKz6mzo-88",
+      "thumbnail": "https://i1.ytimg.com/vi/TgKz6mzo-88/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-18",
+      "title": "Puppy Cupcakes, Treats and Snacks ? FULL EPISODES ? @ScholasticAfterSchool",
+      "videoUrl": "https://www.youtube.com/watch?v=vAKBhWADgsg",
+      "videoId": "vAKBhWADgsg",
+      "thumbnail": "https://i3.ytimg.com/vi/vAKBhWADgsg/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-17",
+      "firstSeen": "2026-07-18",
+      "title": "The Cuckoo Clock of Doom | Spooky Cartoons for Kids | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=vrc5X_L0oXs",
+      "videoId": "vrc5X_L0oXs",
+      "thumbnail": "https://i3.ytimg.com/vi/vrc5X_L0oXs/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
