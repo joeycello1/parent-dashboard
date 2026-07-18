@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-07-18T16:21:14.137Z",
+  "generatedAt": "2026-07-18T18:21:12.111Z",
   "videos": [
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-18",
+      "title": "Animation vs. Geometry Dash",
+      "videoUrl": "https://www.youtube.com/watch?v=C637UcpHfNY",
+      "videoId": "C637UcpHfNY",
+      "thumbnail": "https://i4.ytimg.com/vi/C637UcpHfNY/hqdefault.jpg",
+      "channelID": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelName": "Alan Becker",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 200,
+      "keyword": "alan becker",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-18",
+      "title": "Mr Bean's Bird Photo Challenge! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=b1b-MQokfCw",
+      "videoId": "b1b-MQokfCw",
+      "thumbnail": "https://i3.ytimg.com/vi/b1b-MQokfCw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-18",
+      "title": "Mr Bean Turned His House Into a Haunted House! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=nbwbs7_aXXU",
+      "videoId": "nbwbs7_aXXU",
+      "thumbnail": "https://i3.ytimg.com/vi/nbwbs7_aXXU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-18",
+      "title": "Inside the Transformation of the Okavango Delta (Full Episode) | The Flood | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=tg-7xGF3QGo",
+      "videoId": "tg-7xGF3QGo",
+      "thumbnail": "https://i1.ytimg.com/vi/tg-7xGF3QGo/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-18",
+      "title": "Wildest Animals of America's National Parks! ? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=jxOb3d1pmXY",
+      "videoId": "jxOb3d1pmXY",
+      "thumbnail": "https://i3.ytimg.com/vi/jxOb3d1pmXY/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-18",
+      "title": "SpongeBob Locked In at the Krusty Krab ?? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=GRauxxvMCEs",
+      "videoId": "GRauxxvMCEs",
+      "thumbnail": "https://i4.ytimg.com/vi/GRauxxvMCEs/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-18",
+      "title": "Looney Tunes | 1 Hour Tweety & Sylvester Compilation | Vol. 8 | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=U-noH_hzCQ0",
+      "videoId": "U-noH_hzCQ0",
+      "thumbnail": "https://i2.ytimg.com/vi/U-noH_hzCQ0/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "sylvester, tweety",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-18",
+      "title": "Tom and Jerry scenes to watch on summer break ? | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=lLlnJEJbMX0",
+      "videoId": "lLlnJEJbMX0",
+      "thumbnail": "https://i1.ytimg.com/vi/lLlnJEJbMX0/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-18",
+      "title": "Tom and Jerry Are BEST Friends?! ?? | Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=UEKe6t9eWRY",
+      "videoId": "UEKe6t9eWRY",
+      "thumbnail": "https://i2.ytimg.com/vi/UEKe6t9eWRY/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-17",
       "firstSeen": "2026-07-17",
