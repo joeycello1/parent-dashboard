@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T22:21:11.138Z",
+  "generatedAt": "2026-07-19T00:21:12.144Z",
   "videos": [
     {
       "timestamp": "2026-07-18",
@@ -190,6 +190,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-18",
+      "title": "Power Of Sound | Learning Videos for Kids | Science Max | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=ibNlz4D0hGQ",
+      "videoId": "ibNlz4D0hGQ",
+      "thumbnail": "https://i2.ytimg.com/vi/ibNlz4D0hGQ/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
