@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T04:21:14.286Z",
+  "generatedAt": "2026-07-19T06:21:11.430Z",
   "videos": [
     {
       "timestamp": "2026-07-18",
@@ -212,6 +212,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-18",
+      "firstSeen": "2026-07-19",
+      "title": "DIRT vs DIAMOND: Power ESCAPE BATTLE in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=tiBk8pt4Rpc",
+      "videoId": "tiBk8pt4Rpc",
+      "thumbnail": "https://i1.ytimg.com/vi/tiBk8pt4Rpc/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
