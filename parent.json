@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T22:21:12.535Z",
+  "generatedAt": "2026-07-20T02:21:13.593Z",
   "videos": [
     {
       "timestamp": "2026-07-19",
@@ -124,6 +124,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-19",
+      "firstSeen": "2026-07-19",
+      "title": "Speak Now or Forever Hold Your Peace | Full Episode | Ride | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=A6cma6Gnq5Y",
+      "videoId": "A6cma6Gnq5Y",
+      "thumbnail": "https://i2.ytimg.com/vi/A6cma6Gnq5Y/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-19",
+      "firstSeen": "2026-07-19",
+      "title": "Do Sea Monsters Exist? Nature's Greatest Mysteries | Finding Stuff Out",
+      "videoUrl": "https://www.youtube.com/watch?v=xcXKg6S3T6w",
+      "videoId": "xcXKg6S3T6w",
+      "thumbnail": "https://i1.ytimg.com/vi/xcXKg6S3T6w/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
