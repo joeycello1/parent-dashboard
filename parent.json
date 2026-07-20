@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T04:21:14.992Z",
+  "generatedAt": "2026-07-20T06:21:13.948Z",
   "videos": [
     {
       "timestamp": "2026-07-19",
@@ -9188,28 +9188,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-21",
-      "firstSeen": "2026-06-16",
-      "title": "The Disappearing Rings of Saturn! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=Quaw39MIitU",
-      "videoId": "Quaw39MIitU",
-      "thumbnail": "https://i2.ytimg.com/vi/Quaw39MIitU/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
