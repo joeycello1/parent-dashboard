@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T04:21:16.408Z",
+  "generatedAt": "2026-07-21T06:21:13.750Z",
   "videos": [
     {
       "timestamp": "2026-07-20",
@@ -9276,28 +9276,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-22",
-      "firstSeen": "2026-06-16",
-      "title": "The Electric Storm! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=_HhksFgLcj0",
-      "videoId": "_HhksFgLcj0",
-      "thumbnail": "https://i4.ytimg.com/vi/_HhksFgLcj0/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
