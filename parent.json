@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T10:21:16.931Z",
+  "generatedAt": "2026-07-21T12:21:17.555Z",
   "videos": [
     {
       "timestamp": "2026-07-20",
@@ -146,6 +146,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-20",
+      "firstSeen": "2026-07-21",
+      "title": "Milo Lost His Body Parts in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=H5GRVZdgrGM",
+      "videoId": "H5GRVZdgrGM",
+      "thumbnail": "https://i1.ytimg.com/vi/H5GRVZdgrGM/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
