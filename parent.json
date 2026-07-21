@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:21:17.555Z",
+  "generatedAt": "2026-07-21T14:21:15.991Z",
   "videos": [
     {
       "timestamp": "2026-07-20",
@@ -872,28 +872,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-16",
-      "firstSeen": "2026-07-16",
-      "title": "The Persevering One | Minuscule | 35' Compilation",
-      "videoUrl": "https://www.youtube.com/watch?v=Z-akhcUnziU",
-      "videoId": "Z-akhcUnziU",
-      "thumbnail": "https://i3.ytimg.com/vi/Z-akhcUnziU/hqdefault.jpg",
-      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
-      "channelName": "Miniscule",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2094,28 +2072,6 @@
     {
       "timestamp": "2026-07-10",
       "firstSeen": "2026-07-10",
-      "title": "? LIVE: SUMMER IS HERE! LEGO Summer Vacation Stories! ??? Fun Adventures for Kids ?? | LEGO",
-      "videoUrl": "https://www.youtube.com/watch?v=XZoL8n5zDaM",
-      "videoId": "XZoL8n5zDaM",
-      "thumbnail": "https://i1.ytimg.com/vi/XZoL8n5zDaM/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "lego, stories",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
       "title": "Mr Bean's Once-in-200-Year Mission | Mr Bean Adventures",
       "videoUrl": "https://www.youtube.com/watch?v=7uItMOZyuAE",
       "videoId": "7uItMOZyuAE",
@@ -2522,28 +2478,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-09",
-      "firstSeen": "2026-07-10",
-      "title": "Go Blue Go! | Minuscule | 25' Compilation",
-      "videoUrl": "https://www.youtube.com/watch?v=I94Z3BbN_lA",
-      "videoId": "I94Z3BbN_lA",
-      "thumbnail": "https://i2.ytimg.com/vi/I94Z3BbN_lA/hqdefault.jpg",
-      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
-      "channelName": "Miniscule",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2962,28 +2896,6 @@
       "profile": "Both",
       "retentionDays": "",
       "keyword": "lego, minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-05",
-      "firstSeen": "2026-07-05",
-      "title": "Usta Wu: Spinjitzu Ustas?n?n Miras? | En ?yi Anlar | 15. Y?l D?n?m? ?zel B?l?m? ?| LEGO NINJAGO",
-      "videoUrl": "https://www.youtube.com/watch?v=1Qu5NE59H2k",
-      "videoId": "1Qu5NE59H2k",
-      "thumbnail": "https://i2.ytimg.com/vi/1Qu5NE59H2k/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -5283,28 +5195,6 @@
     },
     {
       "timestamp": "2026-06-25",
-      "firstSeen": "2026-07-03",
-      "title": "? LIVE LEGO NINJAGO: Dragons Rising SEASON 4! ? NEW SEASON | FULL Episodes! ?",
-      "videoUrl": "https://www.youtube.com/watch?v=eIuEXoj9oqM",
-      "videoId": "eIuEXoj9oqM",
-      "thumbnail": "https://i2.ytimg.com/vi/eIuEXoj9oqM/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
       "firstSeen": "2026-06-25",
       "title": "Three Fools",
       "videoUrl": "https://www.youtube.com/watch?v=kSjT_6-a3uA",
@@ -7202,28 +7092,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=JF1fZlkEifE",
       "videoId": "JF1fZlkEifE",
       "thumbnail": "https://i3.ytimg.com/vi/JF1fZlkEifE/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-15",
-      "firstSeen": "2026-06-23",
-      "title": "I Remember You / The Lich: FULL EPISODE | Adventure Time | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=PbsET-D6IY8",
-      "videoId": "PbsET-D6IY8",
-      "thumbnail": "https://i1.ytimg.com/vi/PbsET-D6IY8/hqdefault.jpg",
       "channelID": "",
       "channelName": "Cartoon Network UK",
       "category": "Cartoons",
