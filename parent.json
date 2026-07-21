@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:21:12.894Z",
+  "generatedAt": "2026-07-21T00:21:12.860Z",
   "videos": [
     {
       "timestamp": "2026-07-20",
@@ -80,6 +80,72 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-20",
+      "firstSeen": "2026-07-20",
+      "title": "??? Top Lemonade Moments COMPILATION! ??? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=GeOe3JDEkhM",
+      "videoId": "GeOe3JDEkhM",
+      "thumbnail": "https://i4.ytimg.com/vi/GeOe3JDEkhM/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-20",
+      "firstSeen": "2026-07-20",
+      "title": "Craziest Day at Blue Zoo | Weird Waters Season 2 Clips | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=PpFj2dyrwcQ",
+      "videoId": "PpFj2dyrwcQ",
+      "thumbnail": "https://i1.ytimg.com/vi/PpFj2dyrwcQ/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-20",
+      "firstSeen": "2026-07-20",
+      "title": "Where Did the Frog Go? ? Amazing Frog Adventure for Kids | The Magic School Bus",
+      "videoUrl": "https://www.youtube.com/watch?v=dmriqInN53E",
+      "videoId": "dmriqInN53E",
+      "thumbnail": "https://i1.ytimg.com/vi/dmriqInN53E/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
