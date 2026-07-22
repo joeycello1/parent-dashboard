@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-07-22T16:21:15.799Z",
+  "generatedAt": "2026-07-22T18:21:16.944Z",
   "videos": [
+    {
+      "timestamp": "2026-07-22",
+      "firstSeen": "2026-07-22",
+      "title": "How To Draw Smarty Pants From Toy Story 5",
+      "videoUrl": "https://www.youtube.com/watch?v=BqzZvCoaFJM",
+      "videoId": "BqzZvCoaFJM",
+      "thumbnail": "https://i3.ytimg.com/vi/BqzZvCoaFJM/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-22",
+      "firstSeen": "2026-07-22",
+      "title": "Mr Bean Became a Bodyguard! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=QEHG5ujsrrM",
+      "videoId": "QEHG5ujsrrM",
+      "thumbnail": "https://i2.ytimg.com/vi/QEHG5ujsrrM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-22",
+      "firstSeen": "2026-07-22",
+      "title": "Rare Asiatic Lions of the Indian Desert (Full Episode) | Secrets of Wild India | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=LEimjKhz7YU",
+      "videoId": "LEimjKhz7YU",
+      "thumbnail": "https://i1.ytimg.com/vi/LEimjKhz7YU/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-22",
+      "firstSeen": "2026-07-22",
+      "title": "SUPER WHY! LIVE ? | ? Learn to Read in this Full Episode Marathon ? NEW SHOW Coming Soon! | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=6WZukvH3TXc",
+      "videoId": "6WZukvH3TXc",
+      "thumbnail": "https://i3.ytimg.com/vi/6WZukvH3TXc/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-22",
+      "firstSeen": "2026-07-22",
+      "title": "SpongeBob's Funniest Moments from Newer Episodes ? | 90 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=bCCmU7Rjc0k",
+      "videoId": "bCCmU7Rjc0k",
+      "thumbnail": "https://i3.ytimg.com/vi/bCCmU7Rjc0k/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-21",
       "firstSeen": "2026-07-21",
