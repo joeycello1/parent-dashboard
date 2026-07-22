@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-07-21T22:21:18.308Z",
+  "generatedAt": "2026-07-22T00:21:17.788Z",
   "videos": [
+    {
+      "timestamp": "2026-07-21",
+      "firstSeen": "2026-07-21",
+      "title": "Super Silly Days | Funny Cartoons for Kids | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=3xmb6AymArE",
+      "videoId": "3xmb6AymArE",
+      "thumbnail": "https://i4.ytimg.com/vi/3xmb6AymArE/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-21",
+      "firstSeen": "2026-07-21",
+      "title": "Hilarious Animal You Can't Miss! | Open Season: Call Of Nature | Funny Cartoons",
+      "videoUrl": "https://www.youtube.com/watch?v=kLJUVlJW6E0",
+      "videoId": "kLJUVlJW6E0",
+      "thumbnail": "https://i4.ytimg.com/vi/kLJUVlJW6E0/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-21",
+      "firstSeen": "2026-07-21",
+      "title": "Bugs Bunny's EPIC Pool Day! ?? | Looney Tunes Cartoons | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=wQQYBuXu2W0",
+      "videoId": "wQQYBuXu2W0",
+      "thumbnail": "https://i4.ytimg.com/vi/wQQYBuXu2W0/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-20",
       "firstSeen": "2026-07-20",
