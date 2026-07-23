@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T22:21:14.469Z",
+  "generatedAt": "2026-07-23T00:21:13.771Z",
   "videos": [
     {
       "timestamp": "2026-07-22",
@@ -102,6 +102,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-22",
+      "firstSeen": "2026-07-22",
+      "title": "Mr Bean's Fake Tuxedo Disaster! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=gNwyrl6pyeY",
+      "videoId": "gNwyrl6pyeY",
+      "thumbnail": "https://i4.ytimg.com/vi/gNwyrl6pyeY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-22",
+      "firstSeen": "2026-07-22",
+      "title": "Pandora's Jock | Funny Cartoons For Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=suIRlMHMcVo",
+      "videoId": "suIRlMHMcVo",
+      "thumbnail": "https://i4.ytimg.com/vi/suIRlMHMcVo/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
