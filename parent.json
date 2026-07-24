@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T10:21:11.752Z",
+  "generatedAt": "2026-07-24T12:21:16.061Z",
   "videos": [
     {
       "timestamp": "2026-07-23",
@@ -36,6 +36,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-23",
+      "firstSeen": "2026-07-24",
+      "title": "The Missing Pup | Karma's Neighbourhood Fun | Full Episodes | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=3lMi8F4FcZ4",
+      "videoId": "3lMi8F4FcZ4",
+      "thumbnail": "https://i4.ytimg.com/vi/3lMi8F4FcZ4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
