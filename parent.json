@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T22:21:28.563Z",
+  "generatedAt": "2026-07-24T00:21:13.090Z",
   "videos": [
     {
       "timestamp": "2026-07-23",
@@ -14,6 +14,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-23",
+      "firstSeen": "2026-07-23",
+      "title": "Scooby-Doo! Mystery Incorporated MARATHON ? | MEGA COMP | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=4sbWYwUTjsc",
+      "videoId": "4sbWYwUTjsc",
+      "thumbnail": "https://i1.ytimg.com/vi/4sbWYwUTjsc/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
