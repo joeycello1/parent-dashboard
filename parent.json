@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T16:21:13.720Z",
+  "generatedAt": "2026-07-25T18:21:12.846Z",
   "videos": [
     {
       "timestamp": "2026-07-25",
@@ -14,6 +14,204 @@
       "profile": "Both",
       "retentionDays": 200,
       "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "Bean's Most Awkward Double Date! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=ADtMQm3nU04",
+      "videoId": "ADtMQm3nU04",
+      "thumbnail": "https://i2.ytimg.com/vi/ADtMQm3nU04/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "Bean's Biggest Gamble Ever! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=YcDXF2wtVP0",
+      "videoId": "YcDXF2wtVP0",
+      "thumbnail": "https://i2.ytimg.com/vi/YcDXF2wtVP0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "Wild Baby Animals Face Their First Year (Full Episode) | America?s National Parks | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=Wvets7gSvIc",
+      "videoId": "Wvets7gSvIc",
+      "thumbnail": "https://i4.ytimg.com/vi/Wvets7gSvIc/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "Animal Friendships That Make NO Sense! ?? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=BLYMwlTFlao",
+      "videoId": "BLYMwlTFlao",
+      "thumbnail": "https://i3.ytimg.com/vi/BLYMwlTFlao/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "Bikini Bottom Getting DESTROYED for 30 Minutes Straight ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=Y3p5J11Cry8",
+      "videoId": "Y3p5J11Cry8",
+      "thumbnail": "https://i2.ytimg.com/vi/Y3p5J11Cry8/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "NOOB vs MASTER LEGO builder...",
+      "videoUrl": "https://www.youtube.com/watch?v=9DjiCxfxJqk",
+      "videoId": "9DjiCxfxJqk",
+      "thumbnail": "https://i2.ytimg.com/vi/9DjiCxfxJqk/hqdefault.jpg",
+      "channelID": "UCUU3GdGuQshZFRGnxAPBf_w",
+      "channelName": "TD Bricks",
+      "category": "LEGO",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "Looney Tunes | Classic Characters Full Episode Cartoon | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=w7sICPn17uE",
+      "videoId": "w7sICPn17uE",
+      "thumbnail": "https://i4.ytimg.com/vi/w7sICPn17uE/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, daffy, road runner, sylvester, tweety, yosemite",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "Lola Bunny scenes that serve MAIN CHARACTER energy ? | Looney Tunes | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=OhwrDFXw9fc",
+      "videoId": "OhwrDFXw9fc",
+      "thumbnail": "https://i4.ytimg.com/vi/OhwrDFXw9fc/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "Superhero Adventures! ????? | Tom & Jerry MEGA COMP | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=FN-2rPAQT_U",
+      "videoId": "FN-2rPAQT_U",
+      "thumbnail": "https://i3.ytimg.com/vi/FN-2rPAQT_U/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
