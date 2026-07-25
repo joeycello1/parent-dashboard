@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-25T10:21:11.442Z",
+  "generatedAt": "2026-07-25T12:21:12.748Z",
   "videos": [
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "Ricky the Brave Hedgehog ??? | English Moral Stories | Bedtime Stories",
+      "videoUrl": "https://www.youtube.com/watch?v=az5wNV-q45w",
+      "videoId": "az5wNV-q45w",
+      "thumbnail": "https://i2.ytimg.com/vi/az5wNV-q45w/hqdefault.jpg",
+      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
+      "channelName": "Mr Book and Me",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 200,
+      "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-24",
       "firstSeen": "2026-07-24",
@@ -124,6 +146,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-24",
+      "firstSeen": "2026-07-25",
+      "title": "Using an EMOTION DETECTOR to Find My Friend's SECRETS!",
+      "videoUrl": "https://www.youtube.com/watch?v=K7Lsz-4SmKE",
+      "videoId": "K7Lsz-4SmKE",
+      "thumbnail": "https://i4.ytimg.com/vi/K7Lsz-4SmKE/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
