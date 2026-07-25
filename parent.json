@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-07-24T22:21:13.427Z",
+  "generatedAt": "2026-07-25T00:21:13.191Z",
   "videos": [
+    {
+      "timestamp": "2026-07-24",
+      "firstSeen": "2026-07-24",
+      "title": "Tom Hiddleston is the Oracle of Pompeii?| Greeking Out Podcast | SPECIAL EDITION EP | ?Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=9M97tWj-c5M",
+      "videoId": "9M97tWj-c5M",
+      "thumbnail": "https://i2.ytimg.com/vi/9M97tWj-c5M/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-24",
+      "firstSeen": "2026-07-24",
+      "title": "Phoebe & Jay FULL EPISODE | Beating the Heat/Tower Time ?? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=Jx-lDDJkoCU",
+      "videoId": "Jx-lDDJkoCU",
+      "thumbnail": "https://i3.ytimg.com/vi/Jx-lDDJkoCU/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-24",
+      "firstSeen": "2026-07-24",
+      "title": "How to Survive CHOKING? | What to Do if You're Alone and Choking? | Self-Heimlich Maneuver Tips",
+      "videoUrl": "https://www.youtube.com/watch?v=oSZG9JHdngM",
+      "videoId": "oSZG9JHdngM",
+      "thumbnail": "https://i4.ytimg.com/vi/oSZG9JHdngM/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-24",
+      "firstSeen": "2026-07-24",
+      "title": "Phantom of the Auditorium | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=plr1f6RK_2E",
+      "videoId": "plr1f6RK_2E",
+      "thumbnail": "https://i1.ytimg.com/vi/plr1f6RK_2E/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-24",
+      "firstSeen": "2026-07-24",
+      "title": "GOLDEN Ladle ? | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=zzXNDD6q1r4",
+      "videoId": "zzXNDD6q1r4",
+      "thumbnail": "https://i3.ytimg.com/vi/zzXNDD6q1r4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-24",
+      "firstSeen": "2026-07-24",
+      "title": "The Krusty Krab's WORST Customer Service Ever ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=6XY6_qZbHD8",
+      "videoId": "6XY6_qZbHD8",
+      "thumbnail": "https://i3.ytimg.com/vi/6XY6_qZbHD8/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-23",
       "firstSeen": "2026-07-23",
