@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T04:21:16.694Z",
+  "generatedAt": "2026-07-26T06:21:10.740Z",
   "videos": [
     {
       "timestamp": "2026-07-25",
@@ -234,6 +234,28 @@
       "profile": "Both",
       "retentionDays": 800,
       "keyword": "bbc earth kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-26",
+      "title": "MILO Gets a JOB in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=1X1oyd1KmhQ",
+      "videoId": "1X1oyd1KmhQ",
+      "thumbnail": "https://i2.ytimg.com/vi/1X1oyd1KmhQ/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
