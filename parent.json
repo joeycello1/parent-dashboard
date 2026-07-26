@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-07-26T16:21:14.465Z",
+  "generatedAt": "2026-07-26T18:21:11.697Z",
   "videos": [
+    {
+      "timestamp": "2026-07-26",
+      "firstSeen": "2026-07-26",
+      "title": "Bean's Giant Teddy Nightmare | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=4KgPSh-Eye4",
+      "videoId": "4KgPSh-Eye4",
+      "thumbnail": "https://i1.ytimg.com/vi/4KgPSh-Eye4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-26",
+      "firstSeen": "2026-07-26",
+      "title": "Bean's Homemade Driving Simulator | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=7AoDn20Ye2I",
+      "videoId": "7AoDn20Ye2I",
+      "thumbnail": "https://i4.ytimg.com/vi/7AoDn20Ye2I/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-26",
+      "firstSeen": "2026-07-26",
+      "title": "World's Biggest Shark Mashup (Full Episode) | SPECIAL | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=6nUStkcig4k",
+      "videoId": "6nUStkcig4k",
+      "thumbnail": "https://i3.ytimg.com/vi/6nUStkcig4k/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-26",
+      "firstSeen": "2026-07-26",
+      "title": "Mystery of the Sharks in the Bermuda Triangle ? | Full Episode | SHARKFEST ? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=N_7uBiy3yl8",
+      "videoId": "N_7uBiy3yl8",
+      "thumbnail": "https://i3.ytimg.com/vi/N_7uBiy3yl8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-26",
+      "firstSeen": "2026-07-26",
+      "title": "3 Hours of SpongeBob's Main Character Energy ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=r-AwmmRpk20",
+      "videoId": "r-AwmmRpk20",
+      "thumbnail": "https://i3.ytimg.com/vi/r-AwmmRpk20/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-25",
       "firstSeen": "2026-07-25",
