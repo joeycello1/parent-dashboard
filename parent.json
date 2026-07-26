@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T22:21:12.819Z",
+  "generatedAt": "2026-07-26T00:21:11.350Z",
   "videos": [
     {
       "timestamp": "2026-07-25",
@@ -212,6 +212,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-25",
+      "firstSeen": "2026-07-25",
+      "title": "The Fastest, Weirdest & Fiercest Dinosaurs! | BBC Earth Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=-2PSwzLuwb0",
+      "videoId": "-2PSwzLuwb0",
+      "thumbnail": "https://i2.ytimg.com/vi/-2PSwzLuwb0/hqdefault.jpg",
+      "channelID": "UCO_DaPp4ifhMAmiyybSLx9w",
+      "channelName": "BBC Earth - Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 800,
+      "keyword": "bbc earth kids",
       "watched": {
         "jonah": false,
         "kieran": false
