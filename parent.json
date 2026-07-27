@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T04:21:12.025Z",
+  "generatedAt": "2026-07-27T06:21:15.833Z",
   "videos": [
     {
       "timestamp": "2026-07-26",
@@ -9870,28 +9870,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "binocs, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-28",
-      "firstSeen": "2026-06-16",
-      "title": "The Great Asteroid Storm! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=9WPp7NZMZr0",
-      "videoId": "9WPp7NZMZr0",
-      "thumbnail": "https://i2.ytimg.com/vi/9WPp7NZMZr0/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
