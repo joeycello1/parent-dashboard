@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T22:21:14.478Z",
+  "generatedAt": "2026-07-27T00:21:12.606Z",
   "videos": [
     {
       "timestamp": "2026-07-26",
@@ -102,6 +102,94 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-26",
+      "firstSeen": "2026-07-26",
+      "title": "Mexican Free-Tailed Bat! | Learn With Steve Backshall | BBC Earth Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=iPXxVqqq330",
+      "videoId": "iPXxVqqq330",
+      "thumbnail": "https://i2.ytimg.com/vi/iPXxVqqq330/hqdefault.jpg",
+      "channelID": "UCO_DaPp4ifhMAmiyybSLx9w",
+      "channelName": "BBC Earth - Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 800,
+      "keyword": "bbc earth kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-26",
+      "firstSeen": "2026-07-26",
+      "title": "Truths Laid Bare | Full Episode | Ride | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=4AJDrCfaSwc",
+      "videoId": "4AJDrCfaSwc",
+      "thumbnail": "https://i1.ytimg.com/vi/4AJDrCfaSwc/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-26",
+      "firstSeen": "2026-07-26",
+      "title": "Mind-Blowing Science Experiments Every Kid Will Love! | Science Max | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=quQGH0nLN7o",
+      "videoId": "quQGH0nLN7o",
+      "thumbnail": "https://i2.ytimg.com/vi/quQGH0nLN7o/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-26",
+      "firstSeen": "2026-07-26",
+      "title": "? Physics Made Fun! Electricity, Flight & Cool Experiments | Finding Stuff Out",
+      "videoUrl": "https://www.youtube.com/watch?v=KlduUBRW_Yo",
+      "videoId": "KlduUBRW_Yo",
+      "thumbnail": "https://i4.ytimg.com/vi/KlduUBRW_Yo/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
