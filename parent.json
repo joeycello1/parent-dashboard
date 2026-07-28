@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:21:14.113Z",
+  "generatedAt": "2026-07-28T12:21:12.866Z",
   "videos": [
     {
       "timestamp": "2026-07-27",
@@ -190,6 +190,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-27",
+      "firstSeen": "2026-07-28",
+      "title": "Milo Becomes A PENGUIN in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=WiZpW7riKEo",
+      "videoId": "WiZpW7riKEo",
+      "thumbnail": "https://i4.ytimg.com/vi/WiZpW7riKEo/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
