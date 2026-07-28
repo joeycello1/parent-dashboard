@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-07-28T16:21:19.089Z",
+  "generatedAt": "2026-07-28T18:21:13.999Z",
   "videos": [
+    {
+      "timestamp": "2026-07-28",
+      "firstSeen": "2026-07-28",
+      "title": "How To Draw Pandy Paws From Gabby's Dollhouse",
+      "videoUrl": "https://www.youtube.com/watch?v=NwYgv1ghdYQ",
+      "videoId": "NwYgv1ghdYQ",
+      "thumbnail": "https://i3.ytimg.com/vi/NwYgv1ghdYQ/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-28",
+      "firstSeen": "2026-07-28",
+      "title": "Bean's Laundry Disaster! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=I4RM1t1-8AQ",
+      "videoId": "I4RM1t1-8AQ",
+      "thumbnail": "https://i2.ytimg.com/vi/I4RM1t1-8AQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-28",
+      "firstSeen": "2026-07-28",
+      "title": "Bean Ruined a Fancy Restaurant! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=JidGxFJam08",
+      "videoId": "JidGxFJam08",
+      "thumbnail": "https://i3.ytimg.com/vi/JidGxFJam08/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-28",
+      "firstSeen": "2026-07-28",
+      "title": "What Are Zoonotic Viruses? | How Do Zoonotic Viruses Spread? | Animal to Human Diseases Explained",
+      "videoUrl": "https://www.youtube.com/watch?v=nYsa91gisBI",
+      "videoId": "nYsa91gisBI",
+      "thumbnail": "https://i3.ytimg.com/vi/nYsa91gisBI/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-28",
+      "firstSeen": "2026-07-28",
+      "title": "SpongeBob's Classic \"Chocolate with Nuts\" ? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=nRSt9ROl8fQ",
+      "videoId": "nRSt9ROl8fQ",
+      "thumbnail": "https://i3.ytimg.com/vi/nRSt9ROl8fQ/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-28",
+      "firstSeen": "2026-07-28",
+      "title": "Why is saffron so expensive? - Carolyn Beans",
+      "videoUrl": "https://www.youtube.com/watch?v=krNP8RlDsbw",
+      "videoId": "krNP8RlDsbw",
+      "thumbnail": "https://i4.ytimg.com/vi/krNP8RlDsbw/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-28",
+      "firstSeen": "2026-07-28",
+      "title": "New Looney Tunes MARATHON ? | Looney Tuesday MEGA COMP | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=55vUaKiBMi8",
+      "videoId": "55vUaKiBMi8",
+      "thumbnail": "https://i2.ytimg.com/vi/55vUaKiBMi8/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-27",
       "firstSeen": "2026-07-27",
