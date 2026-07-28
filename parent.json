@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T22:21:15.163Z",
+  "generatedAt": "2026-07-28T00:21:25.421Z",
   "videos": [
     {
       "timestamp": "2026-07-27",
@@ -124,6 +124,72 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-27",
+      "firstSeen": "2026-07-27",
+      "title": "?? Top Sandcastle Moments COMPILATION! ? | Summer Fun with Daniel Tiger, Arthur & More! | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=kUtNMUzTBa4",
+      "videoId": "kUtNMUzTBa4",
+      "thumbnail": "https://i4.ytimg.com/vi/kUtNMUzTBa4/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-27",
+      "firstSeen": "2026-07-27",
+      "title": "The Search for Powers | Weird Waters Season 2 Clips | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=32MfjmY5L4c",
+      "videoId": "32MfjmY5L4c",
+      "thumbnail": "https://i4.ytimg.com/vi/32MfjmY5L4c/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-27",
+      "firstSeen": "2026-07-27",
+      "title": "Jungle Field Trip Chaos | The Magic School Bus Gets Stuck in the Mud",
+      "videoUrl": "https://www.youtube.com/watch?v=J198NjZt2AM",
+      "videoId": "J198NjZt2AM",
+      "thumbnail": "https://i3.ytimg.com/vi/J198NjZt2AM/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
