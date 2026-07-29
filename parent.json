@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-07-29T16:21:13.675Z",
+  "generatedAt": "2026-07-29T18:21:20.273Z",
   "videos": [
+    {
+      "timestamp": "2026-07-29",
+      "firstSeen": "2026-07-29",
+      "title": "How To Draw A Baby White Tiger Drinking A Bottle",
+      "videoUrl": "https://www.youtube.com/watch?v=gT5UBriKUCs",
+      "videoId": "gT5UBriKUCs",
+      "thumbnail": "https://i4.ytimg.com/vi/gT5UBriKUCs/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-29",
+      "firstSeen": "2026-07-29",
+      "title": "Bean Had to Treat Mrs. Wicket | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=rPWuru_X7V0",
+      "videoId": "rPWuru_X7V0",
+      "thumbnail": "https://i3.ytimg.com/vi/rPWuru_X7V0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-29",
+      "firstSeen": "2026-07-29",
+      "title": "Bean's House Was Full of Stolen Jewelry | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=asVO7SLc5Is",
+      "videoId": "asVO7SLc5Is",
+      "thumbnail": "https://i2.ytimg.com/vi/asVO7SLc5Is/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-29",
+      "firstSeen": "2026-07-29",
+      "title": "Survival in the Rainforest (Full Episode) | Secrets of the Elephants | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=q3k1cGi3Ffw",
+      "videoId": "q3k1cGi3Ffw",
+      "thumbnail": "https://i2.ytimg.com/vi/q3k1cGi3Ffw/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-29",
+      "firstSeen": "2026-07-29",
+      "title": "1 Hour of Squidward's Worst Moments EVER ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=yRsczHysR38",
+      "videoId": "yRsczHysR38",
+      "thumbnail": "https://i2.ytimg.com/vi/yRsczHysR38/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-28",
       "firstSeen": "2026-07-28",
