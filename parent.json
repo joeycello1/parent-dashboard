@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T18:21:20.273Z",
+  "generatedAt": "2026-07-29T20:21:17.392Z",
   "videos": [
     {
       "timestamp": "2026-07-29",
@@ -1136,28 +1136,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-23",
-      "firstSeen": "2026-07-23",
-      "title": "It's Showtime! ??  Minuscule | 30' Compilation",
-      "videoUrl": "https://www.youtube.com/watch?v=gPuFrMqXul4",
-      "videoId": "gPuFrMqXul4",
-      "thumbnail": "https://i4.ytimg.com/vi/gPuFrMqXul4/hqdefault.jpg",
-      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
-      "channelName": "Miniscule",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
