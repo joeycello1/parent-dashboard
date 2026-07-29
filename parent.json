@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T04:21:16.694Z",
+  "generatedAt": "2026-07-29T06:21:13.323Z",
   "videos": [
     {
       "timestamp": "2026-07-28",
@@ -10178,28 +10178,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "road runner",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-05-30",
-      "firstSeen": "2026-06-16",
-      "title": "The Crystal Flash Storm! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=FO4hTp6izPA",
-      "videoId": "FO4hTp6izPA",
-      "thumbnail": "https://i3.ytimg.com/vi/FO4hTp6izPA/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
