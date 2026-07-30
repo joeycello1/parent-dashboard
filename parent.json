@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-30T10:21:13.015Z",
+  "generatedAt": "2026-07-30T12:21:12.075Z",
   "videos": [
+    {
+      "timestamp": "2026-07-30",
+      "firstSeen": "2026-07-30",
+      "title": "The Housing Plant Project | Minuscule | 25' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=YzSuhxy0U34",
+      "videoId": "YzSuhxy0U34",
+      "thumbnail": "https://i2.ytimg.com/vi/YzSuhxy0U34/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-29",
       "firstSeen": "2026-07-29",
@@ -102,6 +124,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-29",
+      "firstSeen": "2026-07-30",
+      "title": "Living Inside Of My Friends COMPUTER in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=y_bRLbllz8A",
+      "videoId": "y_bRLbllz8A",
+      "thumbnail": "https://i2.ytimg.com/vi/y_bRLbllz8A/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
