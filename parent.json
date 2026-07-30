@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T16:21:11.217Z",
+  "generatedAt": "2026-07-30T18:21:14.465Z",
   "videos": [
     {
       "timestamp": "2026-07-30",
@@ -14,6 +14,160 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-30",
+      "firstSeen": "2026-07-30",
+      "title": "How To Draw A Funny Blueberry Cheesecake",
+      "videoUrl": "https://www.youtube.com/watch?v=huSw_oIDyFY",
+      "videoId": "huSw_oIDyFY",
+      "thumbnail": "https://i1.ytimg.com/vi/huSw_oIDyFY/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-30",
+      "firstSeen": "2026-07-30",
+      "title": "Bean's Piano Lesson | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=q2RWca5noeA",
+      "videoId": "q2RWca5noeA",
+      "thumbnail": "https://i2.ytimg.com/vi/q2RWca5noeA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-30",
+      "firstSeen": "2026-07-30",
+      "title": "Bean's Funniest Vet Adventures! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Z1l5yIYOa-U",
+      "videoId": "Z1l5yIYOa-U",
+      "thumbnail": "https://i3.ytimg.com/vi/Z1l5yIYOa-U/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-30",
+      "firstSeen": "2026-07-30",
+      "title": "Dinos A to Z: Kentrosaurus | Learn about a cousin dinosaur to the Stegasaurus!",
+      "videoUrl": "https://www.youtube.com/watch?v=XblGN0tH5vk",
+      "videoId": "XblGN0tH5vk",
+      "thumbnail": "https://i1.ytimg.com/vi/XblGN0tH5vk/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-30",
+      "firstSeen": "2026-07-30",
+      "title": "Giant Sharks Rule These Waters! | Full Episode | SHARKFEST ? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=lnB4Plxl_ps",
+      "videoId": "lnB4Plxl_ps",
+      "thumbnail": "https://i1.ytimg.com/vi/lnB4Plxl_ps/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-30",
+      "firstSeen": "2026-07-30",
+      "title": "SpongeBob's Grossest Food Moments from Newer Episodes ? | 10 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=efohTJP-sms",
+      "videoId": "efohTJP-sms",
+      "thumbnail": "https://i2.ytimg.com/vi/efohTJP-sms/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-30",
+      "firstSeen": "2026-07-30",
+      "title": "Scooby-Doo Meets Krypto the Superdog ????? | Scooby-Doo! and Krypto, Too! | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=RQyvA__lXGQ",
+      "videoId": "RQyvA__lXGQ",
+      "thumbnail": "https://i3.ytimg.com/vi/RQyvA__lXGQ/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
