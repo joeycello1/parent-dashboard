@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-07-31T16:21:14.818Z",
+  "generatedAt": "2026-07-31T18:21:12.492Z",
   "videos": [
+    {
+      "timestamp": "2026-07-31",
+      "firstSeen": "2026-07-31",
+      "title": "How To Draw An Ice Cream Cart",
+      "videoUrl": "https://www.youtube.com/watch?v=NB_9dHGxnjU",
+      "videoId": "NB_9dHGxnjU",
+      "thumbnail": "https://i3.ytimg.com/vi/NB_9dHGxnjU/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-31",
+      "firstSeen": "2026-07-31",
+      "title": "Bean Used a Drone to Catch Car Thieves! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=pWzdzDtbbvg",
+      "videoId": "pWzdzDtbbvg",
+      "thumbnail": "https://i1.ytimg.com/vi/pWzdzDtbbvg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-31",
+      "firstSeen": "2026-07-31",
+      "title": "Bean's Fastest Adventure | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=CMwfI1ltICo",
+      "videoId": "CMwfI1ltICo",
+      "thumbnail": "https://i4.ytimg.com/vi/CMwfI1ltICo/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-31",
+      "firstSeen": "2026-07-31",
+      "title": "KPop Demon Hunters - Who Stole Jinu's Soda Pop?",
+      "videoUrl": "https://www.youtube.com/watch?v=OjCXrrbr8SA",
+      "videoId": "OjCXrrbr8SA",
+      "thumbnail": "https://i4.ytimg.com/vi/OjCXrrbr8SA/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-31",
+      "firstSeen": "2026-07-31",
+      "title": "Experts Examine Pythons, Crocodiles, & Alligators | Reptile MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=xNlM2PGnmhA",
+      "videoId": "xNlM2PGnmhA",
+      "thumbnail": "https://i1.ytimg.com/vi/xNlM2PGnmhA/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-31",
+      "firstSeen": "2026-07-31",
+      "title": "Olympians Vs. Titans ? | Greeking Out Podcast | S4 E1 FULL EP | ?Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=MufdODXKaLo",
+      "videoId": "MufdODXKaLo",
+      "thumbnail": "https://i2.ytimg.com/vi/MufdODXKaLo/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-31",
+      "firstSeen": "2026-07-31",
+      "title": "What Is Nuclear Fission? | The Power of Splitting Atoms | Amazing Science Facts | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=rqL-UqUGJHY",
+      "videoId": "rqL-UqUGJHY",
+      "thumbnail": "https://i3.ytimg.com/vi/rqL-UqUGJHY/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-31",
+      "firstSeen": "2026-07-31",
+      "title": "SpongeBob's Craziest Out of This World Moments ? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=dlZ8oJnQlKc",
+      "videoId": "dlZ8oJnQlKc",
+      "thumbnail": "https://i1.ytimg.com/vi/dlZ8oJnQlKc/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-30",
       "firstSeen": "2026-07-30",
