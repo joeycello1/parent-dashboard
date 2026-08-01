@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-08-01T16:21:12.238Z",
+  "generatedAt": "2026-08-01T18:21:09.962Z",
   "videos": [
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Learn About Farm Friends! | Animal Facts | BBC Earth Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=p4NFktDA0Jo",
+      "videoId": "p4NFktDA0Jo",
+      "thumbnail": "https://i1.ytimg.com/vi/p4NFktDA0Jo/hqdefault.jpg",
+      "channelID": "UCO_DaPp4ifhMAmiyybSLx9w",
+      "channelName": "BBC Earth - Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 800,
+      "keyword": "bbc earth kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Bean Accidentally Caught Bank Robbers! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=2G1f-2FrZ1o",
+      "videoId": "2G1f-2FrZ1o",
+      "thumbnail": "https://i3.ytimg.com/vi/2G1f-2FrZ1o/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Bean vs. The Sneaky Squirrels | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=AAgfFgAO5Q8",
+      "videoId": "AAgfFgAO5Q8",
+      "thumbnail": "https://i2.ytimg.com/vi/AAgfFgAO5Q8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Saber-Toothed Tiger Facts!",
+      "videoUrl": "https://www.youtube.com/watch?v=znRmatt3v4o",
+      "videoId": "znRmatt3v4o",
+      "thumbnail": "https://i3.ytimg.com/vi/znRmatt3v4o/hqdefault.jpg",
+      "channelID": "UCwyVRKfytvjSF6q5s7noKZQ",
+      "channelName": "Mr. DeMaio",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 300,
+      "keyword": "demaio",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Evidence of Sharks Eating Sharks (Full Episode) | SPECIAL | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=Pb8x6EyiUkc",
+      "videoId": "Pb8x6EyiUkc",
+      "thumbnail": "https://i1.ytimg.com/vi/Pb8x6EyiUkc/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Learn the Secrets of Baby Lions! ?? Animal Facts for Kids | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=xlXtt3IRckY",
+      "videoId": "xlXtt3IRckY",
+      "thumbnail": "https://i1.ytimg.com/vi/xlXtt3IRckY/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Every Pet Ever in Bikini Bottom ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=IiKhDCR8vWI",
+      "videoId": "IiKhDCR8vWI",
+      "thumbnail": "https://i2.ytimg.com/vi/IiKhDCR8vWI/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Looney Tunes | Classic Wile E. Coyote vs Road Runner Full Episodes | Vol. 11 | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=OJB0l7ESe3c",
+      "videoId": "OJB0l7ESe3c",
+      "thumbnail": "https://i4.ytimg.com/vi/OJB0l7ESe3c/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "road runner, roadrunner",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Scooby-Doo scenes that make us SCREAM ? (try not to get scared challenge) | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=EFQekZ9z-38",
+      "videoId": "EFQekZ9z-38",
+      "thumbnail": "https://i2.ytimg.com/vi/EFQekZ9z-38/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Best of Toodles! ?? | Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=D7vqBDdlo1o",
+      "videoId": "D7vqBDdlo1o",
+      "thumbnail": "https://i1.ytimg.com/vi/D7vqBDdlo1o/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-07-31",
       "firstSeen": "2026-07-31",
