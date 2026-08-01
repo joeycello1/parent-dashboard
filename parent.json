@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T22:21:16.487Z",
+  "generatedAt": "2026-08-01T00:21:20.261Z",
   "videos": [
     {
       "timestamp": "2026-07-31",
@@ -168,6 +168,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-31",
+      "firstSeen": "2026-07-31",
+      "title": "Zombie Scouts | Best Spooky Episodes | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=FGInlYP8-zc",
+      "videoId": "FGInlYP8-zc",
+      "thumbnail": "https://i3.ytimg.com/vi/FGInlYP8-zc/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-07-31",
+      "firstSeen": "2026-07-31",
+      "title": "My Best Friend Is Invisible & More | Full Episodes | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=0jyyuhpUVKo",
+      "videoId": "0jyyuhpUVKo",
+      "thumbnail": "https://i1.ytimg.com/vi/0jyyuhpUVKo/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
