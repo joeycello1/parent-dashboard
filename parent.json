@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T22:21:10.485Z",
+  "generatedAt": "2026-08-02T00:21:11.147Z",
   "videos": [
     {
       "timestamp": "2026-08-01",
@@ -212,6 +212,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-01",
+      "title": "Mind-Blowing Science Experiments Every Kid Will Love! | Science Max | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=d8sSQpFMhxI",
+      "videoId": "d8sSQpFMhxI",
+      "thumbnail": "https://i1.ytimg.com/vi/d8sSQpFMhxI/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
