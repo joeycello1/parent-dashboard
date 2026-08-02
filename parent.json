@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T04:21:17.203Z",
+  "generatedAt": "2026-08-02T06:21:11.706Z",
   "videos": [
     {
       "timestamp": "2026-08-01",
@@ -234,6 +234,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-01",
+      "firstSeen": "2026-08-02",
+      "title": "Chip Needs QUIET TIME in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=F-zY8iP_HwU",
+      "videoId": "F-zY8iP_HwU",
+      "thumbnail": "https://i3.ytimg.com/vi/F-zY8iP_HwU/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -10794,28 +10816,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-03",
-      "firstSeen": "2026-06-16",
-      "title": "Saturn?s Frozen Rings! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=wzDKE_TZnO4",
-      "videoId": "wzDKE_TZnO4",
-      "thumbnail": "https://i4.ytimg.com/vi/wzDKE_TZnO4/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
