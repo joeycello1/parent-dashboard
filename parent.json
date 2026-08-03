@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T22:21:11.416Z",
+  "generatedAt": "2026-08-03T00:21:11.193Z",
   "videos": [
     {
       "timestamp": "2026-08-02",
@@ -102,6 +102,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-02",
+      "firstSeen": "2026-08-02",
+      "title": "Bean's Funniest Dates with Irma! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=SDAotdwXQPM",
+      "videoId": "SDAotdwXQPM",
+      "thumbnail": "https://i4.ytimg.com/vi/SDAotdwXQPM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-02",
+      "firstSeen": "2026-08-02",
+      "title": "Andalusians | Full Episode | Ride | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=_qQwn_yKc2I",
+      "videoId": "_qQwn_yKc2I",
+      "thumbnail": "https://i4.ytimg.com/vi/_qQwn_yKc2I/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
