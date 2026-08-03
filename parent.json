@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T04:21:10.065Z",
+  "generatedAt": "2026-08-03T06:21:14.663Z",
   "videos": [
     {
       "timestamp": "2026-08-02",
@@ -10926,28 +10926,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-04",
-      "firstSeen": "2026-06-16",
-      "title": "SpongeBob Leads the Ultimate Pirate Adventure! ???? | Kamp Koral | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=kNoLjFGh4_M",
-      "videoId": "kNoLjFGh4_M",
-      "thumbnail": "https://i4.ytimg.com/vi/kNoLjFGh4_M/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
