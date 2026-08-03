@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-08-03T16:21:14.480Z",
+  "generatedAt": "2026-08-03T18:21:17.203Z",
   "videos": [
+    {
+      "timestamp": "2026-08-03",
+      "firstSeen": "2026-08-03",
+      "title": "How To Draw Funny Fruit Friends",
+      "videoUrl": "https://www.youtube.com/watch?v=-ZtZrnxgm3k",
+      "videoId": "-ZtZrnxgm3k",
+      "thumbnail": "https://i2.ytimg.com/vi/-ZtZrnxgm3k/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-03",
+      "firstSeen": "2026-08-03",
+      "title": "Bean Faked His Muscles for Irma! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=vsNCCyxaY-8",
+      "videoId": "vsNCCyxaY-8",
+      "thumbnail": "https://i3.ytimg.com/vi/vsNCCyxaY-8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-03",
+      "firstSeen": "2026-08-03",
+      "title": "Bean Became a Scout Leader! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=wW7I5sbwiBs",
+      "videoId": "wW7I5sbwiBs",
+      "thumbnail": "https://i4.ytimg.com/vi/wW7I5sbwiBs/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-03",
+      "firstSeen": "2026-08-03",
+      "title": "Sharks Found Where?! | Full Episode Compilation | SHARKFEST ? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=2dmaCb5sf9w",
+      "videoId": "2dmaCb5sf9w",
+      "thumbnail": "https://i3.ytimg.com/vi/2dmaCb5sf9w/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, art, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-03",
+      "firstSeen": "2026-08-03",
+      "title": "Animal Habitats, Nature & Ecosystems For Kids | The Magic School Bus",
+      "videoUrl": "https://www.youtube.com/watch?v=nr--kKwTgWA",
+      "videoId": "nr--kKwTgWA",
+      "thumbnail": "https://i3.ytimg.com/vi/nr--kKwTgWA/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-03",
+      "firstSeen": "2026-08-03",
+      "title": "Can You Measure a Tornado? Storm Chaser Shows How | Finding Stuff Out",
+      "videoUrl": "https://www.youtube.com/watch?v=IBZciR4jLfY",
+      "videoId": "IBZciR4jLfY",
+      "thumbnail": "https://i2.ytimg.com/vi/IBZciR4jLfY/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-02",
       "firstSeen": "2026-08-02",
