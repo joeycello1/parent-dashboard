@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T22:21:11.852Z",
+  "generatedAt": "2026-08-04T00:21:16.301Z",
   "videos": [
     {
       "timestamp": "2026-08-03",
@@ -118,6 +118,50 @@
       "videoUrl": "https://www.youtube.com/watch?v=IBZciR4jLfY",
       "videoId": "IBZciR4jLfY",
       "thumbnail": "https://i2.ytimg.com/vi/IBZciR4jLfY/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-03",
+      "firstSeen": "2026-08-03",
+      "title": "Clifford the Big Red Dog FULL EPISODE | Towel Team Go! / Puppy Preschool ???? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=L--qJaTUBzA",
+      "videoId": "L--qJaTUBzA",
+      "thumbnail": "https://i1.ytimg.com/vi/L--qJaTUBzA/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-03",
+      "firstSeen": "2026-08-03",
+      "title": "The Bun Bun Mystery | Weird Waters Season 2 Clips | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=MGk0w6QRhkA",
+      "videoId": "MGk0w6QRhkA",
+      "thumbnail": "https://i2.ytimg.com/vi/MGk0w6QRhkA/hqdefault.jpg",
       "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
       "channelName": "Scholastic After School",
       "category": "Science",
