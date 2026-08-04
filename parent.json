@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T10:21:17.595Z",
+  "generatedAt": "2026-08-04T12:21:14.418Z",
   "videos": [
     {
       "timestamp": "2026-08-03",
@@ -168,6 +168,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-03",
+      "firstSeen": "2026-08-04",
+      "title": "Milo Learns to SHARE in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=6i-8hLElSf4",
+      "videoId": "6i-8hLElSf4",
+      "thumbnail": "https://i3.ytimg.com/vi/6i-8hLElSf4/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
