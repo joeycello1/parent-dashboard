@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-05T10:21:16.280Z",
+  "generatedAt": "2026-08-05T12:21:13.951Z",
   "videos": [
+    {
+      "timestamp": "2026-08-04",
+      "firstSeen": "2026-08-05",
+      "title": "Elmer Fudd is THE SCREAM?! ? Art Tour with Bugs & Daffy ? | Looney Tunes: Back in Action | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=dZCAEt53Iv0",
+      "videoId": "dZCAEt53Iv0",
+      "thumbnail": "https://i1.ytimg.com/vi/dZCAEt53Iv0/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "art, bugs, daffy, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-03",
       "firstSeen": "2026-08-03",
