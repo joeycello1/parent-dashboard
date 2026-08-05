@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:21:13.713Z",
+  "generatedAt": "2026-08-05T06:21:12.815Z",
   "videos": [
     {
       "timestamp": "2026-08-03",
@@ -10926,28 +10926,6 @@
       "profile": "Both",
       "retentionDays": 300,
       "keyword": "demaio",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-06",
-      "firstSeen": "2026-06-16",
-      "title": "SpongeBob & Patrick's Biggest Food Disasters! ? | SpongeBob SquarePants | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=69s5AdqLcmc",
-      "videoId": "69s5AdqLcmc",
-      "thumbnail": "https://i3.ytimg.com/vi/69s5AdqLcmc/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
