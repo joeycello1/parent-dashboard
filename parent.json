@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-06T10:21:22.013Z",
+  "generatedAt": "2026-08-06T12:21:21.303Z",
   "videos": [
+    {
+      "timestamp": "2026-08-06",
+      "firstSeen": "2026-08-06",
+      "title": "Narcissus  | Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=A4yBtdkutUw",
+      "videoId": "A4yBtdkutUw",
+      "thumbnail": "https://i2.ytimg.com/vi/A4yBtdkutUw/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-05",
       "firstSeen": "2026-08-05",
@@ -146,6 +168,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-05",
+      "firstSeen": "2026-08-06",
+      "title": "We Restored an ABANDONED PLANE in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=nsaaStNivNc",
+      "videoId": "nsaaStNivNc",
+      "thumbnail": "https://i3.ytimg.com/vi/nsaaStNivNc/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
