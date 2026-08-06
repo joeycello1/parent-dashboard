@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T16:21:19.004Z",
+  "generatedAt": "2026-08-06T18:21:19.084Z",
   "videos": [
     {
       "timestamp": "2026-08-06",
@@ -14,6 +14,182 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-06",
+      "firstSeen": "2026-08-06",
+      "title": "How To Draw Ocho The Octopus",
+      "videoUrl": "https://www.youtube.com/watch?v=9aCuNd3faBA",
+      "videoId": "9aCuNd3faBA",
+      "thumbnail": "https://i2.ytimg.com/vi/9aCuNd3faBA/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-06",
+      "firstSeen": "2026-08-06",
+      "title": "Mr. Bean's Gym Day Goes Horribly Wrong! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=mNcoB_pgQKs",
+      "videoId": "mNcoB_pgQKs",
+      "thumbnail": "https://i2.ytimg.com/vi/mNcoB_pgQKs/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-06",
+      "firstSeen": "2026-08-06",
+      "title": "Mr. Bean Turns His Flat into a Hotel! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=959aw3KhW2o",
+      "videoId": "959aw3KhW2o",
+      "thumbnail": "https://i2.ytimg.com/vi/959aw3KhW2o/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-06",
+      "firstSeen": "2026-08-06",
+      "title": "Dinos A to Z: Mosasaur | Learn about this non-dinosaur aquatic reptile",
+      "videoUrl": "https://www.youtube.com/watch?v=r2joIgu7XIM",
+      "videoId": "r2joIgu7XIM",
+      "thumbnail": "https://i3.ytimg.com/vi/r2joIgu7XIM/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-06",
+      "firstSeen": "2026-08-06",
+      "title": "All About Space! ?? | Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=KUS_HpTJWzg",
+      "videoId": "KUS_HpTJWzg",
+      "thumbnail": "https://i4.ytimg.com/vi/KUS_HpTJWzg/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-06",
+      "firstSeen": "2026-08-06",
+      "title": "Keys the Inventor! Big Ideas, Big Adventures! | Karma's World | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=Q2reOMmx-Kc",
+      "videoId": "Q2reOMmx-Kc",
+      "thumbnail": "https://i2.ytimg.com/vi/Q2reOMmx-Kc/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-06",
+      "firstSeen": "2026-08-06",
+      "title": "Plankton?s Evil Schemes ? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=smawfmuAADg",
+      "videoId": "smawfmuAADg",
+      "thumbnail": "https://i4.ytimg.com/vi/smawfmuAADg/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-06",
+      "firstSeen": "2026-08-06",
+      "title": "Travel The World With The Mystery Gang ? | Scooby-Doo! | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=fVY0UmuSwTg",
+      "videoId": "fVY0UmuSwTg",
+      "thumbnail": "https://i3.ytimg.com/vi/fVY0UmuSwTg/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
