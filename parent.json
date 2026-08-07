@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-08-07T16:21:15.123Z",
+  "generatedAt": "2026-08-07T18:21:14.041Z",
   "videos": [
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "How To Draw Kitten Buddies",
+      "videoUrl": "https://www.youtube.com/watch?v=9JrQWVJ9MiY",
+      "videoId": "9JrQWVJ9MiY",
+      "thumbnail": "https://i2.ytimg.com/vi/9JrQWVJ9MiY/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "Bean's Endless Battle with the Bruisers | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=GXmb2ebxpTU",
+      "videoId": "GXmb2ebxpTU",
+      "thumbnail": "https://i4.ytimg.com/vi/GXmb2ebxpTU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "Bean and Billy's Funniest Adventures | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=ovwGUQDWehQ",
+      "videoId": "ovwGUQDWehQ",
+      "thumbnail": "https://i4.ytimg.com/vi/ovwGUQDWehQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "The GREATEST DIY Monster Truck Stadium COMPILATION Ever Made (MONSTER JAM FREESTYLE Highlights)",
+      "videoUrl": "https://www.youtube.com/watch?v=V8pUhEMUK3s",
+      "videoId": "V8pUhEMUK3s",
+      "thumbnail": "https://i3.ytimg.com/vi/V8pUhEMUK3s/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "Into the Okavango (Full Episode) | DOCUMENTARY SPECIAL | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=tw9MnoC28ZQ",
+      "videoId": "tw9MnoC28ZQ",
+      "thumbnail": "https://i1.ytimg.com/vi/tw9MnoC28ZQ/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "Opening Pandora's Jar (NOT Box!) | Greeking Out Podcast | S4 E2 FULL EP | ?Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=oppj_L7L4o0",
+      "videoId": "oppj_L7L4o0",
+      "thumbnail": "https://i4.ytimg.com/vi/oppj_L7L4o0/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "What Are Thyroid Disorders? | Why Is the Thyroid So Important? | Hypothyroidism vs Hyperthyroidism",
+      "videoUrl": "https://www.youtube.com/watch?v=EWfCBmkQc7I",
+      "videoId": "EWfCBmkQc7I",
+      "thumbnail": "https://i2.ytimg.com/vi/EWfCBmkQc7I/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "Gators Vs Campers | Can McGee Escape the Schwamp? | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=wGkzv_OYMH8",
+      "videoId": "wGkzv_OYMH8",
+      "thumbnail": "https://i4.ytimg.com/vi/wGkzv_OYMH8/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "Perfect School & Other Scary Stories | Full Episode Marathon | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=SNwT4MdjVkw",
+      "videoId": "SNwT4MdjVkw",
+      "thumbnail": "https://i4.ytimg.com/vi/SNwT4MdjVkw/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "stories, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "SpongeBob's Most Unhinged Villains Ever ? w/ DoodleBob | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=F-KgWg0Vw0c",
+      "videoId": "F-KgWg0Vw0c",
+      "thumbnail": "https://i3.ytimg.com/vi/F-KgWg0Vw0c/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-06",
       "firstSeen": "2026-08-06",
