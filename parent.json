@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T04:21:15.289Z",
+  "generatedAt": "2026-08-08T06:21:11.663Z",
   "videos": [
     {
       "timestamp": "2026-08-07",
@@ -234,6 +234,28 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-08",
+      "title": "Milo and Chip ROADTRIP in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=Nj3VKN_Aue0",
+      "videoId": "Nj3VKN_Aue0",
+      "thumbnail": "https://i3.ytimg.com/vi/Nj3VKN_Aue0/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -11102,28 +11124,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "reading, social studies, educational",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-09",
-      "firstSeen": "2026-06-16",
-      "title": "The Invisible Color Planet! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=qYg3eCxPWjU",
-      "videoId": "qYg3eCxPWjU",
-      "thumbnail": "https://i2.ytimg.com/vi/qYg3eCxPWjU/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
