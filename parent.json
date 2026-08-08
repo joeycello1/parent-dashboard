@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-08-08T16:21:16.280Z",
+  "generatedAt": "2026-08-08T18:21:13.855Z",
   "videos": [
+    {
+      "timestamp": "2026-08-08",
+      "firstSeen": "2026-08-08",
+      "title": "How To Build A Capybara In Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=EdvzXvi7NOg",
+      "videoId": "EdvzXvi7NOg",
+      "thumbnail": "https://i2.ytimg.com/vi/EdvzXvi7NOg/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-08",
+      "firstSeen": "2026-08-08",
+      "title": "Mr. Bean Takes Over Billy's Console | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=IfiOT0Cmqp0",
+      "videoId": "IfiOT0Cmqp0",
+      "thumbnail": "https://i2.ytimg.com/vi/IfiOT0Cmqp0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-08",
+      "firstSeen": "2026-08-08",
+      "title": "Mr. Bean Opens His Own Coffee Shop! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=qkHz7R3o0hM",
+      "videoId": "qkHz7R3o0hM",
+      "thumbnail": "https://i2.ytimg.com/vi/qkHz7R3o0hM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-08",
+      "firstSeen": "2026-08-08",
+      "title": "How Whales Became the Ocean's Top Predator | Whale MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=42lu0-Ryizc",
+      "videoId": "42lu0-Ryizc",
+      "thumbnail": "https://i1.ytimg.com/vi/42lu0-Ryizc/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-08",
+      "firstSeen": "2026-08-08",
+      "title": "A Day In The Life Of A Whale Shark ? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=4krR7Hqbon4",
+      "videoId": "4krR7Hqbon4",
+      "thumbnail": "https://i1.ytimg.com/vi/4krR7Hqbon4/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-08",
+      "firstSeen": "2026-08-08",
+      "title": "1 Hour of SpongeBob Cooking Krabby Patties ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=ZAlH-bgi3RY",
+      "videoId": "ZAlH-bgi3RY",
+      "thumbnail": "https://i3.ytimg.com/vi/ZAlH-bgi3RY/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-08",
+      "firstSeen": "2026-08-08",
+      "title": "Looney Tunes | Bugs Bunny vs. Yosemite Sam Mega Full Episodes Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=7gZQcEM_uQc",
+      "videoId": "7gZQcEM_uQc",
+      "thumbnail": "https://i4.ytimg.com/vi/7gZQcEM_uQc/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, yosemite",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-08",
+      "firstSeen": "2026-08-08",
+      "title": "Pick Your Favorite Art Activity! ? | Looney Tunes, Scooby-Doo! + Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=a6VpVZEoNKo",
+      "videoId": "a6VpVZEoNKo",
+      "thumbnail": "https://i2.ytimg.com/vi/a6VpVZEoNKo/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "art, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-07",
       "firstSeen": "2026-08-07",
