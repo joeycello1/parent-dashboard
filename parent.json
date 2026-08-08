@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T22:21:13.990Z",
+  "generatedAt": "2026-08-08T00:21:14.498Z",
   "videos": [
     {
       "timestamp": "2026-08-07",
@@ -212,6 +212,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-07",
+      "firstSeen": "2026-08-07",
+      "title": "The Day You Begin FULL MOVIE ? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=z4kqzoSSxGk",
+      "videoId": "z4kqzoSSxGk",
+      "thumbnail": "https://i3.ytimg.com/vi/z4kqzoSSxGk/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
