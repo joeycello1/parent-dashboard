@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T04:21:14.459Z",
+  "generatedAt": "2026-08-09T06:21:11.261Z",
   "videos": [
     {
       "timestamp": "2026-08-08",
@@ -190,6 +190,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-08",
+      "firstSeen": "2026-08-09",
+      "title": "Milo and Chip Have Only 3 WISHES in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=zVxpsXNJK7Q",
+      "videoId": "zVxpsXNJK7Q",
+      "thumbnail": "https://i3.ytimg.com/vi/zVxpsXNJK7Q/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -11124,28 +11146,6 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-10",
-      "firstSeen": "2026-06-16",
-      "title": "Uncovering Pops: The Full Lore You Never Knew | Regular Show | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=954c5tTu8V4",
-      "videoId": "954c5tTu8V4",
-      "thumbnail": "https://i2.ytimg.com/vi/954c5tTu8V4/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
       "watched": {
         "jonah": false,
         "kieran": false
