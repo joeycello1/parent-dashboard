@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T22:21:19.340Z",
+  "generatedAt": "2026-08-10T00:21:12.986Z",
   "videos": [
     {
       "timestamp": "2026-08-09",
@@ -58,6 +58,94 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-09",
+      "firstSeen": "2026-08-09",
+      "title": "Mr. Bean Builds His Own Caravan! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=-fwzRmwUmIg",
+      "videoId": "-fwzRmwUmIg",
+      "thumbnail": "https://i2.ytimg.com/vi/-fwzRmwUmIg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-09",
+      "firstSeen": "2026-08-09",
+      "title": "Bean's Wild Day at Adventure Camp! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=MrAbf7l-9JY",
+      "videoId": "MrAbf7l-9JY",
+      "thumbnail": "https://i2.ytimg.com/vi/MrAbf7l-9JY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-09",
+      "firstSeen": "2026-08-09",
+      "title": "The Day You Begin SONG ? | That's What Makes You... You | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=aY65WsJgLOc",
+      "videoId": "aY65WsJgLOc",
+      "thumbnail": "https://i2.ytimg.com/vi/aY65WsJgLOc/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-09",
+      "firstSeen": "2026-08-09",
+      "title": "How Many Types Of Sports | Learning Videos for Kids | Finding Stuff Out",
+      "videoUrl": "https://www.youtube.com/watch?v=57q87Qrkxgg",
+      "videoId": "57q87Qrkxgg",
+      "thumbnail": "https://i2.ytimg.com/vi/57q87Qrkxgg/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
