@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-08-10T16:21:15.657Z",
+  "generatedAt": "2026-08-10T18:21:14.006Z",
   "videos": [
+    {
+      "timestamp": "2026-08-10",
+      "firstSeen": "2026-08-10",
+      "title": "How To Draw Eevee Squishmallow",
+      "videoUrl": "https://www.youtube.com/watch?v=EQIMxHf7QRE",
+      "videoId": "EQIMxHf7QRE",
+      "thumbnail": "https://i2.ytimg.com/vi/EQIMxHf7QRE/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-10",
+      "firstSeen": "2026-08-10",
+      "title": "Mr. Bean vs. The Road Workers! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=DCJuWqMj_Wc",
+      "videoId": "DCJuWqMj_Wc",
+      "thumbnail": "https://i1.ytimg.com/vi/DCJuWqMj_Wc/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-10",
+      "firstSeen": "2026-08-10",
+      "title": "Mr. Bean's Wild Day as a Dog Sitter! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=E_BbERlQv8M",
+      "videoId": "E_BbERlQv8M",
+      "thumbnail": "https://i2.ytimg.com/vi/E_BbERlQv8M/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-10",
+      "firstSeen": "2026-08-10",
+      "title": "Mr. Bean Gets Stuck Outside Naked! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=tt1lecXRYFs",
+      "videoId": "tt1lecXRYFs",
+      "thumbnail": "https://i1.ytimg.com/vi/tt1lecXRYFs/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-10",
+      "firstSeen": "2026-08-10",
+      "title": "America's Funniest Animal Videos! ? | Full Episode Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=BFjV99KJRaE",
+      "videoId": "BFjV99KJRaE",
+      "thumbnail": "https://i3.ytimg.com/vi/BFjV99KJRaE/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-10",
+      "firstSeen": "2026-08-10",
+      "title": "How to Make Shapes! ? ? | Learning with Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=etlLXyWCpU4",
+      "videoId": "etlLXyWCpU4",
+      "thumbnail": "https://i2.ytimg.com/vi/etlLXyWCpU4/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-09",
       "firstSeen": "2026-08-09",
