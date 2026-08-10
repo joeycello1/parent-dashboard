@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T04:21:11.382Z",
+  "generatedAt": "2026-08-10T06:21:15.383Z",
   "videos": [
     {
       "timestamp": "2026-08-09",
@@ -11135,50 +11135,6 @@
     },
     {
       "timestamp": "2026-06-11",
-      "firstSeen": "2026-06-18",
-      "title": "Gumball and Darwin's CHAOTIC Trip to London | Watch more Gumball on Cartoon Network",
-      "videoUrl": "https://www.youtube.com/watch?v=DCoxXt7eUJI",
-      "videoId": "DCoxXt7eUJI",
-      "thumbnail": "https://i1.ytimg.com/vi/DCoxXt7eUJI/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-11",
-      "firstSeen": "2026-06-17",
-      "title": "Laundry Day: FULL EPISODE | Teen Titans Go! | Cartoon Network",
-      "videoUrl": "https://www.youtube.com/watch?v=-zFkCh6YzFs",
-      "videoId": "-zFkCh6YzFs",
-      "thumbnail": "https://i2.ytimg.com/vi/-zFkCh6YzFs/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-11",
       "firstSeen": "2026-06-16",
       "title": "Why's Bean Chasing This Robot? | Mr Bean - Cartoons For Kids",
       "videoUrl": "https://www.youtube.com/watch?v=vWNLyRiu4os",
@@ -11234,28 +11190,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-11",
-      "firstSeen": "2026-06-16",
-      "title": "The Hungry Darkness! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=5bXVjcFxCI0",
-      "videoId": "5bXVjcFxCI0",
-      "thumbnail": "https://i2.ytimg.com/vi/5bXVjcFxCI0/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
