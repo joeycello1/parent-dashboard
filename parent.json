@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T06:21:19.306Z",
+  "generatedAt": "2026-08-11T08:21:12.817Z",
   "videos": [
     {
       "timestamp": "2026-08-10",
@@ -14,28 +14,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "art",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-10",
-      "firstSeen": "2026-08-10",
-      "title": "Mr. Bean vs. The Road Workers! | Mr Bean Adventures",
-      "videoUrl": "https://www.youtube.com/watch?v=DCJuWqMj_Wc",
-      "videoId": "DCJuWqMj_Wc",
-      "thumbnail": "https://i1.ytimg.com/vi/DCJuWqMj_Wc/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -80,28 +58,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-10",
-      "firstSeen": "2026-08-10",
-      "title": "America's Funniest Animal Videos! ? | Full Episode Compilation | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=BFjV99KJRaE",
-      "videoId": "BFjV99KJRaE",
-      "thumbnail": "https://i3.ytimg.com/vi/BFjV99KJRaE/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -190,94 +146,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-09",
-      "firstSeen": "2026-08-09",
-      "title": "Secrets of the Deadly T-Rex (Full Episode) | Lost Beasts Unearthed | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=Re-mmwWYRjs",
-      "videoId": "Re-mmwWYRjs",
-      "thumbnail": "https://i3.ytimg.com/vi/Re-mmwWYRjs/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-09",
-      "firstSeen": "2026-08-09",
-      "title": "These Sharks are Closer Than You Think ? | Full Episode | SHARKFEST ? | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=JgZ1JRbitU8",
-      "videoId": "JgZ1JRbitU8",
-      "thumbnail": "https://i3.ytimg.com/vi/JgZ1JRbitU8/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-09",
-      "firstSeen": "2026-08-09",
-      "title": "3 Hours of One Squidward Moment From EVERY SpongeBob Episode ? | SpongeBob",
-      "videoUrl": "https://www.youtube.com/watch?v=kz-EN460swM",
-      "videoId": "kz-EN460swM",
-      "thumbnail": "https://i4.ytimg.com/vi/kz-EN460swM/hqdefault.jpg",
-      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
-      "channelName": "SpongeBob Official",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-09",
-      "firstSeen": "2026-08-09",
-      "title": "Mr. Bean Builds His Own Caravan! | Mr Bean Adventures",
-      "videoUrl": "https://www.youtube.com/watch?v=-fwzRmwUmIg",
-      "videoId": "-fwzRmwUmIg",
-      "thumbnail": "https://i2.ytimg.com/vi/-fwzRmwUmIg/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -432,50 +300,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-08",
-      "firstSeen": "2026-08-08",
-      "title": "A Day In The Life Of A Whale Shark ? | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=4krR7Hqbon4",
-      "videoId": "4krR7Hqbon4",
-      "thumbnail": "https://i1.ytimg.com/vi/4krR7Hqbon4/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-08",
-      "firstSeen": "2026-08-08",
-      "title": "1 Hour of SpongeBob Cooking Krabby Patties ? | SpongeBob",
-      "videoUrl": "https://www.youtube.com/watch?v=ZAlH-bgi3RY",
-      "videoId": "ZAlH-bgi3RY",
-      "thumbnail": "https://i3.ytimg.com/vi/ZAlH-bgi3RY/hqdefault.jpg",
-      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
-      "channelName": "SpongeBob Official",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -652,50 +476,6 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "kids2kids",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-07",
-      "firstSeen": "2026-08-07",
-      "title": "Into the Okavango (Full Episode) | DOCUMENTARY SPECIAL | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=tw9MnoC28ZQ",
-      "videoId": "tw9MnoC28ZQ",
-      "thumbnail": "https://i1.ytimg.com/vi/tw9MnoC28ZQ/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-07",
-      "firstSeen": "2026-08-07",
-      "title": "Opening Pandora's Jar (NOT Box!) | Greeking Out Podcast | S4 E2 FULL EP | ?Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=oppj_L7L4o0",
-      "videoId": "oppj_L7L4o0",
-      "thumbnail": "https://i4.ytimg.com/vi/oppj_L7L4o0/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -950,28 +730,6 @@
     {
       "timestamp": "2026-08-06",
       "firstSeen": "2026-08-06",
-      "title": "All About Space! ?? | Compilation | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=KUS_HpTJWzg",
-      "videoId": "KUS_HpTJWzg",
-      "thumbnail": "https://i4.ytimg.com/vi/KUS_HpTJWzg/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-06",
-      "firstSeen": "2026-08-06",
       "title": "Keys the Inventor! Big Ideas, Big Adventures! | Karma's World | Scholastic After School",
       "videoUrl": "https://www.youtube.com/watch?v=Q2reOMmx-Kc",
       "videoId": "Q2reOMmx-Kc",
@@ -1092,28 +850,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-05",
-      "firstSeen": "2026-08-05",
-      "title": "Meet the Kings of the Jungle (Full Episode) | Secrets of Wild India | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=8a2S9DJF6aM",
-      "videoId": "8a2S9DJF6aM",
-      "thumbnail": "https://i1.ytimg.com/vi/8a2S9DJF6aM/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1302,28 +1038,6 @@
     {
       "timestamp": "2026-08-03",
       "firstSeen": "2026-08-03",
-      "title": "Sharks Found Where?! | Full Episode Compilation | SHARKFEST ? | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=2dmaCb5sf9w",
-      "videoId": "2dmaCb5sf9w",
-      "thumbnail": "https://i3.ytimg.com/vi/2dmaCb5sf9w/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, art, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-03",
-      "firstSeen": "2026-08-03",
       "title": "Animal Habitats, Nature & Ecosystems For Kids | The Magic School Bus",
       "videoUrl": "https://www.youtube.com/watch?v=nr--kKwTgWA",
       "videoId": "nr--kKwTgWA",
@@ -1456,54 +1170,10 @@
     {
       "timestamp": "2026-08-02",
       "firstSeen": "2026-08-02",
-      "title": "Celebrate the Beauty of America's National Parks | MEGA Episode | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=PsVsEYGctvI",
-      "videoId": "PsVsEYGctvI",
-      "thumbnail": "https://i1.ytimg.com/vi/PsVsEYGctvI/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-02",
-      "firstSeen": "2026-08-02",
       "title": "Kids React to Animal Superpowers ?? | Nat Geo Kids",
       "videoUrl": "https://www.youtube.com/watch?v=R0tOs6e-KT4",
       "videoId": "R0tOs6e-KT4",
       "thumbnail": "https://i3.ytimg.com/vi/R0tOs6e-KT4/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-02",
-      "firstSeen": "2026-08-02",
-      "title": "Super Strange Animals ? | Super Animals Full Episode | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=nmh5ot2F6gM",
-      "videoId": "nmh5ot2F6gM",
-      "thumbnail": "https://i3.ytimg.com/vi/nmh5ot2F6gM/hqdefault.jpg",
       "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
       "channelName": "Nat Geo Kids",
       "category": "Nature",
@@ -1664,50 +1334,6 @@
       "profile": "Both",
       "retentionDays": 300,
       "keyword": "demaio",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-01",
-      "firstSeen": "2026-08-01",
-      "title": "Evidence of Sharks Eating Sharks (Full Episode) | SPECIAL | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=Pb8x6EyiUkc",
-      "videoId": "Pb8x6EyiUkc",
-      "thumbnail": "https://i1.ytimg.com/vi/Pb8x6EyiUkc/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, art",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-01",
-      "firstSeen": "2026-08-01",
-      "title": "Learn the Secrets of Baby Lions! ?? Animal Facts for Kids | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=xlXtt3IRckY",
-      "videoId": "xlXtt3IRckY",
-      "thumbnail": "https://i1.ytimg.com/vi/xlXtt3IRckY/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -1940,50 +1566,6 @@
     {
       "timestamp": "2026-07-31",
       "firstSeen": "2026-07-31",
-      "title": "Experts Examine Pythons, Crocodiles, & Alligators | Reptile MEGA Episode | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=xNlM2PGnmhA",
-      "videoId": "xNlM2PGnmhA",
-      "thumbnail": "https://i1.ytimg.com/vi/xNlM2PGnmhA/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-31",
-      "firstSeen": "2026-07-31",
-      "title": "Olympians Vs. Titans ? | Greeking Out Podcast | S4 E1 FULL EP | ?Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=MufdODXKaLo",
-      "videoId": "MufdODXKaLo",
-      "thumbnail": "https://i2.ytimg.com/vi/MufdODXKaLo/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-31",
-      "firstSeen": "2026-07-31",
       "title": "What Is Nuclear Fission? | The Power of Splitting Atoms | Amazing Science Facts | Dr. Binocs Show",
       "videoUrl": "https://www.youtube.com/watch?v=rqL-UqUGJHY",
       "videoId": "rqL-UqUGJHY",
@@ -2204,28 +1786,6 @@
     {
       "timestamp": "2026-07-30",
       "firstSeen": "2026-07-30",
-      "title": "Giant Sharks Rule These Waters! | Full Episode | SHARKFEST ? | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=lnB4Plxl_ps",
-      "videoId": "lnB4Plxl_ps",
-      "thumbnail": "https://i1.ytimg.com/vi/lnB4Plxl_ps/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-30",
-      "firstSeen": "2026-07-30",
       "title": "SpongeBob's Grossest Food Moments from Newer Episodes ? | 10 Minutes | SpongeBob",
       "videoUrl": "https://www.youtube.com/watch?v=efohTJP-sms",
       "videoId": "efohTJP-sms",
@@ -2346,28 +1906,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-29",
-      "firstSeen": "2026-07-29",
-      "title": "Survival in the Rainforest (Full Episode) | Secrets of the Elephants | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=q3k1cGi3Ffw",
-      "videoId": "q3k1cGi3Ffw",
-      "thumbnail": "https://i2.ytimg.com/vi/q3k1cGi3Ffw/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2710,28 +2248,6 @@
     {
       "timestamp": "2026-07-27",
       "firstSeen": "2026-07-27",
-      "title": "Weird But True Full Episode | Plants, Plants Everywhere?? | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=hq3n3J1NmBg",
-      "videoId": "hq3n3J1NmBg",
-      "thumbnail": "https://i1.ytimg.com/vi/hq3n3J1NmBg/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, bugs, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-27",
-      "firstSeen": "2026-07-27",
       "title": "The Science of COLORS ? ? | Music Compilation ? | Learning with Tom & Jerry | @wbkids",
       "videoUrl": "https://www.youtube.com/watch?v=JdEJ2-ct66A",
       "videoId": "JdEJ2-ct66A",
@@ -2874,50 +2390,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-26",
-      "firstSeen": "2026-07-26",
-      "title": "World's Biggest Shark Mashup (Full Episode) | SPECIAL | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=6nUStkcig4k",
-      "videoId": "6nUStkcig4k",
-      "thumbnail": "https://i3.ytimg.com/vi/6nUStkcig4k/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-26",
-      "firstSeen": "2026-07-26",
-      "title": "Mystery of the Sharks in the Bermuda Triangle ? | Full Episode | SHARKFEST ? | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=N_7uBiy3yl8",
-      "videoId": "N_7uBiy3yl8",
-      "thumbnail": "https://i3.ytimg.com/vi/N_7uBiy3yl8/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -3106,50 +2578,6 @@
     {
       "timestamp": "2026-07-25",
       "firstSeen": "2026-07-25",
-      "title": "Wild Baby Animals Face Their First Year (Full Episode) | America?s National Parks | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=Wvets7gSvIc",
-      "videoId": "Wvets7gSvIc",
-      "thumbnail": "https://i4.ytimg.com/vi/Wvets7gSvIc/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-25",
-      "firstSeen": "2026-07-25",
-      "title": "Animal Friendships That Make NO Sense! ?? | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=BLYMwlTFlao",
-      "videoId": "BLYMwlTFlao",
-      "thumbnail": "https://i3.ytimg.com/vi/BLYMwlTFlao/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-25",
-      "firstSeen": "2026-07-25",
       "title": "Bikini Bottom Getting DESTROYED for 30 Minutes Straight ? | SpongeBob",
       "videoUrl": "https://www.youtube.com/watch?v=Y3p5J11Cry8",
       "videoId": "Y3p5J11Cry8",
@@ -3292,28 +2720,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-24",
-      "firstSeen": "2026-07-24",
-      "title": "Tom Hiddleston is the Oracle of Pompeii?| Greeking Out Podcast | SPECIAL EDITION EP | ?Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=9M97tWj-c5M",
-      "videoId": "9M97tWj-c5M",
-      "thumbnail": "https://i2.ytimg.com/vi/9M97tWj-c5M/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -3546,28 +2952,6 @@
     {
       "timestamp": "2026-07-22",
       "firstSeen": "2026-07-22",
-      "title": "Rare Asiatic Lions of the Indian Desert (Full Episode) | Secrets of Wild India | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=LEimjKhz7YU",
-      "videoId": "LEimjKhz7YU",
-      "thumbnail": "https://i1.ytimg.com/vi/LEimjKhz7YU/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-22",
-      "firstSeen": "2026-07-22",
       "title": "SUPER WHY! LIVE ? | ? Learn to Read in this Full Episode Marathon ? NEW SHOW Coming Soon! | PBS KIDS",
       "videoUrl": "https://www.youtube.com/watch?v=6WZukvH3TXc",
       "videoId": "6WZukvH3TXc",
@@ -3788,28 +3172,6 @@
     {
       "timestamp": "2026-07-20",
       "firstSeen": "2026-07-20",
-      "title": "Roman to the Rescue Full Episode Compilation ?",
-      "videoUrl": "https://www.youtube.com/watch?v=Yi9HwoE2Zhs",
-      "videoId": "Yi9HwoE2Zhs",
-      "thumbnail": "https://i2.ytimg.com/vi/Yi9HwoE2Zhs/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-20",
-      "firstSeen": "2026-07-20",
       "title": "??? Top Lemonade Moments COMPILATION! ??? | PBS KIDS",
       "videoUrl": "https://www.youtube.com/watch?v=GeOe3JDEkhM",
       "videoId": "GeOe3JDEkhM",
@@ -3964,50 +3326,6 @@
     {
       "timestamp": "2026-07-19",
       "firstSeen": "2026-07-19",
-      "title": "The Beauty of the Untamed Americas (Full Episode) | SPECIAL | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=EIoVGqG9MmM",
-      "videoId": "EIoVGqG9MmM",
-      "thumbnail": "https://i2.ytimg.com/vi/EIoVGqG9MmM/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, stories",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-19",
-      "firstSeen": "2026-07-19",
-      "title": "Sharks Controlled by the Moon?! | Shark Side of the Moon: Lunar Legends | SHARKFEST?",
-      "videoUrl": "https://www.youtube.com/watch?v=gfuOCuP48SA",
-      "videoId": "gfuOCuP48SA",
-      "thumbnail": "https://i4.ytimg.com/vi/gfuOCuP48SA/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-19",
-      "firstSeen": "2026-07-19",
       "title": "One Moment from EVERY SpongeBob Episode in Season 6 ? | 2 Hours | SpongeBob",
       "videoUrl": "https://www.youtube.com/watch?v=6L2ADLzFgNc",
       "videoId": "6L2ADLzFgNc",
@@ -4150,28 +3468,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-18",
-      "firstSeen": "2026-07-18",
-      "title": "Wildest Animals of America's National Parks! ? | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=jxOb3d1pmXY",
-      "videoId": "jxOb3d1pmXY",
-      "thumbnail": "https://i3.ytimg.com/vi/jxOb3d1pmXY/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4404,28 +3700,6 @@
     {
       "timestamp": "2026-07-17",
       "firstSeen": "2026-07-17",
-      "title": "Inside the Ocean Predator Behind Jaws | Sharkfest MEGA Episode | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=avIcm2RoKYc",
-      "videoId": "avIcm2RoKYc",
-      "thumbnail": "https://i2.ytimg.com/vi/avIcm2RoKYc/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-17",
-      "firstSeen": "2026-07-17",
       "title": "The Odyssey: Explained by Greeking Out ? | Podcast Compilation",
       "videoUrl": "https://www.youtube.com/watch?v=btG6YkKXENo",
       "videoId": "btG6YkKXENo",
@@ -4436,28 +3710,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-17",
-      "firstSeen": "2026-07-17",
-      "title": "Who Invented Donuts? | History of Doughnuts | Why Do Donuts Have Holes? | The Dr. Binocs Show",
-      "videoUrl": "https://www.youtube.com/watch?v=9YUIbyPR_ZQ",
-      "videoId": "9YUIbyPR_ZQ",
-      "thumbnail": "https://i2.ytimg.com/vi/9YUIbyPR_ZQ/hqdefault.jpg",
-      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
-      "channelName": "Peekaboo Kidz",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "binocs, science, stories",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -4690,28 +3942,6 @@
     {
       "timestamp": "2026-07-16",
       "firstSeen": "2026-07-16",
-      "title": "Search for a Lost City (Made of Gold!) ? | Lost Cities with Albert Lin Full Episode",
-      "videoUrl": "https://www.youtube.com/watch?v=mWdiiVimiVg",
-      "videoId": "mWdiiVimiVg",
-      "thumbnail": "https://i2.ytimg.com/vi/mWdiiVimiVg/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-16",
-      "firstSeen": "2026-07-16",
       "title": "An Island of Sharks?! ? | Scooby-Doo! | @wbkids",
       "videoUrl": "https://www.youtube.com/watch?v=W9VCG-frg_E",
       "videoId": "W9VCG-frg_E",
@@ -4832,28 +4062,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-15",
-      "firstSeen": "2026-07-15",
-      "title": "Animals With Deadly Superpowers (Full Episode) | Africa?s Deadliest: Botswana | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=ru_b6al87fo",
-      "videoId": "ru_b6al87fo",
-      "thumbnail": "https://i3.ytimg.com/vi/ru_b6al87fo/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -5250,28 +4458,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-13",
-      "firstSeen": "2026-07-13",
-      "title": "Race Cars, Rollercoasters & Planes! | Weird But True Full Episode Compilation | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=oidb4LU77EQ",
-      "videoId": "oidb4LU77EQ",
-      "thumbnail": "https://i4.ytimg.com/vi/oidb4LU77EQ/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
