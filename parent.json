@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-08-11T16:21:15.484Z",
+  "generatedAt": "2026-08-11T18:21:13.957Z",
   "videos": [
+    {
+      "timestamp": "2026-08-11",
+      "firstSeen": "2026-08-11",
+      "title": "How To Draw Bingo From Bluey",
+      "videoUrl": "https://www.youtube.com/watch?v=stsRpkfRhxs",
+      "videoId": "stsRpkfRhxs",
+      "thumbnail": "https://i4.ytimg.com/vi/stsRpkfRhxs/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-11",
+      "firstSeen": "2026-08-11",
+      "title": "Mr. Bean Searches Everywhere for Scrapper! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=0C-Ntvvbrp4",
+      "videoId": "0C-Ntvvbrp4",
+      "thumbnail": "https://i1.ytimg.com/vi/0C-Ntvvbrp4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-11",
+      "firstSeen": "2026-08-11",
+      "title": "Mr. Bean Plays the Violin for Irma! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=HDLDbH7FWiw",
+      "videoId": "HDLDbH7FWiw",
+      "thumbnail": "https://i1.ytimg.com/vi/HDLDbH7FWiw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-11",
+      "firstSeen": "2026-08-11",
+      "title": "What if You Landed on Kepler-22b? | Exploring a Mysterious Alien Planet | The Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=y10_d9yA8AA",
+      "videoId": "y10_d9yA8AA",
+      "thumbnail": "https://i2.ytimg.com/vi/y10_d9yA8AA/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-11",
+      "firstSeen": "2026-08-11",
+      "title": "Bugs in the Garden | Funny Cartoons for Kids | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=ptHhvb1WJmw",
+      "videoId": "ptHhvb1WJmw",
+      "thumbnail": "https://i1.ytimg.com/vi/ptHhvb1WJmw/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-11",
+      "firstSeen": "2026-08-11",
+      "title": "SpongeBob's Camping Episode ?? ft. Campfire Song Song | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=zUxJb8kGeJk",
+      "videoId": "zUxJb8kGeJk",
+      "thumbnail": "https://i3.ytimg.com/vi/zUxJb8kGeJk/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-11",
+      "firstSeen": "2026-08-11",
+      "title": "How do Maglev trains work? - Ning Zhao",
+      "videoUrl": "https://www.youtube.com/watch?v=2A1IEBFt6Xg",
+      "videoId": "2A1IEBFt6Xg",
+      "thumbnail": "https://i3.ytimg.com/vi/2A1IEBFt6Xg/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-11",
+      "firstSeen": "2026-08-11",
+      "title": "? Paint & Build ? with Looney Tunes! | Bugs Bunny Builders MEGA COMP | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=7SSVoryVULI",
+      "videoId": "7SSVoryVULI",
+      "thumbnail": "https://i4.ytimg.com/vi/7SSVoryVULI/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-10",
       "firstSeen": "2026-08-10",
@@ -146,6 +322,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-10",
+      "firstSeen": "2026-08-11",
+      "title": "? LIVE: SpongeBob's Funniest Boating School Moments ?? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=v8CH1Sh3Mio",
+      "videoId": "v8CH1Sh3Mio",
+      "thumbnail": "https://i3.ytimg.com/vi/v8CH1Sh3Mio/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
