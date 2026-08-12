@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T04:21:14.239Z",
+  "generatedAt": "2026-08-12T06:21:14.891Z",
   "videos": [
     {
       "timestamp": "2026-08-11",
@@ -10453,28 +10453,6 @@
     },
     {
       "timestamp": "2026-06-13",
-      "firstSeen": "2026-06-20",
-      "title": "Cartoon Network ALL?STAR Football! ?? Teen Titans, Bugs Bunny, Gumball & More! | World Cup Special",
-      "videoUrl": "https://www.youtube.com/watch?v=B6G0c5zu8MY",
-      "videoId": "B6G0c5zu8MY",
-      "thumbnail": "https://i3.ytimg.com/vi/B6G0c5zu8MY/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-13",
       "firstSeen": "2026-06-16",
       "title": "Looney Tunes | Classic Daffy Duck Mega Compilation | Warner Classics",
       "videoUrl": "https://www.youtube.com/watch?v=rfvq3CzrJls",
@@ -10574,28 +10552,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "national geographic",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-13",
-      "firstSeen": "2026-06-16",
-      "title": "SpongeBob & Patrick: Kamp Koral's BIGGEST Troublemakers! ? | Kamp Koral | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=RbHP3TXN14o",
-      "videoId": "RbHP3TXN14o",
-      "thumbnail": "https://i3.ytimg.com/vi/RbHP3TXN14o/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
