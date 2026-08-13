@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T04:21:19.668Z",
+  "generatedAt": "2026-08-13T06:21:12.218Z",
   "videos": [
     {
       "timestamp": "2026-08-12",
@@ -10476,72 +10476,6 @@
     {
       "timestamp": "2026-06-14",
       "firstSeen": "2026-06-22",
-      "title": "Teen Titans Go FULL ANIME MODE?! ?? | Teen Titans Go! | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=COEtUmSBSOk",
-      "videoId": "COEtUmSBSOk",
-      "thumbnail": "https://i4.ytimg.com/vi/COEtUmSBSOk/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-14",
-      "firstSeen": "2026-06-16",
-      "title": "LEGO Star Wars Compilation ??? | Luke, Vader, Yoda, Obi-Wan & More! | LEGO? Star Wars? SMART Play",
-      "videoUrl": "https://www.youtube.com/watch?v=hRqWtYPotGs",
-      "videoId": "hRqWtYPotGs",
-      "thumbnail": "https://i1.ytimg.com/vi/hRqWtYPotGs/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-14",
-      "firstSeen": "2026-06-16",
-      "title": "Can LEGO Batman crack Gotham?s latest case? | LEGO",
-      "videoUrl": "https://www.youtube.com/watch?v=XVYJ2lIzAuo",
-      "videoId": "XVYJ2lIzAuo",
-      "thumbnail": "https://i1.ytimg.com/vi/XVYJ2lIzAuo/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "lego, minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-14",
-      "firstSeen": "2026-06-22",
       "title": "Why's This Cat Attacking Mr Bean?!? | Mr Bean - Cartoons For Kids",
       "videoUrl": "https://www.youtube.com/watch?v=U3__G0GS2T0",
       "videoId": "U3__G0GS2T0",
@@ -10552,28 +10486,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-14",
-      "firstSeen": "2026-06-16",
-      "title": "Squidward & SpongeBob's Five-Star Plan Goes CHAOTIC! ? | SpongeBob SquarePants | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=f7ixTJyB2pw",
-      "videoId": "f7ixTJyB2pw",
-      "thumbnail": "https://i3.ytimg.com/vi/f7ixTJyB2pw/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
