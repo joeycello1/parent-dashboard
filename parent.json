@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:21:19.229Z",
+  "generatedAt": "2026-08-13T18:21:19.887Z",
   "videos": [
     {
       "timestamp": "2026-08-13",
@@ -14,6 +14,160 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-13",
+      "firstSeen": "2026-08-13",
+      "title": "How To Draw My Melody Squishmallow",
+      "videoUrl": "https://www.youtube.com/watch?v=LEvX_I9cIuQ",
+      "videoId": "LEvX_I9cIuQ",
+      "thumbnail": "https://i1.ytimg.com/vi/LEvX_I9cIuQ/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-13",
+      "firstSeen": "2026-08-13",
+      "title": "Mr. Bean Sneaks Into the Spa! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=-CZJ9VbY1u0",
+      "videoId": "-CZJ9VbY1u0",
+      "thumbnail": "https://i2.ytimg.com/vi/-CZJ9VbY1u0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-13",
+      "firstSeen": "2026-08-13",
+      "title": "Mr. Bean Turns Cooking Into Chaos! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=hOrHy1Niz08",
+      "videoId": "hOrHy1Niz08",
+      "thumbnail": "https://i1.ytimg.com/vi/hOrHy1Niz08/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-13",
+      "firstSeen": "2026-08-13",
+      "title": "Dinos A to Z: Nedoceratops | Learn about this dinosaur cousin of the triceratops",
+      "videoUrl": "https://www.youtube.com/watch?v=hXQ0PowkCto",
+      "videoId": "hXQ0PowkCto",
+      "thumbnail": "https://i1.ytimg.com/vi/hXQ0PowkCto/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-13",
+      "firstSeen": "2026-08-13",
+      "title": "Weird But True Full Episode | Ocean Friends, Not Foes! ?? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=QZCOIfLLeR4",
+      "videoId": "QZCOIfLLeR4",
+      "thumbnail": "https://i2.ytimg.com/vi/QZCOIfLLeR4/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-13",
+      "firstSeen": "2026-08-13",
+      "title": "Krusty Krab Makeovers Gone Wrong ? | 10 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=PTs_Zqtvfjs",
+      "videoId": "PTs_Zqtvfjs",
+      "thumbnail": "https://i1.ytimg.com/vi/PTs_Zqtvfjs/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-13",
+      "firstSeen": "2026-08-13",
+      "title": "Art with Mystery Ink! ? | Scooby-Doo! | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=VF2Ofph7zVc",
+      "videoId": "VF2Ofph7zVc",
+      "thumbnail": "https://i3.ytimg.com/vi/VF2Ofph7zVc/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "art, scooby",
       "watched": {
         "jonah": false,
         "kieran": false
