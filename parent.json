@@ -1,28 +1,6 @@
 {
-  "generatedAt": "2026-08-13T20:21:25.383Z",
+  "generatedAt": "2026-08-13T22:21:13.031Z",
   "videos": [
-    {
-      "timestamp": "2026-08-13",
-      "firstSeen": "2026-08-13",
-      "title": "The Long Road | Minuscule | 25' Compilation",
-      "videoUrl": "https://www.youtube.com/watch?v=WmY-30FZ80Y",
-      "videoId": "WmY-30FZ80Y",
-      "thumbnail": "https://i4.ytimg.com/vi/WmY-30FZ80Y/hqdefault.jpg",
-      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
-      "channelName": "Miniscule",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minuscule",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
     {
       "timestamp": "2026-08-13",
       "firstSeen": "2026-08-13",
@@ -102,28 +80,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-13",
-      "firstSeen": "2026-08-13",
-      "title": "Weird But True Full Episode | Ocean Friends, Not Foes! ?? | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=QZCOIfLLeR4",
-      "videoId": "QZCOIfLLeR4",
-      "thumbnail": "https://i2.ytimg.com/vi/QZCOIfLLeR4/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -234,28 +190,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-12",
-      "firstSeen": "2026-08-12",
-      "title": "Saving Jolo the Rescued Manatee (Full Episode) | Magic of Disney's Animal Kingdom | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=Qcdn2omX9YE",
-      "videoId": "Qcdn2omX9YE",
-      "thumbnail": "https://i2.ytimg.com/vi/Qcdn2omX9YE/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -862,28 +796,6 @@
     {
       "timestamp": "2026-08-08",
       "firstSeen": "2026-08-08",
-      "title": "Looney Tunes | Bugs Bunny vs. Yosemite Sam Mega Full Episodes Compilation | Warner Classics",
-      "videoUrl": "https://www.youtube.com/watch?v=7gZQcEM_uQc",
-      "videoId": "7gZQcEM_uQc",
-      "thumbnail": "https://i4.ytimg.com/vi/7gZQcEM_uQc/hqdefault.jpg",
-      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
-      "channelName": "Warner Bros Classics",
-      "category": "Looney Tunes",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "bugs, yosemite",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-08",
-      "firstSeen": "2026-08-08",
       "title": "Pick Your Favorite Art Activity! ? | Looney Tunes, Scooby-Doo! + Tom & Jerry | @wbkids",
       "videoUrl": "https://www.youtube.com/watch?v=a6VpVZEoNKo",
       "videoId": "a6VpVZEoNKo",
@@ -1158,28 +1070,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-06",
-      "firstSeen": "2026-08-06",
-      "title": "Narcissus  | Minuscule | 30' Compilation",
-      "videoUrl": "https://www.youtube.com/watch?v=A4yBtdkutUw",
-      "videoId": "A4yBtdkutUw",
-      "thumbnail": "https://i2.ytimg.com/vi/A4yBtdkutUw/hqdefault.jpg",
-      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
-      "channelName": "Miniscule",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -2214,28 +2104,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-30",
-      "firstSeen": "2026-07-30",
-      "title": "The Housing Plant Project | Minuscule | 25' Compilation",
-      "videoUrl": "https://www.youtube.com/watch?v=YzSuhxy0U34",
-      "videoId": "YzSuhxy0U34",
-      "thumbnail": "https://i2.ytimg.com/vi/YzSuhxy0U34/hqdefault.jpg",
-      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
-      "channelName": "Miniscule",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -5196,28 +5064,6 @@
     {
       "timestamp": "2026-07-12",
       "firstSeen": "2026-07-12",
-      "title": "Mega Green Machine ?? | World's Toughest Fixes Full Episode | 40 Minutes",
-      "videoUrl": "https://www.youtube.com/watch?v=msim2WydY3k",
-      "videoId": "msim2WydY3k",
-      "thumbnail": "https://i2.ytimg.com/vi/msim2WydY3k/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-12",
-      "firstSeen": "2026-07-12",
       "title": "This Simple Pasta Experiment Blew My Mind! | Science Max",
       "videoUrl": "https://www.youtube.com/watch?v=v10IuP7JJ6s",
       "videoId": "v10IuP7JJ6s",
@@ -5372,28 +5218,6 @@
     {
       "timestamp": "2026-07-11",
       "firstSeen": "2026-07-11",
-      "title": "The Flood that Transforms the Okavango (Full Episode) | The Flood | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=1mBc8VjDa1s",
-      "videoId": "1mBc8VjDa1s",
-      "thumbnail": "https://i2.ytimg.com/vi/1mBc8VjDa1s/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-11",
-      "firstSeen": "2026-07-11",
       "title": "1 Hour of SpongeBob's CUTEST Moments Ever ??? | SpongeBob",
       "videoUrl": "https://www.youtube.com/watch?v=eC_FZO3m7Ow",
       "videoId": "eC_FZO3m7Ow",
@@ -5448,28 +5272,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-11",
-      "firstSeen": "2026-07-11",
-      "title": "Nature's Ultimate Hide & Seek Masters! ? Can You Spot Them All? | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=DqbpVejaqO8",
-      "videoId": "DqbpVejaqO8",
-      "thumbnail": "https://i1.ytimg.com/vi/DqbpVejaqO8/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -5558,28 +5360,6 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "kids2kids",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "Great Shark Chomp Down and More! | Sharkfest 2026 MEGA Episode | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=gEoJc_yTLYE",
-      "videoId": "gEoJc_yTLYE",
-      "thumbnail": "https://i4.ytimg.com/vi/gEoJc_yTLYE/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -6208,28 +5988,6 @@
     {
       "timestamp": "2026-07-06",
       "firstSeen": "2026-07-06",
-      "title": "Meet the Ocean's Wildest Animals! ? | Super Animals Full Episode | 20 Minutes | @natgeokids",
-      "videoUrl": "https://www.youtube.com/watch?v=qXYbLIEspqE",
-      "videoId": "qXYbLIEspqE",
-      "thumbnail": "https://i2.ytimg.com/vi/qXYbLIEspqE/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-06",
-      "firstSeen": "2026-07-06",
       "title": "Engineering & Physics | Full Episodes | The Magic School Bus | Scholastic After School",
       "videoUrl": "https://www.youtube.com/watch?v=EAnUQCCBA6Y",
       "videoId": "EAnUQCCBA6Y",
@@ -6406,54 +6164,10 @@
     {
       "timestamp": "2026-07-05",
       "firstSeen": "2026-07-05",
-      "title": "Cannibal Sharks: Shark vs. Shark (Full Episode) | SPECIAL | Nat Geo Animals",
-      "videoUrl": "https://www.youtube.com/watch?v=vayZ_0uYOTU",
-      "videoId": "vayZ_0uYOTU",
-      "thumbnail": "https://i3.ytimg.com/vi/vayZ_0uYOTU/hqdefault.jpg",
-      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
-      "channelName": "Nat Geo Animals",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-05",
-      "firstSeen": "2026-07-05",
       "title": "Explore the Grand Canyon, Redwoods & Niagara Falls ?| America 250 | @natgeokids",
       "videoUrl": "https://www.youtube.com/watch?v=1WBcKryn_B8",
       "videoId": "1WBcKryn_B8",
       "thumbnail": "https://i2.ytimg.com/vi/1WBcKryn_B8/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-05",
-      "firstSeen": "2026-07-05",
-      "title": "Relax with Super Chill Sharks | 2 Hours | Compilation | SHARKFEST ? | @natgeokids",
-      "videoUrl": "https://www.youtube.com/watch?v=keyhwn_ICEE",
-      "videoId": "keyhwn_ICEE",
-      "thumbnail": "https://i4.ytimg.com/vi/keyhwn_ICEE/hqdefault.jpg",
       "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
       "channelName": "Nat Geo Kids",
       "category": "Nature",
