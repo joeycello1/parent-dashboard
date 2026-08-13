@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-13T10:21:14.767Z",
+  "generatedAt": "2026-08-13T12:21:12.243Z",
   "videos": [
+    {
+      "timestamp": "2026-08-13",
+      "firstSeen": "2026-08-13",
+      "title": "The Long Road | Minuscule | 25' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=WmY-30FZ80Y",
+      "videoId": "WmY-30FZ80Y",
+      "thumbnail": "https://i4.ytimg.com/vi/WmY-30FZ80Y/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-12",
       "firstSeen": "2026-08-12",
@@ -124,6 +146,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-12",
+      "firstSeen": "2026-08-13",
+      "title": "Milo?s First Day at SCHOOL in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=VGpl8Vm8olM",
+      "videoId": "VGpl8Vm8olM",
+      "thumbnail": "https://i3.ytimg.com/vi/VGpl8Vm8olM/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
