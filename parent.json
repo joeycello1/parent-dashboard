@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T04:21:17.911Z",
+  "generatedAt": "2026-08-14T06:21:15.226Z",
   "videos": [
     {
       "timestamp": "2026-08-13",
@@ -10266,28 +10266,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "art",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-15",
-      "firstSeen": "2026-06-25",
-      "title": "Adventure Time: Side Quests ?? NEW OPENING TITLES ?? 5th October 2026 | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=JF1fZlkEifE",
-      "videoId": "JF1fZlkEifE",
-      "thumbnail": "https://i3.ytimg.com/vi/JF1fZlkEifE/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
       "watched": {
         "jonah": false,
         "kieran": false
