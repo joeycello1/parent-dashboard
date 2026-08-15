@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:21:15.885Z",
+  "generatedAt": "2026-08-15T12:21:13.814Z",
   "videos": [
     {
       "timestamp": "2026-08-14",
@@ -80,6 +80,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-14",
+      "firstSeen": "2026-08-15",
+      "title": "I Pranked My Friend as an ANT in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=JDja5hPzar4",
+      "videoId": "JDja5hPzar4",
+      "thumbnail": "https://i3.ytimg.com/vi/JDja5hPzar4/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
