@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T04:21:14.378Z",
+  "generatedAt": "2026-08-15T06:21:15.464Z",
   "videos": [
     {
       "timestamp": "2026-08-14",
@@ -10200,28 +10200,6 @@
       "profile": "Both",
       "retentionDays": "",
       "keyword": "aumsum, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-16",
-      "firstSeen": "2026-06-26",
-      "title": "MEET LANA?S MOM! ?? The Most Powerful Warrior Ever?!  | Lana Longbeard | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=_IrEw6CBsSY",
-      "videoId": "_IrEw6CBsSY",
-      "thumbnail": "https://i4.ytimg.com/vi/_IrEw6CBsSY/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
       "watched": {
         "jonah": false,
         "kieran": false
