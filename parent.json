@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-08-15T16:21:12.488Z",
+  "generatedAt": "2026-08-15T18:21:15.260Z",
   "videos": [
+    {
+      "timestamp": "2026-08-15",
+      "firstSeen": "2026-08-15",
+      "title": "Mr. Bean Tries to Rescue Mrs. Wicket From the Lake! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=50CowXwFDaw",
+      "videoId": "50CowXwFDaw",
+      "thumbnail": "https://i2.ytimg.com/vi/50CowXwFDaw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-15",
+      "firstSeen": "2026-08-15",
+      "title": "Mr. Bean?s Hilarious Winter Routine! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=iq5yAPyPJqI",
+      "videoId": "iq5yAPyPJqI",
+      "thumbnail": "https://i2.ytimg.com/vi/iq5yAPyPJqI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-15",
+      "firstSeen": "2026-08-15",
+      "title": "Our Living Planet (Full Episode) | X-Ray Earth Compilation | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=uEV9ledJXUE",
+      "videoId": "uEV9ledJXUE",
+      "thumbnail": "https://i2.ytimg.com/vi/uEV9ledJXUE/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-15",
+      "firstSeen": "2026-08-15",
+      "title": "Discover the Real-Life Dragons of our Planet! ?? Animal Facts for Kids | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=sKVVFaobouM",
+      "videoId": "sKVVFaobouM",
+      "thumbnail": "https://i4.ytimg.com/vi/sKVVFaobouM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-15",
+      "firstSeen": "2026-08-15",
+      "title": "The CRAZIEST Water Experiments Ever! Amazing Science Experiments | Science Max",
+      "videoUrl": "https://www.youtube.com/watch?v=cXbyxRXIC8w",
+      "videoId": "cXbyxRXIC8w",
+      "thumbnail": "https://i4.ytimg.com/vi/cXbyxRXIC8w/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-15",
+      "firstSeen": "2026-08-15",
+      "title": "SpongeBob & Squidward Are the FUNNIEST Coworkers Ever ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=XMvIh1rneiU",
+      "videoId": "XMvIh1rneiU",
+      "thumbnail": "https://i1.ytimg.com/vi/XMvIh1rneiU/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-15",
+      "firstSeen": "2026-08-15",
+      "title": "Looney Tunes | Daffy Duck Full Episode Mega Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=QRSgRILrW14",
+      "videoId": "QRSgRILrW14",
+      "thumbnail": "https://i2.ytimg.com/vi/QRSgRILrW14/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "daffy, bugs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-15",
+      "firstSeen": "2026-08-15",
+      "title": "Colorful Chase! ? | Tom & Jerry Singapore | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=72ei8u-kQWc",
+      "videoId": "72ei8u-kQWc",
+      "thumbnail": "https://i4.ytimg.com/vi/72ei8u-kQWc/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-14",
       "firstSeen": "2026-08-14",
