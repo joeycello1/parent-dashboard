@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T04:21:13.483Z",
+  "generatedAt": "2026-08-16T06:21:12.927Z",
   "videos": [
     {
       "timestamp": "2026-08-15",
@@ -168,6 +168,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-15",
+      "firstSeen": "2026-08-16",
+      "title": "Chip Adopted a PET in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=jFn3X4bC4vE",
+      "videoId": "jFn3X4bC4vE",
+      "thumbnail": "https://i3.ytimg.com/vi/jFn3X4bC4vE/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -10321,28 +10343,6 @@
     },
     {
       "timestamp": "2026-06-17",
-      "firstSeen": "2026-06-17",
-      "title": "Oscar Becomes a Cookie?! ?? | Monster Granny?s Curse | Summer Camp Island | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=CMrIXBfYwTw",
-      "videoId": "CMrIXBfYwTw",
-      "thumbnail": "https://i4.ytimg.com/vi/CMrIXBfYwTw/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-17",
       "firstSeen": "2026-06-20",
       "title": "I built a LEGO SKYSCRAPER...",
       "videoUrl": "https://www.youtube.com/watch?v=Kpx3qlRgBhM",
@@ -10376,28 +10376,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-17",
-      "firstSeen": "2026-06-17",
-      "title": "The Upside-Down Planet! | #aumsum #kids #science",
-      "videoUrl": "https://www.youtube.com/watch?v=789DphMaD2U",
-      "videoId": "789DphMaD2U",
-      "thumbnail": "https://i4.ytimg.com/vi/789DphMaD2U/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "AumSum",
-      "category": "Science",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "aumsum, science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -15037,7 +15015,6 @@
   "keywords": [
     "alan becker",
     "art",
-    "aumsum",
     "bbc earth kids",
     "binocs",
     "bugs",
