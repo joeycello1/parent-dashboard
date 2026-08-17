@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-17T10:21:15.220Z",
+  "generatedAt": "2026-08-17T12:21:15.073Z",
   "videos": [
+    {
+      "timestamp": "2026-08-17",
+      "firstSeen": "2026-08-17",
+      "title": "That Cat Can't Stay' read by Haley Lu Richardson",
+      "videoUrl": "https://www.youtube.com/watch?v=8yGt87KX5_0",
+      "videoId": "8yGt87KX5_0",
+      "thumbnail": "https://i1.ytimg.com/vi/8yGt87KX5_0/hqdefault.jpg",
+      "channelID": "UCnBdzaRy-Ky9Vh54XJlFz1Q",
+      "channelName": "StoryLineOnline",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 600,
+      "keyword": "storylineonline",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-16",
       "firstSeen": "2026-08-16",
