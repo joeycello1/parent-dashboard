@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T22:21:14.505Z",
+  "generatedAt": "2026-08-18T00:21:15.271Z",
   "videos": [
     {
       "timestamp": "2026-08-17",
@@ -118,6 +118,50 @@
       "videoUrl": "https://www.youtube.com/watch?v=Ob_mBTheoR4",
       "videoId": "Ob_mBTheoR4",
       "thumbnail": "https://i4.ytimg.com/vi/Ob_mBTheoR4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-17",
+      "firstSeen": "2026-08-17",
+      "title": "Work It Out Wombats! FULL EPISODE | Claydate with Louisa ? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=GvbUlbmobS8",
+      "videoId": "GvbUlbmobS8",
+      "thumbnail": "https://i4.ytimg.com/vi/GvbUlbmobS8/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-17",
+      "firstSeen": "2026-08-17",
+      "title": "Adventure At Blue Zoo | Weird Waters Season 2 Clips | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=CxFeNKSzYRU",
+      "videoId": "CxFeNKSzYRU",
+      "thumbnail": "https://i4.ytimg.com/vi/CxFeNKSzYRU/hqdefault.jpg",
       "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
       "channelName": "Scholastic After School",
       "category": "Science",
