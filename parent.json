@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T04:21:20.914Z",
+  "generatedAt": "2026-08-18T06:21:16.526Z",
   "videos": [
     {
       "timestamp": "2026-08-17",
@@ -10123,50 +10123,6 @@
     },
     {
       "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-19",
-      "title": "How Pops Saved Benson ?? | NEW Regular Show: The Lost Tapes | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=vgHFONSzRe8",
-      "videoId": "vgHFONSzRe8",
-      "thumbnail": "https://i3.ytimg.com/vi/vgHFONSzRe8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-19",
-      "title": "? LEGO Minecraft Chicken Chaos! ?? Epic Gaming Challenge ? | LEGO Games Live!",
-      "videoUrl": "https://www.youtube.com/watch?v=in79k1ZZJL4",
-      "videoId": "in79k1ZZJL4",
-      "thumbnail": "https://i2.ytimg.com/vi/in79k1ZZJL4/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "lego, minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
       "firstSeen": "2026-06-25",
       "title": "ASL Dinos A to Z: Triceratops",
       "videoUrl": "https://www.youtube.com/watch?v=a-vZm8PPDcM",
@@ -10508,28 +10464,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "binocs, educational",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-19",
-      "firstSeen": "2026-06-19",
-      "title": "SpongeBob's BEST & Worst Krusty Krab Dining Moments! ? | SpongeBob SquarePants | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=fvgERElu_z8",
-      "videoId": "fvgERElu_z8",
-      "thumbnail": "https://i3.ytimg.com/vi/fvgERElu_z8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
