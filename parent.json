@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-08-18T16:21:37.322Z",
+  "generatedAt": "2026-08-18T18:21:13.435Z",
   "videos": [
+    {
+      "timestamp": "2026-08-18",
+      "firstSeen": "2026-08-18",
+      "title": "Mr. Bean Tries to Become a Magician! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=sRUyzANMoT4",
+      "videoId": "sRUyzANMoT4",
+      "thumbnail": "https://i4.ytimg.com/vi/sRUyzANMoT4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-18",
+      "firstSeen": "2026-08-18",
+      "title": "Regeneration Superpower | What If Humans Could Regenerate Limbs? ? | Limb Regeneration Explained",
+      "videoUrl": "https://www.youtube.com/watch?v=kSCl9P_Jhz0",
+      "videoId": "kSCl9P_Jhz0",
+      "thumbnail": "https://i4.ytimg.com/vi/kSCl9P_Jhz0/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-18",
+      "firstSeen": "2026-08-18",
+      "title": "Squidward Becomes a TOUGH Guy?! ? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=Iwqi5IaWQTw",
+      "videoId": "Iwqi5IaWQTw",
+      "thumbnail": "https://i2.ytimg.com/vi/Iwqi5IaWQTw/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-18",
+      "firstSeen": "2026-08-18",
+      "title": "The princess who predicted the fall of Troy - Iseult Gillespie",
+      "videoUrl": "https://www.youtube.com/watch?v=l29K-ZkARmE",
+      "videoId": "l29K-ZkARmE",
+      "thumbnail": "https://i1.ytimg.com/vi/l29K-ZkARmE/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-18",
+      "firstSeen": "2026-08-18",
+      "title": "Cats VS Ancient Robots?! ??  | ThunderCats | @WBkids",
+      "videoUrl": "https://www.youtube.com/watch?v=qjpihKHQ-aA",
+      "videoId": "qjpihKHQ-aA",
+      "thumbnail": "https://i2.ytimg.com/vi/qjpihKHQ-aA/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-17",
       "firstSeen": "2026-08-17",
