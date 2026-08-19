@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T04:21:18.478Z",
+  "generatedAt": "2026-08-19T06:21:15.375Z",
   "videos": [
     {
       "timestamp": "2026-08-18",
@@ -10046,28 +10046,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-20",
-      "firstSeen": "2026-06-20",
-      "title": "Fanfiction Gones Too Far | Gumball | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=3ATemKmopT0",
-      "videoId": "3ATemKmopT0",
-      "thumbnail": "https://i4.ytimg.com/vi/3ATemKmopT0/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
       "watched": {
         "jonah": false,
         "kieran": false
