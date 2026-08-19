@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T22:21:13.465Z",
+  "generatedAt": "2026-08-19T00:21:15.542Z",
   "videos": [
     {
       "timestamp": "2026-08-18",
@@ -102,6 +102,72 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-18",
+      "firstSeen": "2026-08-18",
+      "title": "How To Draw Back To School Pickle The Axolotl",
+      "videoUrl": "https://www.youtube.com/watch?v=-vQ2_umdFRw",
+      "videoId": "-vQ2_umdFRw",
+      "thumbnail": "https://i2.ytimg.com/vi/-vQ2_umdFRw/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-18",
+      "firstSeen": "2026-08-18",
+      "title": "Fun Movie Night | Funny Cartoons for Kids | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=q7AK0i9SsSQ",
+      "videoId": "q7AK0i9SsSQ",
+      "thumbnail": "https://i2.ytimg.com/vi/q7AK0i9SsSQ/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-18",
+      "firstSeen": "2026-08-18",
+      "title": "Wild Adventures in the Forest | Open Season: Call of Nature | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=qxxx9eda9sk",
+      "videoId": "qxxx9eda9sk",
+      "thumbnail": "https://i2.ytimg.com/vi/qxxx9eda9sk/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
