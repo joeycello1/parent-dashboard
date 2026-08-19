@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-08-19T16:21:17.402Z",
+  "generatedAt": "2026-08-19T18:21:18.176Z",
   "videos": [
+    {
+      "timestamp": "2026-08-19",
+      "firstSeen": "2026-08-19",
+      "title": "How To Draw Rhubarb From Paw Patrol The Dino Movie",
+      "videoUrl": "https://www.youtube.com/watch?v=911cUwXlKXM",
+      "videoId": "911cUwXlKXM",
+      "thumbnail": "https://i2.ytimg.com/vi/911cUwXlKXM/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-19",
+      "firstSeen": "2026-08-19",
+      "title": "Scrapper Turns the Cat Show Into Chaos! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=V1RlPx_cg_4",
+      "videoId": "V1RlPx_cg_4",
+      "thumbnail": "https://i3.ytimg.com/vi/V1RlPx_cg_4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-19",
+      "firstSeen": "2026-08-19",
+      "title": "Australia's Wild Coast: Survival After Fire (Full Episode) | Primal Combat | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=_Z1iJkczooM",
+      "videoId": "_Z1iJkczooM",
+      "thumbnail": "https://i4.ytimg.com/vi/_Z1iJkczooM/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-19",
+      "firstSeen": "2026-08-19",
+      "title": "Otters vs. Whales vs. Walruses: Marine Animal Showdown ? | Whoa Factor | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=Qu5guyUncB8",
+      "videoId": "Qu5guyUncB8",
+      "thumbnail": "https://i2.ytimg.com/vi/Qu5guyUncB8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-19",
+      "firstSeen": "2026-08-19",
+      "title": "Maya & Miguel on TV | Full Episodes | Maya & Miguel | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=7rqVcer11hA",
+      "videoId": "7rqVcer11hA",
+      "thumbnail": "https://i4.ytimg.com/vi/7rqVcer11hA/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-19",
+      "firstSeen": "2026-08-19",
+      "title": "SpongeBob's CRAZIEST Episodes ? | 90 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=x0I6BMQkrUk",
+      "videoId": "x0I6BMQkrUk",
+      "thumbnail": "https://i1.ytimg.com/vi/x0I6BMQkrUk/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-18",
       "firstSeen": "2026-08-18",
