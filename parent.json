@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T22:21:12.041Z",
+  "generatedAt": "2026-08-20T00:21:16.653Z",
   "videos": [
     {
       "timestamp": "2026-08-19",
@@ -124,6 +124,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-19",
+      "firstSeen": "2026-08-19",
+      "title": "Lyla in the Loop | Solve Problems with Lyla in this Test and Improve COMPILATION! ? | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=iqWtXjAG4Cc",
+      "videoId": "iqWtXjAG4Cc",
+      "thumbnail": "https://i2.ytimg.com/vi/iqWtXjAG4Cc/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
