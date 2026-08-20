@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T16:21:13.489Z",
+  "generatedAt": "2026-08-20T18:21:15.384Z",
   "videos": [
     {
       "timestamp": "2026-08-20",
@@ -14,6 +14,138 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-20",
+      "firstSeen": "2026-08-20",
+      "title": "How To Draw A Monster Truck School Bus",
+      "videoUrl": "https://www.youtube.com/watch?v=nRfEYbCfQQs",
+      "videoId": "nRfEYbCfQQs",
+      "thumbnail": "https://i3.ytimg.com/vi/nRfEYbCfQQs/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-20",
+      "firstSeen": "2026-08-20",
+      "title": "Mr. Bean Needs a New Bed! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=CY8HoixA_o0",
+      "videoId": "CY8HoixA_o0",
+      "thumbnail": "https://i4.ytimg.com/vi/CY8HoixA_o0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-20",
+      "firstSeen": "2026-08-20",
+      "title": "Dinos A to Z: Leptoceratops | Learn about a unique and lesser-known dinosaur",
+      "videoUrl": "https://www.youtube.com/watch?v=OMmciINGVNs",
+      "videoId": "OMmciINGVNs",
+      "thumbnail": "https://i4.ytimg.com/vi/OMmciINGVNs/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-20",
+      "firstSeen": "2026-08-20",
+      "title": "Animal Royal Rumble ? | Funny Animal Video | You're Called What?! | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=pgV8RMnLIAM",
+      "videoId": "pgV8RMnLIAM",
+      "thumbnail": "https://i1.ytimg.com/vi/pgV8RMnLIAM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science, speedy",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-20",
+      "firstSeen": "2026-08-20",
+      "title": "SpongeBob In TROUBLE for 30 Minutes Straight ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=awIcpWdh-nE",
+      "videoId": "awIcpWdh-nE",
+      "thumbnail": "https://i2.ytimg.com/vi/awIcpWdh-nE/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-20",
+      "firstSeen": "2026-08-20",
+      "title": "Be Cool Scooby-Doo | Back to School MARATHON ?? | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=sJtyPSsJWTw",
+      "videoId": "sJtyPSsJWTw",
+      "thumbnail": "https://i4.ytimg.com/vi/sJtyPSsJWTw/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
