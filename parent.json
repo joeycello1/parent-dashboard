@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T04:21:12.544Z",
+  "generatedAt": "2026-08-20T06:21:16.482Z",
   "videos": [
     {
       "timestamp": "2026-08-19",
@@ -10118,28 +10118,6 @@
       },
       "rating": {
         "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-21",
-      "firstSeen": "2026-06-21",
-      "title": "Can the LEGO City POLICE Catch EVERYONE?? | Best Police Chases Compilation!?| LEGO City",
-      "videoUrl": "https://www.youtube.com/watch?v=FnUcqSP8Jbw",
-      "videoId": "FnUcqSP8Jbw",
-      "thumbnail": "https://i3.ytimg.com/vi/FnUcqSP8Jbw/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "lego",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "up",
         "kieran": ""
       }
     },
