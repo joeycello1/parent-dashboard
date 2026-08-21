@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-08-21T16:21:13.218Z",
+  "generatedAt": "2026-08-21T18:21:14.382Z",
   "videos": [
+    {
+      "timestamp": "2026-08-21",
+      "firstSeen": "2026-08-21",
+      "title": "Mr. Bean Creates the Worst Perfume Ever! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=pJupG8B9bEk",
+      "videoId": "pJupG8B9bEk",
+      "thumbnail": "https://i1.ytimg.com/vi/pJupG8B9bEk/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-21",
+      "firstSeen": "2026-08-21",
+      "title": "Super Mario Bros ? YOSHI'S IMPOSSIBLE EGG (How Many Layers Does It Have?!)",
+      "videoUrl": "https://www.youtube.com/watch?v=hurHBr2yItI",
+      "videoId": "hurHBr2yItI",
+      "thumbnail": "https://i1.ytimg.com/vi/hurHBr2yItI/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-21",
+      "firstSeen": "2026-08-21",
+      "title": "Secret Lives of America's National Park Animals | MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=XJBpATwu0e0",
+      "videoId": "XJBpATwu0e0",
+      "thumbnail": "https://i1.ytimg.com/vi/XJBpATwu0e0/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-21",
+      "firstSeen": "2026-08-21",
+      "title": "How to Defeat a Monster ft. Perseus & Pegasus | Greeking Out Podcast | S4 E4 FULL EP | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=httS5N9FuHs",
+      "videoId": "httS5N9FuHs",
+      "thumbnail": "https://i1.ytimg.com/vi/httS5N9FuHs/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-21",
+      "firstSeen": "2026-08-21",
+      "title": "Can We Create Rain? ?? What is Cloud Seeding and How Does it Work? | Artificial Rain | Dr. Binocs",
+      "videoUrl": "https://www.youtube.com/watch?v=bf7FVEechEg",
+      "videoId": "bf7FVEechEg",
+      "thumbnail": "https://i3.ytimg.com/vi/bf7FVEechEg/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-21",
+      "firstSeen": "2026-08-21",
+      "title": "Every Time SpongeBob Reached His Breaking Point ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=nkgmEmbX3FQ",
+      "videoId": "nkgmEmbX3FQ",
+      "thumbnail": "https://i3.ytimg.com/vi/nkgmEmbX3FQ/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-20",
       "firstSeen": "2026-08-20",
@@ -168,6 +300,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-20",
+      "firstSeen": "2026-08-21",
+      "title": "Mr Bean Adventures | Mr Bean Animated Series! ? LIVE",
+      "videoUrl": "https://www.youtube.com/watch?v=hwt0GIC6y0Q",
+      "videoId": "hwt0GIC6y0Q",
+      "thumbnail": "https://i1.ytimg.com/vi/hwt0GIC6y0Q/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
