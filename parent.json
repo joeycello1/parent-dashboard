@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:21:14.662Z",
+  "generatedAt": "2026-08-22T12:21:18.908Z",
   "videos": [
     {
       "timestamp": "2026-08-21",
@@ -206,6 +206,28 @@
       "videoUrl": "https://www.youtube.com/watch?v=8s8xf4q6ioQ",
       "videoId": "8s8xf4q6ioQ",
       "thumbnail": "https://i1.ytimg.com/vi/8s8xf4q6ioQ/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-21",
+      "firstSeen": "2026-08-22",
+      "title": "How Model Trains are Made | Making Stuff | FULL EPISODE | Scholastic STEAM",
+      "videoUrl": "https://www.youtube.com/watch?v=1-wwG6PTgGs",
+      "videoId": "1-wwG6PTgGs",
+      "thumbnail": "https://i2.ytimg.com/vi/1-wwG6PTgGs/hqdefault.jpg",
       "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
       "channelName": "Scholastic After School",
       "category": "Science",
