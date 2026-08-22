@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-08-22T16:21:16.305Z",
+  "generatedAt": "2026-08-22T18:21:16.614Z",
   "videos": [
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-22",
+      "title": "Mr. Bean Tries to Stop Mrs. Wicket Selling Her House! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=NorqXF6BIeA",
+      "videoId": "NorqXF6BIeA",
+      "thumbnail": "https://i3.ytimg.com/vi/NorqXF6BIeA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-22",
+      "title": "The Masterminds Living in Our Oceans (Full Episode) | Secrets of the Octopus | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=ujH1VmhDQQQ",
+      "videoId": "ujH1VmhDQQQ",
+      "thumbnail": "https://i2.ytimg.com/vi/ujH1VmhDQQQ/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-22",
+      "title": "What You Didn?t Know Elephants Could Do With Their Trunks! ? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=cc96CHTSMNM",
+      "videoId": "cc96CHTSMNM",
+      "thumbnail": "https://i4.ytimg.com/vi/cc96CHTSMNM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-22",
+      "title": "1 Hour of Bikini Bottom's BADDEST Noodles ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=aYHdXTszbeQ",
+      "videoId": "aYHdXTszbeQ",
+      "thumbnail": "https://i2.ytimg.com/vi/aYHdXTszbeQ/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-22",
+      "title": "Looney Tunes | Marvin The Martian Mega Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=F_ETvHtwA10",
+      "videoId": "F_ETvHtwA10",
+      "thumbnail": "https://i3.ytimg.com/vi/F_ETvHtwA10/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, daffy",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-22",
+      "title": "Tom & Jerry Shorts MARATHON! Vol.3 ?? | Classic Tom & Jerry MEGA COMP ? | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=RB-p9PznNhI",
+      "videoId": "RB-p9PznNhI",
+      "thumbnail": "https://i3.ytimg.com/vi/RB-p9PznNhI/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-21",
       "firstSeen": "2026-08-21",
