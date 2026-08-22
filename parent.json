@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T04:21:13.319Z",
+  "generatedAt": "2026-08-22T06:21:17.448Z",
   "videos": [
     {
       "timestamp": "2026-08-21",
@@ -10124,50 +10124,6 @@
     {
       "timestamp": "2026-06-23",
       "firstSeen": "2026-06-23",
-      "title": "SAILING Together! Lana's Most Heart-Warming Adventures! | Lana Longbeard | Cartoon Network",
-      "videoUrl": "https://www.youtube.com/watch?v=jotTaJCiUzk",
-      "videoId": "jotTaJCiUzk",
-      "thumbnail": "https://i3.ytimg.com/vi/jotTaJCiUzk/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-23",
-      "title": "Finn's BIGGEST SECRET! ? Candy Kingdom Explosions? | Adventure Time | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=QL1-pyoMPkM",
-      "videoId": "QL1-pyoMPkM",
-      "thumbnail": "https://i2.ytimg.com/vi/QL1-pyoMPkM/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-23",
       "title": "Weenie's Big Clean-Up Adventure! ?? | Educational Cartoon for Kids | Open Season: Call of Nature",
       "videoUrl": "https://www.youtube.com/watch?v=Q8uwHaHLEnY",
       "videoId": "Q8uwHaHLEnY",
@@ -10354,28 +10310,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-23",
-      "firstSeen": "2026-06-23",
-      "title": "SpongeBob is Portrayed on the Big Screen ??| SpongeBob SquarePants | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=7F-yx-rsW0E",
-      "videoId": "7F-yx-rsW0E",
-      "thumbnail": "https://i4.ytimg.com/vi/7F-yx-rsW0E/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
