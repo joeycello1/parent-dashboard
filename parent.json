@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T22:21:10.290Z",
+  "generatedAt": "2026-08-23T00:21:13.095Z",
   "videos": [
     {
       "timestamp": "2026-08-22",
@@ -124,6 +124,72 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-22",
+      "title": "How Bass Guitars are Made | Making Stuff | FULL EPISODE | Scholastic STEAM",
+      "videoUrl": "https://www.youtube.com/watch?v=77YlFO3rXj4",
+      "videoId": "77YlFO3rXj4",
+      "thumbnail": "https://i4.ytimg.com/vi/77YlFO3rXj4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-22",
+      "title": "Science That Defies What You Think Is Possible! ? Science Max",
+      "videoUrl": "https://www.youtube.com/watch?v=UdnLFAXTzOA",
+      "videoId": "UdnLFAXTzOA",
+      "thumbnail": "https://i2.ytimg.com/vi/UdnLFAXTzOA/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-22",
+      "title": "$1 vs $1,000,000 LEGO VACATION...",
+      "videoUrl": "https://www.youtube.com/watch?v=VNX0uGHCA1c",
+      "videoId": "VNX0uGHCA1c",
+      "thumbnail": "https://i3.ytimg.com/vi/VNX0uGHCA1c/hqdefault.jpg",
+      "channelID": "UCUU3GdGuQshZFRGnxAPBf_w",
+      "channelName": "TD Bricks",
+      "category": "LEGO",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
