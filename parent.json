@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T04:21:14.250Z",
+  "generatedAt": "2026-08-23T06:21:16.115Z",
   "videos": [
     {
       "timestamp": "2026-08-22",
@@ -190,6 +190,50 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-23",
+      "title": "Living Inside of My Friend?s SCHOOL LUNCH in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=3yd5PKy7cak",
+      "videoId": "3yd5PKy7cak",
+      "thumbnail": "https://i4.ytimg.com/vi/3yd5PKy7cak/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-22",
+      "firstSeen": "2026-08-23",
+      "title": "How BaseBall Bats are Made | Making Stuff | FULL EPISODE | Scholastic STEAM",
+      "videoUrl": "https://www.youtube.com/watch?v=ihGPm4mcnBQ",
+      "videoId": "ihGPm4mcnBQ",
+      "thumbnail": "https://i2.ytimg.com/vi/ihGPm4mcnBQ/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -10168,28 +10212,6 @@
     {
       "timestamp": "2026-06-24",
       "firstSeen": "2026-06-24",
-      "title": "Benson Lore Explained: Hidden History & Meaning | Regular Show | Cartoon Network UK",
-      "videoUrl": "https://www.youtube.com/watch?v=3JGV6GF8DjU",
-      "videoId": "3JGV6GF8DjU",
-      "thumbnail": "https://i4.ytimg.com/vi/3JGV6GF8DjU/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Cartoon Network UK",
-      "category": "Cartoons",
-      "profile": "",
-      "retentionDays": "",
-      "keyword": "cartoon network",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-24",
-      "firstSeen": "2026-06-24",
       "title": "How to Potty Train Your Dragon | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
       "videoUrl": "https://www.youtube.com/watch?v=yl8jvTsmMqg",
       "videoId": "yl8jvTsmMqg",
@@ -16141,7 +16163,6 @@
     "binocs",
     "bugs",
     "bugs bunny",
-    "cartoon network",
     "crash course",
     "daffy",
     "demaio",
