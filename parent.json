@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-08-23T16:21:12.547Z",
+  "generatedAt": "2026-08-23T18:21:13.251Z",
   "videos": [
+    {
+      "timestamp": "2026-08-23",
+      "firstSeen": "2026-08-23",
+      "title": "Hungry Pups Want More Food! | ?Wonderful World Of Puppies | BBC Earth Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=h0Dq7Sx0QNA",
+      "videoId": "h0Dq7Sx0QNA",
+      "thumbnail": "https://i1.ytimg.com/vi/h0Dq7Sx0QNA/hqdefault.jpg",
+      "channelID": "UCO_DaPp4ifhMAmiyybSLx9w",
+      "channelName": "BBC Earth - Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 800,
+      "keyword": "bbc earth kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-23",
+      "firstSeen": "2026-08-23",
+      "title": "Mr. Bean Sleeps on the Street for a Video Game! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=3-pyaG4yiKU",
+      "videoId": "3-pyaG4yiKU",
+      "thumbnail": "https://i4.ytimg.com/vi/3-pyaG4yiKU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-23",
+      "firstSeen": "2026-08-23",
+      "title": "Search and Destroy (Full Episode) | Africa's Deadliest: Botswana | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=9zpivQDLrao",
+      "videoId": "9zpivQDLrao",
+      "thumbnail": "https://i2.ytimg.com/vi/9zpivQDLrao/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-23",
+      "firstSeen": "2026-08-23",
+      "title": "Kids React to Baby Lions ? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=IFvInaD41dY",
+      "videoId": "IFvInaD41dY",
+      "thumbnail": "https://i2.ytimg.com/vi/IFvInaD41dY/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-23",
+      "firstSeen": "2026-08-23",
+      "title": "Boost Your Brain this School Year! ?? | Brain Games Full Episode | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=qhKtncXKy8o",
+      "videoId": "qhKtncXKy8o",
+      "thumbnail": "https://i2.ytimg.com/vi/qhKtncXKy8o/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-23",
+      "firstSeen": "2026-08-23",
+      "title": "3 Hours of SpongeBob's Bikini Bottom Adventures ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=HeJt6N9T0GU",
+      "videoId": "HeJt6N9T0GU",
+      "thumbnail": "https://i1.ytimg.com/vi/HeJt6N9T0GU/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-22",
       "firstSeen": "2026-08-22",
