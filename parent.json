@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-08-24T16:21:11.865Z",
+  "generatedAt": "2026-08-24T18:21:16.550Z",
   "videos": [
+    {
+      "timestamp": "2026-08-24",
+      "firstSeen": "2026-08-24",
+      "title": "Mr. Bean Gets Stuck in a Giant Slurry Pit! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=B-1CgP5dLvQ",
+      "videoId": "B-1CgP5dLvQ",
+      "thumbnail": "https://i3.ytimg.com/vi/B-1CgP5dLvQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-24",
+      "firstSeen": "2026-08-24",
+      "title": "Monster Jam Race Cars & Monster Trucks TAG TEAM RACING COMPILATION",
+      "videoUrl": "https://www.youtube.com/watch?v=UyOCuBqP4IQ",
+      "videoId": "UyOCuBqP4IQ",
+      "thumbnail": "https://i2.ytimg.com/vi/UyOCuBqP4IQ/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-24",
+      "firstSeen": "2026-08-24",
+      "title": "How to Live in Lava + More Extreme Adaptations ? | America's National Parks | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=lxrzT61_WU0",
+      "videoId": "lxrzT61_WU0",
+      "thumbnail": "https://i1.ytimg.com/vi/lxrzT61_WU0/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-24",
+      "firstSeen": "2026-08-24",
+      "title": "Gains Weight | Full Episodes | The Magic School Bus | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=KoSXRrtWMcE",
+      "videoId": "KoSXRrtWMcE",
+      "thumbnail": "https://i4.ytimg.com/vi/KoSXRrtWMcE/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-24",
+      "firstSeen": "2026-08-24",
+      "title": "Clean Up CHALLENGE! ? ? | Music Compilation ? | Tom & Jerry Time | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=qTaxcSpJ76U",
+      "videoId": "qTaxcSpJ76U",
+      "thumbnail": "https://i2.ytimg.com/vi/qTaxcSpJ76U/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-23",
       "firstSeen": "2026-08-23",
