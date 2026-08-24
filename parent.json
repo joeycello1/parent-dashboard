@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:21:13.073Z",
+  "generatedAt": "2026-08-24T12:21:14.803Z",
   "videos": [
     {
       "timestamp": "2026-08-23",
@@ -10234,50 +10234,6 @@
     {
       "timestamp": "2026-06-25",
       "firstSeen": "2026-06-25",
-      "title": "Three Fools",
-      "videoUrl": "https://www.youtube.com/watch?v=kSjT_6-a3uA",
-      "videoId": "kSjT_6-a3uA",
-      "thumbnail": "https://i.ytimg.com/vi/kSjT_6-a3uA/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "MAGNETFILM",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "I Am Groot S01E01",
-      "videoUrl": "https://www.youtube.com/watch?v=5Q5gOjdZUlU",
-      "videoId": "5Q5gOjdZUlU",
-      "thumbnail": "https://i.ytimg.com/vi/5Q5gOjdZUlU/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Marvel Webseries",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
       "title": "Mr Bean's Mistake Turned Him... Green! | Mr Bean Adventures",
       "videoUrl": "https://www.youtube.com/watch?v=NfH5UenPyys",
       "videoId": "NfH5UenPyys",
@@ -10310,28 +10266,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25",
-      "firstSeen": "2026-06-25",
-      "title": "Squidward Can't Handle Babysitting Pearl! ? | SpongeBob SquarePants | Nickelodeon UK",
-      "videoUrl": "https://www.youtube.com/watch?v=rluPKihJ0D8",
-      "videoId": "rluPKihJ0D8",
-      "thumbnail": "https://i3.ytimg.com/vi/rluPKihJ0D8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Nickelodeon UK",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
