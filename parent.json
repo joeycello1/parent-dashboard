@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:21:18.808Z",
+  "generatedAt": "2026-08-24T00:21:20.542Z",
   "videos": [
     {
       "timestamp": "2026-08-23",
@@ -124,6 +124,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-23",
+      "firstSeen": "2026-08-23",
+      "title": "How Kayaks are Made | Making Stuff | FULL EPISODE | Scholastic STEAM",
+      "videoUrl": "https://www.youtube.com/watch?v=BGEQAehRwQI",
+      "videoId": "BGEQAehRwQI",
+      "thumbnail": "https://i3.ytimg.com/vi/BGEQAehRwQI/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-23",
+      "firstSeen": "2026-08-23",
+      "title": "What Happens When You Heat Stuff Up? | Science Secrets Explained | Finding Stuff Out",
+      "videoUrl": "https://www.youtube.com/watch?v=DyDssBnpRrI",
+      "videoId": "DyDssBnpRrI",
+      "thumbnail": "https://i1.ytimg.com/vi/DyDssBnpRrI/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
