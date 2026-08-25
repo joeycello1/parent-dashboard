@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-08-25T16:21:15.633Z",
+  "generatedAt": "2026-08-25T18:21:18.416Z",
   "videos": [
+    {
+      "timestamp": "2026-08-25",
+      "firstSeen": "2026-08-25",
+      "title": "Mr. Bean Tries Every Bed in the Store! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=bmQOn6fP1qM",
+      "videoId": "bmQOn6fP1qM",
+      "thumbnail": "https://i3.ytimg.com/vi/bmQOn6fP1qM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-25",
+      "firstSeen": "2026-08-25",
+      "title": "Historical Events in February | Learn about what happened throughout history in February",
+      "videoUrl": "https://www.youtube.com/watch?v=8wHOFEP-BNw",
+      "videoId": "8wHOFEP-BNw",
+      "thumbnail": "https://i1.ytimg.com/vi/8wHOFEP-BNw/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-25",
+      "firstSeen": "2026-08-25",
+      "title": "Deadliest Sea Creatures on Earth | Most Dangerous Ocean Animals | Stonefish, Piranha, Shark and more",
+      "videoUrl": "https://www.youtube.com/watch?v=tcgM0Et68R4",
+      "videoId": "tcgM0Et68R4",
+      "thumbnail": "https://i1.ytimg.com/vi/tcgM0Et68R4/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-25",
+      "firstSeen": "2026-08-25",
+      "title": "Rock, Roll & Go Bananas! Funny Cartoons for Kids | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=OYaIRUj4tYo",
+      "videoId": "OYaIRUj4tYo",
+      "thumbnail": "https://i4.ytimg.com/vi/OYaIRUj4tYo/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-25",
+      "firstSeen": "2026-08-25",
+      "title": "SpongeBob Meets a Scary Bully ? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=Xd1VxwDjoJg",
+      "videoId": "Xd1VxwDjoJg",
+      "thumbnail": "https://i1.ytimg.com/vi/Xd1VxwDjoJg/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-25",
+      "firstSeen": "2026-08-25",
+      "title": "Plato?s infamous Ship of State thought experiment - Michael Vazquez",
+      "videoUrl": "https://www.youtube.com/watch?v=QyRqlTV60zM",
+      "videoId": "QyRqlTV60zM",
+      "thumbnail": "https://i2.ytimg.com/vi/QyRqlTV60zM/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-25",
+      "firstSeen": "2026-08-25",
+      "title": "Coyote vs. ACME ? ? | Looney Tuesdays | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=Zeq0ooyG_Jw",
+      "videoId": "Zeq0ooyG_Jw",
+      "thumbnail": "https://i3.ytimg.com/vi/Zeq0ooyG_Jw/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-24",
       "firstSeen": "2026-08-24",
@@ -146,6 +300,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-24",
+      "firstSeen": "2026-08-25",
+      "title": "We Got FLUSHED Away!",
+      "videoUrl": "https://www.youtube.com/watch?v=B3D6Hv4XVsc",
+      "videoId": "B3D6Hv4XVsc",
+      "thumbnail": "https://i3.ytimg.com/vi/B3D6Hv4XVsc/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -9957,72 +10133,6 @@
       "category": "Films",
       "profile": "Both",
       "retentionDays": 30,
-      "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-26T16:06:51.173Z",
-      "firstSeen": "2026-06-29T04:00:00.000Z",
-      "title": "Cenote (2022)",
-      "videoUrl": "https://www.youtube.com/watch?v=pAUF04-xWl8",
-      "videoId": "pAUF04-xWl8",
-      "thumbnail": "https://i.ytimg.com/vi/pAUF04-xWl8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "BYU's Center for Animation - Student Films",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 50,
-      "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-26T15:59:51.284Z",
-      "firstSeen": "2026-06-28T04:00:00.000Z",
-      "title": "The Wrong Rock | A mushroom follows his dreams",
-      "videoUrl": "https://www.youtube.com/watch?v=eDaNejmf-1A",
-      "videoId": "eDaNejmf-1A",
-      "thumbnail": "https://i.ytimg.com/vi/eDaNejmf-1A/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "HEROmation",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-26T15:39:05.285Z",
-      "firstSeen": "2026-06-26T15:39:05.285Z",
-      "title": "The Egyptian Pyramids",
-      "videoUrl": "https://www.youtube.com/watch?v=j6PbonHsqW0",
-      "videoId": "j6PbonHsqW0",
-      "thumbnail": "https://i.ytimg.com/vi/j6PbonHsqW0/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Les Pyramides d'?gypte",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
       "keyword": "",
       "watched": {
         "jonah": false,
