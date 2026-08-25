@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:21:15.837Z",
+  "generatedAt": "2026-08-25T00:21:13.610Z",
   "videos": [
     {
       "timestamp": "2026-08-24",
@@ -102,6 +102,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-24",
+      "firstSeen": "2026-08-24",
+      "title": "Xavier Riddle and the Secret Museum COMPILATION | Hispanic Heritage Month! | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=5xzgMNJQZHE",
+      "videoId": "5xzgMNJQZHE",
+      "thumbnail": "https://i2.ytimg.com/vi/5xzgMNJQZHE/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-24",
+      "firstSeen": "2026-08-24",
+      "title": "Secret Underwater Chaos! | Trouble in Blue Zoo | Weird Waters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=UYZAACih7uI",
+      "videoId": "UYZAACih7uI",
+      "thumbnail": "https://i2.ytimg.com/vi/UYZAACih7uI/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -10266,28 +10310,6 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "kids2kids",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-25T21:17:22.828Z",
-      "firstSeen": "2026-06-25T21:17:22.828Z",
-      "title": "Indice 50 - ESMA 2016",
-      "videoUrl": "https://www.youtube.com/watch?v=NXX_9DTv0LA",
-      "videoId": "NXX_9DTv0LA",
-      "thumbnail": "https://i.ytimg.com/vi/NXX_9DTv0LA/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "ESMA Movies",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
