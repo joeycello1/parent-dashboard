@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:21:15.733Z",
+  "generatedAt": "2026-08-25T06:21:15.483Z",
   "videos": [
     {
       "timestamp": "2026-08-24",
@@ -10046,28 +10046,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-26",
-      "firstSeen": "2026-06-26",
-      "title": "NAPO",
-      "videoUrl": "https://www.youtube.com/watch?v=-p1P4fdhaF8",
-      "videoId": "-p1P4fdhaF8",
-      "thumbnail": "https://i.ytimg.com/vi/-p1P4fdhaF8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Miralumo Films",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
