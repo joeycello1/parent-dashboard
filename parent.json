@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T04:21:13.802Z",
+  "generatedAt": "2026-08-26T06:21:15.401Z",
   "videos": [
     {
       "timestamp": "2026-08-25",
@@ -9826,50 +9826,6 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-27",
-      "firstSeen": "2026-06-27",
-      "title": "Villains vs Cops and More! ?? | Season 3 Full Episode Marathon ? | LEGO City: No Limits",
-      "videoUrl": "https://www.youtube.com/watch?v=fUlVaZsd0Jc",
-      "videoId": "fUlVaZsd0Jc",
-      "thumbnail": "https://i3.ytimg.com/vi/fUlVaZsd0Jc/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "lego, minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-27",
-      "firstSeen": "2026-06-27",
-      "title": "FOREVERGREEN",
-      "videoUrl": "https://www.youtube.com/watch?v=B4EPW7JUMTM",
-      "videoId": "B4EPW7JUMTM",
-      "thumbnail": "https://i.ytimg.com/vi/B4EPW7JUMTM/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Forevergreen Film",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
