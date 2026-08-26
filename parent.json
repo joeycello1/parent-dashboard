@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:21:17.103Z",
+  "generatedAt": "2026-08-26T00:21:16.533Z",
   "videos": [
     {
       "timestamp": "2026-08-25",
@@ -146,6 +146,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-25",
+      "firstSeen": "2026-08-25",
+      "title": "How Apple Cider is Made | Making Stuff | FULL EPISODE | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=IY1n2Nyl9qo",
+      "videoId": "IY1n2Nyl9qo",
+      "thumbnail": "https://i2.ytimg.com/vi/IY1n2Nyl9qo/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-25",
+      "firstSeen": "2026-08-25",
+      "title": "I Can't SLEEP! | Funny Cartoons for Kids | Open Season: Call of Nature Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=Enbz_wO15Gw",
+      "videoId": "Enbz_wO15Gw",
+      "thumbnail": "https://i2.ytimg.com/vi/Enbz_wO15Gw/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -10112,28 +10156,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-26T21:44:57.869Z",
-      "firstSeen": "2026-06-26T21:44:57.869Z",
-      "title": "CGI Animated Short Film \"Sweet Cocoon\" by ESMA | CGMeetup",
-      "videoUrl": "https://www.youtube.com/watch?v=BnlQ7bVUDjc",
-      "videoId": "BnlQ7bVUDjc",
-      "thumbnail": "https://i.ytimg.com/vi/BnlQ7bVUDjc/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "CGMeetup",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
