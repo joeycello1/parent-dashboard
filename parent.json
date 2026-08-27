@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T22:21:12.720Z",
+  "generatedAt": "2026-08-27T00:21:11.614Z",
   "videos": [
     {
       "timestamp": "2026-08-26",
@@ -124,6 +124,72 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-26",
+      "firstSeen": "2026-08-26",
+      "title": "Alma's Way | Library Run! ????? NEW Full Episode Premiering September 7th! | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=eX1CKnTTuqw",
+      "videoId": "eX1CKnTTuqw",
+      "thumbnail": "https://i2.ytimg.com/vi/eX1CKnTTuqw/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-26",
+      "firstSeen": "2026-08-26",
+      "title": "How Drums are Made | Making Stuff | FULL EPISODE | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=Vow_oEpLaAI",
+      "videoId": "Vow_oEpLaAI",
+      "thumbnail": "https://i3.ytimg.com/vi/Vow_oEpLaAI/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-26",
+      "firstSeen": "2026-08-26",
+      "title": "SEASON 1 FULL EPISODES LIVE! | The Best Science Experiments | Science Max | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=clK2s8DOpwQ",
+      "videoId": "clK2s8DOpwQ",
+      "thumbnail": "https://i4.ytimg.com/vi/clK2s8DOpwQ/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
