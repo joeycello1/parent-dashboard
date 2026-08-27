@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-08-27T16:21:17.568Z",
+  "generatedAt": "2026-08-27T18:21:13.052Z",
   "videos": [
+    {
+      "timestamp": "2026-08-27",
+      "firstSeen": "2026-08-27",
+      "title": "How To Draw A Funny School Locker",
+      "videoUrl": "https://www.youtube.com/watch?v=pUywCc6URlI",
+      "videoId": "pUywCc6URlI",
+      "thumbnail": "https://i1.ytimg.com/vi/pUywCc6URlI/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-27",
+      "firstSeen": "2026-08-27",
+      "title": "Mr. Bean Tries to Learn the Violin! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=bYyUHzbtZRM",
+      "videoId": "bYyUHzbtZRM",
+      "thumbnail": "https://i3.ytimg.com/vi/bYyUHzbtZRM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-27",
+      "firstSeen": "2026-08-27",
+      "title": "Dinos A to Z: Oviraptor | Learn about the \"egg thief\" dinosaur",
+      "videoUrl": "https://www.youtube.com/watch?v=zzfjO45sqoU",
+      "videoId": "zzfjO45sqoU",
+      "thumbnail": "https://i3.ytimg.com/vi/zzfjO45sqoU/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science, minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-27",
+      "firstSeen": "2026-08-27",
+      "title": "What Happens When a Bridge Breaks? ? | World's Toughest Fixes | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=vujna6ae3WE",
+      "videoId": "vujna6ae3WE",
+      "thumbnail": "https://i3.ytimg.com/vi/vujna6ae3WE/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-27",
+      "firstSeen": "2026-08-27",
+      "title": "Every Food Item on the Chum Bucket Menu ?| 10 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=anjAfUc6GWE",
+      "videoId": "anjAfUc6GWE",
+      "thumbnail": "https://i2.ytimg.com/vi/anjAfUc6GWE/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-27",
+      "firstSeen": "2026-08-27",
+      "title": "Who Let the Dogs Out?! ?? | What's New, Scooby-Doo? | @wbkids?",
+      "videoUrl": "https://www.youtube.com/watch?v=sPYBXmQljYs",
+      "videoId": "sPYBXmQljYs",
+      "thumbnail": "https://i4.ytimg.com/vi/sPYBXmQljYs/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-27",
+      "firstSeen": "2026-08-27",
+      "title": "The Right Seed | Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=XeqJJNfWEcU",
+      "videoId": "XeqJJNfWEcU",
+      "thumbnail": "https://i1.ytimg.com/vi/XeqJJNfWEcU/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-26",
       "firstSeen": "2026-08-26",
