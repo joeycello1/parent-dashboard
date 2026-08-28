@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-08-28T16:21:15.614Z",
+  "generatedAt": "2026-08-28T18:21:18.954Z",
   "videos": [
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "How To Draw A Funny Box Of Crayons",
+      "videoUrl": "https://www.youtube.com/watch?v=depxT2CPYjA",
+      "videoId": "depxT2CPYjA",
+      "thumbnail": "https://i1.ytimg.com/vi/depxT2CPYjA/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "Mr. Bean Gets Locked Out With No Clothes! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=KAdTAEQnbGg",
+      "videoId": "KAdTAEQnbGg",
+      "thumbnail": "https://i4.ytimg.com/vi/KAdTAEQnbGg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "MONSTER TRUCKS PLAY AT THE PARK ? Classroom Crusher's First Day of School -- He's So Nervous!",
+      "videoUrl": "https://www.youtube.com/watch?v=zsJlCk8xYx4",
+      "videoId": "zsJlCk8xYx4",
+      "thumbnail": "https://i3.ytimg.com/vi/zsJlCk8xYx4/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "Meet the Most Dangerous Snakes Around the Globe | Deadliest Snakes MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=iLoDkNjQVPM",
+      "videoId": "iLoDkNjQVPM",
+      "thumbnail": "https://i2.ytimg.com/vi/iLoDkNjQVPM/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "Did Artemis doom Orion and Kallisto?! | Greeking Out Podcast | S4 E5 FULL EP | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=RErZdXRK5xw",
+      "videoId": "RErZdXRK5xw",
+      "thumbnail": "https://i3.ytimg.com/vi/RErZdXRK5xw/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "What Are White Blood Cells? ? | The Body?s Tiny Defenders Explained | Learn with Dr. Binocs",
+      "videoUrl": "https://www.youtube.com/watch?v=GLCUztzlxAs",
+      "videoId": "GLCUztzlxAs",
+      "thumbnail": "https://i4.ytimg.com/vi/GLCUztzlxAs/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "The Barking Ghost | Full Episode | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=u0wsbrGvz7Q",
+      "videoId": "u0wsbrGvz7Q",
+      "thumbnail": "https://i2.ytimg.com/vi/u0wsbrGvz7Q/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "Mr. Krabs Will Do ANYTHING for Money ? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=TqJvuRWpdQs",
+      "videoId": "TqJvuRWpdQs",
+      "thumbnail": "https://i1.ytimg.com/vi/TqJvuRWpdQs/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "Tom & Jerry Gokko Season 3! ??? | FULL EPISODE COMPILATION PART 4 | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=Zj5vG_BeaDM",
+      "videoId": "Zj5vG_BeaDM",
+      "thumbnail": "https://i3.ytimg.com/vi/Zj5vG_BeaDM/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-27",
       "firstSeen": "2026-08-27",
