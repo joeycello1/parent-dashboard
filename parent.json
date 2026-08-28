@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T22:21:13.471Z",
+  "generatedAt": "2026-08-28T00:21:18.712Z",
   "videos": [
     {
       "timestamp": "2026-08-27",
@@ -146,6 +146,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-27",
+      "firstSeen": "2026-08-27",
+      "title": "How Peanut Butter is Made | Making Stuff | FULL EPISODE | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=f6l_mWqH19Q",
+      "videoId": "f6l_mWqH19Q",
+      "thumbnail": "https://i3.ytimg.com/vi/f6l_mWqH19Q/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-27",
+      "firstSeen": "2026-08-27",
+      "title": "The Legend of the Lost Lyrics | Full Episodes | Karma's World | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=xIwnZhtosQk",
+      "videoId": "xIwnZhtosQk",
+      "thumbnail": "https://i1.ytimg.com/vi/xIwnZhtosQk/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
