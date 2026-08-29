@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T22:21:14.782Z",
+  "generatedAt": "2026-08-29T00:21:14.658Z",
   "videos": [
     {
       "timestamp": "2026-08-28",
@@ -190,6 +190,72 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "Super Why! COMPILATION | The Ultimate Comic Book Super Reader Marathon! ?? 38+ MIN | PBS KIDS",
+      "videoUrl": "https://www.youtube.com/watch?v=Q0tc4nF6RGE",
+      "videoId": "Q0tc4nF6RGE",
+      "thumbnail": "https://i2.ytimg.com/vi/Q0tc4nF6RGE/hqdefault.jpg",
+      "channelID": "UCrNnk0wFBnCS1awGjq_ijGQ",
+      "channelName": "PBS Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "pbs, reading",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "How Teddy Bears are Made | Making Stuff | FULL EPISODE | Scholastic STEAM",
+      "videoUrl": "https://www.youtube.com/watch?v=FViDLuQFBRM",
+      "videoId": "FViDLuQFBRM",
+      "thumbnail": "https://i3.ytimg.com/vi/FViDLuQFBRM/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-28",
+      "title": "Dragon Adventure | Funny Cartoons For Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=3QxmbRflw9k",
+      "videoId": "3QxmbRflw9k",
+      "thumbnail": "https://i4.ytimg.com/vi/3QxmbRflw9k/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
