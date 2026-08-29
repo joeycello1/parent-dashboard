@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T16:21:11.909Z",
+  "generatedAt": "2026-08-29T18:21:13.917Z",
   "videos": [
     {
       "timestamp": "2026-08-29",
@@ -14,6 +14,138 @@
       "profile": "Both",
       "retentionDays": 200,
       "keyword": "alan becker, minecraft, art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-29",
+      "firstSeen": "2026-08-29",
+      "title": "In Desperate Times, Bean Has Many Innovations! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=xOo7THQQytI",
+      "videoId": "xOo7THQQytI",
+      "thumbnail": "https://i1.ytimg.com/vi/xOo7THQQytI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-29",
+      "firstSeen": "2026-08-29",
+      "title": "Kingdom of the Polar Bear (Full Episode) | OceanXplorers | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=cJmUEgSAIwc",
+      "videoId": "cJmUEgSAIwc",
+      "thumbnail": "https://i4.ytimg.com/vi/cJmUEgSAIwc/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-29",
+      "firstSeen": "2026-08-29",
+      "title": "Surprising Creatures of the Night! ?? Animal Facts for Kids I Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=zvACxEx9AZM",
+      "videoId": "zvACxEx9AZM",
+      "thumbnail": "https://i3.ytimg.com/vi/zvACxEx9AZM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-29",
+      "firstSeen": "2026-08-29",
+      "title": "SpongeBob?s Funniest Side Character Moments ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=mvjyHNuaDbQ",
+      "videoId": "mvjyHNuaDbQ",
+      "thumbnail": "https://i2.ytimg.com/vi/mvjyHNuaDbQ/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-29",
+      "firstSeen": "2026-08-29",
+      "title": "Looney Tunes | Cartoon Icons Compilation: Bugs, Daffy, Foghorn, & Sylvester | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=LXe5vIETox8",
+      "videoId": "LXe5vIETox8",
+      "thumbnail": "https://i1.ytimg.com/vi/LXe5vIETox8/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, daffy, foghorn, sylvester",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-29",
+      "firstSeen": "2026-08-29",
+      "title": "Cat Concerto ?? | Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=m5IDhI-89ms",
+      "videoId": "m5IDhI-89ms",
+      "thumbnail": "https://i2.ytimg.com/vi/m5IDhI-89ms/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
