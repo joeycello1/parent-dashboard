@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-29T10:21:16.126Z",
+  "generatedAt": "2026-08-29T12:21:13.341Z",
   "videos": [
+    {
+      "timestamp": "2026-08-29",
+      "firstSeen": "2026-08-29",
+      "title": "Creeper Clan - Animation vs. Minecraft Shorts Ep 40",
+      "videoUrl": "https://www.youtube.com/watch?v=FcQlQAs5EDM",
+      "videoId": "FcQlQAs5EDM",
+      "thumbnail": "https://i3.ytimg.com/vi/FcQlQAs5EDM/hqdefault.jpg",
+      "channelID": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelName": "Alan Becker",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 200,
+      "keyword": "alan becker, minecraft, art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-28",
       "firstSeen": "2026-08-28",
@@ -256,6 +278,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-28",
+      "firstSeen": "2026-08-29",
+      "title": "Milo has an IMAGINARY FRIEND in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=tAIm9hLYybM",
+      "videoId": "tAIm9hLYybM",
+      "thumbnail": "https://i1.ytimg.com/vi/tAIm9hLYybM/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
