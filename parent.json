@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T04:21:15.984Z",
+  "generatedAt": "2026-08-29T06:21:13.332Z",
   "videos": [
     {
       "timestamp": "2026-08-28",
@@ -9892,28 +9892,6 @@
       "profile": "Both",
       "retentionDays": 50,
       "keyword": "pbs",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-06-30",
-      "firstSeen": "2026-06-30",
-      "title": "Mime Your Manners",
-      "videoUrl": "https://www.youtube.com/watch?v=83yqxdMA4A4",
-      "videoId": "83yqxdMA4A4",
-      "thumbnail": "https://i.ytimg.com/vi/83yqxdMA4A4/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "CGMeetup",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
