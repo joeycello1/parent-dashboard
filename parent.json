@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T22:21:14.165Z",
+  "generatedAt": "2026-08-30T00:21:12.461Z",
   "videos": [
     {
       "timestamp": "2026-08-29",
@@ -146,6 +146,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-29",
+      "firstSeen": "2026-08-29",
+      "title": "We Build a Giant Rocket Car?! ?? | Science Experiment | Science Max | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=v0mRittXaig",
+      "videoId": "v0mRittXaig",
+      "thumbnail": "https://i3.ytimg.com/vi/v0mRittXaig/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
