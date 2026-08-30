@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-08-30T16:21:13.757Z",
+  "generatedAt": "2026-08-30T18:21:12.514Z",
   "videos": [
+    {
+      "timestamp": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "title": "Mr. Bean Goes Undercover for a Rare Sticker! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=HTNvLdS2Ji8",
+      "videoId": "HTNvLdS2Ji8",
+      "thumbnail": "https://i1.ytimg.com/vi/HTNvLdS2Ji8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "title": "Never-Before-Seen Wildlife Footage (Full Episode) | America the Beautiful | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=CrgbbMJwNrg",
+      "videoId": "CrgbbMJwNrg",
+      "thumbnail": "https://i4.ytimg.com/vi/CrgbbMJwNrg/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "title": "Unlikely Animal Friends Full Episode | Cat Best Friends ? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=JbtV2c46v8A",
+      "videoId": "JbtV2c46v8A",
+      "thumbnail": "https://i3.ytimg.com/vi/JbtV2c46v8A/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "title": "2 Hours of SpongeBob and Patrick Eating in Bikini Bottom ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=G8gC6x6QANk",
+      "videoId": "G8gC6x6QANk",
+      "thumbnail": "https://i4.ytimg.com/vi/G8gC6x6QANk/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-08-29",
       "firstSeen": "2026-08-29",
