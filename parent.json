@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T04:21:21.927Z",
+  "generatedAt": "2026-08-30T06:21:12.700Z",
   "videos": [
     {
       "timestamp": "2026-08-29",
@@ -10024,28 +10024,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-01",
-      "firstSeen": "2026-07-01",
-      "title": "The Robot and the Whale",
-      "videoUrl": "https://www.youtube.com/watch?v=0-aaUwiacxY",
-      "videoId": "0-aaUwiacxY",
-      "thumbnail": "https://i.ytimg.com/vi/0-aaUwiacxY/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Premium Films",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
