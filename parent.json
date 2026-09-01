@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T04:21:18.063Z",
+  "generatedAt": "2026-09-01T06:21:13.535Z",
   "videos": [
     {
       "timestamp": "2026-08-31",
@@ -9870,28 +9870,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-03",
-      "firstSeen": "2026-07-03",
-      "title": "Smile Little monster helps his friend smile again",
-      "videoUrl": "https://www.youtube.com/watch?v=dISAbRRJ95U",
-      "videoId": "dISAbRRJ95U",
-      "thumbnail": "https://i.ytimg.com/vi/dISAbRRJ95U/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Premium Films",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 50,
-      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
