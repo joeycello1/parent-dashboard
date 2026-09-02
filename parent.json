@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-09-02T16:21:18.142Z",
+  "generatedAt": "2026-09-02T18:21:11.998Z",
   "videos": [
+    {
+      "timestamp": "2026-09-02",
+      "firstSeen": "2026-09-02",
+      "title": "How To Draw A Cement Truck",
+      "videoUrl": "https://www.youtube.com/watch?v=nWZDqKeoxy4",
+      "videoId": "nWZDqKeoxy4",
+      "thumbnail": "https://i3.ytimg.com/vi/nWZDqKeoxy4/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-02",
+      "firstSeen": "2026-09-02",
+      "title": "Mr. Bean Searches Everywhere for Missing Scrapper! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=_1WoUdSTv2E",
+      "videoId": "_1WoUdSTv2E",
+      "thumbnail": "https://i4.ytimg.com/vi/_1WoUdSTv2E/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-02",
+      "firstSeen": "2026-09-02",
+      "title": "Mr. Bean Nearly Burns Down the House! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=fB1hHmf7YhI",
+      "videoId": "fB1hHmf7YhI",
+      "thumbnail": "https://i3.ytimg.com/vi/fB1hHmf7YhI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-02",
+      "firstSeen": "2026-09-02",
+      "title": "Ryan Reynolds Shares Unique Animal Adaptations | Underdogs MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=eYa5gsEUqNA",
+      "videoId": "eYa5gsEUqNA",
+      "thumbnail": "https://i2.ytimg.com/vi/eYa5gsEUqNA/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-02",
+      "firstSeen": "2026-09-02",
+      "title": "Penguin vs. Penguin: Battle of the Coolest! | Whoa Factor | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=DrtV9bCD0uc",
+      "videoId": "DrtV9bCD0uc",
+      "thumbnail": "https://i1.ytimg.com/vi/DrtV9bCD0uc/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-02",
+      "firstSeen": "2026-09-02",
+      "title": "Maya vs Miguel | Full Episodes | Maya & Miguel | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=RSA-X-ooe-g",
+      "videoId": "RSA-X-ooe-g",
+      "thumbnail": "https://i3.ytimg.com/vi/RSA-X-ooe-g/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-02",
+      "firstSeen": "2026-09-02",
+      "title": "SpongeBob?s Most Memorable Scenes from Classic Episodes (Seasons 1-3) ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=QKBmhqLyvkY",
+      "videoId": "QKBmhqLyvkY",
+      "thumbnail": "https://i2.ytimg.com/vi/QKBmhqLyvkY/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-01",
       "firstSeen": "2026-09-01",
