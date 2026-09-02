@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T04:21:12.402Z",
+  "generatedAt": "2026-09-02T06:22:49.927Z",
   "videos": [
     {
       "timestamp": "2026-09-01",
@@ -7528,28 +7528,6 @@
     {
       "timestamp": "2026-07-04",
       "firstSeen": "2026-07-04",
-      "title": "?? NEW ?? Season 4 Official Trailer | LEGO City: No Limits",
-      "videoUrl": "https://www.youtube.com/watch?v=S_SSuDNrdwc",
-      "videoId": "S_SSuDNrdwc",
-      "thumbnail": "https://i4.ytimg.com/vi/S_SSuDNrdwc/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "lego, minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-04",
-      "firstSeen": "2026-07-04",
       "title": "Explore Hawai'i Volcanoes National Park? | America 250 | @natgeokids",
       "videoUrl": "https://www.youtube.com/watch?v=OYw5i3J7BS8",
       "videoId": "OYw5i3J7BS8",
@@ -7604,28 +7582,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-04",
-      "firstSeen": "2026-07-04",
-      "title": "French Roast",
-      "videoUrl": "https://www.youtube.com/watch?v=MXaKWm0vj8o",
-      "videoId": "MXaKWm0vj8o",
-      "thumbnail": "https://i.ytimg.com/vi/MXaKWm0vj8o/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Premium Films",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
