@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T22:21:16.693Z",
+  "generatedAt": "2026-09-02T00:21:19.514Z",
   "videos": [
     {
       "timestamp": "2026-09-01",
@@ -146,6 +146,72 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-01",
+      "firstSeen": "2026-09-01",
+      "title": "The Great Pyramids of Giza Explained!",
+      "videoUrl": "https://www.youtube.com/watch?v=CdlMjlFvXt4",
+      "videoId": "CdlMjlFvXt4",
+      "thumbnail": "https://i4.ytimg.com/vi/CdlMjlFvXt4/hqdefault.jpg",
+      "channelID": "UCwyVRKfytvjSF6q5s7noKZQ",
+      "channelName": "Mr. DeMaio",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 300,
+      "keyword": "demaio",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-01",
+      "firstSeen": "2026-09-01",
+      "title": "I Can't SLEEP! | Funny Cartoons for Kids | Open Season: Call of Nature Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=DT9qN84RFPo",
+      "videoId": "DT9qN84RFPo",
+      "thumbnail": "https://i1.ytimg.com/vi/DT9qN84RFPo/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-01",
+      "firstSeen": "2026-09-01",
+      "title": "A Very Bananas Wedding | Funny Cartoons for Kids | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=0_SgrUWVY_Y",
+      "videoId": "0_SgrUWVY_Y",
+      "thumbnail": "https://i1.ytimg.com/vi/0_SgrUWVY_Y/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -7868,28 +7934,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-01",
-      "firstSeen": "2026-07-01",
-      "title": "Phoebe & Jay FULL EPISODE | Vote Vote Vote! ?? | PBS KIDS",
-      "videoUrl": "https://www.youtube.com/watch?v=GHvYoKHmtGU",
-      "videoId": "GHvYoKHmtGU",
-      "thumbnail": "https://i4.ytimg.com/vi/GHvYoKHmtGU/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "PBS Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
