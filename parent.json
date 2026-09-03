@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-03T10:21:26.913Z",
+  "generatedAt": "2026-09-03T12:21:14.713Z",
   "videos": [
+    {
+      "timestamp": "2026-09-03",
+      "firstSeen": "2026-09-03",
+      "title": "Wasp Belle | Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=nT9d_mVcy1E",
+      "videoId": "nT9d_mVcy1E",
+      "thumbnail": "https://i3.ytimg.com/vi/nT9d_mVcy1E/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-02",
       "firstSeen": "2026-09-02",
@@ -146,6 +168,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-02",
+      "firstSeen": "2026-09-03",
+      "title": "We Found Lost Puppies in Minecraft?",
+      "videoUrl": "https://www.youtube.com/watch?v=JwSZFHRnHfI",
+      "videoId": "JwSZFHRnHfI",
+      "thumbnail": "https://i3.ytimg.com/vi/JwSZFHRnHfI/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
