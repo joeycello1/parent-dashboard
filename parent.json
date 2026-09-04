@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T04:21:13.117Z",
+  "generatedAt": "2026-09-04T06:21:16.288Z",
   "videos": [
     {
       "timestamp": "2026-09-03",
@@ -7748,28 +7748,6 @@
     {
       "timestamp": "2026-07-06",
       "firstSeen": "2026-07-06",
-      "title": "Weather Hunters FULL EPISODE | Properly Prepared ?? | PBS KIDS",
-      "videoUrl": "https://www.youtube.com/watch?v=NhOb6Zvj98Y",
-      "videoId": "NhOb6Zvj98Y",
-      "thumbnail": "https://i3.ytimg.com/vi/NhOb6Zvj98Y/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "PBS Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "pbs",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-06",
-      "firstSeen": "2026-07-06",
       "title": "Engineering & Physics | Full Episodes | The Magic School Bus | Scholastic After School",
       "videoUrl": "https://www.youtube.com/watch?v=EAnUQCCBA6Y",
       "videoId": "EAnUQCCBA6Y",
@@ -7780,28 +7758,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-06",
-      "firstSeen": "2026-07-06",
-      "title": "Student Accomplice",
-      "videoUrl": "https://www.youtube.com/watch?v=Vn0QWdiWLqk",
-      "videoId": "Vn0QWdiWLqk",
-      "thumbnail": "https://i.ytimg.com/vi/Vn0QWdiWLqk/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "The Rookies",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "",
       "watched": {
         "jonah": false,
         "kieran": false
