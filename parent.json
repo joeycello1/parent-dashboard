@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-09-04T16:21:26.269Z",
+  "generatedAt": "2026-09-04T18:21:14.226Z",
   "videos": [
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "How To Draw A Cool Plane",
+      "videoUrl": "https://www.youtube.com/watch?v=Y133m0xtC-I",
+      "videoId": "Y133m0xtC-I",
+      "thumbnail": "https://i2.ytimg.com/vi/Y133m0xtC-I/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Mr. Bean Has a New Rival! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=emg-AMalMaQ",
+      "videoId": "emg-AMalMaQ",
+      "thumbnail": "https://i2.ytimg.com/vi/emg-AMalMaQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Mr. Bean?s Hilarious Battle With a Cat! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=8b6f0AISDE8",
+      "videoId": "8b6f0AISDE8",
+      "thumbnail": "https://i1.ytimg.com/vi/8b6f0AISDE8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "MONSTER TRUCK MATTRESS RACING - Monster Jam Vs. Hot Wheels TRIPLE CRASH RACE",
+      "videoUrl": "https://www.youtube.com/watch?v=iffVzJXh34g",
+      "videoId": "iffVzJXh34g",
+      "thumbnail": "https://i2.ytimg.com/vi/iffVzJXh34g/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Inside Alaska's River Race (Full Episode) | Incredible Animal Journeys | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=f4U0wZgZZ-8",
+      "videoId": "f4U0wZgZZ-8",
+      "thumbnail": "https://i3.ytimg.com/vi/f4U0wZgZZ-8/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Will Gilgamesh Find the Key to Eternal Life?! | Greeking Out Podcast | S4 E6 FULL EP | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=nrpF_O269s4",
+      "videoId": "nrpF_O269s4",
+      "thumbnail": "https://i3.ytimg.com/vi/nrpF_O269s4/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Why Do Leaves Change Colors in Fall? ? The Science Behind Autumn | Fall Season | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=ubLe26x_2pI",
+      "videoId": "ubLe26x_2pI",
+      "thumbnail": "https://i2.ytimg.com/vi/ubLe26x_2pI/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "An Old Story & Other Scary Stories | Full Episode Marathon | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=-Xly0FAl4uc",
+      "videoId": "-Xly0FAl4uc",
+      "thumbnail": "https://i2.ytimg.com/vi/-Xly0FAl4uc/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "stories, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Mr. Krabs Being Mean to SpongeBob for 45 Minutes Straight ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=YZySQY66ya0",
+      "videoId": "YZySQY66ya0",
+      "thumbnail": "https://i2.ytimg.com/vi/YZySQY66ya0/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Sunny Day Fun! ??? | Tom and Jerry Gokko + Looney Tunes Gokko FULL EPISODES | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=ZQoIrSeqiyM",
+      "videoId": "ZQoIrSeqiyM",
+      "thumbnail": "https://i3.ytimg.com/vi/ZQoIrSeqiyM/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-03",
       "firstSeen": "2026-09-03",
