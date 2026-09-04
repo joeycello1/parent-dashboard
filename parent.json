@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:21:12.907Z",
+  "generatedAt": "2026-09-04T00:21:15.719Z",
   "videos": [
     {
       "timestamp": "2026-09-03",
@@ -190,6 +190,116 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-03",
+      "firstSeen": "2026-09-03",
+      "title": "Monkey Madness | Full Episode | Get Ace | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=E0xiV93Xt-c",
+      "videoId": "E0xiV93Xt-c",
+      "thumbnail": "https://i2.ytimg.com/vi/E0xiV93Xt-c/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-03",
+      "firstSeen": "2026-09-03",
+      "title": "Monster and Commander | Full Episode | Nerds and Monsters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=EA81FspvRw4",
+      "videoId": "EA81FspvRw4",
+      "thumbnail": "https://i2.ytimg.com/vi/EA81FspvRw4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-03",
+      "firstSeen": "2026-09-03",
+      "title": "Ace Gets Braced | Full Episode | Get Ace | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=tGlpQ7oM-7U",
+      "videoId": "tGlpQ7oM-7U",
+      "thumbnail": "https://i1.ytimg.com/vi/tGlpQ7oM-7U/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-03",
+      "firstSeen": "2026-09-03",
+      "title": "Dear Diary | Full Episode | Nerds and Monsters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=mjanMKPxPoM",
+      "videoId": "mjanMKPxPoM",
+      "thumbnail": "https://i2.ytimg.com/vi/mjanMKPxPoM/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-03",
+      "firstSeen": "2026-09-03",
+      "title": "Locked Together | Karma's World Chronicles | Full Episodes | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=b3bvEUu8zoo",
+      "videoId": "b3bvEUu8zoo",
+      "thumbnail": "https://i3.ytimg.com/vi/b3bvEUu8zoo/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
