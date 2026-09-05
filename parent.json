@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T04:21:11.020Z",
+  "generatedAt": "2026-09-05T06:21:12.922Z",
   "videos": [
     {
       "timestamp": "2026-09-04",
@@ -7890,28 +7890,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "bugs, scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-07",
-      "firstSeen": "2026-07-07",
-      "title": "LEGO? Disney Princess Moana Kakamora Diamond Disaster",
-      "videoUrl": "https://www.youtube.com/watch?v=o6hvvrubOJI",
-      "videoId": "o6hvvrubOJI",
-      "thumbnail": "https://i4.ytimg.com/vi/o6hvvrubOJI/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "LEGO",
-      "category": "Cartoons",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "lego, minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
