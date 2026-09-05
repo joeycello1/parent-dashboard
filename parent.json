@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:21:17.766Z",
+  "generatedAt": "2026-09-05T18:21:17.704Z",
   "videos": [
     {
       "timestamp": "2026-09-05",
@@ -14,6 +14,138 @@
       "profile": "Both",
       "retentionDays": 200,
       "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Mr. Bean Breaks His Bed! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=O7hfnEm2aRQ",
+      "videoId": "O7hfnEm2aRQ",
+      "thumbnail": "https://i4.ytimg.com/vi/O7hfnEm2aRQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Inside the Deadly World of Crocodiles | MEGA Episode Special | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=Z0BFRAr1HHc",
+      "videoId": "Z0BFRAr1HHc",
+      "thumbnail": "https://i3.ytimg.com/vi/Z0BFRAr1HHc/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Which Wild Cat LOVES Water? ? ? Animal Facts for Kids I Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=JVLSZd27mo4",
+      "videoId": "JVLSZd27mo4",
+      "thumbnail": "https://i3.ytimg.com/vi/JVLSZd27mo4/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Mr. Krabs Being the BEST Boss Ever ? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=YyufxHD0DLw",
+      "videoId": "YyufxHD0DLw",
+      "thumbnail": "https://i2.ytimg.com/vi/YyufxHD0DLw/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Looney Tunes | Classic Elmer Fudd & Sylvester Episodes | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=KOaFsHpFLQM",
+      "videoId": "KOaFsHpFLQM",
+      "thumbnail": "https://i4.ytimg.com/vi/KOaFsHpFLQM/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "sylvester, bugs, daffy",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Tom and Jerry's Forbidden Compass ? ?? | Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=9V23RbVLOSg",
+      "videoId": "9V23RbVLOSg",
+      "thumbnail": "https://i2.ytimg.com/vi/9V23RbVLOSg/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
