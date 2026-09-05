@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T22:21:20.672Z",
+  "generatedAt": "2026-09-05T00:21:22.860Z",
   "videos": [
     {
       "timestamp": "2026-09-04",
@@ -212,6 +212,138 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "? LIVE! 24 Hours of STEM Station - Science, Tech, Engineering and Math???? ??????? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=DNBCPGlGFgI",
+      "videoId": "DNBCPGlGFgI",
+      "thumbnail": "https://i1.ytimg.com/vi/DNBCPGlGFgI/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, science, crash course",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Lunchbox Gets Braced | Full Episode | Get Ace | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=q8o-xCWKtFw",
+      "videoId": "q8o-xCWKtFw",
+      "thumbnail": "https://i2.ytimg.com/vi/q8o-xCWKtFw/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Fright of Passage | Full Episode | Nerds and Monsters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=jpQ6OS3J-14",
+      "videoId": "jpQ6OS3J-14",
+      "thumbnail": "https://i3.ytimg.com/vi/jpQ6OS3J-14/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Colossal Fossil | Full Episode | Get Ace | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=LPHmh3xwMVg",
+      "videoId": "LPHmh3xwMVg",
+      "thumbnail": "https://i1.ytimg.com/vi/LPHmh3xwMVg/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Honk If You're in Love | Full Episode | Nerds and Monsters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=_7rJL1nb1Q4",
+      "videoId": "_7rJL1nb1Q4",
+      "thumbnail": "https://i4.ytimg.com/vi/_7rJL1nb1Q4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "title": "Sweat, Hot Lakebottom Summer | Funny Cartoons For Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=9090Crg_xUo",
+      "videoId": "9090Crg_xUo",
+      "thumbnail": "https://i2.ytimg.com/vi/9090Crg_xUo/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
