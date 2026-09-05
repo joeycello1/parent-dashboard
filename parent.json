@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-05T10:21:19.148Z",
+  "generatedAt": "2026-09-05T12:21:13.996Z",
   "videos": [
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "The Fox and the Mysterious Sack ? | English Moral Stories | Bedtime Stories",
+      "videoUrl": "https://www.youtube.com/watch?v=574ostPpoKw",
+      "videoId": "574ostPpoKw",
+      "thumbnail": "https://i2.ytimg.com/vi/574ostPpoKw/hqdefault.jpg",
+      "channelID": "UCoYIEq7_E9Ya75Fis0dScPQ",
+      "channelName": "Mr Book and Me",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 200,
+      "keyword": "stories, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-04",
       "firstSeen": "2026-09-04",
@@ -344,6 +366,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-04",
+      "firstSeen": "2026-09-05",
+      "title": "Chip NEEDS to Listen!",
+      "videoUrl": "https://www.youtube.com/watch?v=nTA9Xofn-jI",
+      "videoId": "nTA9Xofn-jI",
+      "thumbnail": "https://i3.ytimg.com/vi/nTA9Xofn-jI/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
