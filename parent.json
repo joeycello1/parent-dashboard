@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T04:21:11.347Z",
+  "generatedAt": "2026-09-08T06:21:13.193Z",
   "videos": [
     {
       "timestamp": "2026-09-07",
@@ -8242,28 +8242,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-10",
-      "firstSeen": "2026-07-10",
-      "title": "Work It Out Wombats! FULL EPISODE | Backwards Day | PBS KIDS",
-      "videoUrl": "https://www.youtube.com/watch?v=VV5eZWlgBBg",
-      "videoId": "VV5eZWlgBBg",
-      "thumbnail": "https://i3.ytimg.com/vi/VV5eZWlgBBg/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "PBS Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
