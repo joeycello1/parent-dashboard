@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-08T10:21:13.968Z",
+  "generatedAt": "2026-09-08T12:21:13.805Z",
   "videos": [
+    {
+      "timestamp": "2026-09-08",
+      "firstSeen": "2026-09-08",
+      "title": "Petey Perfectpants and the Silly Sock Puppet Problem' read by Adam Brody",
+      "videoUrl": "https://www.youtube.com/watch?v=ei-y8-VST5Y",
+      "videoId": "ei-y8-VST5Y",
+      "thumbnail": "https://i2.ytimg.com/vi/ei-y8-VST5Y/hqdefault.jpg",
+      "channelID": "UCnBdzaRy-Ky9Vh54XJlFz1Q",
+      "channelName": "StoryLineOnline",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 600,
+      "keyword": "storylineonline",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-07",
       "firstSeen": "2026-09-07",
@@ -124,6 +146,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-07",
+      "firstSeen": "2026-09-08",
+      "title": "Alan Becker lofi radio - beats to animate to",
+      "videoUrl": "https://www.youtube.com/watch?v=BMBttJ0ue6I",
+      "videoId": "BMBttJ0ue6I",
+      "thumbnail": "https://i3.ytimg.com/vi/BMBttJ0ue6I/hqdefault.jpg",
+      "channelID": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelName": "Alan Becker",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 200,
+      "keyword": "alan becker, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-07",
+      "firstSeen": "2026-09-08",
+      "title": "Surprising Milo With His DREAM DAY!",
+      "videoUrl": "https://www.youtube.com/watch?v=FOiSi5yzPyY",
+      "videoId": "FOiSi5yzPyY",
+      "thumbnail": "https://i3.ytimg.com/vi/FOiSi5yzPyY/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
