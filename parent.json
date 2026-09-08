@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T16:21:22.042Z",
+  "generatedAt": "2026-09-08T18:21:13.461Z",
   "videos": [
     {
       "timestamp": "2026-09-08",
@@ -14,6 +14,204 @@
       "profile": "Both",
       "retentionDays": 600,
       "keyword": "storylineonline",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-08",
+      "firstSeen": "2026-09-08",
+      "title": "How To Draw School Lunch",
+      "videoUrl": "https://www.youtube.com/watch?v=1dsLJNDn45I",
+      "videoId": "1dsLJNDn45I",
+      "thumbnail": "https://i2.ytimg.com/vi/1dsLJNDn45I/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-08",
+      "firstSeen": "2026-09-08",
+      "title": "Mr. Bean Tries Everything to Stay Warm! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=gu0CKpJuN2E",
+      "videoId": "gu0CKpJuN2E",
+      "thumbnail": "https://i4.ytimg.com/vi/gu0CKpJuN2E/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-08",
+      "firstSeen": "2026-09-08",
+      "title": "Mr. Bean Tries Every Bed in the Store! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=b9129xsnjOw",
+      "videoId": "b9129xsnjOw",
+      "thumbnail": "https://i3.ytimg.com/vi/b9129xsnjOw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-08",
+      "firstSeen": "2026-09-08",
+      "title": "Memorial Day for Kids | Learn about this special holiday honoring fallen soldiers",
+      "videoUrl": "https://www.youtube.com/watch?v=leorRembMHA",
+      "videoId": "leorRembMHA",
+      "thumbnail": "https://i1.ytimg.com/vi/leorRembMHA/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-08",
+      "firstSeen": "2026-09-08",
+      "title": "Kids React to Lion vs. Buffalo ?? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=yzdwLWbD_E0",
+      "videoId": "yzdwLWbD_E0",
+      "thumbnail": "https://i2.ytimg.com/vi/yzdwLWbD_E0/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-08",
+      "firstSeen": "2026-09-08",
+      "title": "Eating Too Much Chocolate? ? What Happens When You Eat Too Much Chocolate? | The Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=7DbdhJOF-dk",
+      "videoId": "7DbdhJOF-dk",
+      "thumbnail": "https://i4.ytimg.com/vi/7DbdhJOF-dk/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-08",
+      "firstSeen": "2026-09-08",
+      "title": "Patrick Gets SpongeBob in BIG Trouble at School? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=B8jzAAfpQio",
+      "videoId": "B8jzAAfpQio",
+      "thumbnail": "https://i3.ytimg.com/vi/B8jzAAfpQio/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-08",
+      "firstSeen": "2026-09-08",
+      "title": "Ever walk into a room and forget what you were doing? - Gabriel Radvansky",
+      "videoUrl": "https://www.youtube.com/watch?v=_gP3aXvNmv8",
+      "videoId": "_gP3aXvNmv8",
+      "thumbnail": "https://i4.ytimg.com/vi/_gP3aXvNmv8/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-08",
+      "firstSeen": "2026-09-08",
+      "title": "Looney Tunes Cartoons MARATHON ? | Looney Tuesday MEGA COMP | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=5MPxJPPYjGc",
+      "videoId": "5MPxJPPYjGc",
+      "thumbnail": "https://i2.ytimg.com/vi/5MPxJPPYjGc/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
