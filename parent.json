@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T22:21:13.880Z",
+  "generatedAt": "2026-09-08T00:21:14.567Z",
   "videos": [
     {
       "timestamp": "2026-09-07",
@@ -80,6 +80,50 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-07",
+      "firstSeen": "2026-09-07",
+      "title": "Secret Mission | Weird Waters | Cartoons for Kids | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=UCxdGLx7MD4",
+      "videoId": "UCxdGLx7MD4",
+      "thumbnail": "https://i2.ytimg.com/vi/UCxdGLx7MD4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-07",
+      "firstSeen": "2026-09-07",
+      "title": "School Is Back in Session | Full Episodes | The Magic School Bus | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=og8ohTU5loE",
+      "videoId": "og8ohTU5loE",
+      "thumbnail": "https://i4.ytimg.com/vi/og8ohTU5loE/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
