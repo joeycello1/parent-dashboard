@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T02:21:11.734Z",
+  "generatedAt": "2026-09-22T04:21:12.982Z",
   "videos": [
     {
       "timestamp": "2026-09-20",
@@ -9034,28 +9034,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-07-24",
-      "firstSeen": "2026-07-24",
-      "title": "Phoebe & Jay FULL EPISODE | Beating the Heat/Tower Time ?? | PBS KIDS",
-      "videoUrl": "https://www.youtube.com/watch?v=Jx-lDDJkoCU",
-      "videoId": "Jx-lDDJkoCU",
-      "thumbnail": "https://i3.ytimg.com/vi/Jx-lDDJkoCU/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "PBS Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
