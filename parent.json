@@ -1,6 +1,358 @@
 {
-  "generatedAt": "2026-09-22T14:21:13.845Z",
+  "generatedAt": "2026-09-22T16:21:15.776Z",
   "videos": [
+    {
+      "timestamp": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "title": "Mr. Bean?s Crazy Cruise Adventure! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=wMJSEJwTUZQ",
+      "videoId": "wMJSEJwTUZQ",
+      "thumbnail": "https://i4.ytimg.com/vi/wMJSEJwTUZQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "title": "Mr. Bean?s Funniest Night Out! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=VwIeuXASBE4",
+      "videoId": "VwIeuXASBE4",
+      "thumbnail": "https://i3.ytimg.com/vi/VwIeuXASBE4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "title": "Dinos A to Z: Utahraptor | Learn about the state dinosaur of Utah",
+      "videoUrl": "https://www.youtube.com/watch?v=VkvhjyyHa_E",
+      "videoId": "VkvhjyyHa_E",
+      "thumbnail": "https://i3.ytimg.com/vi/VkvhjyyHa_E/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "title": "What if Steller's Sea Cow didn't go Extinct? | A Giant Sea Cow Mystery | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=-Y4BXKU-BNc",
+      "videoId": "-Y4BXKU-BNc",
+      "thumbnail": "https://i2.ytimg.com/vi/-Y4BXKU-BNc/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "title": "Patrick Gets a Job at the Krusty Krab ? | Classic Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=oMcKt5pG-Ms",
+      "videoId": "oMcKt5pG-Ms",
+      "thumbnail": "https://i4.ytimg.com/vi/oMcKt5pG-Ms/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "title": "4 ways to fix your attention span - Shannon Odell",
+      "videoUrl": "https://www.youtube.com/watch?v=N2uQWfV6Jr4",
+      "videoId": "N2uQWfV6Jr4",
+      "thumbnail": "https://i3.ytimg.com/vi/N2uQWfV6Jr4/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed, art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "title": "Festive Falling! ?? | Looney Tuesdays | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=FI8dOKN5peM",
+      "videoId": "FI8dOKN5peM",
+      "thumbnail": "https://i3.ytimg.com/vi/FI8dOKN5peM/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-21",
+      "firstSeen": "2026-09-22",
+      "title": "How To Draw A Funny Hay Bale",
+      "videoUrl": "https://www.youtube.com/watch?v=tnmfnRPOBx8",
+      "videoId": "tnmfnRPOBx8",
+      "thumbnail": "https://i1.ytimg.com/vi/tnmfnRPOBx8/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-21",
+      "firstSeen": "2026-09-22",
+      "title": "Mr. Bean Opens His Own Coffee Shop! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=GLr5lJzYii4",
+      "videoId": "GLr5lJzYii4",
+      "thumbnail": "https://i4.ytimg.com/vi/GLr5lJzYii4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-21",
+      "firstSeen": "2026-09-22",
+      "title": "Mr. Bean Sleeps Outside a Store All Night! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=4zX3Pd1SDWk",
+      "videoId": "4zX3Pd1SDWk",
+      "thumbnail": "https://i1.ytimg.com/vi/4zX3Pd1SDWk/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-21",
+      "firstSeen": "2026-09-22",
+      "title": "Kids Pretend ? OUR FAVORITE DRAGONS COME ALIVE! (Monster Jam, Minecraft & More - COMPILATION)",
+      "videoUrl": "https://www.youtube.com/watch?v=StsZ1ZdF4yo",
+      "videoId": "StsZ1ZdF4yo",
+      "thumbnail": "https://i4.ytimg.com/vi/StsZ1ZdF4yo/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-21",
+      "firstSeen": "2026-09-22",
+      "title": "I Found a SECRET ROOM Inside My Backyard!",
+      "videoUrl": "https://www.youtube.com/watch?v=w1a-xs6KhQ8",
+      "videoId": "w1a-xs6KhQ8",
+      "thumbnail": "https://i4.ytimg.com/vi/w1a-xs6KhQ8/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-21",
+      "firstSeen": "2026-09-22",
+      "title": "Beginning of a Black Bear's Rescue Journey ? | Cub Camp Full Episode Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=gQ0urWUYDMg",
+      "videoId": "gQ0urWUYDMg",
+      "thumbnail": "https://i4.ytimg.com/vi/gQ0urWUYDMg/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-21",
+      "firstSeen": "2026-09-22",
+      "title": "Bun Bun Underwater Adventure! Crazy Races & Fun | Weird Waters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=jnm8GJUibvs",
+      "videoId": "jnm8GJUibvs",
+      "thumbnail": "https://i3.ytimg.com/vi/jnm8GJUibvs/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-21",
+      "firstSeen": "2026-09-22",
+      "title": "Zoo Trip Adventure! | The Magic School Bus | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=K2rvlxQ8haU",
+      "videoId": "K2rvlxQ8haU",
+      "thumbnail": "https://i4.ytimg.com/vi/K2rvlxQ8haU/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-21",
+      "firstSeen": "2026-09-22",
+      "title": "? LIVE: SpongeBob's Funniest Moments from NEWER Episodes ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=znwKFPy8ZVU",
+      "videoId": "znwKFPy8ZVU",
+      "thumbnail": "https://i3.ytimg.com/vi/znwKFPy8ZVU/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-20",
       "firstSeen": "2026-09-20",
