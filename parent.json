@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-09-23T14:21:18.920Z",
+  "generatedAt": "2026-09-23T16:21:14.512Z",
   "videos": [
+    {
+      "timestamp": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "title": "Mr. Bean Takes on the Toughest Challenges! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=XA37ElgMeDs",
+      "videoId": "XA37ElgMeDs",
+      "thumbnail": "https://i1.ytimg.com/vi/XA37ElgMeDs/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "title": "Mr. Bean Has to Do ALL of Mrs. Wicket?s Chores! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Nb4f-A8EfWU",
+      "videoId": "Nb4f-A8EfWU",
+      "thumbnail": "https://i3.ytimg.com/vi/Nb4f-A8EfWU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "title": "Examining Bite Force: Part Two (Full Episode) | Dangerous Encounters | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=5QFRcwviF6o",
+      "videoId": "5QFRcwviF6o",
+      "thumbnail": "https://i2.ytimg.com/vi/5QFRcwviF6o/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "title": "Grizzly vs. Panda vs. Polar Bear! | Whoa Factor | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=6Eyz9qUAYRg",
+      "videoId": "6Eyz9qUAYRg",
+      "thumbnail": "https://i3.ytimg.com/vi/6Eyz9qUAYRg/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "title": "Father of the Year | Full Episodes | Maya & Miguel | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=Inp6yVFeCvU",
+      "videoId": "Inp6yVFeCvU",
+      "thumbnail": "https://i2.ytimg.com/vi/Inp6yVFeCvU/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "title": "90 Minutes of the Best Krusty Krab Episodes ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=ruuUrulIOgI",
+      "videoId": "ruuUrulIOgI",
+      "thumbnail": "https://i3.ytimg.com/vi/ruuUrulIOgI/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-22",
       "firstSeen": "2026-09-22",
@@ -146,6 +278,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-22",
+      "firstSeen": "2026-09-23",
+      "title": "Cleaning At Banana House | Funny Cartoons for Kids | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=XTXietwio04",
+      "videoId": "XTXietwio04",
+      "thumbnail": "https://i1.ytimg.com/vi/XTXietwio04/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
