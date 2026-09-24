@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-09-24T14:21:28.787Z",
+  "generatedAt": "2026-09-24T16:21:18.672Z",
   "videos": [
+    {
+      "timestamp": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "title": "Mr. Bean?s Crazy Holiday Adventure! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=W0cd5ecu7CA",
+      "videoId": "W0cd5ecu7CA",
+      "thumbnail": "https://i4.ytimg.com/vi/W0cd5ecu7CA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "title": "Mr. Bean Tries to Save Mrs. Wicket From the Lake! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=YGBg0oCOaus",
+      "videoId": "YGBg0oCOaus",
+      "thumbnail": "https://i2.ytimg.com/vi/YGBg0oCOaus/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "title": "Who Was Rosa Parks? | Learn about a famous advocate of the Civil Rights Movement",
+      "videoUrl": "https://www.youtube.com/watch?v=2kBcyh7K718",
+      "videoId": "2kBcyh7K718",
+      "thumbnail": "https://i3.ytimg.com/vi/2kBcyh7K718/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "title": "What Will Space Travel Look Like in a MILLION Years? | Year Million Full Episode | 4K | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=PwSWHUG1Bzc",
+      "videoId": "PwSWHUG1Bzc",
+      "thumbnail": "https://i1.ytimg.com/vi/PwSWHUG1Bzc/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "title": "Bikini Bottom Serving Looks for 30 Minutes Straight ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=IwAzshXVQ60",
+      "videoId": "IwAzshXVQ60",
+      "thumbnail": "https://i2.ytimg.com/vi/IwAzshXVQ60/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "title": "The physics of magnets - Rachel Yang",
+      "videoUrl": "https://www.youtube.com/watch?v=jG7ULeWUfDw",
+      "videoId": "jG7ULeWUfDw",
+      "thumbnail": "https://i3.ytimg.com/vi/jG7ULeWUfDw/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "title": "ESCAPE the Scarecrow! ?? | Scooby-Doo! and the Spooky Scarecrow | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=LeuQkyqBQrw",
+      "videoId": "LeuQkyqBQrw",
+      "thumbnail": "https://i1.ytimg.com/vi/LeuQkyqBQrw/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "title": "The Shellproof Nut | Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=hu3WdFHsWVY",
+      "videoId": "hu3WdFHsWVY",
+      "thumbnail": "https://i1.ytimg.com/vi/hu3WdFHsWVY/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-23",
       "firstSeen": "2026-09-23",
@@ -124,6 +300,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-23",
+      "firstSeen": "2026-09-24",
+      "title": "I Escaped Villager School?",
+      "videoUrl": "https://www.youtube.com/watch?v=_LvX9RxqVN8",
+      "videoId": "_LvX9RxqVN8",
+      "thumbnail": "https://i4.ytimg.com/vi/_LvX9RxqVN8/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-23",
+      "firstSeen": "2026-09-24",
+      "title": "? LIVE! Classic Cartoons 24/7 MARATHON ?? | Tom & Jerry, Looney Tunes, Scooby-Doo! | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=4pEdc8Uah3o",
+      "videoId": "4pEdc8Uah3o",
+      "thumbnail": "https://i1.ytimg.com/vi/4pEdc8Uah3o/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
