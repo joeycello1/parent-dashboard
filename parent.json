@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-09-26T14:21:16.401Z",
+  "generatedAt": "2026-09-26T16:21:19.980Z",
   "videos": [
+    {
+      "timestamp": "2026-09-26",
+      "firstSeen": "2026-09-26",
+      "title": "Mr. Bean Goes on a Mission to Find Scrapper! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=d0b7D_KRcvE",
+      "videoId": "d0b7D_KRcvE",
+      "thumbnail": "https://i1.ytimg.com/vi/d0b7D_KRcvE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-26",
+      "firstSeen": "2026-09-26",
+      "title": "Mr. Bean Tries to Save His Favorite Tree! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=y_UyAXp1UpY",
+      "videoId": "y_UyAXp1UpY",
+      "thumbnail": "https://i2.ytimg.com/vi/y_UyAXp1UpY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-26",
+      "firstSeen": "2026-09-26",
+      "title": "Following Bears Around Alaska & the Arctic | MEGA Episode Special | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=OQUYZFl46z0",
+      "videoId": "OQUYZFl46z0",
+      "thumbnail": "https://i4.ytimg.com/vi/OQUYZFl46z0/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-26",
+      "firstSeen": "2026-09-26",
+      "title": "Wild World of Squirrels! ??? Animal Card Quest | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=z29spc041dM",
+      "videoId": "z29spc041dM",
+      "thumbnail": "https://i3.ytimg.com/vi/z29spc041dM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-26",
+      "firstSeen": "2026-09-26",
+      "title": "1 Hour of SpongeBob's Best Moments from NEWER Episodes You Haven't Seen ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=5NKwprxpoR0",
+      "videoId": "5NKwprxpoR0",
+      "thumbnail": "https://i2.ytimg.com/vi/5NKwprxpoR0/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-26",
+      "firstSeen": "2026-09-26",
+      "title": "Looney Tunes | Classic Foghorn Leghorn Mega Compilation | Vol. 4 | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=lMqdle59Kkc",
+      "videoId": "lMqdle59Kkc",
+      "thumbnail": "https://i1.ytimg.com/vi/lMqdle59Kkc/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "foghorn, daffy, sylvester",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-26",
+      "firstSeen": "2026-09-26",
+      "title": "Classic Cartoon MARATHON Vol. 4 ? | Tom & Jerry, Looney Tunes, Scooby-Doo! MEGA COMP ?? | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=q4BEKxPYRzQ",
+      "videoId": "q4BEKxPYRzQ",
+      "thumbnail": "https://i2.ytimg.com/vi/q4BEKxPYRzQ/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-25",
       "firstSeen": "2026-09-25",
@@ -234,6 +388,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-25",
+      "firstSeen": "2026-09-26",
+      "title": "What Minecraft TNT is the Most Powerful?",
+      "videoUrl": "https://www.youtube.com/watch?v=yY0mNVLpDh8",
+      "videoId": "yY0mNVLpDh8",
+      "thumbnail": "https://i2.ytimg.com/vi/yY0mNVLpDh8/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-25",
+      "firstSeen": "2026-09-26",
+      "title": "SUZI'S Birthday! ?? | Cartoons for Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=ymCyu_Llyis",
+      "videoId": "ymCyu_Llyis",
+      "thumbnail": "https://i2.ytimg.com/vi/ymCyu_Llyis/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
