@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-09-27T14:21:11.531Z",
+  "generatedAt": "2026-09-27T16:21:14.731Z",
   "videos": [
+    {
+      "timestamp": "2026-09-27",
+      "firstSeen": "2026-09-27",
+      "title": "Exploring Waterland (Full Episode) | America the Beautiful ft. Michael B. Jordan | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=ojfcjbQ2b1Q",
+      "videoId": "ojfcjbQ2b1Q",
+      "thumbnail": "https://i4.ytimg.com/vi/ojfcjbQ2b1Q/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-27",
+      "firstSeen": "2026-09-27",
+      "title": "Underwater Animal Adventures! ? | America's National Parks Full Episode | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=7CghDWUJRI0",
+      "videoId": "7CghDWUJRI0",
+      "thumbnail": "https://i4.ytimg.com/vi/7CghDWUJRI0/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, art, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-27",
+      "firstSeen": "2026-09-27",
+      "title": "3 Hours of One SpongeBob Moment From EVERY Episode Ever ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=zY7P7ImIggM",
+      "videoId": "zY7P7ImIggM",
+      "thumbnail": "https://i3.ytimg.com/vi/zY7P7ImIggM/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-26",
       "firstSeen": "2026-09-26",
@@ -146,6 +212,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-26",
+      "firstSeen": "2026-09-27",
+      "title": "Chip Went To DRIVING SCHOOL in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=fBV-SaEo_pQ",
+      "videoId": "fBV-SaEo_pQ",
+      "thumbnail": "https://i3.ytimg.com/vi/fBV-SaEo_pQ/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-26",
+      "firstSeen": "2026-09-27",
+      "title": "The Hat Of The Medusa | Minuscule | 40' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=OUc8ryHInbQ",
+      "videoId": "OUc8ryHInbQ",
+      "thumbnail": "https://i4.ytimg.com/vi/OUc8ryHInbQ/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
