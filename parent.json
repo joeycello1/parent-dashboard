@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-09-28T14:21:21.199Z",
+  "generatedAt": "2026-09-28T16:21:20.843Z",
   "videos": [
+    {
+      "timestamp": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "title": "Mr. Bean Opens the Craziest Caf? Ever! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=w8zspAaSWdE",
+      "videoId": "w8zspAaSWdE",
+      "thumbnail": "https://i4.ytimg.com/vi/w8zspAaSWdE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "title": "Mr. Bean Has a Serious Flea Problem! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=S-JAiZ7kf4g",
+      "videoId": "S-JAiZ7kf4g",
+      "thumbnail": "https://i4.ytimg.com/vi/S-JAiZ7kf4g/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "title": "Positive Energy Across the World!??| Full Episode Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=TXr69MV_flw",
+      "videoId": "TXr69MV_flw",
+      "thumbnail": "https://i1.ytimg.com/vi/TXr69MV_flw/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "title": "Extreme Weather | Full Episodes | The Magic School Bus | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=6pdirSUS918",
+      "videoId": "6pdirSUS918",
+      "thumbnail": "https://i3.ytimg.com/vi/6pdirSUS918/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-27",
       "firstSeen": "2026-09-27",
@@ -58,6 +146,138 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "title": "Mr. Bean Becomes a Dog Walker! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=kEMYKs43fDA",
+      "videoId": "kEMYKs43fDA",
+      "thumbnail": "https://i4.ytimg.com/vi/kEMYKs43fDA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "title": "Mr. Bean Upgrades His Mini! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=p6d9LDyCEUw",
+      "videoId": "p6d9LDyCEUw",
+      "thumbnail": "https://i1.ytimg.com/vi/p6d9LDyCEUw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "title": "How Gelato is Made ? Making Stuff | FULL EPISODE | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=i_t61qJnLcc",
+      "videoId": "i_t61qJnLcc",
+      "thumbnail": "https://i2.ytimg.com/vi/i_t61qJnLcc/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "title": "How Stickers are Made | Making Stuff | FULL EPISODE | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=VqqbakZTkTk",
+      "videoId": "VqqbakZTkTk",
+      "thumbnail": "https://i3.ytimg.com/vi/VqqbakZTkTk/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "title": "Underwater Sea Creatures | The Science Behind Water Disasters |   Finding Stuff Out",
+      "videoUrl": "https://www.youtube.com/watch?v=ioY-jj_6Of4",
+      "videoId": "ioY-jj_6Of4",
+      "thumbnail": "https://i2.ytimg.com/vi/ioY-jj_6Of4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "title": "The Science Trick You Need to See | Epic Science Experiments! Science Max at Work",
+      "videoUrl": "https://www.youtube.com/watch?v=_e1Bp9TxN6M",
+      "videoId": "_e1Bp9TxN6M",
+      "thumbnail": "https://i4.ytimg.com/vi/_e1Bp9TxN6M/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
