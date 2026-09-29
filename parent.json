@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-09-29T14:21:17.955Z",
+  "generatedAt": "2026-09-29T16:21:14.339Z",
   "videos": [
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "title": "A Fly Ruins Mr. Bean?s Entire Night! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=q_ZmZyOiKUQ",
+      "videoId": "q_ZmZyOiKUQ",
+      "thumbnail": "https://i2.ytimg.com/vi/q_ZmZyOiKUQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "title": "Mr. Bean Goes Camping! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=aFl0PU61Eu0",
+      "videoId": "aFl0PU61Eu0",
+      "thumbnail": "https://i2.ytimg.com/vi/aFl0PU61Eu0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "title": "Dinos A to Z: Parasaurolophus | Learn fun facts about this interesting dinosaur!",
+      "videoUrl": "https://www.youtube.com/watch?v=9KoXkue43rI",
+      "videoId": "9KoXkue43rI",
+      "thumbnail": "https://i2.ytimg.com/vi/9KoXkue43rI/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "title": "What if these Deadliest Insect Bites You? ??? ? Centipede, Bullet Ant, Cockroach, Bed Bug & Others",
+      "videoUrl": "https://www.youtube.com/watch?v=AEx6-kPFygI",
+      "videoId": "AEx6-kPFygI",
+      "thumbnail": "https://i2.ytimg.com/vi/AEx6-kPFygI/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, bugs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "title": "Painting Fun | Funny Cartoons for Kids | Let's Go Bananas | 9 Story Fun",
+      "videoUrl": "https://www.youtube.com/watch?v=RNBBaMlhCNs",
+      "videoId": "RNBBaMlhCNs",
+      "thumbnail": "https://i3.ytimg.com/vi/RNBBaMlhCNs/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "title": "Wild Adventures in the Forest | Funny Cartoons for Kids | Open Season: Call of Nature",
+      "videoUrl": "https://www.youtube.com/watch?v=KxPbC94-o6Y",
+      "videoId": "KxPbC94-o6Y",
+      "thumbnail": "https://i4.ytimg.com/vi/KxPbC94-o6Y/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "title": "SpongeBob & Mr. Krabs TRY to Fix the Krusty Krab ? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=QGlKfbqEl5E",
+      "videoId": "QGlKfbqEl5E",
+      "thumbnail": "https://i2.ytimg.com/vi/QGlKfbqEl5E/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "title": "Why are AI data centers using so much electricity? - Sajan Saini",
+      "videoUrl": "https://www.youtube.com/watch?v=z3Y-gsBKChc",
+      "videoId": "z3Y-gsBKChc",
+      "thumbnail": "https://i3.ytimg.com/vi/z3Y-gsBKChc/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "title": "Trevor Zegras ? Looney Tunes Presents: Sports Talk with Bugs Bunny | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=-efvYl8m5n0",
+      "videoId": "-efvYl8m5n0",
+      "thumbnail": "https://i2.ytimg.com/vi/-efvYl8m5n0/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "title": "Daffy's Coffee Chaos! ? | Looney Tunes Cartoons | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=DmlYhxhqlIA",
+      "videoId": "DmlYhxhqlIA",
+      "thumbnail": "https://i1.ytimg.com/vi/DmlYhxhqlIA/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "daffy, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-28",
       "firstSeen": "2026-09-28",
@@ -74,6 +294,72 @@
       "videoUrl": "https://www.youtube.com/watch?v=6pdirSUS918",
       "videoId": "6pdirSUS918",
       "thumbnail": "https://i3.ytimg.com/vi/6pdirSUS918/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "title": "How To Draw A Haunted Monster Truck",
+      "videoUrl": "https://www.youtube.com/watch?v=kQcBPgfPEJ8",
+      "videoId": "kQcBPgfPEJ8",
+      "thumbnail": "https://i4.ytimg.com/vi/kQcBPgfPEJ8/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "title": "BOYS vs GIRLS: Swap Lives Challenge in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=TMuJAVqAGEk",
+      "videoId": "TMuJAVqAGEk",
+      "thumbnail": "https://i1.ytimg.com/vi/TMuJAVqAGEk/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "title": "The Search for Powers | Weird Waters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=WY3Xap92QEA",
+      "videoId": "WY3Xap92QEA",
+      "thumbnail": "https://i4.ytimg.com/vi/WY3Xap92QEA/hqdefault.jpg",
       "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
       "channelName": "Scholastic After School",
       "category": "Science",
