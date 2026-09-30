@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-09-30T14:21:14.853Z",
+  "generatedAt": "2026-09-30T16:21:16.944Z",
   "videos": [
+    {
+      "timestamp": "2026-09-30",
+      "firstSeen": "2026-09-30",
+      "title": "Mr. Bean?s Funniest Adventures With Billy! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=7Hoja90k73I",
+      "videoId": "7Hoja90k73I",
+      "thumbnail": "https://i4.ytimg.com/vi/7Hoja90k73I/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-30",
+      "firstSeen": "2026-09-30",
+      "title": "Mr. Bean Jumps Out of a Plane! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=hXL8J-MkNXs",
+      "videoId": "hXL8J-MkNXs",
+      "thumbnail": "https://i1.ytimg.com/vi/hXL8J-MkNXs/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-30",
+      "firstSeen": "2026-09-30",
+      "title": "Raw Power (Full Episode) | Superbeast | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=BZGQ6u1xB7s",
+      "videoId": "BZGQ6u1xB7s",
+      "thumbnail": "https://i3.ytimg.com/vi/BZGQ6u1xB7s/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-30",
+      "firstSeen": "2026-09-30",
+      "title": "Battle of the Birds: Eagles vs. Hawks vs. Owls | Whoa Factor | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=nXjhakGU9dM",
+      "videoId": "nXjhakGU9dM",
+      "thumbnail": "https://i3.ytimg.com/vi/nXjhakGU9dM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-30",
+      "firstSeen": "2026-09-30",
+      "title": "1 Hour of SpongeBob and Patrick Being Annoying Neighbors ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=PqPklzqhZv8",
+      "videoId": "PqPklzqhZv8",
+      "thumbnail": "https://i1.ytimg.com/vi/PqPklzqhZv8/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-29",
       "firstSeen": "2026-09-29",
@@ -212,6 +322,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "daffy, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-29",
+      "firstSeen": "2026-09-30",
+      "title": "? LIVE! Scooby-Doo, Where Are You? FULL EPISODES ? | #Scoobtober ?? | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=kRn_n6uoc9M",
+      "videoId": "kRn_n6uoc9M",
+      "thumbnail": "https://i4.ytimg.com/vi/kRn_n6uoc9M/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
       "watched": {
         "jonah": false,
         "kieran": false
