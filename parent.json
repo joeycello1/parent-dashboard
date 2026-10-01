@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-10-01T14:21:17.303Z",
+  "generatedAt": "2026-10-01T16:21:16.133Z",
   "videos": [
+    {
+      "timestamp": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "title": "How To Draw Marshall From PAW Patrol: The Dino Movie",
+      "videoUrl": "https://www.youtube.com/watch?v=PrjGvyweh8w",
+      "videoId": "PrjGvyweh8w",
+      "thumbnail": "https://i1.ytimg.com/vi/PrjGvyweh8w/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "title": "Mr. Bean and Teddy's Craziest Adventures! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=PSPtRsqthvA",
+      "videoId": "PSPtRsqthvA",
+      "thumbnail": "https://i1.ytimg.com/vi/PSPtRsqthvA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "title": "Mr. Bean's Fake Identity Gets Him a Date! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=meSbBziE2eI",
+      "videoId": "meSbBziE2eI",
+      "thumbnail": "https://i2.ytimg.com/vi/meSbBziE2eI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "title": "What Is Veterans Day? | Learn about this special holiday once known as Armistice Day",
+      "videoUrl": "https://www.youtube.com/watch?v=Aqd7xTx_edU",
+      "videoId": "Aqd7xTx_edU",
+      "thumbnail": "https://i2.ytimg.com/vi/Aqd7xTx_edU/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "title": "Jaguar Bites and More Jungle Superpowers | Super Animals Full Episode | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=Xytw4wAWDMg",
+      "videoId": "Xytw4wAWDMg",
+      "thumbnail": "https://i1.ytimg.com/vi/Xytw4wAWDMg/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "title": "SpongeBob FAILS to Make Krabby Patties for 10 Minutes Straight! ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=ZdmhAA3yk0U",
+      "videoId": "ZdmhAA3yk0U",
+      "thumbnail": "https://i3.ytimg.com/vi/ZdmhAA3yk0U/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "title": "6 ways to be more persuasive",
+      "videoUrl": "https://www.youtube.com/watch?v=G3hXvByzLHs",
+      "videoId": "G3hXvByzLHs",
+      "thumbnail": "https://i4.ytimg.com/vi/G3hXvByzLHs/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "title": "Live action moments that rewired my brain ??? | Scooby-Doo! | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=01Fs12NfhL0",
+      "videoId": "01Fs12NfhL0",
+      "thumbnail": "https://i1.ytimg.com/vi/01Fs12NfhL0/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "title": "The Butterfly Effect | Minuscule | 25' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=_9lqsgCpfNE",
+      "videoId": "_9lqsgCpfNE",
+      "thumbnail": "https://i4.ytimg.com/vi/_9lqsgCpfNE/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-30",
       "firstSeen": "2026-09-30",
@@ -102,6 +300,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-30",
+      "firstSeen": "2026-10-01",
+      "title": "Minecraft, But I Can TIME TRAVEL",
+      "videoUrl": "https://www.youtube.com/watch?v=7tIXGjL6REI",
+      "videoId": "7tIXGjL6REI",
+      "thumbnail": "https://i4.ytimg.com/vi/7tIXGjL6REI/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
