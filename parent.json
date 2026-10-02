@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-10-02T14:21:15.298Z",
+  "generatedAt": "2026-10-02T16:21:27.931Z",
   "videos": [
+    {
+      "timestamp": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "title": "Mr. Bean Loses Control of the Dogs! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=JLo4FmbYWK8",
+      "videoId": "JLo4FmbYWK8",
+      "thumbnail": "https://i3.ytimg.com/vi/JLo4FmbYWK8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "title": "Mr. Bean Tricks the Deliveryman! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Z6ABXU4tAxc",
+      "videoId": "Z6ABXU4tAxc",
+      "thumbnail": "https://i3.ytimg.com/vi/Z6ABXU4tAxc/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "title": "Monster Jam Trucks SMASH & BASH COMPILATION (Freestyle Arena, Treadmill Racing & Smash Bot Playset)",
+      "videoUrl": "https://www.youtube.com/watch?v=nxj3_6npL5Y",
+      "videoId": "nxj3_6npL5Y",
+      "thumbnail": "https://i3.ytimg.com/vi/nxj3_6npL5Y/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "title": "Strange Animal Relationships (Full Episode) | Super/Natural | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=he8iI9_ioyk",
+      "videoId": "he8iI9_ioyk",
+      "thumbnail": "https://i1.ytimg.com/vi/he8iI9_ioyk/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "title": "Persephone's Trip to the Underworld Explained | Greeking Out Podcast | S5 E1 FULL EP | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=Xt90Af7_0i8",
+      "videoId": "Xt90Af7_0i8",
+      "thumbnail": "https://i1.ytimg.com/vi/Xt90Af7_0i8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "title": "Inspiring Story of Mahatma Gandhi | Indian Freedom Fighter | The Salt March | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=ZrN4y4zyJ1c",
+      "videoId": "ZrN4y4zyJ1c",
+      "thumbnail": "https://i3.ytimg.com/vi/ZrN4y4zyJ1c/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "title": "Strained Peas & Other Scary Stories | Full Episodes | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=j1wjMkXlDsg",
+      "videoId": "j1wjMkXlDsg",
+      "thumbnail": "https://i3.ytimg.com/vi/j1wjMkXlDsg/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "stories, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "title": "SpongeBob's Best Costumes Ever ? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=unhBeDeAuZQ",
+      "videoId": "unhBeDeAuZQ",
+      "thumbnail": "https://i2.ytimg.com/vi/unhBeDeAuZQ/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "title": "? LIVE: SpongeBob's Most Iconic Moments from Classic Episodes ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=SkjgMm6xRbg",
+      "videoId": "SkjgMm6xRbg",
+      "thumbnail": "https://i4.ytimg.com/vi/SkjgMm6xRbg/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "title": "Spooky Season! ?? | Tom and Jerry Gokko FULL EPISODES | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=LwtrMPCg3J8",
+      "videoId": "LwtrMPCg3J8",
+      "thumbnail": "https://i1.ytimg.com/vi/LwtrMPCg3J8/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-01",
       "firstSeen": "2026-10-01",
@@ -322,6 +542,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-30",
+      "firstSeen": "2026-10-02",
+      "title": "? LIVE: Surviving Animal Rivalries | Animal Fight Night Livestream | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=Qp2BQr6BaPk",
+      "videoId": "Qp2BQr6BaPk",
+      "thumbnail": "https://i2.ytimg.com/vi/Qp2BQr6BaPk/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, science, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-30",
+      "firstSeen": "2026-10-02",
+      "title": "? LIVE: Inside the World of Freaky Animals | Halloween Livestream | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=R7Jfda-StTA",
+      "videoId": "R7Jfda-StTA",
+      "thumbnail": "https://i3.ytimg.com/vi/R7Jfda-StTA/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
       "watched": {
         "jonah": false,
         "kieran": false
