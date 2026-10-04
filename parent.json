@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-10-04T14:21:12.100Z",
+  "generatedAt": "2026-10-04T16:21:15.053Z",
   "videos": [
+    {
+      "timestamp": "2026-10-04",
+      "firstSeen": "2026-10-04",
+      "title": "Mr. Bean Nails His First Skydive! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=WYgnwtK1les",
+      "videoId": "WYgnwtK1les",
+      "thumbnail": "https://i4.ytimg.com/vi/WYgnwtK1les/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-04",
+      "firstSeen": "2026-10-04",
+      "title": "Mr. Bean Turns a Peaceful Spa Into Chaos! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=j5u3BiKbWFM",
+      "videoId": "j5u3BiKbWFM",
+      "thumbnail": "https://i3.ytimg.com/vi/j5u3BiKbWFM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-04",
+      "firstSeen": "2026-10-04",
+      "title": "Ambushed By Wild Animals | Something Bit Me! MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=T4_HO5rdfGk",
+      "videoId": "T4_HO5rdfGk",
+      "thumbnail": "https://i1.ytimg.com/vi/T4_HO5rdfGk/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-04",
+      "firstSeen": "2026-10-04",
+      "title": "Space Rockets and Sneakers ?? | Made in a Day Full Episode | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=aPKGR4MQlXw",
+      "videoId": "aPKGR4MQlXw",
+      "thumbnail": "https://i2.ytimg.com/vi/aPKGR4MQlXw/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-04",
+      "firstSeen": "2026-10-04",
+      "title": "4 Hours of the Funniest SpongeBob Moments ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=mdvZryuJ4QA",
+      "videoId": "mdvZryuJ4QA",
+      "thumbnail": "https://i2.ytimg.com/vi/mdvZryuJ4QA/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-03",
+      "firstSeen": "2026-10-04",
+      "title": "POOR vs RICH: Power PICKAXE BATTLE in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=TgPQvNRC_j4",
+      "videoId": "TgPQvNRC_j4",
+      "thumbnail": "https://i1.ytimg.com/vi/TgPQvNRC_j4/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-03",
+      "firstSeen": "2026-10-04",
+      "title": "Brushing | Minuscule | 40' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=zWcEbSlP9VM",
+      "videoId": "zWcEbSlP9VM",
+      "thumbnail": "https://i3.ytimg.com/vi/zWcEbSlP9VM/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-02",
       "firstSeen": "2026-10-02",
