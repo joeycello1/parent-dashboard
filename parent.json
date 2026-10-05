@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-10-05T14:21:30.370Z",
+  "generatedAt": "2026-10-05T16:21:14.084Z",
   "videos": [
+    {
+      "timestamp": "2026-10-05",
+      "firstSeen": "2026-10-05",
+      "title": "How To Draw A Pumpkin Candy Bucket",
+      "videoUrl": "https://www.youtube.com/watch?v=Y7c7avmlCnw",
+      "videoId": "Y7c7avmlCnw",
+      "thumbnail": "https://i2.ytimg.com/vi/Y7c7avmlCnw/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-05",
+      "firstSeen": "2026-10-05",
+      "title": "Mr. Bean Tries to Get Scrapper Clean! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=HYsBQqg0ctg",
+      "videoId": "HYsBQqg0ctg",
+      "thumbnail": "https://i1.ytimg.com/vi/HYsBQqg0ctg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-05",
+      "firstSeen": "2026-10-05",
+      "title": "Mr. Bean Steals Mrs. Wicket?s New Chair! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=01Up-l737Cg",
+      "videoId": "01Up-l737Cg",
+      "thumbnail": "https://i1.ytimg.com/vi/01Up-l737Cg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-05",
+      "firstSeen": "2026-10-05",
+      "title": "Kids Pretend ? We Become a PUPPY, MONSTER TRUCK DRIVER & BABY For a Day - COMPILATION",
+      "videoUrl": "https://www.youtube.com/watch?v=TeVyw3IG6F8",
+      "videoId": "TeVyw3IG6F8",
+      "thumbnail": "https://i1.ytimg.com/vi/TeVyw3IG6F8/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-05",
+      "firstSeen": "2026-10-05",
+      "title": "2 Hours of America's Funniest Videos: Animal Edition | Full Episode Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=HwSarE09HqE",
+      "videoId": "HwSarE09HqE",
+      "thumbnail": "https://i1.ytimg.com/vi/HwSarE09HqE/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-05",
+      "firstSeen": "2026-10-05",
+      "title": "Fun Physics Lessons | Full Episodes | The Magic School Bus | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=avh8SmPFJ1I",
+      "videoId": "avh8SmPFJ1I",
+      "thumbnail": "https://i2.ytimg.com/vi/avh8SmPFJ1I/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-05",
+      "firstSeen": "2026-10-05",
+      "title": "Room on the Broom' read by Kate Winslet",
+      "videoUrl": "https://www.youtube.com/watch?v=qg6KK0iv9QI",
+      "videoId": "qg6KK0iv9QI",
+      "thumbnail": "https://i2.ytimg.com/vi/qg6KK0iv9QI/hqdefault.jpg",
+      "channelID": "UCnBdzaRy-Ky9Vh54XJlFz1Q",
+      "channelName": "StoryLineOnline",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 600,
+      "keyword": "storylineonline",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-04",
       "firstSeen": "2026-10-04",
@@ -102,6 +256,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-04",
+      "firstSeen": "2026-10-05",
+      "title": "Can You See in the Dark | Spooky Fun for Halloween! | Finding Stuff Out",
+      "videoUrl": "https://www.youtube.com/watch?v=TanVvq-n5SA",
+      "videoId": "TanVvq-n5SA",
+      "thumbnail": "https://i1.ytimg.com/vi/TanVvq-n5SA/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
