@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-10-06T14:21:24.759Z",
+  "generatedAt": "2026-10-06T16:21:15.635Z",
   "videos": [
+    {
+      "timestamp": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "title": "How To Draw A Skateboarding Skeleton",
+      "videoUrl": "https://www.youtube.com/watch?v=7tylcOBB2Ts",
+      "videoId": "7tylcOBB2Ts",
+      "thumbnail": "https://i4.ytimg.com/vi/7tylcOBB2Ts/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "title": "Bean Builds the Craziest Caravan Ever! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=e7XUwbqYQMo",
+      "videoId": "e7XUwbqYQMo",
+      "thumbnail": "https://i2.ytimg.com/vi/e7XUwbqYQMo/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "title": "Mr. Bean Drives His Mini Into a Slurry Pit! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=QJESZ-6NoOM",
+      "videoId": "QJESZ-6NoOM",
+      "thumbnail": "https://i2.ytimg.com/vi/QJESZ-6NoOM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "title": "Butterfly Life Cycle Song | Sing along to this fun song!",
+      "videoUrl": "https://www.youtube.com/watch?v=5vp46VjRpJs",
+      "videoId": "5vp46VjRpJs",
+      "thumbnail": "https://i2.ytimg.com/vi/5vp46VjRpJs/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "title": "Myth vs Reality | What If a Centipede Enters Your Ear? | Do Centipedes Eat Human Brain? | Dr. Binocs",
+      "videoUrl": "https://www.youtube.com/watch?v=M5ddG9m6cRk",
+      "videoId": "M5ddG9m6cRk",
+      "thumbnail": "https://i2.ytimg.com/vi/M5ddG9m6cRk/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "title": "SpongeBob's Scariest Halloween Costume ?? | Classic Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=QQCO-KAtapk",
+      "videoId": "QQCO-KAtapk",
+      "thumbnail": "https://i2.ytimg.com/vi/QQCO-KAtapk/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "title": "Why is Queen Victoria so controversial? - Carolyn Harris",
+      "videoUrl": "https://www.youtube.com/watch?v=JjhrN0FcHpM",
+      "videoId": "JjhrN0FcHpM",
+      "thumbnail": "https://i3.ytimg.com/vi/JjhrN0FcHpM/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "title": "Costume Contest! ?????? | Looney Tuesdays | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=RbYjoJWdHHI",
+      "videoId": "RbYjoJWdHHI",
+      "thumbnail": "https://i3.ytimg.com/vi/RbYjoJWdHHI/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-05",
       "firstSeen": "2026-10-05",
@@ -146,6 +322,50 @@
       "profile": "Both",
       "retentionDays": 600,
       "keyword": "storylineonline",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-05",
+      "firstSeen": "2026-10-06",
+      "title": "The Sad Story of the Duck Song",
+      "videoUrl": "https://www.youtube.com/watch?v=B9yYORp5-y4",
+      "videoId": "B9yYORp5-y4",
+      "thumbnail": "https://i3.ytimg.com/vi/B9yYORp5-y4/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-05",
+      "firstSeen": "2026-10-06",
+      "title": "The Stinkiest Day Ever! | Weird Waters | Cartoons for Kids | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=UQfru3S9TYw",
+      "videoId": "UQfru3S9TYw",
+      "thumbnail": "https://i2.ytimg.com/vi/UQfru3S9TYw/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
