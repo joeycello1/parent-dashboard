@@ -1,6 +1,248 @@
 {
-  "generatedAt": "2026-10-08T14:21:14.530Z",
+  "generatedAt": "2026-10-08T16:21:25.493Z",
   "videos": [
+    {
+      "timestamp": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "title": "Mr. Bean Turns Into an Old Man! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=tn-gT2lm8wI",
+      "videoId": "tn-gT2lm8wI",
+      "thumbnail": "https://i1.ytimg.com/vi/tn-gT2lm8wI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "title": "Mr Bean Season 1 All Episodes | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Kt5tiaK0VsI",
+      "videoId": "Kt5tiaK0VsI",
+      "thumbnail": "https://i4.ytimg.com/vi/Kt5tiaK0VsI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "title": "Crash Course Kids Literature ? Full Series",
+      "videoUrl": "https://www.youtube.com/watch?v=3WWm929hbTw",
+      "videoId": "3WWm929hbTw",
+      "thumbnail": "https://i4.ytimg.com/vi/3WWm929hbTw/hqdefault.jpg",
+      "channelID": "UCONtPx56PSebXJOxbFv-2jQ",
+      "channelName": "Crash Course Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 9999,
+      "keyword": "crash course, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "title": "Groundhog Day Fun Facts | Learn interesting facts about the fun holiday of Groundhog Day!",
+      "videoUrl": "https://www.youtube.com/watch?v=QArSElA1gV8",
+      "videoId": "QArSElA1gV8",
+      "thumbnail": "https://i2.ytimg.com/vi/QArSElA1gV8/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "title": "Weird But True Full Episode | The Science Behind Your Senses! | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=Df49TC9NONk",
+      "videoId": "Df49TC9NONk",
+      "thumbnail": "https://i1.ytimg.com/vi/Df49TC9NONk/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, science, educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "title": "Craziest Transformations on SpongeBob SquarePants ? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=NOUqkgG4XHw",
+      "videoId": "NOUqkgG4XHw",
+      "thumbnail": "https://i3.ytimg.com/vi/NOUqkgG4XHw/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "title": "Which is better: Buying or renting a home? - Ella Feldman",
+      "videoUrl": "https://www.youtube.com/watch?v=h6CmKF-mN2U",
+      "videoId": "h6CmKF-mN2U",
+      "thumbnail": "https://i1.ytimg.com/vi/h6CmKF-mN2U/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "title": "Happy Halloween MARATHON! ?? | Scooby-Doo! MEGA COMP | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=QKxULLBwxBk",
+      "videoId": "QKxULLBwxBk",
+      "thumbnail": "https://i2.ytimg.com/vi/QKxULLBwxBk/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "title": "A Bee?s Night Out ? Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=Iz0bEHEKdw8",
+      "videoId": "Iz0bEHEKdw8",
+      "thumbnail": "https://i2.ytimg.com/vi/Iz0bEHEKdw8/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-07",
+      "firstSeen": "2026-10-08",
+      "title": "NOOB vs PRO: CAT IN THE HAT Safest Security House Build Challenge to Protect My Family",
+      "videoUrl": "https://www.youtube.com/watch?v=BuW21pe_HHY",
+      "videoId": "BuW21pe_HHY",
+      "thumbnail": "https://i3.ytimg.com/vi/BuW21pe_HHY/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-07",
+      "firstSeen": "2026-10-08",
+      "title": "100 Minutes of Squidward at the Krusty Krab ?? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=VriqTNGLovc",
+      "videoId": "VriqTNGLovc",
+      "thumbnail": "https://i3.ytimg.com/vi/VriqTNGLovc/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-06",
       "firstSeen": "2026-10-06",
