@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:21:18.542Z",
+  "generatedAt": "2026-10-09T04:21:15.175Z",
   "videos": [
     {
       "timestamp": "2026-10-08",
@@ -10178,28 +10178,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-10",
-      "firstSeen": "2026-08-10",
-      "title": "Lyla in the Loop FULL EPISODE | Lyla Can't Sleep / Hairdos and Hair Don'ts ? | PBS KIDS",
-      "videoUrl": "https://www.youtube.com/watch?v=DTiFLCTSqYg",
-      "videoId": "DTiFLCTSqYg",
-      "thumbnail": "https://i1.ytimg.com/vi/DTiFLCTSqYg/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "PBS Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
