@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-10-09T14:21:19.219Z",
+  "generatedAt": "2026-10-09T16:21:20.864Z",
   "videos": [
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "title": "1 Hour of Halloween Drawing Fun! ? Easy Art Lessons for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=dgMuNfIZ0Kw",
+      "videoId": "dgMuNfIZ0Kw",
+      "thumbnail": "https://i1.ytimg.com/vi/dgMuNfIZ0Kw/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "title": "Mr. Bean Starts a Perfume Business! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=tntFy0rev-s",
+      "videoId": "tntFy0rev-s",
+      "thumbnail": "https://i1.ytimg.com/vi/tntFy0rev-s/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "title": "Mr. Bean Tries to Sneak Into a Shop! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=n6vnVv9dvrs",
+      "videoId": "n6vnVv9dvrs",
+      "thumbnail": "https://i3.ytimg.com/vi/n6vnVv9dvrs/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "title": "Trust Me, I Know a Shortcut | New Mr Bean Episodes | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=I31VcaTv288",
+      "videoId": "I31VcaTv288",
+      "thumbnail": "https://i2.ytimg.com/vi/I31VcaTv288/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "title": "Kids Pretend ? We Found Pirate Monkey's SECRET Treasure in Our Backyard!",
+      "videoUrl": "https://www.youtube.com/watch?v=3YuMFlld3lE",
+      "videoId": "3YuMFlld3lE",
+      "thumbnail": "https://i4.ytimg.com/vi/3YuMFlld3lE/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "title": "Surviving A Moose Ambush (Full Episode) | Alaska's Grizzly Gauntlet | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=05D-2XWJuuQ",
+      "videoId": "05D-2XWJuuQ",
+      "thumbnail": "https://i1.ytimg.com/vi/05D-2XWJuuQ/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "title": "The One Where a Marble Statue Comes to Life | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=w4n93HV5i-Q",
+      "videoId": "w4n93HV5i-Q",
+      "thumbnail": "https://i4.ytimg.com/vi/w4n93HV5i-Q/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "title": "Dangerous Flash Flood | What Causes a Flash Flood? | Nepal Flood Disaster | The Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=iuBwLacRFeI",
+      "videoId": "iuBwLacRFeI",
+      "thumbnail": "https://i2.ytimg.com/vi/iuBwLacRFeI/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "title": "SpongeBob's Best Krabby Patty Moments from NEWER Episodes ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=2yQ5GbgjTK4",
+      "videoId": "2yQ5GbgjTK4",
+      "thumbnail": "https://i3.ytimg.com/vi/2yQ5GbgjTK4/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-08",
       "firstSeen": "2026-10-08",
