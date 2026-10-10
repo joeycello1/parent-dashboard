@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-10-10T14:21:20.243Z",
+  "generatedAt": "2026-10-10T16:21:18.979Z",
   "videos": [
+    {
+      "timestamp": "2026-10-10",
+      "firstSeen": "2026-10-10",
+      "title": "Mr. Bean Tries to Stop a Birthday Card Delivery! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=3Q0FrnRxMUA",
+      "videoId": "3Q0FrnRxMUA",
+      "thumbnail": "https://i4.ytimg.com/vi/3Q0FrnRxMUA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-10",
+      "firstSeen": "2026-10-10",
+      "title": "Mr. Bean Sneaks Into a Museum! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=GrY6rDHpRBo",
+      "videoId": "GrY6rDHpRBo",
+      "thumbnail": "https://i4.ytimg.com/vi/GrY6rDHpRBo/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-10",
+      "firstSeen": "2026-10-10",
+      "title": "Inside the Deadly World of Snakes | MEGA Episode Special | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=QLPSmDCITHg",
+      "videoId": "QLPSmDCITHg",
+      "thumbnail": "https://i2.ytimg.com/vi/QLPSmDCITHg/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-10",
+      "firstSeen": "2026-10-10",
+      "title": "Halloween Animals in REAL Life! ? Learn some Fun Facts about Bats, Spiders, and Owls! | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=iAIpKDObuWg",
+      "videoId": "iAIpKDObuWg",
+      "thumbnail": "https://i2.ytimg.com/vi/iAIpKDObuWg/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-10",
+      "firstSeen": "2026-10-10",
+      "title": "1 Hour of SpongeBob's Weirdest Creatures ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=Oh1FEGT5t80",
+      "videoId": "Oh1FEGT5t80",
+      "thumbnail": "https://i4.ytimg.com/vi/Oh1FEGT5t80/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-10",
+      "firstSeen": "2026-10-10",
+      "title": "Looney Tunes | Wile E. Coyote vs Road Runner Mega Compilation | Vol. 12 | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=06tEl6aackM",
+      "videoId": "06tEl6aackM",
+      "thumbnail": "https://i1.ytimg.com/vi/06tEl6aackM/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "road runner",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-10",
+      "firstSeen": "2026-10-10",
+      "title": "TERRIFYING Tales ? | Tom and Jerry Tales | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=ugZMQUnfqss",
+      "videoId": "ugZMQUnfqss",
+      "thumbnail": "https://i2.ytimg.com/vi/ugZMQUnfqss/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-09",
       "firstSeen": "2026-10-09",
@@ -190,6 +344,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-10",
+      "title": "SQUISHY BUTTER Rises Every Minute",
+      "videoUrl": "https://www.youtube.com/watch?v=HSR8J0Wt0tE",
+      "videoId": "HSR8J0Wt0tE",
+      "thumbnail": "https://i1.ytimg.com/vi/HSR8J0Wt0tE/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-09",
+      "firstSeen": "2026-10-10",
+      "title": "Halloween Fun at Camp Lakebottom! ? Kids Cartoon Compilation | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=-nEbFi4BXtk",
+      "videoId": "-nEbFi4BXtk",
+      "thumbnail": "https://i2.ytimg.com/vi/-nEbFi4BXtk/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
