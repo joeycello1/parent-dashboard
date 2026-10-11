@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-10-11T14:21:17.728Z",
+  "generatedAt": "2026-10-11T16:21:11.438Z",
   "videos": [
+    {
+      "timestamp": "2026-10-11",
+      "firstSeen": "2026-10-11",
+      "title": "Mr. Bean Gives Mrs. Wicket a Secret Massage! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=DywuDjb_wrU",
+      "videoId": "DywuDjb_wrU",
+      "thumbnail": "https://i1.ytimg.com/vi/DywuDjb_wrU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-11",
+      "firstSeen": "2026-10-11",
+      "title": "Mr. Bean Challenges Bruiser Jr. at the Skate Park! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=c8YxExSHBXw",
+      "videoId": "c8YxExSHBXw",
+      "thumbnail": "https://i4.ytimg.com/vi/c8YxExSHBXw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-11",
+      "firstSeen": "2026-10-11",
+      "title": "Surviving the Ancient Grasslands (Full Episode) | Hidden Kingdoms of China | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=76yuzQuhymE",
+      "videoId": "76yuzQuhymE",
+      "thumbnail": "https://i4.ytimg.com/vi/76yuzQuhymE/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-11",
+      "firstSeen": "2026-10-11",
+      "title": "We Built a HUMAN-SIZED Wasps Nest | Live Like an Animal Full Episode | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=wEz-NB7CRp0",
+      "videoId": "wEz-NB7CRp0",
+      "thumbnail": "https://i4.ytimg.com/vi/wEz-NB7CRp0/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-11",
+      "firstSeen": "2026-10-11",
+      "title": "3 Hours of SpongeBob's Spookiest Adventures at NIGHT ?? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=pwdLHjudj9Q",
+      "videoId": "pwdLHjudj9Q",
+      "thumbnail": "https://i1.ytimg.com/vi/pwdLHjudj9Q/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-10",
       "firstSeen": "2026-10-10",
@@ -146,6 +256,72 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-10",
+      "firstSeen": "2026-10-11",
+      "title": "Chip vs Milo vs Friends: CHUNK House Battle in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=sgzoqGASq-0",
+      "videoId": "sgzoqGASq-0",
+      "thumbnail": "https://i4.ytimg.com/vi/sgzoqGASq-0/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-10",
+      "firstSeen": "2026-10-11",
+      "title": "Halloween Pumpkin Carving Using Water | Halloween Science | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=24SQBz-TxvE",
+      "videoId": "24SQBz-TxvE",
+      "thumbnail": "https://i3.ytimg.com/vi/24SQBz-TxvE/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-10",
+      "firstSeen": "2026-10-11",
+      "title": "Bless You! ? Minuscule | 55' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=vMN8kL9W9kA",
+      "videoId": "vMN8kL9W9kA",
+      "thumbnail": "https://i3.ytimg.com/vi/vMN8kL9W9kA/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
