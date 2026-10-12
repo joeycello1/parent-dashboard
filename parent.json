@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-10-12T14:21:13.241Z",
+  "generatedAt": "2026-10-12T16:21:20.985Z",
   "videos": [
+    {
+      "timestamp": "2026-10-12",
+      "firstSeen": "2026-10-12",
+      "title": "How To Draw A Halloween Pumpkin House",
+      "videoUrl": "https://www.youtube.com/watch?v=TxQ8haK5u6Q",
+      "videoId": "TxQ8haK5u6Q",
+      "thumbnail": "https://i1.ytimg.com/vi/TxQ8haK5u6Q/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-12",
+      "firstSeen": "2026-10-12",
+      "title": "Mr. Bean's Haunted House Nightmare! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=QUmd3oWw10w",
+      "videoId": "QUmd3oWw10w",
+      "thumbnail": "https://i2.ytimg.com/vi/QUmd3oWw10w/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-12",
+      "firstSeen": "2026-10-12",
+      "title": "Mr. Bean Takes on the Ultimate Charity Challenge! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=oU6g6KDKlFw",
+      "videoId": "oU6g6KDKlFw",
+      "thumbnail": "https://i4.ytimg.com/vi/oU6g6KDKlFw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-12",
+      "firstSeen": "2026-10-12",
+      "title": "Kids React to Black Rain Frogs | Africa Earth's Wild Home | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=Uk7NdsKaREM",
+      "videoId": "Uk7NdsKaREM",
+      "thumbnail": "https://i2.ytimg.com/vi/Uk7NdsKaREM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-12",
+      "firstSeen": "2026-10-12",
+      "title": "Exploring Earth's Closest Neighbors | A Traveler's Guide to the Planets Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=G59TqTjtuhg",
+      "videoId": "G59TqTjtuhg",
+      "thumbnail": "https://i4.ytimg.com/vi/G59TqTjtuhg/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-11",
       "firstSeen": "2026-10-11",
