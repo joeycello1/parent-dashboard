@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-10-13T14:21:15.799Z",
+  "generatedAt": "2026-10-13T16:21:24.619Z",
   "videos": [
+    {
+      "timestamp": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "title": "Mr. Bean Turns His Home Into a Hotel! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=NmcTzbHN3zw",
+      "videoId": "NmcTzbHN3zw",
+      "thumbnail": "https://i3.ytimg.com/vi/NmcTzbHN3zw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "title": "Mr. Bean's Scariest Bookshop Adventure! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=nIAi9nPpvkk",
+      "videoId": "nIAi9nPpvkk",
+      "thumbnail": "https://i3.ytimg.com/vi/nIAi9nPpvkk/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "title": "Dinos A to Z: Fukuisaurus | Learn about a super unique dinosaur!",
+      "videoUrl": "https://www.youtube.com/watch?v=QLN8eqUfkUw",
+      "videoId": "QLN8eqUfkUw",
+      "thumbnail": "https://i2.ytimg.com/vi/QLN8eqUfkUw/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "title": "Stinkiest Animal Facts | What if a Skunk Sprays On You? | Skunk Defense Mechanisms | Dr. Binocs",
+      "videoUrl": "https://www.youtube.com/watch?v=i-C8P9H86Ps",
+      "videoId": "i-C8P9H86Ps",
+      "thumbnail": "https://i2.ytimg.com/vi/i-C8P9H86Ps/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "title": "SpongeBob's Peanut Makes an Oyster CRY ?? | Classic Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=NjpUAahGaQc",
+      "videoId": "NjpUAahGaQc",
+      "thumbnail": "https://i3.ytimg.com/vi/NjpUAahGaQc/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "title": "How to present your ideas effectively",
+      "videoUrl": "https://www.youtube.com/watch?v=1uTRlM6MbMo",
+      "videoId": "1uTRlM6MbMo",
+      "thumbnail": "https://i2.ytimg.com/vi/1uTRlM6MbMo/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "title": "Tweety Bird as a Ghost ?! ? | Looney Tunes | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=8Cba23R8IJw",
+      "videoId": "8Cba23R8IJw",
+      "thumbnail": "https://i1.ytimg.com/vi/8Cba23R8IJw/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "tweety, scooby, sylvester",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-12",
       "firstSeen": "2026-10-12",
@@ -102,6 +256,72 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "title": "My Mom is PREGNANT with TWINS!",
+      "videoUrl": "https://www.youtube.com/watch?v=XjxZidmOHDw",
+      "videoId": "XjxZidmOHDw",
+      "thumbnail": "https://i1.ytimg.com/vi/XjxZidmOHDw/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "title": "The BIG Bun Bun Race A Wild Underwater Adventure! ? | Weird Waters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=JmYkgQEeLik",
+      "videoId": "JmYkgQEeLik",
+      "thumbnail": "https://i3.ytimg.com/vi/JmYkgQEeLik/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "title": "Dogs! Dogs | Learn about Paw Friends | Finding Stuff Out | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=Nr9ZX0kW1y0",
+      "videoId": "Nr9ZX0kW1y0",
+      "thumbnail": "https://i3.ytimg.com/vi/Nr9ZX0kW1y0/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
