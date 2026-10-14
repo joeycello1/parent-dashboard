@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-10-14T14:21:24.006Z",
+  "generatedAt": "2026-10-14T16:21:16.387Z",
   "videos": [
+    {
+      "timestamp": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "title": "Mr. Bean Takes on a Fancy Coffee Shop! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Pq6QyXFUBgM",
+      "videoId": "Pq6QyXFUBgM",
+      "thumbnail": "https://i1.ytimg.com/vi/Pq6QyXFUBgM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "title": "Mr. Bean Hunts for a Rare Star! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=u--QB3WBnCg",
+      "videoId": "u--QB3WBnCg",
+      "thumbnail": "https://i2.ytimg.com/vi/u--QB3WBnCg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "title": "Monsters of the Wild: Wonderfully Weird (Full Episode) | SPECIAL | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=IhYS2vLTSbc",
+      "videoId": "IhYS2vLTSbc",
+      "thumbnail": "https://i2.ytimg.com/vi/IhYS2vLTSbc/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "title": "Pigs vs. Cows vs. Goats: Barnyard Showdown! | Whoa Factor | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=CGEtugYEJok",
+      "videoId": "CGEtugYEJok",
+      "thumbnail": "https://i4.ytimg.com/vi/CGEtugYEJok/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "title": "1 Hour of SpongeBob's Grossest Moments Ever ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=GmWDjJmCKRg",
+      "videoId": "GmWDjJmCKRg",
+      "thumbnail": "https://i4.ytimg.com/vi/GmWDjJmCKRg/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "title": "2001: A Space Odyssey | HAL Reads Lips | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=HzhCofL7qIo",
+      "videoId": "HzhCofL7qIo",
+      "thumbnail": "https://i1.ytimg.com/vi/HzhCofL7qIo/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-13",
       "firstSeen": "2026-10-13",
@@ -146,6 +278,72 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "tweety, scooby, sylvester",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "title": "How To Draw Frankenstein Big Mouth",
+      "videoUrl": "https://www.youtube.com/watch?v=ga8wyomPt68",
+      "videoId": "ga8wyomPt68",
+      "thumbnail": "https://i4.ytimg.com/vi/ga8wyomPt68/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "title": "Chore Wars at Camp Wild | Funny Cartoons for Kids | Open Season: Call of Nature",
+      "videoUrl": "https://www.youtube.com/watch?v=fxLf7hGGyjE",
+      "videoId": "fxLf7hGGyjE",
+      "thumbnail": "https://i3.ytimg.com/vi/fxLf7hGGyjE/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "title": "Bedtime Snuggles ? | Cartoons for Kids | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=cMD0KOBUrPc",
+      "videoId": "cMD0KOBUrPc",
+      "thumbnail": "https://i4.ytimg.com/vi/cMD0KOBUrPc/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
