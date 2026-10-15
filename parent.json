@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-10-15T14:21:19.100Z",
+  "generatedAt": "2026-10-15T16:21:44.280Z",
   "videos": [
+    {
+      "timestamp": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "title": "How To Draw A Halloween Claw Machine",
+      "videoUrl": "https://www.youtube.com/watch?v=j8kA0Lav4io",
+      "videoId": "j8kA0Lav4io",
+      "thumbnail": "https://i3.ytimg.com/vi/j8kA0Lav4io/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "title": "Mr. Bean Turns a Scooter Into a Skateboard! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=YstBWLYSaVM",
+      "videoId": "YstBWLYSaVM",
+      "thumbnail": "https://i2.ytimg.com/vi/YstBWLYSaVM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "title": "Mr. Bean Digs Up His Entire Garden! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=guiqTzYC8ec",
+      "videoId": "guiqTzYC8ec",
+      "thumbnail": "https://i4.ytimg.com/vi/guiqTzYC8ec/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "title": "Mardi Gras for Kids | Learn about the famous holiday Fat Tuesday",
+      "videoUrl": "https://www.youtube.com/watch?v=tayoxQOk3VA",
+      "videoId": "tayoxQOk3VA",
+      "thumbnail": "https://i1.ytimg.com/vi/tayoxQOk3VA/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=AOSjUmwVFt4",
+      "videoId": "AOSjUmwVFt4",
+      "thumbnail": "https://i2.ytimg.com/vi/AOSjUmwVFt4/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "title": "? LIVE | Goosebumps ? Full Episodes Live Stream ? Scholastic",
+      "videoUrl": "https://www.youtube.com/watch?v=Wr1kd2hy68c",
+      "videoId": "Wr1kd2hy68c",
+      "thumbnail": "https://i4.ytimg.com/vi/Wr1kd2hy68c/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "title": "SpongeBob's Krabby Patties ? | 10 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=8PQQT-jYzXk",
+      "videoId": "8PQQT-jYzXk",
+      "thumbnail": "https://i1.ytimg.com/vi/8PQQT-jYzXk/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "title": "3 things to never do with a credit card",
+      "videoUrl": "https://www.youtube.com/watch?v=av3zdxYvCp8",
+      "videoId": "av3zdxYvCp8",
+      "thumbnail": "https://i2.ytimg.com/vi/av3zdxYvCp8/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "title": "Scooby-Doo Theme Song SING ALONG ?? | Scooby-Doo! | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=xMFihTYXWrw",
+      "videoId": "xMFihTYXWrw",
+      "thumbnail": "https://i1.ytimg.com/vi/xMFihTYXWrw/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "title": "Ladybugland ? Minuscule | 25' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=SejCIOptj0M",
+      "videoId": "SejCIOptj0M",
+      "thumbnail": "https://i4.ytimg.com/vi/SejCIOptj0M/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-14",
       "firstSeen": "2026-10-14",
@@ -124,6 +344,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "title": "How To Draw A Caramel Apple Monster",
+      "videoUrl": "https://www.youtube.com/watch?v=2trpMnBYbHo",
+      "videoId": "2trpMnBYbHo",
+      "thumbnail": "https://i3.ytimg.com/vi/2trpMnBYbHo/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "title": "We Pranked the STRICTEST TEACHER in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=8zASOavcQV8",
+      "videoId": "8zASOavcQV8",
+      "thumbnail": "https://i1.ytimg.com/vi/8zASOavcQV8/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
