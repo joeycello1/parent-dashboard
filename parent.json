@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T02:21:32.523Z",
+  "generatedAt": "2026-10-16T04:21:35.543Z",
   "videos": [
     {
       "timestamp": "2026-10-15",
@@ -10728,28 +10728,6 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-17",
-      "firstSeen": "2026-08-17",
-      "title": "Work It Out Wombats! FULL EPISODE | Claydate with Louisa ? | PBS KIDS",
-      "videoUrl": "https://www.youtube.com/watch?v=GvbUlbmobS8",
-      "videoId": "GvbUlbmobS8",
-      "thumbnail": "https://i4.ytimg.com/vi/GvbUlbmobS8/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "PBS Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
