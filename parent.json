@@ -1,6 +1,314 @@
 {
-  "generatedAt": "2026-10-17T14:21:14.256Z",
+  "generatedAt": "2026-10-17T16:21:19.941Z",
   "videos": [
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-17",
+      "title": "Mr. Bean Accidentally Crushes the Flowers! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=KxvU4TsLraY",
+      "videoId": "KxvU4TsLraY",
+      "thumbnail": "https://i4.ytimg.com/vi/KxvU4TsLraY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-17",
+      "title": "Mr. Bean Takes on Mrs. Wicket! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=P3TsyAwbrZM",
+      "videoId": "P3TsyAwbrZM",
+      "thumbnail": "https://i1.ytimg.com/vi/P3TsyAwbrZM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-17",
+      "title": "5 REAL Scary Monsters of the Deep!",
+      "videoUrl": "https://www.youtube.com/watch?v=zpj5iH84Hq0",
+      "videoId": "zpj5iH84Hq0",
+      "thumbnail": "https://i3.ytimg.com/vi/zpj5iH84Hq0/hqdefault.jpg",
+      "channelID": "UCwyVRKfytvjSF6q5s7noKZQ",
+      "channelName": "Mr. DeMaio",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 300,
+      "keyword": "demaio",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-17",
+      "title": "Orcas vs Great White Sharks & Humpback Whales | Whale MEGA Episode Special | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=L59nDlNZ_Aw",
+      "videoId": "L59nDlNZ_Aw",
+      "thumbnail": "https://i1.ytimg.com/vi/L59nDlNZ_Aw/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-17",
+      "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=adABRbEs4G4",
+      "videoId": "adABRbEs4G4",
+      "thumbnail": "https://i2.ytimg.com/vi/adABRbEs4G4/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-17",
+      "title": "SpongeBob's Spookiest Ghosts ?  | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=T60WuVql1Qo",
+      "videoId": "T60WuVql1Qo",
+      "thumbnail": "https://i1.ytimg.com/vi/T60WuVql1Qo/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-17",
+      "title": "Looney Tunes | Bugs Bunny & Pals | Daffy, Wile, & Elmer Cartoon Icons Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=oS779xczKdk",
+      "videoId": "oS779xczKdk",
+      "thumbnail": "https://i4.ytimg.com/vi/oS779xczKdk/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, daffy, road runner, tweety, yosemite",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-17",
+      "title": "It's the Witch!! ????? | Tom & Jerry | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=16B-MfguZVc",
+      "videoId": "16B-MfguZVc",
+      "thumbnail": "https://i2.ytimg.com/vi/16B-MfguZVc/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "title": "How To Draw A Vampire Pizza",
+      "videoUrl": "https://www.youtube.com/watch?v=l4JNjGkQnuM",
+      "videoId": "l4JNjGkQnuM",
+      "thumbnail": "https://i1.ytimg.com/vi/l4JNjGkQnuM/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "title": "I Cheated with VERITY in Minecraft Build Battle",
+      "videoUrl": "https://www.youtube.com/watch?v=8DjPBSkr37g",
+      "videoId": "8DjPBSkr37g",
+      "thumbnail": "https://i1.ytimg.com/vi/8DjPBSkr37g/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "title": "? HAPPY HALLOWEEN ? | Spooky Midnight Magic | Halloween Special | Camp Lakebottom",
+      "videoUrl": "https://www.youtube.com/watch?v=6Zc8WrJtdp8",
+      "videoId": "6Zc8WrJtdp8",
+      "thumbnail": "https://i3.ytimg.com/vi/6Zc8WrJtdp8/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "title": "Every Time Someone Falls on SpongeBob ? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=72F94wIv8uo",
+      "videoId": "72F94wIv8uo",
+      "thumbnail": "https://i4.ytimg.com/vi/72F94wIv8uo/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "title": "IMPOSSIBLE LEGO PUZZLES...",
+      "videoUrl": "https://www.youtube.com/watch?v=sDqI5seCcoU",
+      "videoId": "sDqI5seCcoU",
+      "thumbnail": "https://i4.ytimg.com/vi/sDqI5seCcoU/hqdefault.jpg",
+      "channelID": "UCUU3GdGuQshZFRGnxAPBf_w",
+      "channelName": "TD Bricks",
+      "category": "LEGO",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "title": "Halloween FUN TIME! ? | Tom & Jerry Gokko + Looney Tunes Gokko | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=zTV6cpBGzvU",
+      "videoId": "zTV6cpBGzvU",
+      "thumbnail": "https://i3.ytimg.com/vi/zTV6cpBGzvU/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-15",
       "firstSeen": "2026-10-15",
