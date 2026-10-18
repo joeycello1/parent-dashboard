@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:21:20.137Z",
+  "generatedAt": "2026-10-18T04:21:15.154Z",
   "videos": [
     {
       "timestamp": "2026-10-17",
@@ -10772,28 +10772,6 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-08-19",
-      "firstSeen": "2026-08-19",
-      "title": "Lyla in the Loop | Solve Problems with Lyla in this Test and Improve COMPILATION! ? | PBS KIDS",
-      "videoUrl": "https://www.youtube.com/watch?v=iqWtXjAG4Cc",
-      "videoId": "iqWtXjAG4Cc",
-      "thumbnail": "https://i2.ytimg.com/vi/iqWtXjAG4Cc/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "PBS Kids",
-      "category": "Stuff to Know",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "pbs",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -23275,7 +23253,6 @@
     "minuscule",
     "mr bean",
     "nat geo",
-    "pbs",
     "reading",
     "road runner",
     "roadrunner",
