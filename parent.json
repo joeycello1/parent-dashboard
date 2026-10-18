@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-10-18T14:21:11.468Z",
+  "generatedAt": "2026-10-18T16:21:25.001Z",
   "videos": [
+    {
+      "timestamp": "2026-10-18",
+      "firstSeen": "2026-10-18",
+      "title": "Mr. Bean Builds a Hotel for Teddy! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=5K7H8P73X54",
+      "videoId": "5K7H8P73X54",
+      "thumbnail": "https://i2.ytimg.com/vi/5K7H8P73X54/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-18",
+      "firstSeen": "2026-10-18",
+      "title": "Mr. Bean Takes on a Rock Climbing Challenge! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=HoDRZHAhxQU",
+      "videoId": "HoDRZHAhxQU",
+      "thumbnail": "https://i1.ytimg.com/vi/HoDRZHAhxQU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-18",
+      "firstSeen": "2026-10-18",
+      "title": "Journeys for Animal Survival (Full Episode) | Great Migrations | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=_HMbh02rYOk",
+      "videoId": "_HMbh02rYOk",
+      "thumbnail": "https://i4.ytimg.com/vi/_HMbh02rYOk/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-18",
+      "firstSeen": "2026-10-18",
+      "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=t8cKaMY_sCE",
+      "videoId": "t8cKaMY_sCE",
+      "thumbnail": "https://i1.ytimg.com/vi/t8cKaMY_sCE/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-18",
+      "firstSeen": "2026-10-18",
+      "title": "2 Hours of Plankton Acting Out-Of-Pocket ??  | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=p4Z24JJdWBs",
+      "videoId": "p4Z24JJdWBs",
+      "thumbnail": "https://i1.ytimg.com/vi/p4Z24JJdWBs/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-17",
       "firstSeen": "2026-10-17",
@@ -168,6 +278,72 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "title": "Milo vs Chip vs Friends: ONE BLOCK GOLEM Battle in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=mhclcSW7tg0",
+      "videoId": "mhclcSW7tg0",
+      "thumbnail": "https://i2.ytimg.com/vi/mhclcSW7tg0/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "title": "Spooky Science Experiments! | Halloween Special | Science Max | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=1JHPxuPZYSY",
+      "videoId": "1JHPxuPZYSY",
+      "thumbnail": "https://i2.ytimg.com/vi/1JHPxuPZYSY/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "title": "Night of the Gastropods ? Minuscule | 40' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=TXd3ns7HFvo",
+      "videoId": "TXd3ns7HFvo",
+      "thumbnail": "https://i1.ytimg.com/vi/TXd3ns7HFvo/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
