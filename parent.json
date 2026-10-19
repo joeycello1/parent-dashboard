@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-10-19T14:21:20.049Z",
+  "generatedAt": "2026-10-19T16:21:20.141Z",
   "videos": [
+    {
+      "timestamp": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "title": "Mr. Bean Spends an Entire Day in Bed! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=C5ZAbXl_HDo",
+      "videoId": "C5ZAbXl_HDo",
+      "thumbnail": "https://i4.ytimg.com/vi/C5ZAbXl_HDo/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "title": "Mr. Bean Accidentally Sends Teddy Flying! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=pjQ8S4RUu_0",
+      "videoId": "pjQ8S4RUu_0",
+      "thumbnail": "https://i1.ytimg.com/vi/pjQ8S4RUu_0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "title": "MONSTER TRUCKS PLAY AT THE PARK ? Batman & DC Friends COMPILATION",
+      "videoUrl": "https://www.youtube.com/watch?v=kt8dUMc5o90",
+      "videoId": "kt8dUMc5o90",
+      "thumbnail": "https://i4.ytimg.com/vi/kt8dUMc5o90/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "title": "The Most Freaky and Amazing Animals in the World? | Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=aASWMaa5ZU8",
+      "videoId": "aASWMaa5ZU8",
+      "thumbnail": "https://i2.ytimg.com/vi/aASWMaa5ZU8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-18",
       "firstSeen": "2026-10-18",
