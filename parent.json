@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-10-20T14:21:17.846Z",
+  "generatedAt": "2026-10-20T16:21:31.305Z",
   "videos": [
+    {
+      "timestamp": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "title": "Mr. Bean Tries to Impress Irma With His Cooking! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=xaI1V5Iz3a0",
+      "videoId": "xaI1V5Iz3a0",
+      "thumbnail": "https://i1.ytimg.com/vi/xaI1V5Iz3a0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "title": "Mr. Bean Gets Trapped in a Museum Adventure! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=j_O55pGZX3Y",
+      "videoId": "j_O55pGZX3Y",
+      "thumbnail": "https://i3.ytimg.com/vi/j_O55pGZX3Y/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "title": "Dinos A to Z: Jaxartosaurus | Learn interesting facts about the \"Jaxartes river lizard\"",
+      "videoUrl": "https://www.youtube.com/watch?v=UoCBmUoc8AY",
+      "videoId": "UoCBmUoc8AY",
+      "thumbnail": "https://i2.ytimg.com/vi/UoCBmUoc8AY/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "title": "What If Your Brain Shrinks? ?? | What is Brain Atrophy? | Why It Happens? | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=2c-c9GA_LzY",
+      "videoId": "2c-c9GA_LzY",
+      "thumbnail": "https://i3.ytimg.com/vi/2c-c9GA_LzY/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "title": "SpongeBob and Squidward Visit Nosferatu's Spooky Castle ?? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=NPbtw_fA9pE",
+      "videoId": "NPbtw_fA9pE",
+      "thumbnail": "https://i3.ytimg.com/vi/NPbtw_fA9pE/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "title": "Meet the hydra: Masters of immortality - Raymond Adkins",
+      "videoUrl": "https://www.youtube.com/watch?v=NPJ9KZqrl50",
+      "videoId": "NPJ9KZqrl50",
+      "thumbnail": "https://i3.ytimg.com/vi/NPJ9KZqrl50/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "title": "Looniest Spookiest Season! ? ? | Looney Tunes | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=AngRKHQuTVc",
+      "videoId": "AngRKHQuTVc",
+      "thumbnail": "https://i2.ytimg.com/vi/AngRKHQuTVc/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-19",
       "firstSeen": "2026-10-19",
@@ -80,6 +234,72 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-19",
+      "firstSeen": "2026-10-20",
+      "title": "How To Draw A Frankenstein Milkshake",
+      "videoUrl": "https://www.youtube.com/watch?v=zvAW8WE0VD4",
+      "videoId": "zvAW8WE0VD4",
+      "thumbnail": "https://i3.ytimg.com/vi/zvAW8WE0VD4/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-19",
+      "firstSeen": "2026-10-20",
+      "title": "WATER vs FIRE: Power PICKAXE BATTLE in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=dslHroagdTo",
+      "videoId": "dslHroagdTo",
+      "thumbnail": "https://i1.ytimg.com/vi/dslHroagdTo/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-19",
+      "firstSeen": "2026-10-20",
+      "title": "Underwater Sea Adventure! ? | Weird Waters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=fN-AaCtbl7s",
+      "videoId": "fN-AaCtbl7s",
+      "thumbnail": "https://i3.ytimg.com/vi/fN-AaCtbl7s/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
