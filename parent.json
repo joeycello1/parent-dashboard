@@ -1,6 +1,292 @@
 {
-  "generatedAt": "2026-10-22T14:21:54.511Z",
+  "generatedAt": "2026-10-22T16:21:19.021Z",
   "videos": [
+    {
+      "timestamp": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "title": "Mr. Bean and Mr. Bruiser Cause a Disaster! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=FW8A9wQva6Q",
+      "videoId": "FW8A9wQva6Q",
+      "thumbnail": "https://i3.ytimg.com/vi/FW8A9wQva6Q/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "title": "Mr. Bean Builds a Crazy Cleaning Machine! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=2DSt1IHMMko",
+      "videoId": "2DSt1IHMMko",
+      "thumbnail": "https://i3.ytimg.com/vi/2DSt1IHMMko/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "title": "Kids React to More Animals from Africa! | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=EXYhTpsYHN8",
+      "videoId": "EXYhTpsYHN8",
+      "thumbnail": "https://i2.ytimg.com/vi/EXYhTpsYHN8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "title": "Spooky Brain Tricks That Make You Superstitious ??? | Brain Games Full Episode | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=Gvmyc2yW_NM",
+      "videoId": "Gvmyc2yW_NM",
+      "thumbnail": "https://i4.ytimg.com/vi/Gvmyc2yW_NM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, reading, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "title": "SpongeBob's Spookiest Moments ?  | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=0eTzOPJnAss",
+      "videoId": "0eTzOPJnAss",
+      "thumbnail": "https://i1.ytimg.com/vi/0eTzOPJnAss/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "title": "5 sneaky ways stores get you to spend more",
+      "videoUrl": "https://www.youtube.com/watch?v=a_4eFB8pPwI",
+      "videoId": "a_4eFB8pPwI",
+      "thumbnail": "https://i2.ytimg.com/vi/a_4eFB8pPwI/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "title": "What's New, Scooby-Doo? MARATHON Vol.2 ? | Scooby-Doo! MEGA COMP | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=XPrF8zuLodw",
+      "videoId": "XPrF8zuLodw",
+      "thumbnail": "https://i1.ytimg.com/vi/XPrF8zuLodw/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "title": "The Monster Of The Haunted Swamp ? Minuscule ? 25' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=O_uuGVgRC_A",
+      "videoId": "O_uuGVgRC_A",
+      "thumbnail": "https://i4.ytimg.com/vi/O_uuGVgRC_A/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-21",
+      "firstSeen": "2026-10-22",
+      "title": "Mr Bean Builds the Craziest Alarm Ever! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=PSrJM20nwuA",
+      "videoId": "PSrJM20nwuA",
+      "thumbnail": "https://i1.ytimg.com/vi/PSrJM20nwuA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-21",
+      "firstSeen": "2026-10-22",
+      "title": "Mr Bean Hunts Down the Car Thieves! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=lzb047Hwj4Q",
+      "videoId": "lzb047Hwj4Q",
+      "thumbnail": "https://i1.ytimg.com/vi/lzb047Hwj4Q/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-21",
+      "firstSeen": "2026-10-22",
+      "title": "I Built a SECRET UNDERWATER BASE to Hide From My Friends!",
+      "videoUrl": "https://www.youtube.com/watch?v=Q8Z5D6qhVDE",
+      "videoId": "Q8Z5D6qhVDE",
+      "thumbnail": "https://i2.ytimg.com/vi/Q8Z5D6qhVDE/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-21",
+      "firstSeen": "2026-10-22",
+      "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=9q3uiSeT80M",
+      "videoId": "9q3uiSeT80M",
+      "thumbnail": "https://i2.ytimg.com/vi/9q3uiSeT80M/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, bugs, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-21",
+      "firstSeen": "2026-10-22",
+      "title": "SpongeBob's Funniest Moments with Patrick ??? | 90 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=kEgjZGEf_NQ",
+      "videoId": "kEgjZGEf_NQ",
+      "thumbnail": "https://i4.ytimg.com/vi/kEgjZGEf_NQ/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-20",
       "firstSeen": "2026-10-20",
@@ -146,6 +432,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-20",
+      "firstSeen": "2026-10-22",
+      "title": "? Halloween Special! Spooky Adventures & Funny Monsters ?  Let's Go Bananas",
+      "videoUrl": "https://www.youtube.com/watch?v=9UQ0O6ZMZAk",
+      "videoId": "9UQ0O6ZMZAk",
+      "thumbnail": "https://i2.ytimg.com/vi/9UQ0O6ZMZAk/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-20",
+      "firstSeen": "2026-10-22",
+      "title": "The Possum Job | A Secret Heist Gone Wrong | Funny Cartoons for Kids | Open Season: Call of Nature",
+      "videoUrl": "https://www.youtube.com/watch?v=J5qt6GyuL4U",
+      "videoId": "J5qt6GyuL4U",
+      "thumbnail": "https://i3.ytimg.com/vi/J5qt6GyuL4U/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
