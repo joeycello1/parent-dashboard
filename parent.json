@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-10-23T14:21:17.899Z",
+  "generatedAt": "2026-10-23T16:21:26.086Z",
   "videos": [
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "title": "How To Draw A Vampire Bat Holding A Pumpkin",
+      "videoUrl": "https://www.youtube.com/watch?v=bPzs8S3UB9Q",
+      "videoId": "bPzs8S3UB9Q",
+      "thumbnail": "https://i3.ytimg.com/vi/bPzs8S3UB9Q/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "title": "Mr. Bean Crushes a Bouquet With His Mini! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=nCSu6S1ymrY",
+      "videoId": "nCSu6S1ymrY",
+      "thumbnail": "https://i3.ytimg.com/vi/nCSu6S1ymrY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "title": "Mr. Bean's New Teddy Turns Into a Monster! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=kmNyb1N71A8",
+      "videoId": "kmNyb1N71A8",
+      "thumbnail": "https://i4.ytimg.com/vi/kmNyb1N71A8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "title": "Mr Bean's Baby Mix-Up | New Mr Bean Episodes | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=vtTDkFJOu5Y",
+      "videoId": "vtTDkFJOu5Y",
+      "thumbnail": "https://i3.ytimg.com/vi/vtTDkFJOu5Y/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "title": "ROCKET LEAGUE In Real Life with RC MONSTER TRUCKS",
+      "videoUrl": "https://www.youtube.com/watch?v=oLw0W20A14E",
+      "videoId": "oLw0W20A14E",
+      "thumbnail": "https://i4.ytimg.com/vi/oLw0W20A14E/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "title": "It Comes at Night (Full Episode) | Dead by Dawn Compilation | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=d73FGclipw0",
+      "videoId": "d73FGclipw0",
+      "thumbnail": "https://i1.ytimg.com/vi/d73FGclipw0/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=Xakbw3sQcd0",
+      "videoId": "Xakbw3sQcd0",
+      "thumbnail": "https://i1.ytimg.com/vi/Xakbw3sQcd0/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "title": "Why Are Bats Associated With Halloween? ?? | Halloween Facts for Kids | The Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=11I6SH0HE9A",
+      "videoId": "11I6SH0HE9A",
+      "thumbnail": "https://i2.ytimg.com/vi/11I6SH0HE9A/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "title": "SpongeBob Getting SCARED for 45 Minutes Straight ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=mC8VsY5TKts",
+      "videoId": "mC8VsY5TKts",
+      "thumbnail": "https://i2.ytimg.com/vi/mC8VsY5TKts/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "title": "? LIVE! Scooby-Doo FULL MOVIE MARATHON Part 1 ? | #Scoobtober ?? | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=0Ns0yKCStu8",
+      "videoId": "0Ns0yKCStu8",
+      "thumbnail": "https://i1.ytimg.com/vi/0Ns0yKCStu8/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-22",
       "firstSeen": "2026-10-22",
