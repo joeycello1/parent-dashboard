@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-10-24T14:21:12.468Z",
+  "generatedAt": "2026-10-24T16:21:14.518Z",
   "videos": [
+    {
+      "timestamp": "2026-10-24",
+      "firstSeen": "2026-10-24",
+      "title": "Mr. Bean Accidentally Sends Teddy Flying! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=rLSsoa6PkBQ",
+      "videoId": "rLSsoa6PkBQ",
+      "thumbnail": "https://i3.ytimg.com/vi/rLSsoa6PkBQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-24",
+      "firstSeen": "2026-10-24",
+      "title": "Mr. Bean Turns Into a Sheep! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=O5ZvP8LZI-Q",
+      "videoId": "O5ZvP8LZI-Q",
+      "thumbnail": "https://i4.ytimg.com/vi/O5ZvP8LZI-Q/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-24",
+      "firstSeen": "2026-10-24",
+      "title": "Alligators, Bears, & Toxic Creatures: Monsters of Nature | MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=RpMLzWJDSmg",
+      "videoId": "RpMLzWJDSmg",
+      "thumbnail": "https://i3.ytimg.com/vi/RpMLzWJDSmg/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, bugs, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-24",
+      "firstSeen": "2026-10-24",
+      "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! ?? Animal Card Quest | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=DLRdkTUJ-kY",
+      "videoId": "DLRdkTUJ-kY",
+      "thumbnail": "https://i1.ytimg.com/vi/DLRdkTUJ-kY/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-24",
+      "firstSeen": "2026-10-24",
+      "title": "1 Hour of SpongeBob's Funniest Boating School & Driving Moments ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=0_xolxKZcrg",
+      "videoId": "0_xolxKZcrg",
+      "thumbnail": "https://i1.ytimg.com/vi/0_xolxKZcrg/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-24",
+      "firstSeen": "2026-10-24",
+      "title": "Looney Tunes | Classic Tweety Bird & Sylvester Compilation | Vol. 9 | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=--nT4ykK9Uw",
+      "videoId": "--nT4ykK9Uw",
+      "thumbnail": "https://i2.ytimg.com/vi/--nT4ykK9Uw/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "sylvester, tweety",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-24",
+      "firstSeen": "2026-10-24",
+      "title": "Tom and Jerry's Spooky Fun! ? ? | Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=883reT1MQ8w",
+      "videoId": "883reT1MQ8w",
+      "thumbnail": "https://i1.ytimg.com/vi/883reT1MQ8w/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-23",
       "firstSeen": "2026-10-23",
@@ -212,6 +366,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-24",
+      "title": "BITTEN by a VAMPIRE in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=ZZQZjV148pU",
+      "videoId": "ZZQZjV148pU",
+      "thumbnail": "https://i3.ytimg.com/vi/ZZQZjV148pU/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-23",
+      "firstSeen": "2026-10-24",
+      "title": "Who's Afraid of the Dark? ? | Halloween Special | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=LVPECx46kcc",
+      "videoId": "LVPECx46kcc",
+      "thumbnail": "https://i1.ytimg.com/vi/LVPECx46kcc/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
