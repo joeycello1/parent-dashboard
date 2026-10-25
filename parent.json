@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-10-25T14:21:13.763Z",
+  "generatedAt": "2026-10-25T16:21:12.136Z",
   "videos": [
+    {
+      "timestamp": "2026-10-25",
+      "firstSeen": "2026-10-25",
+      "title": "Milo is LYING to Chip?",
+      "videoUrl": "https://www.youtube.com/watch?v=MzTAxv35tzE",
+      "videoId": "MzTAxv35tzE",
+      "thumbnail": "https://i2.ytimg.com/vi/MzTAxv35tzE/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-25",
+      "firstSeen": "2026-10-25",
+      "title": "The Lakeshore Killers (Full Episode) | DOCUMENTARY SPECIAL | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=CFN_z41NjD4",
+      "videoId": "CFN_z41NjD4",
+      "thumbnail": "https://i4.ytimg.com/vi/CFN_z41NjD4/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-25",
+      "firstSeen": "2026-10-25",
+      "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=iZooMGvvZdo",
+      "videoId": "iZooMGvvZdo",
+      "thumbnail": "https://i2.ytimg.com/vi/iZooMGvvZdo/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-25",
+      "firstSeen": "2026-10-25",
+      "title": "3 Hours of SpongeBob Getting Into Trouble ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=aczxcJT-Xdo",
+      "videoId": "aczxcJT-Xdo",
+      "thumbnail": "https://i2.ytimg.com/vi/aczxcJT-Xdo/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-24",
       "firstSeen": "2026-10-24",
@@ -146,6 +234,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-24",
+      "firstSeen": "2026-10-25",
+      "title": "Night Of The Mandibles ? Minuscule",
+      "videoUrl": "https://www.youtube.com/watch?v=gTKKYv_8dCA",
+      "videoId": "gTKKYv_8dCA",
+      "thumbnail": "https://i4.ytimg.com/vi/gTKKYv_8dCA/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule, bugs",
       "watched": {
         "jonah": false,
         "kieran": false
