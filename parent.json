@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-10-26T14:21:14.154Z",
+  "generatedAt": "2026-10-26T16:21:20.845Z",
   "videos": [
+    {
+      "timestamp": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "title": "How To Draw A Big Mouth Scarecrow",
+      "videoUrl": "https://www.youtube.com/watch?v=EcVNQhah89Q",
+      "videoId": "EcVNQhah89Q",
+      "thumbnail": "https://i2.ytimg.com/vi/EcVNQhah89Q/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "title": "Mr. Bean's Drone Mission Turns Into a Rescue! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=llVU9eBR248",
+      "videoId": "llVU9eBR248",
+      "thumbnail": "https://i1.ytimg.com/vi/llVU9eBR248/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "title": "Mr. Bean's New Teddy Turns Into a Monster! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=uwWt-BypdmY",
+      "videoId": "uwWt-BypdmY",
+      "thumbnail": "https://i2.ytimg.com/vi/uwWt-BypdmY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "title": "Monster Jam VS Hot Wheels Monster Trucks ULTIMATE RACING SHOWDOWN! - COMPILATION",
+      "videoUrl": "https://www.youtube.com/watch?v=v7DiierTt1c",
+      "videoId": "v7DiierTt1c",
+      "thumbnail": "https://i3.ytimg.com/vi/v7DiierTt1c/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "title": "2 Hours of the World's Toughest Fixes ??????? | Full Episode Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=l5OiIZeOtqs",
+      "videoId": "l5OiIZeOtqs",
+      "thumbnail": "https://i1.ytimg.com/vi/l5OiIZeOtqs/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-25",
       "firstSeen": "2026-10-25",
@@ -80,6 +190,94 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "title": "Mr. Bean Gets Stuck in a Toy Fire Truck! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=2ZWDs7fWmtg",
+      "videoId": "2ZWDs7fWmtg",
+      "thumbnail": "https://i3.ytimg.com/vi/2ZWDs7fWmtg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "title": "Mr. Bean Builds the Ultimate Wake-Up Machine! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=EFybt8ouI2E",
+      "videoId": "EFybt8ouI2E",
+      "thumbnail": "https://i2.ytimg.com/vi/EFybt8ouI2E/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "title": "Learning Languages | Preschool Learning Videos For Kids | Finding Stuff Out",
+      "videoUrl": "https://www.youtube.com/watch?v=NnGE8feYbVI",
+      "videoId": "NnGE8feYbVI",
+      "thumbnail": "https://i3.ytimg.com/vi/NnGE8feYbVI/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "title": "I Tried The Strongest Magnets In The Lab! | Science Max",
+      "videoUrl": "https://www.youtube.com/watch?v=vfKAopnSobM",
+      "videoId": "vfKAopnSobM",
+      "thumbnail": "https://i3.ytimg.com/vi/vfKAopnSobM/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science, educational",
       "watched": {
         "jonah": false,
         "kieran": false
