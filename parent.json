@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T14:21:20.259Z",
+  "generatedAt": "2026-10-27T16:21:19.292Z",
   "videos": [
     {
       "timestamp": "2026-10-27",
@@ -80,6 +80,72 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "daffy, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-27",
+      "title": "Mr. Bean's Flower Delivery Goes Wrong! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Zc6rqjGShvM",
+      "videoId": "Zc6rqjGShvM",
+      "thumbnail": "https://i3.ytimg.com/vi/Zc6rqjGShvM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-27",
+      "title": "All about Autumn for Kids | Learn fun facts about the fall season",
+      "videoUrl": "https://www.youtube.com/watch?v=_u-AY3bXszo",
+      "videoId": "_u-AY3bXszo",
+      "thumbnail": "https://i4.ytimg.com/vi/_u-AY3bXszo/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-27",
+      "title": "6 scary stories to watch in the dark (if you dare?)",
+      "videoUrl": "https://www.youtube.com/watch?v=nXvKDYRvTno",
+      "videoId": "nXvKDYRvTno",
+      "thumbnail": "https://i3.ytimg.com/vi/nXvKDYRvTno/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed, stories",
       "watched": {
         "jonah": false,
         "kieran": false
