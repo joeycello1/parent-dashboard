@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-10-27T12:21:17.707Z",
+  "generatedAt": "2026-10-27T13:49:31.209Z",
   "videos": [
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-27",
+      "title": "Mr. Bean Goes Bowling! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=6BT_9JFH0b4",
+      "videoId": "6BT_9JFH0b4",
+      "thumbnail": "https://i3.ytimg.com/vi/6BT_9JFH0b4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-27",
+      "title": "It's Halloween Night?Halloween Monsters & It's Mysteries | The Mysterious Monsters | Dr. Binocs",
+      "videoUrl": "https://www.youtube.com/watch?v=zurv_FRZrWo",
+      "videoId": "zurv_FRZrWo",
+      "thumbnail": "https://i3.ytimg.com/vi/zurv_FRZrWo/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-27",
+      "title": "SpongeBob's Afraid of the Dark ?? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=w3qa08C6Jkw",
+      "videoId": "w3qa08C6Jkw",
+      "thumbnail": "https://i4.ytimg.com/vi/w3qa08C6Jkw/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob, reading",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-27",
+      "title": "Daffy and Porky vs. A GHOST?! ?  | Looney Tunes | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=GxUWUQEBYsE",
+      "videoId": "GxUWUQEBYsE",
+      "thumbnail": "https://i4.ytimg.com/vi/GxUWUQEBYsE/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "daffy, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-26",
       "firstSeen": "2026-10-26",
@@ -102,6 +190,50 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-26",
+      "firstSeen": "2026-10-27",
+      "title": "Birth to Death SQUISHY DUMPLING in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=wUYA3rKuWRw",
+      "videoId": "wUYA3rKuWRw",
+      "thumbnail": "https://i4.ytimg.com/vi/wUYA3rKuWRw/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-26",
+      "firstSeen": "2026-10-27",
+      "title": "Ice Cream Heroes Are Back and Scarftail Is in Trouble! | Weird Waters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=m3hxI3y5JOI",
+      "videoId": "m3hxI3y5JOI",
+      "thumbnail": "https://i2.ytimg.com/vi/m3hxI3y5JOI/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
