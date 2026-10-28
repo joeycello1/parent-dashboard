@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-10-28T14:21:14.780Z",
+  "generatedAt": "2026-10-28T16:21:19.701Z",
   "videos": [
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-28",
+      "title": "How To Draw A Black Cat Folding Surprise",
+      "videoUrl": "https://www.youtube.com/watch?v=QDU7Qr8-JUc",
+      "videoId": "QDU7Qr8-JUc",
+      "thumbnail": "https://i2.ytimg.com/vi/QDU7Qr8-JUc/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-28",
+      "title": "Mr. Bean Catches a Museum Thief! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=bGJ3smuq680",
+      "videoId": "bGJ3smuq680",
+      "thumbnail": "https://i3.ytimg.com/vi/bGJ3smuq680/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-28",
+      "title": "Mr. Bean Enters a Car Race! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=sFlpXFrnxcY",
+      "videoId": "sFlpXFrnxcY",
+      "thumbnail": "https://i4.ytimg.com/vi/sFlpXFrnxcY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-28",
+      "title": "American Cougar: Revealed (Full Episode) | DOCUMENTARY SPECIAL | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=bqT6ES7u3fA",
+      "videoId": "bqT6ES7u3fA",
+      "thumbnail": "https://i3.ytimg.com/vi/bqT6ES7u3fA/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-28",
+      "title": "Five Nights at the Chum Bucket with Plankton ??  | 60 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=qkXg44Ka9AM",
+      "videoId": "qkXg44Ka9AM",
+      "thumbnail": "https://i2.ytimg.com/vi/qkXg44Ka9AM/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-27",
       "firstSeen": "2026-10-27",
@@ -146,6 +256,94 @@
       "profile": "Both",
       "retentionDays": 80,
       "keyword": "ted-ed, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-28",
+      "title": "How To Draw A Cute Ghost Holding Balloons",
+      "videoUrl": "https://www.youtube.com/watch?v=cQvh1XLB2Ws",
+      "videoId": "cQvh1XLB2Ws",
+      "thumbnail": "https://i4.ytimg.com/vi/cQvh1XLB2Ws/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-28",
+      "title": "? LIVE | Goosebumps ? Full Episodes Live Stream ? Scholastic",
+      "videoUrl": "https://www.youtube.com/watch?v=9jiJILVeJ7Q",
+      "videoId": "9jiJILVeJ7Q",
+      "thumbnail": "https://i2.ytimg.com/vi/9jiJILVeJ7Q/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-28",
+      "title": "? LIVE ? The Magic School Bus ? FULL EPISODES ? Live Stream",
+      "videoUrl": "https://www.youtube.com/watch?v=20QVGrDJioA",
+      "videoId": "20QVGrDJioA",
+      "thumbnail": "https://i3.ytimg.com/vi/20QVGrDJioA/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-27",
+      "firstSeen": "2026-10-28",
+      "title": "The Goblin Pumpkin Night Halloween Special You Have to See! ?   Let's Go Bananas",
+      "videoUrl": "https://www.youtube.com/watch?v=v_5Wv6oaUMc",
+      "videoId": "v_5Wv6oaUMc",
+      "thumbnail": "https://i3.ytimg.com/vi/v_5Wv6oaUMc/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
