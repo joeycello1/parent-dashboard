@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-10-29T14:21:24.299Z",
+  "generatedAt": "2026-10-29T16:21:18.897Z",
   "videos": [
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "title": "How to Draw a Cute Witch and Her Cauldron",
+      "videoUrl": "https://www.youtube.com/watch?v=IQB-_QkWhng",
+      "videoId": "IQB-_QkWhng",
+      "thumbnail": "https://i2.ytimg.com/vi/IQB-_QkWhng/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "title": "Mr. Bean Goes to the Funfair! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=eC-TvcaMlF0",
+      "videoId": "eC-TvcaMlF0",
+      "thumbnail": "https://i2.ytimg.com/vi/eC-TvcaMlF0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "title": "Mr. Bean's Claw Machine Challenge! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=4NlhL9aGRIw",
+      "videoId": "4NlhL9aGRIw",
+      "thumbnail": "https://i1.ytimg.com/vi/4NlhL9aGRIw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "title": "Layers of the Atmosphere | Learn about the \"blanket\" that keeps the earth warm",
+      "videoUrl": "https://www.youtube.com/watch?v=qJ2RmlOUfpw",
+      "videoId": "qJ2RmlOUfpw",
+      "thumbnail": "https://i2.ytimg.com/vi/qJ2RmlOUfpw/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=OFLJN2J0-l8",
+      "videoId": "OFLJN2J0-l8",
+      "thumbnail": "https://i4.ytimg.com/vi/OFLJN2J0-l8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "title": "SpongeBob's Scariest Krabby Patties ?? | 10 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=XUAh7CLmJ-g",
+      "videoId": "XUAh7CLmJ-g",
+      "thumbnail": "https://i1.ytimg.com/vi/XUAh7CLmJ-g/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "title": "What if you didn?t brush your teeth for a year? - Justin Meritt",
+      "videoUrl": "https://www.youtube.com/watch?v=8RPK5KwYhgA",
+      "videoId": "8RPK5KwYhgA",
+      "thumbnail": "https://i1.ytimg.com/vi/8RPK5KwYhgA/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "title": "Scrappy-Doo Gets His REVENGE! ? | Scooby-Doo | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=mBKZkhWoUxA",
+      "videoId": "mBKZkhWoUxA",
+      "thumbnail": "https://i2.ytimg.com/vi/mBKZkhWoUxA/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "title": "Halloween Paranoid ? Minuscule | 30' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=HdUDzWe8aCw",
+      "videoId": "HdUDzWe8aCw",
+      "thumbnail": "https://i1.ytimg.com/vi/HdUDzWe8aCw/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-28",
       "firstSeen": "2026-10-28",
@@ -102,6 +300,270 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL Tsukimi Autumn Moon Festival",
+      "videoUrl": "https://www.youtube.com/watch?v=fDTt8gB_EIs",
+      "videoId": "fDTt8gB_EIs",
+      "thumbnail": "https://i3.ytimg.com/vi/fDTt8gB_EIs/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL Labor Day for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=HrSKEO_2IYQ",
+      "videoId": "HrSKEO_2IYQ",
+      "thumbnail": "https://i1.ytimg.com/vi/HrSKEO_2IYQ/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL Greek Mythology: Ares",
+      "videoUrl": "https://www.youtube.com/watch?v=aOeMlfZd2MU",
+      "videoId": "aOeMlfZd2MU",
+      "thumbnail": "https://i2.ytimg.com/vi/aOeMlfZd2MU/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "reading, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL Droughts for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=0j0LLWo5pMc",
+      "videoId": "0j0LLWo5pMc",
+      "thumbnail": "https://i1.ytimg.com/vi/0j0LLWo5pMc/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL Descriptive Writing for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=vIblgK-Q0bg",
+      "videoId": "vIblgK-Q0bg",
+      "thumbnail": "https://i3.ytimg.com/vi/vIblgK-Q0bg/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "reading",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL Careers for Kids: Civil Engineer",
+      "videoUrl": "https://www.youtube.com/watch?v=80cXgGM8tzQ",
+      "videoId": "80cXgGM8tzQ",
+      "thumbnail": "https://i1.ytimg.com/vi/80cXgGM8tzQ/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL Careers for Kids: Astronaut",
+      "videoUrl": "https://www.youtube.com/watch?v=_lPFamGC2Vg",
+      "videoId": "_lPFamGC2Vg",
+      "thumbnail": "https://i4.ytimg.com/vi/_lPFamGC2Vg/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL Careers for Kids: Archaeologist",
+      "videoUrl": "https://www.youtube.com/watch?v=hxC3teP-bwo",
+      "videoId": "hxC3teP-bwo",
+      "thumbnail": "https://i1.ytimg.com/vi/hxC3teP-bwo/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL All about Earth Day",
+      "videoUrl": "https://www.youtube.com/watch?v=TMpJtNp_3z0",
+      "videoId": "TMpJtNp_3z0",
+      "thumbnail": "https://i1.ytimg.com/vi/TMpJtNp_3z0/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL Adolf Hitler",
+      "videoUrl": "https://www.youtube.com/watch?v=jITNhCtiYk4",
+      "videoId": "jITNhCtiYk4",
+      "thumbnail": "https://i3.ytimg.com/vi/jITNhCtiYk4/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "art, educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL 50 States and Capitals Song",
+      "videoUrl": "https://www.youtube.com/watch?v=yQp2flFVOlc",
+      "videoId": "yQp2flFVOlc",
+      "thumbnail": "https://i2.ytimg.com/vi/yQp2flFVOlc/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "title": "ASL 20th-Century Technology",
+      "videoUrl": "https://www.youtube.com/watch?v=QWrxP5eCUtI",
+      "videoId": "QWrxP5eCUtI",
+      "thumbnail": "https://i2.ytimg.com/vi/QWrxP5eCUtI/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "reading",
       "watched": {
         "jonah": false,
         "kieran": false
