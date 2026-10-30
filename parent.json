@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-10-30T12:21:14.306Z",
+  "generatedAt": "2026-10-30T16:21:16.192Z",
   "videos": [
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "title": "Mr. Bean's Spooky Halloween Special! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Qc1tDnk7eFQ",
+      "videoId": "Qc1tDnk7eFQ",
+      "thumbnail": "https://i2.ytimg.com/vi/Qc1tDnk7eFQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "title": "Professional Driver, Probably | Compilation | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Y6PlFiQErwI",
+      "videoId": "Y6PlFiQErwI",
+      "thumbnail": "https://i2.ytimg.com/vi/Y6PlFiQErwI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "title": "Mr. Bean's Wedding Day Mix-Up! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=AgcDZRh-zng",
+      "videoId": "AgcDZRh-zng",
+      "thumbnail": "https://i2.ytimg.com/vi/AgcDZRh-zng/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "title": "Hot Wheels F1 RACING vs MINECRAFT Race Cars ? FISHTANK FALL",
+      "videoUrl": "https://www.youtube.com/watch?v=hro4X7jBx-o",
+      "videoId": "hro4X7jBx-o",
+      "thumbnail": "https://i1.ytimg.com/vi/hro4X7jBx-o/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids, minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "title": "Inside Animal Rivalries | Documentary Special MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=M3MYLSq4qoQ",
+      "videoId": "M3MYLSq4qoQ",
+      "thumbnail": "https://i2.ytimg.com/vi/M3MYLSq4qoQ/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "title": "Hephaestus?s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=svaGnbGxrs4",
+      "videoId": "svaGnbGxrs4",
+      "thumbnail": "https://i4.ytimg.com/vi/svaGnbGxrs4/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "title": "Are Souls Real? What Happens to Our Soul After Death? | Mystery of the Soul | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=ll8_wPmXtRE",
+      "videoId": "ll8_wPmXtRE",
+      "thumbnail": "https://i1.ytimg.com/vi/ll8_wPmXtRE/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "title": "Every Halloween Special | Full Episodes | The Magic School Bus | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=HW8BzMOZUUA",
+      "videoId": "HW8BzMOZUUA",
+      "thumbnail": "https://i1.ytimg.com/vi/HW8BzMOZUUA/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "title": "SpongeBob Characters Being CHASED ?????? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=izi5HThZJ48",
+      "videoId": "izi5HThZJ48",
+      "thumbnail": "https://i2.ytimg.com/vi/izi5HThZJ48/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "title": "Pumpkin Spice ?? | Tom and Jerry Gokko FULL EPISODES | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=NFPo9SRS5hI",
+      "videoId": "NFPo9SRS5hI",
+      "thumbnail": "https://i3.ytimg.com/vi/NFPo9SRS5hI/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-29",
       "firstSeen": "2026-10-29",
@@ -190,6 +410,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-10-30",
+      "title": "Click & Other Scary Stories | Full Episodes | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=DD8YvBCyusg",
+      "videoId": "DD8YvBCyusg",
+      "thumbnail": "https://i1.ytimg.com/vi/DD8YvBCyusg/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "stories, science",
       "watched": {
         "jonah": false,
         "kieran": false
