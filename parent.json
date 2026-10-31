@@ -1,6 +1,248 @@
 {
-  "generatedAt": "2026-10-31T14:21:13.869Z",
+  "generatedAt": "2026-10-31T16:21:12.710Z",
   "videos": [
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "Mr. Bean and Billy's Wild Day Out! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=hxEluf76qRo",
+      "videoId": "hxEluf76qRo",
+      "thumbnail": "https://i1.ytimg.com/vi/hxEluf76qRo/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "Mr. Bean Can't Stop Reading a Horror Book! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=N6SkLndkxSY",
+      "videoId": "N6SkLndkxSY",
+      "thumbnail": "https://i3.ytimg.com/vi/N6SkLndkxSY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean, reading",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "Coastal Queens: Orcas & Grizzly Bears (Full Episode) | Queens | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=v8zBKdy-JKI",
+      "videoId": "v8zBKdy-JKI",
+      "thumbnail": "https://i3.ytimg.com/vi/v8zBKdy-JKI/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "How does a Beaver build a Dam and a Lodge? ? Animal Card Quest | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=PZ5ZJYuD1vw",
+      "videoId": "PZ5ZJYuD1vw",
+      "thumbnail": "https://i1.ytimg.com/vi/PZ5ZJYuD1vw/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "Kids React to Slippery Slimy Creepy Crawly Animals! | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=QNzpynjWGcw",
+      "videoId": "QNzpynjWGcw",
+      "thumbnail": "https://i2.ytimg.com/vi/QNzpynjWGcw/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "Weird Animal Science | Full Episodes | The Magic School Bus | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=tZGqc3VuEzk",
+      "videoId": "tZGqc3VuEzk",
+      "thumbnail": "https://i1.ytimg.com/vi/tZGqc3VuEzk/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "? LIVE | Goosebumps ? Full Episodes Live Stream ? Scholastic",
+      "videoUrl": "https://www.youtube.com/watch?v=yI3bacbe59U",
+      "videoId": "yI3bacbe59U",
+      "thumbnail": "https://i2.ytimg.com/vi/yI3bacbe59U/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "SpongeBob's Best Halloween Moments ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=QvhwI3uVrpE",
+      "videoId": "QvhwI3uVrpE",
+      "thumbnail": "https://i2.ytimg.com/vi/QvhwI3uVrpE/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "Looney Tunes | Halloween Episodes Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=R4-3uXHR9og",
+      "videoId": "R4-3uXHR9og",
+      "thumbnail": "https://i3.ytimg.com/vi/R4-3uXHR9og/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, daffy, sylvester",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "Classic Cartoon MARATHON Vol. 5 ? | Tom & Jerry, Looney Tunes, Scooby-Doo! MEGA COMP ?? | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=6RukO1ljPuo",
+      "videoId": "6RukO1ljPuo",
+      "thumbnail": "https://i3.ytimg.com/vi/6RukO1ljPuo/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "title": "City Caterpillar And Butterfly Of The Fields | Minuscule | 60' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=WLuVn8NT358",
+      "videoId": "WLuVn8NT358",
+      "thumbnail": "https://i4.ytimg.com/vi/WLuVn8NT358/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-30",
       "firstSeen": "2026-10-30",
@@ -206,6 +448,72 @@
       "videoUrl": "https://www.youtube.com/watch?v=NFPo9SRS5hI",
       "videoId": "NFPo9SRS5hI",
       "thumbnail": "https://i3.ytimg.com/vi/NFPo9SRS5hI/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-31",
+      "title": "NOOB vs PRO: VERITY Safest Security House Build Challenge to Protect My Family",
+      "videoUrl": "https://www.youtube.com/watch?v=ELMKHkTyjLI",
+      "videoId": "ELMKHkTyjLI",
+      "thumbnail": "https://i2.ytimg.com/vi/ELMKHkTyjLI/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-31",
+      "title": "Attack of the Jack-O-Lanterns & Other Scary Stories | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=IJ5aXMXX4mE",
+      "videoId": "IJ5aXMXX4mE",
+      "thumbnail": "https://i2.ytimg.com/vi/IJ5aXMXX4mE/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "stories, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-30",
+      "firstSeen": "2026-10-31",
+      "title": "? LIVE! Scooby-Doo FULL MOVIE MARATHON Part 2 ? | #Scoobtober ?? | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=tJe7yz2JozM",
+      "videoId": "tJe7yz2JozM",
+      "thumbnail": "https://i1.ytimg.com/vi/tJe7yz2JozM/hqdefault.jpg",
       "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
       "channelName": "WB Kids",
       "category": "Looney Tunes",
