@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-11-01T15:21:19.567Z",
+  "generatedAt": "2026-11-01T17:21:13.273Z",
   "videos": [
+    {
+      "timestamp": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "title": "Mr. Bean Gets Arrested! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=-6rJTgP-09c",
+      "videoId": "-6rJTgP-09c",
+      "thumbnail": "https://i2.ytimg.com/vi/-6rJTgP-09c/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "title": "Mr. Bean Pretends to Be a Doctor! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=gUZVG4C1CLI",
+      "videoId": "gUZVG4C1CLI",
+      "thumbnail": "https://i4.ytimg.com/vi/gUZVG4C1CLI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "title": "Celebrating Bald Eagles Across America | MEGA Episode Special | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=laD5-Uw90o4",
+      "videoId": "laD5-Uw90o4",
+      "thumbnail": "https://i1.ytimg.com/vi/laD5-Uw90o4/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=5rYfZXlqLvM",
+      "videoId": "5rYfZXlqLvM",
+      "thumbnail": "https://i2.ytimg.com/vi/5rYfZXlqLvM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "title": "Light, Shadows & Color | Full Episodes | The Magic School Bus | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=d7ZDkwmw06k",
+      "videoId": "d7ZDkwmw06k",
+      "thumbnail": "https://i1.ytimg.com/vi/d7ZDkwmw06k/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "title": "4 Hours of Classic SpongeBob ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=pZ19rNcKA7I",
+      "videoId": "pZ19rNcKA7I",
+      "thumbnail": "https://i1.ytimg.com/vi/pZ19rNcKA7I/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-10-31",
       "firstSeen": "2026-10-31",
@@ -234,6 +366,94 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-11-01",
+      "title": "PARENTS vs KIDS Speedrunners in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=HZAi5SS3QoA",
+      "videoId": "HZAi5SS3QoA",
+      "thumbnail": "https://i1.ytimg.com/vi/HZAi5SS3QoA/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-11-01",
+      "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets ?",
+      "videoUrl": "https://www.youtube.com/watch?v=lT3AZws4JvE",
+      "videoId": "lT3AZws4JvE",
+      "thumbnail": "https://i1.ytimg.com/vi/lT3AZws4JvE/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-11-01",
+      "title": "Haunted House Game & Other Scary Stories | Full Episodes | Goosebumps | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=S_8BKbxwMsQ",
+      "videoId": "S_8BKbxwMsQ",
+      "thumbnail": "https://i4.ytimg.com/vi/S_8BKbxwMsQ/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "stories, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-31",
+      "firstSeen": "2026-11-01",
+      "title": "HAPPY HALLOWEEN | Frankenstein and Zombie Scares | Camp Lakebottom",
+      "videoUrl": "https://www.youtube.com/watch?v=qc1DButxef4",
+      "videoId": "qc1DButxef4",
+      "thumbnail": "https://i2.ytimg.com/vi/qc1DButxef4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
