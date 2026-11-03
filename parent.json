@@ -1,6 +1,292 @@
 {
-  "generatedAt": "2026-11-03T15:21:31.201Z",
+  "generatedAt": "2026-11-03T17:21:17.189Z",
   "videos": [
+    {
+      "timestamp": "2026-11-03",
+      "firstSeen": "2026-11-03",
+      "title": "Mr Bean's Hilarious Muscle Transformation! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=MNeLpgIkCyc",
+      "videoId": "MNeLpgIkCyc",
+      "thumbnail": "https://i2.ytimg.com/vi/MNeLpgIkCyc/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-03",
+      "firstSeen": "2026-11-03",
+      "title": "Mr. Bean's Mission to Free Billy! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=ZkfpaAhEFHo",
+      "videoId": "ZkfpaAhEFHo",
+      "thumbnail": "https://i3.ytimg.com/vi/ZkfpaAhEFHo/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-03",
+      "firstSeen": "2026-11-03",
+      "title": "Mr. Bean Rides the Ghost Train! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=PHMiGJzd5YE",
+      "videoId": "PHMiGJzd5YE",
+      "thumbnail": "https://i1.ytimg.com/vi/PHMiGJzd5YE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-03",
+      "firstSeen": "2026-11-03",
+      "title": "Marco Polo for Kids | Learn about this famous explorer and his travels along the Silk Road",
+      "videoUrl": "https://www.youtube.com/watch?v=ROtn32vhI50",
+      "videoId": "ROtn32vhI50",
+      "thumbnail": "https://i3.ytimg.com/vi/ROtn32vhI50/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, reading, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-03",
+      "firstSeen": "2026-11-03",
+      "title": "Is Puddle Water Safe to Drink? | What Happens if You Drink Water From a Puddle? | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=6s99xHikMPo",
+      "videoId": "6s99xHikMPo",
+      "thumbnail": "https://i3.ytimg.com/vi/6s99xHikMPo/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-03",
+      "firstSeen": "2026-11-03",
+      "title": "SpongeBob FINALLY Gets His Driver's License?! ?? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=eQDK7rZlqzE",
+      "videoId": "eQDK7rZlqzE",
+      "thumbnail": "https://i2.ytimg.com/vi/eQDK7rZlqzE/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-03",
+      "firstSeen": "2026-11-03",
+      "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer",
+      "videoUrl": "https://www.youtube.com/watch?v=8EtdC9Bjubk",
+      "videoId": "8EtdC9Bjubk",
+      "thumbnail": "https://i1.ytimg.com/vi/8EtdC9Bjubk/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-03",
+      "firstSeen": "2026-11-03",
+      "title": "Evolution of the Toon Squad ? ? | Space Jam | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=snTxeIAC9sc",
+      "videoId": "snTxeIAC9sc",
+      "thumbnail": "https://i4.ytimg.com/vi/snTxeIAC9sc/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-02",
+      "firstSeen": "2026-11-03",
+      "title": "LAVA TREEHOUSE vs TSUNAMIS in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=WOP5wWccSLg",
+      "videoId": "WOP5wWccSLg",
+      "thumbnail": "https://i4.ytimg.com/vi/WOP5wWccSLg/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-02",
+      "firstSeen": "2026-11-03",
+      "title": "Lost in a Magical Pond! | Weird Waters Season 1 Clips | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=-wEqj78kW0c",
+      "videoId": "-wEqj78kW0c",
+      "thumbnail": "https://i2.ytimg.com/vi/-wEqj78kW0c/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-02",
+      "firstSeen": "2026-11-03",
+      "title": "?LIVE: Spongebob's FAMILY Marathon! ?? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=9v0tJsY61HU",
+      "videoId": "9v0tJsY61HU",
+      "thumbnail": "https://i2.ytimg.com/vi/9v0tJsY61HU/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-02",
+      "firstSeen": "2026-11-03",
+      "title": "Henry and the Buccaneer Bunnies' read by Jessica Chastain",
+      "videoUrl": "https://www.youtube.com/watch?v=iN63vWT2ZRI",
+      "videoId": "iN63vWT2ZRI",
+      "thumbnail": "https://i2.ytimg.com/vi/iN63vWT2ZRI/hqdefault.jpg",
+      "channelID": "UCnBdzaRy-Ky9Vh54XJlFz1Q",
+      "channelName": "StoryLineOnline",
+      "category": "Stories",
+      "profile": "Both",
+      "retentionDays": 600,
+      "keyword": "storylineonline",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-02",
+      "firstSeen": "2026-11-03",
+      "title": "? LIVE! Classic Cartoons Marathon ? | Tom & Jerry, Looney Tunes, Scooby-Doo! | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=PKyeQMwQUWA",
+      "videoId": "PKyeQMwQUWA",
+      "thumbnail": "https://i1.ytimg.com/vi/PKyeQMwQUWA/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-01",
       "firstSeen": "2026-11-01",
@@ -938,6 +1224,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "stories, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-10-29",
+      "firstSeen": "2026-11-03",
+      "title": "? LIVE! 24 Hours of Unlikely Animal Friends Livestream ?? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=0-RTk1cQ3lU",
+      "videoId": "0-RTk1cQ3lU",
+      "thumbnail": "https://i1.ytimg.com/vi/0-RTk1cQ3lU/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science, stories",
       "watched": {
         "jonah": false,
         "kieran": false
