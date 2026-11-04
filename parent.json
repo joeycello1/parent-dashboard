@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-11-04T15:21:20.796Z",
+  "generatedAt": "2026-11-04T17:21:17.478Z",
   "videos": [
+    {
+      "timestamp": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "title": "Mr. Bean Spends All Day in Bed! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=tMqe7-al_oo",
+      "videoId": "tMqe7-al_oo",
+      "thumbnail": "https://i1.ytimg.com/vi/tMqe7-al_oo/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "title": "Mr. Bean Enters the Wrestling Ring! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=oiw3Et8sHA4",
+      "videoId": "oiw3Et8sHA4",
+      "thumbnail": "https://i4.ytimg.com/vi/oiw3Et8sHA4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "title": "Mr Bean Is in BIG Trouble! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=kyfKkkgwma0",
+      "videoId": "kyfKkkgwma0",
+      "thumbnail": "https://i4.ytimg.com/vi/kyfKkkgwma0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "title": "Introducing the Brown Bear (Full Episode) | World's Most Iconic Animals | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=OeEB2U-afBo",
+      "videoId": "OeEB2U-afBo",
+      "thumbnail": "https://i4.ytimg.com/vi/OeEB2U-afBo/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "title": "Every Time the Krusty Krab Lost Money ?? | 90 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=M2aYrerhKOg",
+      "videoId": "M2aYrerhKOg",
+      "thumbnail": "https://i2.ytimg.com/vi/M2aYrerhKOg/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-03",
       "firstSeen": "2026-11-03",
@@ -168,6 +278,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-03",
+      "firstSeen": "2026-11-04",
+      "title": "How To Draw A Cute Acorn Camper",
+      "videoUrl": "https://www.youtube.com/watch?v=Mbka697fEUc",
+      "videoId": "Mbka697fEUc",
+      "thumbnail": "https://i2.ytimg.com/vi/Mbka697fEUc/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-03",
+      "firstSeen": "2026-11-04",
+      "title": "The Tiger Found a Tiny Dino at the Bananas Wedding! Let's Go Bananas",
+      "videoUrl": "https://www.youtube.com/watch?v=fKgo3NOUt9k",
+      "videoId": "fKgo3NOUt9k",
+      "thumbnail": "https://i3.ytimg.com/vi/fKgo3NOUt9k/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
