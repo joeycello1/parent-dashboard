@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-11-05T15:21:16.048Z",
+  "generatedAt": "2026-11-05T17:21:17.053Z",
   "videos": [
+    {
+      "timestamp": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "title": "A Snowy Christmas Disaster for Mr Bean! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=zldto7sNMX8",
+      "videoId": "zldto7sNMX8",
+      "thumbnail": "https://i3.ytimg.com/vi/zldto7sNMX8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "title": "Mr. Bean Gets Stuck in a Toy Fire Truck | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=aJzCpPcE9L8",
+      "videoId": "aJzCpPcE9L8",
+      "thumbnail": "https://i2.ytimg.com/vi/aJzCpPcE9L8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "title": "Mr. Bean's Wild Trampoline Adventure! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=WfTWSiFmiSA",
+      "videoId": "WfTWSiFmiSA",
+      "thumbnail": "https://i4.ytimg.com/vi/WfTWSiFmiSA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "title": "Mosquitoes for Kids | Learn all about these pesky pests",
+      "videoUrl": "https://www.youtube.com/watch?v=LQuCSgA_aok",
+      "videoId": "LQuCSgA_aok",
+      "thumbnail": "https://i1.ytimg.com/vi/LQuCSgA_aok/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "title": "The Cat in the Funniest Home Videos! | AFV: Animal Edition Full Episode | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=sZuusYKOcVY",
+      "videoId": "sZuusYKOcVY",
+      "thumbnail": "https://i4.ytimg.com/vi/sZuusYKOcVY/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "title": "SpongeBob's Funniest Reactions ? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=cam6t7D2Eww",
+      "videoId": "cam6t7D2Eww",
+      "thumbnail": "https://i4.ytimg.com/vi/cam6t7D2Eww/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "title": "How to effectively use visuals in your presentation",
+      "videoUrl": "https://www.youtube.com/watch?v=bw5tzcoEG88",
+      "videoId": "bw5tzcoEG88",
+      "thumbnail": "https://i3.ytimg.com/vi/bw5tzcoEG88/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "title": "? LIVE: Looney Tunes Classics w/ Bugs Bunny, Daffy Duck & Porky Pig | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=LkSLKTQGsN8",
+      "videoId": "LkSLKTQGsN8",
+      "thumbnail": "https://i1.ytimg.com/vi/LkSLKTQGsN8/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, daffy, sylvester, tweety",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "title": "That's one BIG Turkey ? ? | Scooby-Doo and the Witch's Ghost | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=j5LktsJx84k",
+      "videoId": "j5LktsJx84k",
+      "thumbnail": "https://i3.ytimg.com/vi/j5LktsJx84k/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "title": "Sleepless Night  | Minuscule | 60' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=5Gb6jKfVIdY",
+      "videoId": "5Gb6jKfVIdY",
+      "thumbnail": "https://i2.ytimg.com/vi/5Gb6jKfVIdY/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-04",
       "firstSeen": "2026-11-04",
@@ -102,6 +322,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-04",
+      "firstSeen": "2026-11-05",
+      "title": "How To Draw A Cute Fall Leaf With Rain Boots",
+      "videoUrl": "https://www.youtube.com/watch?v=9C6nMo5FmpM",
+      "videoId": "9C6nMo5FmpM",
+      "thumbnail": "https://i2.ytimg.com/vi/9C6nMo5FmpM/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-04",
+      "firstSeen": "2026-11-05",
+      "title": "BRAINWASHING My Friends to Find Their SECRETS in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=cf9BMqsCk1k",
+      "videoId": "cf9BMqsCk1k",
+      "thumbnail": "https://i4.ytimg.com/vi/cf9BMqsCk1k/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
       "watched": {
         "jonah": false,
         "kieran": false
