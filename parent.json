@@ -1,6 +1,270 @@
 {
-  "generatedAt": "2026-11-07T15:21:20.830Z",
+  "generatedAt": "2026-11-07T17:21:19.662Z",
   "videos": [
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "The Dark Age - Animator vs. Animation 14",
+      "videoUrl": "https://www.youtube.com/watch?v=QCZjNqtnGmM",
+      "videoId": "QCZjNqtnGmM",
+      "thumbnail": "https://i2.ytimg.com/vi/QCZjNqtnGmM/hqdefault.jpg",
+      "channelID": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelName": "Alan Becker",
+      "category": "Cartoons",
+      "profile": "Both",
+      "retentionDays": 200,
+      "keyword": "alan becker, art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "Mr. Bean Sneaks Around the Train! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=2eFRvtKmJAk",
+      "videoId": "2eFRvtKmJAk",
+      "thumbnail": "https://i3.ytimg.com/vi/2eFRvtKmJAk/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "Mr. Bean Takes on a Rock Climbing Challenge! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=zY7knEw9DVo",
+      "videoId": "zY7knEw9DVo",
+      "thumbnail": "https://i3.ytimg.com/vi/zY7knEw9DVo/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "Mr Bean Becomes Mrs Wicket?! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=2vXDP9PqsIg",
+      "videoId": "2vXDP9PqsIg",
+      "thumbnail": "https://i3.ytimg.com/vi/2vXDP9PqsIg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "What is a Fire Tornado?",
+      "videoUrl": "https://www.youtube.com/watch?v=9zbEUKBUMF4",
+      "videoId": "9zbEUKBUMF4",
+      "thumbnail": "https://i2.ytimg.com/vi/9zbEUKBUMF4/hqdefault.jpg",
+      "channelID": "UCwyVRKfytvjSF6q5s7noKZQ",
+      "channelName": "Mr. DeMaio",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 300,
+      "keyword": "demaio",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "Secrets of Wild India MEGA Episode | Tigers, Elephants, & Lions | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=SmtkJaBdHsg",
+      "videoId": "SmtkJaBdHsg",
+      "thumbnail": "https://i4.ytimg.com/vi/SmtkJaBdHsg/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! ? Animal Card Quest | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=ziUQS2I_Lco",
+      "videoId": "ziUQS2I_Lco",
+      "thumbnail": "https://i3.ytimg.com/vi/ziUQS2I_Lco/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "Seven Foot Itch Full Episode | Funny Cartoons for Kids | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=9BkiEOOZF9E",
+      "videoId": "9BkiEOOZF9E",
+      "thumbnail": "https://i2.ytimg.com/vi/9BkiEOOZF9E/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "1 Hour with Plankton at the Chum Bucket ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=sI4q1JMRUqE",
+      "videoId": "sI4q1JMRUqE",
+      "thumbnail": "https://i4.ytimg.com/vi/sI4q1JMRUqE/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "Looney Tunes | Yosemite Sam, Bugs Bunny Mega Compilation | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=HEi0wlQl4w4",
+      "videoId": "HEi0wlQl4w4",
+      "thumbnail": "https://i1.ytimg.com/vi/HEi0wlQl4w4/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, yosemite",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "Tom Cat in the Hat! ?? | Tom & Jerry | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=p-YYSefZ51I",
+      "videoId": "p-YYSefZ51I",
+      "thumbnail": "https://i1.ytimg.com/vi/p-YYSefZ51I/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "title": "Chewing gum rodeo | Minuscule | 50' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=NhPMnQZd8L0",
+      "videoId": "NhPMnQZd8L0",
+      "thumbnail": "https://i3.ytimg.com/vi/NhPMnQZd8L0/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-06",
       "firstSeen": "2026-11-06",
@@ -212,6 +476,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-06",
+      "firstSeen": "2026-11-07",
+      "title": "Chip Needs SURGERY in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=zESkW9jdADw",
+      "videoId": "zESkW9jdADw",
+      "thumbnail": "https://i3.ytimg.com/vi/zESkW9jdADw/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-06",
+      "firstSeen": "2026-11-07",
+      "title": "AD | Ready, steady, glow! ? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=F9aEoQeLkD0",
+      "videoId": "F9aEoQeLkD0",
+      "thumbnail": "https://i3.ytimg.com/vi/F9aEoQeLkD0/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
