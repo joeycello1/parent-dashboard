@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-11-09T15:21:18.448Z",
+  "generatedAt": "2026-11-09T17:21:30.324Z",
   "videos": [
+    {
+      "timestamp": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "title": "How To Draw Cosmo The Space Mouse",
+      "videoUrl": "https://www.youtube.com/watch?v=Mux6Lzw0QC4",
+      "videoId": "Mux6Lzw0QC4",
+      "thumbnail": "https://i2.ytimg.com/vi/Mux6Lzw0QC4/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "title": "Ho Ho Ho! It's Christmas with Mr Bean! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Ek3m0QRSYhA",
+      "videoId": "Ek3m0QRSYhA",
+      "thumbnail": "https://i2.ytimg.com/vi/Ek3m0QRSYhA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "title": "Mr. Bean Tries to Escape a Little Girl! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=JlEWp-PTJfI",
+      "videoId": "JlEWp-PTJfI",
+      "thumbnail": "https://i3.ytimg.com/vi/JlEWp-PTJfI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "title": "Mr. Bean's Romantic Day With Irma! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=XdRTjN6BZHU",
+      "videoId": "XdRTjN6BZHU",
+      "thumbnail": "https://i1.ytimg.com/vi/XdRTjN6BZHU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "title": "OUR FAMILY PLAYS ? XTreme Nerf Gun Games COMPILATION (Hide & Seek, Capture the Flag, Floor is Lava)",
+      "videoUrl": "https://www.youtube.com/watch?v=gvqdr_lc3_o",
+      "videoId": "gvqdr_lc3_o",
+      "thumbnail": "https://i4.ytimg.com/vi/gvqdr_lc3_o/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=EN8EOvgAvyM",
+      "videoId": "EN8EOvgAvyM",
+      "thumbnail": "https://i2.ytimg.com/vi/EN8EOvgAvyM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-08",
       "firstSeen": "2026-11-08",
@@ -80,6 +212,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-08",
+      "firstSeen": "2026-11-09",
+      "title": "Mr. Bean's Crazy Summer Vacation! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=RVkmZDzjcoE",
+      "videoId": "RVkmZDzjcoE",
+      "thumbnail": "https://i3.ytimg.com/vi/RVkmZDzjcoE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-08",
+      "firstSeen": "2026-11-09",
+      "title": "Mr. Bean's Crazy Winter Invention! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=oXFMg5cK5ZA",
+      "videoId": "oXFMg5cK5ZA",
+      "thumbnail": "https://i4.ytimg.com/vi/oXFMg5cK5ZA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
       "watched": {
         "jonah": false,
         "kieran": false
