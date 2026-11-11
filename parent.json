@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-11-11T15:21:18.522Z",
+  "generatedAt": "2026-11-11T17:21:13.367Z",
   "videos": [
+    {
+      "timestamp": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "title": "Bean's Hilarious Spy Mission!! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=hklLCcEuhPk",
+      "videoId": "hklLCcEuhPk",
+      "thumbnail": "https://i1.ytimg.com/vi/hklLCcEuhPk/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "title": "Mr Bean's Frosty Adventures! ?? | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=tcrxTKmgfpk",
+      "videoId": "tcrxTKmgfpk",
+      "thumbnail": "https://i1.ytimg.com/vi/tcrxTKmgfpk/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "title": "Mr Bean's CRAZY World! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=zTqja7liKjU",
+      "videoId": "zTqja7liKjU",
+      "thumbnail": "https://i3.ytimg.com/vi/zTqja7liKjU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "title": "Super Speed (Full Episode) | Superbeast | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=5sMeIGBi698",
+      "videoId": "5sMeIGBi698",
+      "thumbnail": "https://i2.ytimg.com/vi/5sMeIGBi698/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "title": "1 Hour of Classic SpongeBob Episodes ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=T_d8DwaBl1g",
+      "videoId": "T_d8DwaBl1g",
+      "thumbnail": "https://i1.ytimg.com/vi/T_d8DwaBl1g/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "title": "David Pastrnak ? Looney Tunes Presents: Sports Talk with Bugs Bunny | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=rTeYJD3XOKg",
+      "videoId": "rTeYJD3XOKg",
+      "thumbnail": "https://i3.ytimg.com/vi/rTeYJD3XOKg/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-10",
       "firstSeen": "2026-11-10",
@@ -190,6 +322,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-10",
+      "firstSeen": "2026-11-11",
+      "title": "Camp Wild | Funny Cartoons for Kids | Open Season: Call of Nature",
+      "videoUrl": "https://www.youtube.com/watch?v=OLn4dtz5w3I",
+      "videoId": "OLn4dtz5w3I",
+      "thumbnail": "https://i4.ytimg.com/vi/OLn4dtz5w3I/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-10",
+      "firstSeen": "2026-11-11",
+      "title": "Croc's Picnic Plan Went Totally Wrong ? | Let's Go Bananas | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=YyxN2Lh3k7U",
+      "videoId": "YyxN2Lh3k7U",
+      "thumbnail": "https://i2.ytimg.com/vi/YyxN2Lh3k7U/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
