@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-11-12T15:21:24.193Z",
+  "generatedAt": "2026-11-12T17:21:16.265Z",
   "videos": [
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "title": "Mr. Bean Tries to Meet a Famous Singer! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=fQ8l9rWjQ4c",
+      "videoId": "fQ8l9rWjQ4c",
+      "thumbnail": "https://i3.ytimg.com/vi/fQ8l9rWjQ4c/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "title": "Mr Bean's Mission: ESCAPE THE ISLAND! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=dT7q94OFqAk",
+      "videoId": "dT7q94OFqAk",
+      "thumbnail": "https://i1.ytimg.com/vi/dT7q94OFqAk/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "title": "Mr. Bean Turns GREEN After a Bath! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=6L3BAgl0bE4",
+      "videoId": "6L3BAgl0bE4",
+      "thumbnail": "https://i3.ytimg.com/vi/6L3BAgl0bE4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "title": "Careers for Kids: Zookeeper | Learn about this fun and animal-loving career",
+      "videoUrl": "https://www.youtube.com/watch?v=lvtaju2lzPQ",
+      "videoId": "lvtaju2lzPQ",
+      "thumbnail": "https://i1.ytimg.com/vi/lvtaju2lzPQ/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "title": "I Cheated with DUOLINGO in Minecraft Build Battle",
+      "videoUrl": "https://www.youtube.com/watch?v=WzWYSD-bFKM",
+      "videoId": "WzWYSD-bFKM",
+      "thumbnail": "https://i4.ytimg.com/vi/WzWYSD-bFKM/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "title": "Strange Noses and Silly Animal Names | You're Called What?! | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=RtY1z8-qGYE",
+      "videoId": "RtY1z8-qGYE",
+      "thumbnail": "https://i3.ytimg.com/vi/RtY1z8-qGYE/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "title": "Every Time a SpongeBob Character Ate TOO Much ? | 10 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=DniQ93zztbc",
+      "videoId": "DniQ93zztbc",
+      "thumbnail": "https://i1.ytimg.com/vi/DniQ93zztbc/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "title": "How did pepper end up on every dinner table? - Carolyn Beans",
+      "videoUrl": "https://www.youtube.com/watch?v=aDblEBU41nA",
+      "videoId": "aDblEBU41nA",
+      "thumbnail": "https://i2.ytimg.com/vi/aDblEBU41nA/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "title": "A Beast of a Feast with Scooby and Shaggy! ?? | Scooby-Doo | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=uJkGo7m-L0k",
+      "videoId": "uJkGo7m-L0k",
+      "thumbnail": "https://i2.ytimg.com/vi/uJkGo7m-L0k/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "title": "Rosy | Minuscule | 55' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=gkJpB-iFknw",
+      "videoId": "gkJpB-iFknw",
+      "thumbnail": "https://i4.ytimg.com/vi/gkJpB-iFknw/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-11",
       "firstSeen": "2026-11-11",
