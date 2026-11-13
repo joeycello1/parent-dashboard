@@ -1,6 +1,248 @@
 {
-  "generatedAt": "2026-11-13T15:21:21.501Z",
+  "generatedAt": "2026-11-13T17:21:18.062Z",
   "videos": [
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "Mr. Bean Has a Double?! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=WHf2tGJe1TM",
+      "videoId": "WHf2tGJe1TM",
+      "thumbnail": "https://i4.ytimg.com/vi/WHf2tGJe1TM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "Happy World Kindness Day with Mr Bean! ??| Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=hwe2Ai81WAk",
+      "videoId": "hwe2Ai81WAk",
+      "thumbnail": "https://i1.ytimg.com/vi/hwe2Ai81WAk/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "Confidence: Maximum. Success: Pending. | Compilation | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=1olTL4VCw_Y",
+      "videoId": "1olTL4VCw_Y",
+      "thumbnail": "https://i2.ytimg.com/vi/1olTL4VCw_Y/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "Mr. Bean Tries Everything to Stop the Noise! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=7CRpH5F-j4w",
+      "videoId": "7CRpH5F-j4w",
+      "thumbnail": "https://i4.ytimg.com/vi/7CRpH5F-j4w/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "GIVEAWAY?We TRAPPED the GRINCH! (Christmas Scavenger Hunt | 2026 REWIND)",
+      "videoUrl": "https://www.youtube.com/watch?v=EaQNcLHMJRc",
+      "videoId": "EaQNcLHMJRc",
+      "thumbnail": "https://i2.ytimg.com/vi/EaQNcLHMJRc/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "Adolf Hitler | Learn about one of the most infamous dictators in world history",
+      "videoUrl": "https://www.youtube.com/watch?v=t-0uO2g7V_w",
+      "videoId": "t-0uO2g7V_w",
+      "thumbnail": "https://i1.ytimg.com/vi/t-0uO2g7V_w/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "art, educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "Extreme Heat (Full Episode) | Bite Sting Kill | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=ZI6AoMwbuxc",
+      "videoId": "ZI6AoMwbuxc",
+      "thumbnail": "https://i3.ytimg.com/vi/ZI6AoMwbuxc/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, science, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "Baby Hermes Pranks Apollo ? | Greeking Out Podcast | S5 E7 FULL EP | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=EQpTtkRBInA",
+      "videoId": "EQpTtkRBInA",
+      "thumbnail": "https://i2.ytimg.com/vi/EQpTtkRBInA/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "Injection Techniques | How Do Injections Help you Heal? | Needles and Syringes | Types and Uses",
+      "videoUrl": "https://www.youtube.com/watch?v=7-SNaUdrXCY",
+      "videoId": "7-SNaUdrXCY",
+      "thumbnail": "https://i4.ytimg.com/vi/7-SNaUdrXCY/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "Squidward TRYING to Have a Good Day in Bikini Bottom ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=iuO5HaZVYdw",
+      "videoId": "iuO5HaZVYdw",
+      "thumbnail": "https://i2.ytimg.com/vi/iuO5HaZVYdw/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "title": "Cozy Cottage Core ? ? | Tom and Jerry Gokko FULL EPISODES | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=n4SMYwhgfQs",
+      "videoId": "n4SMYwhgfQs",
+      "thumbnail": "https://i3.ytimg.com/vi/n4SMYwhgfQs/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-12",
       "firstSeen": "2026-11-12",
@@ -212,6 +454,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-13",
+      "title": "How To Draw Flufferson Squirrel Mailman",
+      "videoUrl": "https://www.youtube.com/watch?v=uRqUixWz7R0",
+      "videoId": "uRqUixWz7R0",
+      "thumbnail": "https://i2.ytimg.com/vi/uRqUixWz7R0/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-12",
+      "firstSeen": "2026-11-13",
+      "title": "LEGO TRAIN CRASHES...",
+      "videoUrl": "https://www.youtube.com/watch?v=HHxiSFVWQ9c",
+      "videoId": "HHxiSFVWQ9c",
+      "thumbnail": "https://i1.ytimg.com/vi/HHxiSFVWQ9c/hqdefault.jpg",
+      "channelID": "UCUU3GdGuQshZFRGnxAPBf_w",
+      "channelName": "TD Bricks",
+      "category": "LEGO",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "lego",
       "watched": {
         "jonah": false,
         "kieran": false
