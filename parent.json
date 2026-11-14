@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-11-14T15:21:16.430Z",
+  "generatedAt": "2026-11-14T17:21:13.356Z",
   "videos": [
+    {
+      "timestamp": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "title": "Halloween Gets Crazy with Mr. Bean! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=htQPI0ztXF8",
+      "videoId": "htQPI0ztXF8",
+      "thumbnail": "https://i1.ytimg.com/vi/htQPI0ztXF8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "title": "Mr. Bean's Sauna Adventure Heats Up! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=byjrCFE5A18",
+      "videoId": "byjrCFE5A18",
+      "thumbnail": "https://i3.ytimg.com/vi/byjrCFE5A18/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "title": "Mr Bean's FREEZING Winter! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=pdYHLmTZkVo",
+      "videoId": "pdYHLmTZkVo",
+      "thumbnail": "https://i1.ytimg.com/vi/pdYHLmTZkVo/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "title": "We Adopted Scorpions in Minecraft!",
+      "videoUrl": "https://www.youtube.com/watch?v=W5PxxKnuiXo",
+      "videoId": "W5PxxKnuiXo",
+      "thumbnail": "https://i4.ytimg.com/vi/W5PxxKnuiXo/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "title": "The Wild Animals of Yellowstone | MEGA Episode Special | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=7PVQeja3dZ4",
+      "videoId": "7PVQeja3dZ4",
+      "thumbnail": "https://i4.ytimg.com/vi/7PVQeja3dZ4/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "title": "SpongeBob's Craziest Episodes Ever ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=Wx42aplsltk",
+      "videoId": "Wx42aplsltk",
+      "thumbnail": "https://i4.ytimg.com/vi/Wx42aplsltk/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "title": "Looney Tunes | Wile E. Coyote vs Road Runner Episodes Compilation | Vol. 14 | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=Rb3gDFLguUI",
+      "videoId": "Rb3gDFLguUI",
+      "thumbnail": "https://i3.ytimg.com/vi/Rb3gDFLguUI/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "road runner, roadrunner",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "title": "Holidays are for FOOD! ? ? | Tom & Jerry | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=SwKcD4e-e1E",
+      "videoId": "SwKcD4e-e1E",
+      "thumbnail": "https://i4.ytimg.com/vi/SwKcD4e-e1E/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "title": "Cicadas? Song | Minuscule | 60' Compilation",
+      "videoUrl": "https://www.youtube.com/watch?v=zT8GfeNsyq0",
+      "videoId": "zT8GfeNsyq0",
+      "thumbnail": "https://i3.ytimg.com/vi/zT8GfeNsyq0/hqdefault.jpg",
+      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
+      "channelName": "Miniscule",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-13",
       "firstSeen": "2026-11-13",
@@ -234,6 +432,94 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "title": "1 Hour of Thanksgiving Drawing Fun! ? Art Lessons for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=OhmPdBhK4Xs",
+      "videoId": "OhmPdBhK4Xs",
+      "thumbnail": "https://i4.ytimg.com/vi/OhmPdBhK4Xs/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "title": "AD | Stuck in a tar pit? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=OUfzp6awrEc",
+      "videoId": "OUfzp6awrEc",
+      "thumbnail": "https://i4.ytimg.com/vi/OUfzp6awrEc/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "title": "House of Ear Wax | Best Moments Of Season 3 | Camp Lakebottom | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=zdCfbJ3Vu1Y",
+      "videoId": "zdCfbJ3Vu1Y",
+      "thumbnail": "https://i3.ytimg.com/vi/zdCfbJ3Vu1Y/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "title": "? LIVE: Looney Tunes Classics w/ Bugs Bunny, Daffy Duck & Porky Pig | Warner Classics",
+      "videoUrl": "https://www.youtube.com/watch?v=r8QXCywzVVI",
+      "videoId": "r8QXCywzVVI",
+      "thumbnail": "https://i3.ytimg.com/vi/r8QXCywzVVI/hqdefault.jpg",
+      "channelID": "UCU0rIMU3k_AsVA8d6N1B03w",
+      "channelName": "Warner Bros Classics",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, daffy, sylvester, tweety",
       "watched": {
         "jonah": false,
         "kieran": false
