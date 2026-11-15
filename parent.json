@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-11-15T15:21:15.051Z",
+  "generatedAt": "2026-11-15T17:21:19.709Z",
   "videos": [
+    {
+      "timestamp": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "title": "Mr. Bean Takes on the Bad Guys! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=arGvh_1H8a8",
+      "videoId": "arGvh_1H8a8",
+      "thumbnail": "https://i2.ytimg.com/vi/arGvh_1H8a8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "title": "Mr Bean's SPOOKY Nightmare! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Tp-Gaxl3ELw",
+      "videoId": "Tp-Gaxl3ELw",
+      "thumbnail": "https://i1.ytimg.com/vi/Tp-Gaxl3ELw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "title": "POOR vs RICH Longest Train Battle in Minecraft",
+      "videoUrl": "https://www.youtube.com/watch?v=kinIno5oejQ",
+      "videoId": "kinIno5oejQ",
+      "thumbnail": "https://i4.ytimg.com/vi/kinIno5oejQ/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "title": "Forest of the Golden Monkey (Full Episode) | Hidden Kingdoms of China | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=FPuMNwoIw7g",
+      "videoId": "FPuMNwoIw7g",
+      "thumbnail": "https://i3.ytimg.com/vi/FPuMNwoIw7g/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "title": "Cassini: The Spacecraft That Flew Into Saturn ? | Mission to Saturn Full Special | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=2E6-G7PegV8",
+      "videoId": "2E6-G7PegV8",
+      "thumbnail": "https://i3.ytimg.com/vi/2E6-G7PegV8/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "title": "2 Hours of SpongeBob Cooking Krabby Patties ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=HafyPIWLJSQ",
+      "videoId": "HafyPIWLJSQ",
+      "thumbnail": "https://i1.ytimg.com/vi/HafyPIWLJSQ/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-14",
       "firstSeen": "2026-11-14",
@@ -190,6 +322,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "minuscule",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "title": "The Floor REALLY IS Lava! ? Fun Volcano Facts | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=AH7KGVjXOkE",
+      "videoId": "AH7KGVjXOkE",
+      "thumbnail": "https://i2.ytimg.com/vi/AH7KGVjXOkE/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
