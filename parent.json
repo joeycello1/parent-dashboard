@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-11-16T15:21:17.154Z",
+  "generatedAt": "2026-11-16T17:21:13.991Z",
   "videos": [
+    {
+      "timestamp": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "title": "The Madness Never Ends with Mr Bean! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Gy8COB6ygJg",
+      "videoId": "Gy8COB6ygJg",
+      "thumbnail": "https://i4.ytimg.com/vi/Gy8COB6ygJg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "title": "Mr. Bean Has Lost His Best Friend! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=GZ-F9T9E5Gw",
+      "videoId": "GZ-F9T9E5Gw",
+      "thumbnail": "https://i4.ytimg.com/vi/GZ-F9T9E5Gw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "title": "Meet Mr. Bean's Younger Self! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=RjUQSHepgdA",
+      "videoId": "RjUQSHepgdA",
+      "thumbnail": "https://i3.ytimg.com/vi/RjUQSHepgdA/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-15",
       "firstSeen": "2026-11-15",
@@ -124,6 +190,72 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "title": "One Tiny Mosquito Ruins Mr. Bean's Night! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=gUGb0P1qAWs",
+      "videoId": "gUGb0P1qAWs",
+      "thumbnail": "https://i4.ytimg.com/vi/gUGb0P1qAWs/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "title": "Babies, Diapers & Fun! | Ultimate Guide to Family & Learning | Finding Stuff Out",
+      "videoUrl": "https://www.youtube.com/watch?v=6yzq1h5pDJ4",
+      "videoId": "6yzq1h5pDJ4",
+      "thumbnail": "https://i3.ytimg.com/vi/6yzq1h5pDJ4/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "title": "Giant Builds, Crazy Contraptions & Extreme Experiments! Science Max | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=4CvDuF0UW5Y",
+      "videoId": "4CvDuF0UW5Y",
+      "thumbnail": "https://i1.ytimg.com/vi/4CvDuF0UW5Y/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
