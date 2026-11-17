@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:21:16.530Z",
+  "generatedAt": "2026-11-17T05:21:16.230Z",
   "videos": [
     {
       "timestamp": "2026-11-16",
@@ -58,6 +58,50 @@
       "profile": "Both",
       "retentionDays": 30,
       "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-16",
+      "firstSeen": "2026-11-17",
+      "title": "Minecraft, But Villagers are MILO",
+      "videoUrl": "https://www.youtube.com/watch?v=Ge4YGYOQ0Wc",
+      "videoId": "Ge4YGYOQ0Wc",
+      "thumbnail": "https://i4.ytimg.com/vi/Ge4YGYOQ0Wc/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-16",
+      "firstSeen": "2026-11-17",
+      "title": "?LIVE: Spongebob's FAMILY Marathon! ?? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=PU4emHQmC2o",
+      "videoId": "PU4emHQmC2o",
+      "thumbnail": "https://i1.ytimg.com/vi/PU4emHQmC2o/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
       "watched": {
         "jonah": false,
         "kieran": false
