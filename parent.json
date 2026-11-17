@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-11-17T15:21:44.368Z",
+  "generatedAt": "2026-11-17T17:21:28.036Z",
   "videos": [
+    {
+      "timestamp": "2026-11-17",
+      "firstSeen": "2026-11-17",
+      "title": "Mr. Bean's First Day as a Scout! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=EPBMvm-5jdc",
+      "videoId": "EPBMvm-5jdc",
+      "thumbnail": "https://i2.ytimg.com/vi/EPBMvm-5jdc/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-17",
+      "firstSeen": "2026-11-17",
+      "title": "Mr. Bean's Snowy Morning Adventures! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=bV7hLXWwmfw",
+      "videoId": "bV7hLXWwmfw",
+      "thumbnail": "https://i3.ytimg.com/vi/bV7hLXWwmfw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-17",
+      "firstSeen": "2026-11-17",
+      "title": "One Broken Tooth, a Million Mr. Bean Ideas! | 4K | FULL COMPILATION | Mr Bean Adventure",
+      "videoUrl": "https://www.youtube.com/watch?v=jqQpXCVEgVw",
+      "videoId": "jqQpXCVEgVw",
+      "thumbnail": "https://i3.ytimg.com/vi/jqQpXCVEgVw/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-17",
+      "firstSeen": "2026-11-17",
+      "title": "Food Web for Kids | Learn how animals interact with each other beyond the food chain",
+      "videoUrl": "https://www.youtube.com/watch?v=HI7ueffk0Qg",
+      "videoId": "HI7ueffk0Qg",
+      "thumbnail": "https://i1.ytimg.com/vi/HI7ueffk0Qg/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-17",
+      "firstSeen": "2026-11-17",
+      "title": "What to Do if Your Ears are Blocked up? | What if You Never Remove Your Earwax? | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=GrXmMe_dFXY",
+      "videoId": "GrXmMe_dFXY",
+      "thumbnail": "https://i4.ytimg.com/vi/GrXmMe_dFXY/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-17",
+      "firstSeen": "2026-11-17",
+      "title": "Karen vs. Karen 2.0 ?? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=GDTLNEsO9TE",
+      "videoId": "GDTLNEsO9TE",
+      "thumbnail": "https://i4.ytimg.com/vi/GDTLNEsO9TE/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-17",
+      "firstSeen": "2026-11-17",
+      "title": "Can you calculate truth? - Lane Gunderman",
+      "videoUrl": "https://www.youtube.com/watch?v=dkocGur84i8",
+      "videoId": "dkocGur84i8",
+      "thumbnail": "https://i1.ytimg.com/vi/dkocGur84i8/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-17",
+      "firstSeen": "2026-11-17",
+      "title": "Looney Tunes Shorts MARATHON! Vol.2 ?? | Classic Looney Tunes MEGA COMP ? | #KidsCartoons @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=UzRW4WFnlFk",
+      "videoId": "UzRW4WFnlFk",
+      "thumbnail": "https://i2.ytimg.com/vi/UzRW4WFnlFk/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-16",
       "firstSeen": "2026-11-16",
