@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-11-18T15:21:36.361Z",
+  "generatedAt": "2026-11-18T17:21:15.020Z",
   "videos": [
+    {
+      "timestamp": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "title": "Our NEW 80-Piece Marker Set Is Here! ?",
+      "videoUrl": "https://www.youtube.com/watch?v=J1EmFaMyNaA",
+      "videoId": "J1EmFaMyNaA",
+      "thumbnail": "https://i3.ytimg.com/vi/J1EmFaMyNaA/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "title": "Movie Night Goes Wrong with Mr Bean! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=eXT0uDT0fJ4",
+      "videoId": "eXT0uDT0fJ4",
+      "thumbnail": "https://i2.ytimg.com/vi/eXT0uDT0fJ4/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "title": "Sleepy Mr Bean Can't Stay Awake! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=5Z4Okh9B3IE",
+      "videoId": "5Z4Okh9B3IE",
+      "thumbnail": "https://i2.ytimg.com/vi/5Z4Okh9B3IE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "title": "Mr. Bean Opens His Own Pizza Business! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=IzXBMIYoBrc",
+      "videoId": "IzXBMIYoBrc",
+      "thumbnail": "https://i2.ytimg.com/vi/IzXBMIYoBrc/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "title": "Surviving the Tidelands (Full Episode) | Primal Combat | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=sCbOgFAPNVs",
+      "videoId": "sCbOgFAPNVs",
+      "thumbnail": "https://i4.ytimg.com/vi/sCbOgFAPNVs/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "title": "100 Minutes of SpongeBob's Funniest Frenemy Moments ? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=OrGV3Ry36u0",
+      "videoId": "OrGV3Ry36u0",
+      "thumbnail": "https://i4.ytimg.com/vi/OrGV3Ry36u0/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-17",
       "firstSeen": "2026-11-17",
