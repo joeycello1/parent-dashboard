@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T17:21:18.011Z",
+  "generatedAt": "2026-11-19T19:21:16.160Z",
   "videos": [
     {
       "timestamp": "2026-11-19",
@@ -30,28 +30,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=eT1nf713rXY",
       "videoId": "eT1nf713rXY",
       "thumbnail": "https://i2.ytimg.com/vi/eT1nf713rXY/hqdefault.jpg",
-      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
-      "channelName": "Cartoons for Kids - Mr Bean",
-      "category": "Mr Bean",
-      "profile": "Both",
-      "retentionDays": 30,
-      "keyword": "mr bean",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-11-19",
-      "firstSeen": "2026-11-19",
-      "title": "Mr Bean Takes on a Kid in a Crazy Race! | Mr Bean Adventures",
-      "videoUrl": "https://www.youtube.com/watch?v=_lQvEleCOgk",
-      "videoId": "_lQvEleCOgk",
-      "thumbnail": "https://i4.ytimg.com/vi/_lQvEleCOgk/hqdefault.jpg",
       "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
       "channelName": "Cartoons for Kids - Mr Bean",
       "category": "Mr Bean",
@@ -114,50 +92,6 @@
     {
       "timestamp": "2026-11-19",
       "firstSeen": "2026-11-19",
-      "title": "Weird But True Full Episode | Flying High on Roller Coasters and Airplanes | Nat Geo Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=P3eT2eluwHI",
-      "videoId": "P3eT2eluwHI",
-      "thumbnail": "https://i1.ytimg.com/vi/P3eT2eluwHI/hqdefault.jpg",
-      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "channelName": "Nat Geo Kids",
-      "category": "Nature",
-      "profile": "Both",
-      "retentionDays": 80,
-      "keyword": "nat geo, educational, science",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-11-19",
-      "firstSeen": "2026-11-19",
-      "title": "SpongeBob's Craziest Chases Ever ? | 30 Minutes | SpongeBob",
-      "videoUrl": "https://www.youtube.com/watch?v=wNKqoH1kGBI",
-      "videoId": "wNKqoH1kGBI",
-      "thumbnail": "https://i4.ytimg.com/vi/wNKqoH1kGBI/hqdefault.jpg",
-      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
-      "channelName": "SpongeBob Official",
-      "category": "Spongebob",
-      "profile": "Both",
-      "retentionDays": 15,
-      "keyword": "spongebob",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-11-19",
-      "firstSeen": "2026-11-19",
       "title": "5 times scientists experimented on themselves - Shannon Odell",
       "videoUrl": "https://www.youtube.com/watch?v=fqL9dt6QHWg",
       "videoId": "fqL9dt6QHWg",
@@ -190,28 +124,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-11-19",
-      "firstSeen": "2026-11-19",
-      "title": "Mad fly | Minuscule | 25' Compilation",
-      "videoUrl": "https://www.youtube.com/watch?v=Rb5m0Z_6Ig8",
-      "videoId": "Rb5m0Z_6Ig8",
-      "thumbnail": "https://i3.ytimg.com/vi/Rb5m0Z_6Ig8/hqdefault.jpg",
-      "channelID": "UCOOi7JtIMDaYsaUjDBSTSIQ",
-      "channelName": "Miniscule",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": 60,
-      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
