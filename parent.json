@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T19:59:00.113Z",
+  "generatedAt": "2026-11-19T21:21:17.035Z",
   "videos": [
     {
       "timestamp": "2026-11-19",
@@ -2676,28 +2676,6 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
-      "watched": {
-        "jonah": false,
-        "kieran": false
-      },
-      "rating": {
-        "jonah": "",
-        "kieran": ""
-      }
-    },
-    {
-      "timestamp": "2026-11-05",
-      "firstSeen": "2026-11-05",
-      "title": "Sleepless Night  | Minuscule | 60' Compilation",
-      "videoUrl": "https://www.youtube.com/watch?v=5Gb6jKfVIdY",
-      "videoId": "5Gb6jKfVIdY",
-      "thumbnail": "https://i2.ytimg.com/vi/5Gb6jKfVIdY/hqdefault.jpg",
-      "channelID": "",
-      "channelName": "Miniscule",
-      "category": "Films",
-      "profile": "Both",
-      "retentionDays": "",
-      "keyword": "minuscule",
       "watched": {
         "jonah": false,
         "kieran": false
