@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:21:16.948Z",
+  "generatedAt": "2026-11-19T05:21:13.996Z",
   "videos": [
     {
       "timestamp": "2026-11-18",
@@ -124,6 +124,50 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-18",
+      "firstSeen": "2026-11-19",
+      "title": "NOOB vs PRO: GUMMY BEAR Safest Security House Build Challenge to Protect My Family",
+      "videoUrl": "https://www.youtube.com/watch?v=HG6vm9qM07g",
+      "videoId": "HG6vm9qM07g",
+      "thumbnail": "https://i1.ytimg.com/vi/HG6vm9qM07g/hqdefault.jpg",
+      "channelID": "UC_NqVr5AA1vziN0ZLR-QiLw",
+      "channelName": "Milo and Chip",
+      "category": "Minecraft",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "minecraft",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-18",
+      "firstSeen": "2026-11-19",
+      "title": "Kids React to Wolves Up Close | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=X5AvTuQ0jYI",
+      "videoId": "X5AvTuQ0jYI",
+      "thumbnail": "https://i1.ytimg.com/vi/X5AvTuQ0jYI/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
       "watched": {
         "jonah": false,
         "kieran": false
