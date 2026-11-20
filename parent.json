@@ -1,6 +1,248 @@
 {
-  "generatedAt": "2026-11-20T15:21:13.894Z",
+  "generatedAt": "2026-11-20T17:21:15.748Z",
   "videos": [
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "How To Draw A Pizza Delivery Truck",
+      "videoUrl": "https://www.youtube.com/watch?v=7l5OrVT9UxA",
+      "videoId": "7l5OrVT9UxA",
+      "thumbnail": "https://i4.ytimg.com/vi/7l5OrVT9UxA/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "Mr Bean Can't Wait for Christmas! | Holiday Special | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=3treIiPgjO8",
+      "videoId": "3treIiPgjO8",
+      "thumbnail": "https://i4.ytimg.com/vi/3treIiPgjO8/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "Tiny Car, Massive Ambition | New Mr Bean Episodes | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=qgZYK2JfdHc",
+      "videoId": "qgZYK2JfdHc",
+      "thumbnail": "https://i2.ytimg.com/vi/qgZYK2JfdHc/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "Mr. Bean Gets Arrested for a Photo? | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=iqYsfc0naJU",
+      "videoId": "iqYsfc0naJU",
+      "thumbnail": "https://i2.ytimg.com/vi/iqYsfc0naJU/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "Mr. Bean Uncovers a Wedding Scam! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=5aP3Stckr8I",
+      "videoId": "5aP3Stckr8I",
+      "thumbnail": "https://i2.ytimg.com/vi/5aP3Stckr8I/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "Hot Wheels & Monster Jam TRANSFORMERS Monster Trucks Racing on a Transforming Track",
+      "videoUrl": "https://www.youtube.com/watch?v=GNM9q62lPlg",
+      "videoId": "GNM9q62lPlg",
+      "thumbnail": "https://i4.ytimg.com/vi/GNM9q62lPlg/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "The Animal Kingdom's Hunger Games | MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=zDGnn0pg1xs",
+      "videoId": "zDGnn0pg1xs",
+      "thumbnail": "https://i3.ytimg.com/vi/zDGnn0pg1xs/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "Circe?s Potions, Spells, and Big Mistakes | Greeking Out Podcast | S5 E8 FULL EP | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=5wANYZSdl5s",
+      "videoId": "5wANYZSdl5s",
+      "thumbnail": "https://i2.ytimg.com/vi/5wANYZSdl5s/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "Rice Weevil Infestation & Life Cycle | How Rice Weevils Get into the Rice? | Dr. Binocs Show",
+      "videoUrl": "https://www.youtube.com/watch?v=tZjeV76BI2s",
+      "videoId": "tZjeV76BI2s",
+      "thumbnail": "https://i1.ytimg.com/vi/tZjeV76BI2s/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "Every Time SpongeBob Finally Snapped ? | 45 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=WCkRdQ3YUh8",
+      "videoId": "WCkRdQ3YUh8",
+      "thumbnail": "https://i4.ytimg.com/vi/WCkRdQ3YUh8/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "title": "Let's EAT! ? ? | Tom & Jerry Gokko + Looney Tunes Gokko FULL EPISODES | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=3ru_KGzpMVM",
+      "videoId": "3ru_KGzpMVM",
+      "thumbnail": "https://i4.ytimg.com/vi/3ru_KGzpMVM/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-19",
       "firstSeen": "2026-11-19",
@@ -9650,6 +9892,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-21",
+      "firstSeen": "2026-11-20",
+      "title": "Live Game Art Feedback with Zurab Barisashvili",
+      "videoUrl": "https://www.youtube.com/watch?v=_b496IBaU3k",
+      "videoId": "_b496IBaU3k",
+      "thumbnail": "https://i4.ytimg.com/vi/_b496IBaU3k/hqdefault.jpg",
+      "channelID": "UChRqvdy0MALQ1WK6u0FYwHw",
+      "channelName": "The Rookies",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "art",
       "watched": {
         "jonah": false,
         "kieran": false
