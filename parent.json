@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T03:21:18.885Z",
+  "generatedAt": "2026-11-21T05:21:13.153Z",
   "videos": [
     {
       "timestamp": "2026-11-20",
@@ -234,6 +234,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-21",
+      "title": "AD | Build Your Own Glow-In-The-Dark Scorpion Wall Crawler ? | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=yCnIuD6IX08",
+      "videoId": "yCnIuD6IX08",
+      "thumbnail": "https://i2.ytimg.com/vi/yCnIuD6IX08/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-20",
+      "firstSeen": "2026-11-21",
+      "title": "CGI 3D Animated Short: BOUCLE-LA | The Rookies",
+      "videoUrl": "https://www.youtube.com/watch?v=jBG8r_ep5VA",
+      "videoId": "jBG8r_ep5VA",
+      "thumbnail": "https://i3.ytimg.com/vi/jBG8r_ep5VA/hqdefault.jpg",
+      "channelID": "UChRqvdy0MALQ1WK6u0FYwHw",
+      "channelName": "The Rookies",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "animated short",
       "watched": {
         "jonah": false,
         "kieran": false
@@ -8704,6 +8748,28 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-28",
+      "firstSeen": "2026-11-21",
+      "title": "From Art to Assets: Demonstrating Process and Studio Mindset in Your Portfolio",
+      "videoUrl": "https://www.youtube.com/watch?v=cQaA0Kg9X8s",
+      "videoId": "cQaA0Kg9X8s",
+      "thumbnail": "https://i4.ytimg.com/vi/cQaA0Kg9X8s/hqdefault.jpg",
+      "channelID": "UChRqvdy0MALQ1WK6u0FYwHw",
+      "channelName": "The Rookies",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "art",
       "watched": {
         "jonah": false,
         "kieran": false
