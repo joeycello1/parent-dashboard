@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:21:16.407Z",
+  "generatedAt": "2026-11-23T05:21:14.493Z",
   "videos": [
     {
       "timestamp": "2026-11-22",
@@ -124,6 +124,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-22",
+      "firstSeen": "2026-11-23",
+      "title": "CGI 3D Animated Short: Bibi  | The Rookies",
+      "videoUrl": "https://www.youtube.com/watch?v=QtBNr4BU0nI",
+      "videoId": "QtBNr4BU0nI",
+      "thumbnail": "https://i2.ytimg.com/vi/QtBNr4BU0nI/hqdefault.jpg",
+      "channelID": "UChRqvdy0MALQ1WK6u0FYwHw",
+      "channelName": "The Rookies",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "animated short",
       "watched": {
         "jonah": false,
         "kieran": false
