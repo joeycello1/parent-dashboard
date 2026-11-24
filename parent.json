@@ -1,6 +1,226 @@
 {
-  "generatedAt": "2026-11-24T15:21:19.174Z",
+  "generatedAt": "2026-11-24T17:21:19.231Z",
   "videos": [
+    {
+      "timestamp": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "title": "How To Draw A DJ Party Turkey Folding Surprise",
+      "videoUrl": "https://www.youtube.com/watch?v=BaFlk9rycFk",
+      "videoId": "BaFlk9rycFk",
+      "thumbnail": "https://i3.ytimg.com/vi/BaFlk9rycFk/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "title": "Mr. Bean's Unexpected Trip to Prison! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=FQgmWs522mI",
+      "videoId": "FQgmWs522mI",
+      "thumbnail": "https://i3.ytimg.com/vi/FQgmWs522mI/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "title": "Mr Bean's FUNNY Nightmare! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=f7n9wqC15D0",
+      "videoId": "f7n9wqC15D0",
+      "thumbnail": "https://i3.ytimg.com/vi/f7n9wqC15D0/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "title": "Mr. Bean Takes on a Gang of Hungry Squirrels! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=C1nsdRT8jUM",
+      "videoId": "C1nsdRT8jUM",
+      "thumbnail": "https://i4.ytimg.com/vi/C1nsdRT8jUM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "title": "Taj Mahal for Kids | Learn about one of the New 7 Wonders of the World",
+      "videoUrl": "https://www.youtube.com/watch?v=-55OEaLWZbo",
+      "videoId": "-55OEaLWZbo",
+      "thumbnail": "https://i2.ytimg.com/vi/-55OEaLWZbo/hqdefault.jpg",
+      "channelID": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "channelName": "Learn Bright",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "educational, social studies",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "title": "Winter Mysteries & Disasters | Chilling Facts That Will Shock You | Snowflakes, Winter Storms & more",
+      "videoUrl": "https://www.youtube.com/watch?v=ZGkzy1MMHFM",
+      "videoId": "ZGkzy1MMHFM",
+      "thumbnail": "https://i3.ytimg.com/vi/ZGkzy1MMHFM/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "title": "SpongeBob and Squidward Sell Krabby Patties at a Concert ? | Full Scene | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=QFpg73okdiI",
+      "videoId": "QFpg73okdiI",
+      "thumbnail": "https://i2.ytimg.com/vi/QFpg73okdiI/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "title": "What happens if you accidentally eat moldy food? - Josephine Wee",
+      "videoUrl": "https://www.youtube.com/watch?v=1IVlILdETAw",
+      "videoId": "1IVlILdETAw",
+      "thumbnail": "https://i2.ytimg.com/vi/1IVlILdETAw/hqdefault.jpg",
+      "channelID": "UCsooa4yRKGN_zEE8iknghZA",
+      "channelName": "TED-Ed",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "ted-ed",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "title": "Tage Thompson ? Looney Tunes Presents: Sports Talk with Bugs Bunny | @GenerationWB",
+      "videoUrl": "https://www.youtube.com/watch?v=XWeGzOhEnZo",
+      "videoId": "XWeGzOhEnZo",
+      "thumbnail": "https://i1.ytimg.com/vi/XWeGzOhEnZo/hqdefault.jpg",
+      "channelID": "UCzWxR7srCLRQLTr1CaLStig",
+      "channelName": "WB",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "title": "Bugs Bunny Stew? ? ? | Looney Tunes Cartoons | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=Npp7GKRHO9s",
+      "videoId": "Npp7GKRHO9s",
+      "thumbnail": "https://i3.ytimg.com/vi/Npp7GKRHO9s/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "bugs, scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-23",
       "firstSeen": "2026-11-23",
