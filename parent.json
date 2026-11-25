@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-11-25T15:21:17.786Z",
+  "generatedAt": "2026-11-25T17:21:31.856Z",
   "videos": [
+    {
+      "timestamp": "2026-11-25",
+      "firstSeen": "2026-11-25",
+      "title": "Mr. Bean's Mission to Stay Warm This Winter! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=tN9NEj89xGY",
+      "videoId": "tN9NEj89xGY",
+      "thumbnail": "https://i1.ytimg.com/vi/tN9NEj89xGY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-25",
+      "firstSeen": "2026-11-25",
+      "title": "Mr. Bean Joins the Black Friday Shopping Frenzy! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=F0Q5_HvpWzg",
+      "videoId": "F0Q5_HvpWzg",
+      "thumbnail": "https://i3.ytimg.com/vi/F0Q5_HvpWzg/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-25",
+      "firstSeen": "2026-11-25",
+      "title": "A Very Bean Thanksgiving Celebration! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=3-Z7N2Dnm8M",
+      "videoId": "3-Z7N2Dnm8M",
+      "thumbnail": "https://i4.ytimg.com/vi/3-Z7N2Dnm8M/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-25",
+      "firstSeen": "2026-11-25",
+      "title": "Chapter Two: A Band of Brothers (Full Episode) | Lion | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=g-LE2LbIgfQ",
+      "videoId": "g-LE2LbIgfQ",
+      "thumbnail": "https://i4.ytimg.com/vi/g-LE2LbIgfQ/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-25",
+      "firstSeen": "2026-11-25",
+      "title": "1 Hour of SpongeBob & Squidward's Funniest Moments in Bikini Bottom ?? | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=yfbChR6BxUQ",
+      "videoId": "yfbChR6BxUQ",
+      "thumbnail": "https://i2.ytimg.com/vi/yfbChR6BxUQ/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-24",
       "firstSeen": "2026-11-24",
