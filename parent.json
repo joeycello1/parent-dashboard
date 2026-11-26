@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-11-26T15:21:22.096Z",
+  "generatedAt": "2026-11-26T17:21:17.881Z",
   "videos": [
+    {
+      "timestamp": "2026-11-26",
+      "firstSeen": "2026-11-26",
+      "title": "Mr Bean?s Black Friday Wish List | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=9Qe8ypV2hZs",
+      "videoId": "9Qe8ypV2hZs",
+      "thumbnail": "https://i2.ytimg.com/vi/9Qe8ypV2hZs/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-26",
+      "firstSeen": "2026-11-26",
+      "title": "Mr Bean's Claw-some Teddy Rescue! | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=S665Txm_cWY",
+      "videoId": "S665Txm_cWY",
+      "thumbnail": "https://i4.ytimg.com/vi/S665Txm_cWY/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-26",
+      "firstSeen": "2026-11-26",
+      "title": "Animals and Wildlife of North America | Jack Hanna's Passport Full Episode | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=QNnIcsgVwrM",
+      "videoId": "QNnIcsgVwrM",
+      "thumbnail": "https://i2.ytimg.com/vi/QNnIcsgVwrM/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-26",
+      "firstSeen": "2026-11-26",
+      "title": "SpongeBob's Best Krabby Patty Moments from Season 6-7 ? | 10 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=EcLq-K8KydE",
+      "videoId": "EcLq-K8KydE",
+      "thumbnail": "https://i2.ytimg.com/vi/EcLq-K8KydE/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-26",
+      "firstSeen": "2026-11-26",
+      "title": "A Scooby and Shaggy Buffet ?? | Scooby-Doo | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=dskIRD2fBXA",
+      "videoId": "dskIRD2fBXA",
+      "thumbnail": "https://i1.ytimg.com/vi/dskIRD2fBXA/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-25",
       "firstSeen": "2026-11-25",
