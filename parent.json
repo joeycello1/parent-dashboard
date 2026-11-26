@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:21:18.531Z",
+  "generatedAt": "2026-11-26T05:21:20.360Z",
   "videos": [
     {
       "timestamp": "2026-11-25",
@@ -102,6 +102,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-25",
+      "firstSeen": "2026-11-26",
+      "title": "CGI 3D Animated Short: Le Souffleur de R?ves  | The Rookies",
+      "videoUrl": "https://www.youtube.com/watch?v=MTNMGRgpzeY",
+      "videoId": "MTNMGRgpzeY",
+      "thumbnail": "https://i2.ytimg.com/vi/MTNMGRgpzeY/hqdefault.jpg",
+      "channelID": "UChRqvdy0MALQ1WK6u0FYwHw",
+      "channelName": "The Rookies",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "animated short",
       "watched": {
         "jonah": false,
         "kieran": false
