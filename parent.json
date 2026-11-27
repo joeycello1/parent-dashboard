@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:21:18.225Z",
+  "generatedAt": "2026-11-27T05:21:15.559Z",
   "videos": [
     {
       "timestamp": "2026-11-26",
@@ -102,6 +102,50 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-26",
+      "firstSeen": "2026-11-27",
+      "title": "Special Thanksgiving Moments | Best of Family and Friends | Karma's World @ScholasticAfterSchool",
+      "videoUrl": "https://www.youtube.com/watch?v=8vPumuZ1VME",
+      "videoId": "8vPumuZ1VME",
+      "thumbnail": "https://i1.ytimg.com/vi/8vPumuZ1VME/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-26",
+      "firstSeen": "2026-11-27",
+      "title": "CGI 3D Animated Short: Luna 25  | The Rookies",
+      "videoUrl": "https://www.youtube.com/watch?v=p2qYglrzyHM",
+      "videoId": "p2qYglrzyHM",
+      "thumbnail": "https://i1.ytimg.com/vi/p2qYglrzyHM/hqdefault.jpg",
+      "channelID": "UChRqvdy0MALQ1WK6u0FYwHw",
+      "channelName": "The Rookies",
+      "category": "Films",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "animated short",
       "watched": {
         "jonah": false,
         "kieran": false
