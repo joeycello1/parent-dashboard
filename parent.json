@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-11-27T15:21:17.505Z",
+  "generatedAt": "2026-11-27T17:21:21.183Z",
   "videos": [
+    {
+      "timestamp": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "title": "Mr. Bean Goes on a Black Friday Shopping Spree! | 4K | FULL COMPILATION | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=_FXaeZbbdrE",
+      "videoId": "_FXaeZbbdrE",
+      "thumbnail": "https://i4.ytimg.com/vi/_FXaeZbbdrE/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "title": "Monster Jam & Hot Wheels Monster Trucks ? WET & WILD Water Racing! COMPILATION",
+      "videoUrl": "https://www.youtube.com/watch?v=lm9iqdrOGxg",
+      "videoId": "lm9iqdrOGxg",
+      "thumbnail": "https://i1.ytimg.com/vi/lm9iqdrOGxg/hqdefault.jpg",
+      "channelID": "UC5LkU2y50pyN8j1JDgEmjwg",
+      "channelName": "Kids2Kids",
+      "category": "Vids by Kids",
+      "profile": "Both",
+      "retentionDays": 50,
+      "keyword": "kids2kids",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "title": "Exploring Alaska's Untamed Wilderness | MEGA Episode | Nat Geo Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=xjanUfey_Vg",
+      "videoId": "xjanUfey_Vg",
+      "thumbnail": "https://i1.ytimg.com/vi/xjanUfey_Vg/hqdefault.jpg",
+      "channelID": "UCDPk9MG2RexnOMGTD-YnSnA",
+      "channelName": "Nat Geo Animals",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, stories",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "title": "Every Episode of Greeking Out Season 5 ??? | Podcast Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=KOBjIyiGOFk",
+      "videoId": "KOBjIyiGOFk",
+      "thumbnail": "https://i4.ytimg.com/vi/KOBjIyiGOFk/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "title": "What Are Platelets??| How Do Platelets Help Stop Bleeding? | Human Blood Explained | Dr. Binocs",
+      "videoUrl": "https://www.youtube.com/watch?v=AjXd2ZRRENQ",
+      "videoId": "AjXd2ZRRENQ",
+      "thumbnail": "https://i2.ytimg.com/vi/AjXd2ZRRENQ/hqdefault.jpg",
+      "channelID": "UCxlJ45KjG4XVcQ_hd8j227A",
+      "channelName": "Peekaboo Kidz",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "binocs",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "title": "SpongeBob NoPants ?? | 30 Minutes | SpongeBob",
+      "videoUrl": "https://www.youtube.com/watch?v=zliAEfbvY8c",
+      "videoId": "zliAEfbvY8c",
+      "thumbnail": "https://i3.ytimg.com/vi/zliAEfbvY8c/hqdefault.jpg",
+      "channelID": "UCx27Pkk8plpiosF14qXq-VA",
+      "channelName": "SpongeBob Official",
+      "category": "Spongebob",
+      "profile": "Both",
+      "retentionDays": 15,
+      "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "title": "Snow Much Fun! ?? ?| Tom and Jerry Gokko FULL EPISODES | @wbkids",
+      "videoUrl": "https://www.youtube.com/watch?v=ZhWf9wx8dXU",
+      "videoId": "ZhWf9wx8dXU",
+      "thumbnail": "https://i3.ytimg.com/vi/ZhWf9wx8dXU/hqdefault.jpg",
+      "channelID": "UC9trsD1jCTXXtN3xIOIU8gg",
+      "channelName": "WB Kids",
+      "category": "Looney Tunes",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-11-26",
       "firstSeen": "2026-11-26",
